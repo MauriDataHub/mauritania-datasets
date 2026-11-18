@@ -1,0 +1,436 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Decision Type Code,Decision Data Type,Decision Data,Decisions Average Persons Per Case,Recognized,Complementary Protection,Otherwise Closed,Rejected,Total Decided
+2000,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2000,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,11,0,0,0,11
+2000,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,11
+2000,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,22,0,0,0,22
+2000,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,95,0,0,15,110
+2001,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,5,15
+2001,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2001,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2001,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,15,15
+2001,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,14,14
+2002,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,12,0,0,0,12
+2002,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,40,0,0,0,40
+2002,UKN,MRT,Various / unknown,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2003,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,C,Cases,0,10,0,0,0,10
+2003,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,C,Cases,0,65,0,0,0,65
+2003,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,C,Cases,0,14,0,0,0,14
+2004,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,15,0,0,5,20
+2004,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,37,0,0,0,37
+2004,UKN,MRT,Various / unknown,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2005,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,13,0,10,0,23
+2005,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,23,0,0,5,28
+2005,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,75,0,23,15,113
+2005,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,20,0,15,10,45
+2005,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,33,20,53
+2005,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,22,0,5,5,32
+2005,UGA,MRT,Uganda,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2005,UKN,MRT,Various / unknown,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,5,17
+2006,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,15,0,0,5,20
+2006,GIN,MRT,Guinea,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2006,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,64,0,0,35,99
+2006,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2006,LBR,MRT,Liberia,Mauritania,U,UNHCR,FA,P,Persons,0,17,0,0,80,97
+2006,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,35,35
+2006,SDN,MRT,Sudan,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2006,TGO,MRT,Togo,Mauritania,U,UNHCR,FA,P,Persons,0,11,0,0,0,11
+2006,UKN,MRT,Various / unknown,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,25,25
+2007,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2007,COG,MRT,Congo,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2007,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,12,0,0,18,30
+2007,GIN,MRT,Guinea,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2007,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,108,0,0,110,218
+2007,IND,MRT,India,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,10,13,23
+2007,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FA,P,Persons,0,45,0,0,0,45
+2007,LBR,MRT,Liberia,Mauritania,U,UNHCR,FA,P,Persons,0,13,0,0,191,204
+2007,LBN,MRT,Lebanon,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2007,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FA,P,Persons,0,11,0,0,61,72
+2007,TGO,MRT,Togo,Mauritania,U,UNHCR,FA,P,Persons,0,12,0,0,10,22
+2007,ESH,MRT,Western Sahara,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,10,0,10
+2008,CAF,MRT,Central African Republic,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2008,TCD,MRT,Chad,Mauritania,J,Joint,FA,P,Persons,0,5,0,0,0,5
+2008,CMR,MRT,Cameroon,Mauritania,J,Joint,FA,P,Persons,0,5,0,0,0,5
+2008,COG,MRT,Congo,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,12,12
+2008,COD,MRT,Democratic Republic of the Congo,Mauritania,J,Joint,FA,P,Persons,0,17,0,0,14,31
+2008,GIN,MRT,Guinea,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,11,11
+2008,CIV,MRT,Côte d'Ivoire,Mauritania,J,Joint,FA,P,Persons,0,36,0,18,76,130
+2008,LBR,MRT,Liberia,Mauritania,J,Joint,FA,P,Persons,0,10,0,0,30,40
+2008,SEN,MRT,Senegal,Mauritania,J,Joint,FA,P,Persons,0,5,0,0,0,5
+2008,SLE,MRT,Sierra Leone,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,13,13
+2008,SDN,MRT,Sudan,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2008,TGO,MRT,Togo,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2009,CAF,MRT,Central African Republic,Mauritania,J,Joint,FA,P,Persons,0,0,0,5,5,10
+2009,TCD,MRT,Chad,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2009,CMR,MRT,Cameroon,Mauritania,J,Joint,FA,P,Persons,0,0,0,12,0,12
+2009,COG,MRT,Congo,Mauritania,J,Joint,FA,P,Persons,0,0,0,10,5,15
+2009,COD,MRT,Democratic Republic of the Congo,Mauritania,J,Joint,FA,P,Persons,0,10,0,10,45,65
+2009,GMB,MRT,Gambia,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2009,PSE,MRT,State of Palestine,Mauritania,J,Joint,FA,P,Persons,0,13,0,0,0,13
+2009,GIN,MRT,Guinea,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2009,CIV,MRT,Côte d'Ivoire,Mauritania,J,Joint,FA,P,Persons,0,36,0,20,104,160
+2009,LBR,MRT,Liberia,Mauritania,J,Joint,FA,P,Persons,0,0,0,13,14,27
+2009,NGA,MRT,Nigeria,Mauritania,J,Joint,FA,P,Persons,0,0,0,5,0,5
+2009,SEN,MRT,Senegal,Mauritania,J,Joint,FA,P,Persons,0,5,0,0,0,5
+2009,SLE,MRT,Sierra Leone,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2009,TGO,MRT,Togo,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,14,14
+2010,CMR,MRT,Cameroon,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2010,COG,MRT,Congo,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2010,COD,MRT,Democratic Republic of the Congo,Mauritania,J,Joint,FA,P,Persons,0,17,0,0,33,50
+2010,GIN,MRT,Guinea,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,24,24
+2010,CIV,MRT,Côte d'Ivoire,Mauritania,J,Joint,FA,P,Persons,0,12,0,0,40,52
+2010,LBR,MRT,Liberia,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2010,MLI,MRT,Mali,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2010,CHE,MRT,Switzerland,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2010,TGO,MRT,Togo,Mauritania,J,Joint,FA,P,Persons,0,0,0,0,5,5
+2011,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2011,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,11,5,16
+2011,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,12,0,49,16,77
+2011,GIN,MRT,Guinea,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,45,5,50
+2011,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,21,0,117,0,138
+2011,LBR,MRT,Liberia,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,23,0,23
+2011,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,5,0,5
+2011,SEN,MRT,Senegal,Mauritania,U,UNHCR,FA,P,Persons,0,12,0,0,0,12
+2011,TGO,MRT,Togo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2012,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,53,53
+2012,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,5,14,0,0,19
+2012,SEN,MRT,Senegal,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2013,BDI,MRT,Burundi,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,TCD,MRT,Chad,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,15,0,15
+2013,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2013,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,123,16,139
+2013,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,13,0,288,104,405
+2013,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2013,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2013,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2014,BDI,MRT,Burundi,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,5,0,5
+2014,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FA,P,Persons,0,217,0,45,0,262
+2014,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,5,14,19
+2014,COG,MRT,Congo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,13,0,13
+2014,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,19,27,51
+2014,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2014,GIN,MRT,Guinea,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2014,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,56,0,261,202,519
+2014,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2014,LBR,MRT,Liberia,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,5,0,5
+2014,MLI,MRT,Mali,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,5,0,5
+2014,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,14,0,14
+2014,SEN,MRT,Senegal,Mauritania,U,UNHCR,FA,P,Persons,0,26,0,0,33,59
+2014,SOM,MRT,Somalia,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2014,SDN,MRT,Sudan,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2014,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FA,P,Persons,0,40,0,5,0,45
+2014,TGO,MRT,Togo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,13,0,13
+2015,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,AR,P,Persons,0,11,0,0,5,16
+2015,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FA,P,Persons,0,203,0,0,23,226
+2015,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,5,0,0,5,10
+2015,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,20,25
+2015,COG,MRT,Congo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2015,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,17,17
+2015,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,25,5,35
+2015,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FA,P,Persons,0,18,0,0,0,18
+2015,GIN,MRT,Guinea,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,10,10
+2015,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,5,0,5,41,51
+2015,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,24,136,165
+2015,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2015,LBR,MRT,Liberia,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2015,LBR,MRT,Liberia,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2015,MLI,MRT,Mali,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2015,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FA,P,Persons,0,10,0,0,18,28
+2015,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,12,0,0,0,12
+2015,SEN,MRT,Senegal,Mauritania,U,UNHCR,FA,P,Persons,0,18,0,0,5,23
+2015,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FA,P,Persons,0,186,0,0,0,186
+2015,TGO,MRT,Togo,Mauritania,U,UNHCR,FA,P,Persons,0,0,0,0,5,5
+2015,UKR,MRT,Ukraine,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2015,ESH,MRT,Western Sahara,Mauritania,U,UNHCR,FA,P,Persons,0,5,0,0,0,5
+2016,BDI,MRT,Burundi,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2016,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,90,0,0,0,90
+2016,TCD,MRT,Chad,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2016,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,15,10,25
+2016,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2016,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,14,14
+2016,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,12,0,0,0,12
+2016,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2016,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2016,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2016,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,64,5,69
+2016,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2016,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2016,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,27,19,51
+2016,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2016,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,17,0,10,10,37
+2016,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2016,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,179,0,24,0,203
+2016,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2016,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2017,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,45,0,34,0,79
+2017,TCD,MRT,Chad,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2017,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,10,10
+2017,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2017,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2017,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2017,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,10,15
+2017,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,23,5,28
+2017,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,0,10,20
+2017,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2017,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2017,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,11,16
+2017,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,23,28,56
+2017,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,11,11
+2017,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,17,0,5,12,34
+2017,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,96,0,14,0,110
+2017,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2017,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2017,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2018,DZA,MRT,Algeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2018,EGY,MRT,Egypt,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2018,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,68,0,10,0,78
+2018,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2018,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,31,5,36
+2018,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,12,0,17
+2018,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2018,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2018,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2018,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,13,13
+2018,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,20,20
+2018,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,13,0,13
+2018,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,16,0,10,18,44
+2018,IRQ,MRT,Iraq,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2018,LBY,MRT,Libya,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,LBN,MRT,Lebanon,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2018,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,13,13
+2018,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,14,10,24
+2018,MAR,MRT,Morocco,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,12,5,17
+2018,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,35,11,46
+2018,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2018,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,20,5,35
+2018,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,27,37
+2018,SOM,MRT,Somalia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2018,SSD,MRT,South Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2018,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,10,0,15
+2018,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,30,0,73,0,103
+2018,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2018,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,47,0,47
+2019,AFG,MRT,Afghanistan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2019,DZA,MRT,Algeria,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2019,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,71,0,28,0,99
+2019,CHN,MRT,China,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2019,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,5,17
+2019,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,19,5,24
+2019,GAB,MRT,Gabon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,31,0,0,0,31
+2019,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2019,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2019,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2019,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2019,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,19,27,46
+2019,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,13,0,33,14,60
+2019,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2019,LBY,MRT,Libya,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,727,0,0,5,732
+2019,NER,MRT,Niger,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,12,12
+2019,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,12,12
+2019,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2019,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,11,0,0,16,27
+2019,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,13,18
+2019,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,137,48,185
+2019,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2019,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,59,0,0,0,59
+2019,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2019,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,15,25
+2019,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2020,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2020,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,15,0,10,0,25
+2020,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,5,10
+2020,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,21,0,29,5,55
+2020,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2020,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,15,0,0,27,42
+2020,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2020,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2020,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2020,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,21,0,0,0,21
+2020,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2020,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,14,14
+2020,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,15,15
+2020,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,60,70,130
+2020,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2020,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,12,0,50,26,88
+2020,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,19,0,19
+2020,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,10,10
+2020,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,1158,0,16,5,1179
+2020,MAR,MRT,Morocco,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2020,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2020,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,26,32,58
+2020,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,11,0,0,5,16
+2020,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,36,0,0,14,50
+2020,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,16,16
+2020,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,102,42,144
+2020,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2020,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,21,0,10,0,31
+2020,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,14,14
+2020,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,23,10,33
+2020,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2020,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,28,0,0,0,28
+2021,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2021,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2021,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,14,0,26,0,40
+2021,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,10,10
+2021,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,47,10,62
+2021,COG,MRT,Congo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2021,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2021,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2021,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2021,GHA,MRT,Ghana,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2021,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2021,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2021,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,36,36
+2021,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,63,19,92
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,34,26,60
+2021,LBR,MRT,Liberia,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2021,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2021,LBY,MRT,Libya,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2021,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,19,19
+2021,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,2918,0,0,85,3003
+2021,NER,MRT,Niger,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2021,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,12,12
+2021,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,41,10,51
+2021,RUS,MRT,Russian Federation,Mauritania,U,UNHCR,FI,P,Persons,0,11,0,0,0,11
+2021,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,5,0,0,10,15
+2021,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,36,0,18,16,70
+2021,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,22,22
+2021,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,29,18,47
+2021,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2021,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2021,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,21,21
+2021,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,28,33
+2021,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2021,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,15,0,5,0,20
+2022,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2022,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,14,0,0,0,14
+2022,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,17,0,22
+2022,TCD,MRT,Chad,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2022,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,5,17
+2022,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,5,0,10
+2022,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,21,0,21
+2022,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,20,0,20
+2022,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2022,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,10,10
+2022,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,39,10,49
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,12,0,12
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,90,26,121
+2022,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2022,LBY,MRT,Libya,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2022,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2022,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,2969,0,256,66,3291
+2022,NGA,MRT,Nigeria,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2022,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,11,0,11
+2022,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,40,0,112,5,157
+2022,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2022,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,14,5,19
+2022,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2022,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,19,0,24,0,43
+2022,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2022,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,18,31
+2022,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,18,0,18
+2023,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2023,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,18,0,23,0,41
+2023,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,55,0,0,0,55
+2023,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,55,5,65
+2023,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2023,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,0,0,10
+2023,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2023,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,16,0,16
+2023,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2023,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,5,5
+2023,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,74,10,89
+2023,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2023,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,103,5,108
+2023,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2023,LBY,MRT,Libya,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2023,LBN,MRT,Lebanon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,31,0,31
+2023,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2023,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,2208,0,556,10,2774
+2023,NER,MRT,Niger,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2023,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,53,0,53
+2023,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2023,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,31,0,47,5,83
+2023,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,71,5,76
+2023,SOM,MRT,Somalia,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2023,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,17,0,17
+2023,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,38,0,68,0,106
+2023,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2023,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,0,25,25
+2023,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2023,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,16,0,16
+2024,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2024,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,12,0,19,0,31
+2024,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2024,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,21,0,13,0,34
+2024,TCD,MRT,Chad,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,16,0,16
+2024,CMR,MRT,Cameroon,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,5,0,5
+2024,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,42,10,57
+2024,COG,MRT,Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,12,0,12
+2024,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,0,0,5
+2024,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,5,10
+2024,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2024,GIN,MRT,Guinea,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,12,12
+2024,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,50,43,98
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,30,0,35
+2024,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2024,LBN,MRT,Lebanon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2024,MLI,MRT,Mali,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,12,10,22
+2024,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,1190,0,651,116,1957
+2024,NER,MRT,Niger,Mauritania,U,UNHCR,FI,P,Persons,0,11,0,10,0,21
+2024,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,44,0,44
+2024,RWA,MRT,Rwanda,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2024,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,10,10
+2024,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,15,0,89,13,117
+2024,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2024,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,53,5,58
+2024,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,17,0,17
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,21,0,49,0,70
+2024,TGO,MRT,Togo,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2024,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,56,16,72
+2024,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,BEN,MRT,Benin,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,BFA,MRT,Burkina Faso,Mauritania,U,UNHCR,FI,P,Persons,0,27,0,17,0,44
+2025,CAF,MRT,Central African Republic,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,39,0,44
+2025,CMR,MRT,Cameroon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2025,GMB,MRT,Gambia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,PSE,MRT,State of Palestine,Mauritania,U,UNHCR,FI,P,Persons,0,5,0,19,0,24
+2025,GHA,MRT,Ghana,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,14,0,14
+2025,GNB,MRT,Guinea-Bissau,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,GIN,MRT,Guinea,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,100,0,100
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,24,0,24
+2025,KGZ,MRT,Kyrgyzstan,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,LBR,MRT,Liberia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,LBN,MRT,Lebanon,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,MLI,MRT,Mali,Mauritania,U,UNHCR,FI,P,Persons,0,936,0,699,11,1646
+2025,NER,MRT,Niger,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,13,0,13
+2025,NGA,MRT,Nigeria,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,77,0,77
+2025,RUS,MRT,Russian Federation,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,10,0,10
+2025,SEN,MRT,Senegal,Mauritania,U,UNHCR,AR,P,Persons,0,0,0,0,5,5
+2025,SEN,MRT,Senegal,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,184,5,199
+2025,SLE,MRT,Sierra Leone,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,43,0,43
+2025,SDN,MRT,Sudan,Mauritania,U,UNHCR,FI,P,Persons,0,10,0,28,0,38
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,58,0,58
+2025,TGO,MRT,Togo,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,43,5,48
+2025,TUN,MRT,Tunisia,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,TUR,MRT,Türkiye,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5
+2025,YEM,MRT,Yemen,Mauritania,U,UNHCR,FI,P,Persons,0,0,0,5,0,5

@@ -1,0 +1,97 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_ST_INT_ARVL,ST.INT.ARVL,"International tourism, number of arrivals",,_T,_T,_T,A,1999,24000.0,A,0
+WB_WDI_ST_INT_ARVL,ST.INT.ARVL,"International tourism, number of arrivals",,_T,_T,_T,A,2000,30000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2012,50000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2013,50000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2014,42000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2015,31000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2016,33000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2017,24000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2018,6000000.0,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2019,13699999.809265,A,0
+WB_WDI_ST_INT_RCPT_CD,ST.INT.RCPT.CD,"International tourism, receipts (current US$)",,_T,_T,_T,A,2020,6400000.095367,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2012,1.794608,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2013,1.761982,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2014,1.894557,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2015,1.89633,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2016,1.975326,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2017,1.27012,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2018,0.291009,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2019,0.542632,A,0
+WB_WDI_ST_INT_RCPT_XP_ZS,ST.INT.RCPT.XP.ZS,"International tourism, receipts (% of total exports)",,_T,_T,_T,A,2020,0.229888,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2012,2000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2013,9000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2014,5000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2015,2000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2016,3000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2017,1000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2018,2000000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2019,2500000.0,A,0
+WB_WDI_ST_INT_TRNR_CD,ST.INT.TRNR.CD,"International tourism, receipts for passenger transport items (current US$)",,_T,_T,_T,A,2020,899999.976158,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,1995,7000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,1996,5000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,1997,5000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,1998,5000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2012,42000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2013,47000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2014,50000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2015,30000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2016,33000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2017,32000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2018,25000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2019,25000000.0,A,0
+WB_WDI_ST_INT_TRNX_CD,ST.INT.TRNX.CD,"International tourism, expenditures for passenger transport items (current US$)",,_T,_T,_T,A,2020,17000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,1995,11000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,1996,19000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,1997,21000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,1998,20000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,1999,28000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2012,48000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2013,41000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2014,37000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2015,29000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2016,30000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2017,23000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2018,4000000.0,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2019,11199999.809265,A,0
+WB_WDI_ST_INT_TVLR_CD,ST.INT.TVLR.CD,"International tourism, receipts for travel items (current US$)",,_T,_T,_T,A,2020,5500000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,1995,23000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,1996,36000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,1997,48000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,1998,42000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,1999,55000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2012,59000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2013,58000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2014,62000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2015,43000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2016,41000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2017,29000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2018,13000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2019,31000000.0,A,0
+WB_WDI_ST_INT_TVLX_CD,ST.INT.TVLX.CD,"International tourism, expenditures for travel items (current US$)",,_T,_T,_T,A,2020,18000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,1995,30000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,1996,41000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,1997,53000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,1998,47000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2012,101000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2013,105000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2014,112000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2015,73000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2016,74000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2017,61000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2018,38000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2019,56000000.0,A,0
+WB_WDI_ST_INT_XPND_CD,ST.INT.XPND.CD,"International tourism, expenditures (current US$)",,_T,_T,_T,A,2020,35000000.0,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,1995,5.887588,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,1996,7.101047,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,1997,10.262977,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,1998,9.974512,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2012,2.43638,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2013,2.596607,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2014,3.154279,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2015,2.819896,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2016,2.953563,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2017,2.152725,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2018,1.157148,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2019,1.520525,A,0
+WB_WDI_ST_INT_XPND_MP_ZS,ST.INT.XPND.MP.ZS,"International tourism, expenditures (% of total imports)",,_T,_T,_T,A,2020,0.952461,A,0

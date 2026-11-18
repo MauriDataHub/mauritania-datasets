@@ -1,0 +1,63 @@
+database,indicator_id,reason
+WB_HCI,WB_HCI_QEYRS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SE_PRM_ENRR,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SE_PRM_NENR,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SE_SEC_ENRR,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SE_SEC_NENR,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SE_TER_ENRR,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_DYN_AIDS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_14,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_50_P3,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_TL,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_TL_P3,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_YG,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_YG_P3,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_INCD_ZS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_KNOW_ZS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SH_HIV_TOTL,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_DPND_OL,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_DPND_YG,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_IN,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_TO,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_TOTL_IN,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_TO_ZS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_POP_ZS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_RUR_TOTL,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_RUR_TOTL_ZG,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_RUR_TOTL_ZS,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_URB_GROW,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_URB_TOTL,no metadata (name/licence unknown)
+WB_HNP,WB_HNP_SP_URB_TOTL_IN_ZS,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_HEADCOUNT_IPL,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_HEADCOUNT_LMIC,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_HEADCOUNT_UMIC,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_NPOOR_IPL,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_NPOOR_LMIC,no metadata (name/licence unknown)
+WB_PIP,WB_PIP_NPOOR_UMIC,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_BM_GSR_TRVL_ZS,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_BM_KLT_DINV_WD_GD_ZS,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_DT_DOD_PVLX_EX_ZS,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_DT_ODA_ODAT_GI_ZS,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_EN_GHG_CO2_LU_FL_MT_CE_AR5,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_EN_GHG_CO2_LU_OL_MT_CE_AR5,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_IC_CUS_DURS_IM,licence: 
+WB_WDI,WB_WDI_IC_FRM_BNKL_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_CDP_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_CO2_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_CRDC_FL_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_CRDC_PT_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_ENGM_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_EXS_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_FO_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_INFM_ZS,no metadata (name/licence unknown)
+WB_WDI,WB_WDI_IC_FRM_LOTM_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_NPRD_ZS,licence: 
+WB_WDI,WB_WDI_IC_FRM_TAXE_ZS,licence: 
+WB_WDI,WB_WDI_IC_MNG_IND,licence: 
+WB_WDI,WB_WDI_MS_MIL_MPRT_KD,licence: SIPRI terms and conditions 
+WB_WDI,WB_WDI_MS_MIL_XPND_CD,licence: SIPRI terms and conditions 
+WB_WDI,WB_WDI_MS_MIL_XPND_CN,licence: SIPRI terms and conditions 
+WB_WDI,WB_WDI_MS_MIL_XPND_GD_ZS,licence: SIPRI terms and conditions 
+WB_WDI,WB_WDI_MS_MIL_XPND_ZS,licence: SIPRI terms and conditions
+WB_WDI,WB_WDI_NV_SRV_TOTL_KD_ZG,no metadata (name/licence unknown)

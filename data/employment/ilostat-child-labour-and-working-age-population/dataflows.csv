@@ -1,0 +1,72 @@
+dataflow,label,rows
+DF_CLD_2POP_SEX_AGE_NB,"Child population by sex and age -- UN estimates and projections, July 2024",492
+DF_CLD_TPOP_SEX_AGE_GEO_NB,"Child population by sex, age and rural / urban areas",72
+DF_CLD_TPOP_SEX_AGE_NB,Child population by sex and age,24
+DF_CLD_TPOP_SEX_AGE_STU_NB,"Child population by sex, age and school attendance",84
+DF_CLD_XCHL_SEX_AGE_ECO_NB,"Children in child labour by sex, age and economic activity",60
+DF_CLD_XCHL_SEX_AGE_GEO_NB,"Children in child labour by sex, age and rural / urban areas",72
+DF_CLD_XCHL_SEX_AGE_GEO_RT,"Share of children in child labour by sex, age and and rural / urban areas",71
+DF_CLD_XCHL_SEX_AGE_NB,Children in child labour by sex and age,24
+DF_CLD_XCHL_SEX_AGE_RT,Share of children in child labour by sex and age,24
+DF_CLD_XCHL_SEX_AGE_STE_NB,"Children in child labour by sex, age and status in employment",69
+DF_CLD_XCHL_SEX_AGE_STU_NB,"Children in child labour by sex, age and school attendance status",81
+DF_CLD_XCHL_SEX_AGE_STU_RT,"Share of children in child labour by sex, age and school attendance",78
+DF_CLD_XGPB_SEX_AGE_GEO_RT,"Share of children in child labour -- General Production Boundary by sex, age and rural / urban areas",71
+DF_CLD_XGPB_SEX_AGE_RT,Share of children in child labour -- General Production Boundary by sex and age,24
+DF_CLD_XGPB_SEX_AGE_STU_RT,"Share of children in child labour -- General Production Boundary by sex, age and school attendance",78
+DF_CLD_XHAZ_SEX_AGE_ECO_NB,"Children in hazardous work by sex, age and economic activity",60
+DF_CLD_XHAZ_SEX_AGE_GEO_NB,"Children in hazardous work by sex, age and rural / urban areas",36
+DF_CLD_XHAZ_SEX_AGE_GEO_RT,"Share of children in hazardous work by sex, age and rural / urban areas",36
+DF_CLD_XHAZ_SEX_AGE_NB,Children in hazardous work by sex and age,12
+DF_CLD_XHAZ_SEX_AGE_RT,Share of children in hazardous work by sex and age,12
+DF_CLD_XHAZ_SEX_AGE_STE_NB,"Children in hazardous work by sex, age and status in employment",69
+DF_CLD_XHAZ_SEX_AGE_STU_NB,"Children in hazardous work by sex, age and school attendance status",36
+DF_CLD_XHAZ_SEX_AGE_STU_RT,"Share of children in hazardous work by sex, age and school attendance",36
+DF_CLD_XSNA_SEX_AGE_ECO_NB,"Children in employment by sex, age and economic activity",60
+DF_CLD_XSNA_SEX_AGE_GEO_NB,"Children in employment by sex, age and rural / urban areas",72
+DF_CLD_XSNA_SEX_AGE_GEO_RT,"Share of children engaged in economic activity by sex, age and rural / urban areas",72
+DF_CLD_XSNA_SEX_AGE_NB,Children in employment by sex and age,24
+DF_CLD_XSNA_SEX_AGE_RT,Share of children engaged in economic activity by sex and age,24
+DF_CLD_XSNA_SEX_AGE_STE_NB,"Children in employment by sex, age and status in employment",69
+DF_CLD_XSNA_SEX_AGE_STU_NB,"Children in employment by sex, age and school attendance status",81
+DF_CLD_XSNA_SEX_AGE_STU_RT,"Share of children engaged in economic activity by sex, age and school attendance",79
+DF_POP_2LDR_NOC_RT,"Labour dependency ratio -- ILO modelled estimates, Nov. 2025",37
+DF_POP_2POP_SEX_NB,"Population by sex -- UN estimates and projections, July 2024",123
+DF_POP_2WAP_SEX_AGE_NB,"Working-age population by sex and age -- UN estimates and projections, July 2024",3444
+DF_POP_3TED_SEX_ECO_NB,Youth transited by sex and economic activity,42
+DF_POP_3TED_SEX_STE_NB,Youth transited by sex and status in employment,93
+DF_POP_3VET_SEX_AGE_NB,Youth working-age population with vocational education or training by sex and age,21
+DF_POP_3WAP_SEX_AGE_EDU_NB,"Youth working-age population by sex, age and education",288
+DF_POP_3WAP_SEX_AGE_GEO_NB,"Youth working-age population by sex, age and rural / urban areas",144
+DF_POP_3WAP_SEX_AGE_LMS_NB,"Youth working-age population by sex, age and labour market status",192
+DF_POP_3WAP_SEX_AGE_STU_NB,"Youth working-age population by sex, age and school attendance status",168
+DF_POP_3WAP_SEX_AGE_TRA_NB,"Youth working-age population by sex, age and forms of transition",324
+DF_POP_3WAP_SEX_AGE_TRS_NB,"Youth working-age population by sex, age and stages of transition",144
+DF_POP_3WAP_SEX_EDU_TRA_NB,"Youth working-age population by sex, education and forms of transition",471
+DF_POP_3WAP_SEX_EDU_TRS_NB,"Youth working-age population by sex, education and stages of transition",216
+DF_POP_3WAP_SEX_GEO_TRA_NB,"Youth working-age population by sex, rural / urban areas and forms of transition",243
+DF_POP_3WAP_SEX_GEO_TRS_NB,"Youth working-age population by sex, rural / urban areas and stages of transition",108
+DF_POP_3WBL_SEX_WBL_NB,Youth work-based learners by sex and type of trainee,21
+DF_POP_3WBL_SEX_WBL_RT,Youth participation rate in work-based learning by sex and type of trainee (per 1000 persons),21
+DF_POP_XVET_SEX_AGE_NB,Working-age population with vocational education or training by sex and age,30
+DF_POP_XVET_SEX_EDU_NB,Working-age population with vocational education or training by sex and education,24
+DF_POP_XWAP_SEX_AGE_CCT_NB,"Working-age population by sex, age and citizenship",243
+DF_POP_XWAP_SEX_AGE_EDU_NB,"Working-age population by sex, age and education",5245
+DF_POP_XWAP_SEX_AGE_GEO_NB,"Working-age population by sex, age and rural / urban areas",1152
+DF_POP_XWAP_SEX_AGE_LMS_NB,"Working-age population by sex, age and labour market status",1530
+DF_POP_XWAP_SEX_AGE_MTS_NB,"Working-age population by sex, age and marital status",2652
+DF_POP_XWAP_SEX_AGE_NB,Working-age population by sex and age,675
+DF_POP_XWAP_SEX_EDU_CCT_NB,"Working-age population by sex, education and citizenship",435
+DF_POP_XWAP_SEX_EDU_GEO_NB,"Working-age population by sex, education and rural / urban areas",798
+DF_POP_XWAP_SEX_EDU_LMS_NB,"Working-age population by sex, education and labour market status",1061
+DF_POP_XWAP_SEX_EDU_MTS_NB,"Working-age population by sex, education and marital status",1740
+DF_POP_XWAP_SEX_EDU_NB,Working-age population by sex and education,387
+DF_POP_XWAP_SEX_GEO_LMS_NB,"Working-age population by sex, rural / urban areas and labour market status",288
+DF_POP_XWAP_SEX_GEO_MTS_NB,"Working-age population by sex, rural / urban area and marital status",576
+DF_POP_XWAP_SEX_GEO_NB,Working-age population by sex and rural / urban areas,72
+DF_POP_XWAP_SEX_LMS_NB,Working-age population by sex and labour market status,96
+DF_POP_XWAP_SEX_MTS_LMS_NB,"Working-age population by sex, marital status and labour market status",288
+DF_POP_XWAP_SEX_MTS_NB,Working-age population by sex and marital status,192
+DF_POP_XWBL_SEX_AGE_WBL_NB,"Work-based learners by sex, age and type of trainee",63
+DF_POP_XWBL_SEX_AGE_WBL_RT,"Participation rate in work-based learning by sex, age and type of trainee (per 1000 persons)",63
+DF_POP_XWBL_SEX_EDU_WBL_NB,"Work-based learners by sex, education and type of trainee",126

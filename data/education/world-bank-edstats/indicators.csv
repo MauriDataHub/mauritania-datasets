@@ -1,0 +1,7 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_EDSTATS_SE_CMPT_ZS,SE.CMPT.ZS,Completion rate (% of relevant age group),Share (proportion),Annual,,World Bank (WB); Education Statistics,CC BY 4.0,184,1976,2019
+WB_EDSTATS_SE_DURS,SE.DURS,"Education, duration (years)",years; Number,Annual,,World Bank (WB); Education Statistics,CC BY 4.0,216,1970,2023
+WB_EDSTATS_SE_LPV_POP,SE.LPV.POP,Population  for Reference Year 2019;,Share (proportion),Annual,,World Bank (WB); Education Statistics,CC BY 4.0,4,2004,2004
+WB_EDSTATS_SE_LPV_POP_PRIM,SE.LPV.POP.PRIM,Population Age primary for Reference Year 2019;,Share (proportion),Annual,,World Bank (WB); Education Statistics,CC BY 4.0,1,2004,2004
+WB_EDSTATS_SE_TCAQ_ZS,SE.TCAQ.ZS,Trained teachers (% of total teachers),Share (proportion),Annual,,World Bank (WB); Education Statistics,CC BY 4.0,54,2004,2019
+WB_EDSTATS_UIS_FOSGP_5T8_FNON500600700,UIS.FOSGP.5T8.FNON500600700,"Percentage of graduates from programmes other than Science, Technology, Engineering and Mathematics in tertiary education, both sexes (%)",Share (proportion),Annual,,World Bank (WB); Education Statistics,CC BY 4.0,2,2016,2020

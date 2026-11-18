@@ -1,0 +1,179 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,comp_breakdown_1,comp_breakdown_2,freq,time_period,value,obs_status
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,2.4,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,70.0,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.333333,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,102.0,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,1.925,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,152.0,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,2.142857,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,131.0,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.2,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,128.0,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.1,A
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,120.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,2.2,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,96.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.335859,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,113.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,2.4,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,103.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,1.542857,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,157.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.262861,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,112.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.0,A
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,131.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,2.6,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,77.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.517677,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,112.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,2.066667,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,155.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,2.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,154.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.192369,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,145.0,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.2,A
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,128.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,2.7,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,65.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.282155,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,125.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,2.058333,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,157.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,1.742857,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,158.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.192369,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,144.0,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.5,A
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,103.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2007,2.630425,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2007,67.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_CI,A2,2007,0.185421,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_HP,A2,2007,51.105116,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2007,2.4,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2007,70.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2007,2.2,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2007,96.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2007,2.6,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2007,77.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2007,2.7,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2007,65.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2007,2.8,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2007,62.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2007,3.1,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2007,72.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2012,2.396732,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_LB,A2,2012,2.117179,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_UB,A2,2012,2.676286,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2012,127.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_LB,A2,2012,88.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_UB,A2,2012,146.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_HP,A2,2012,44.683799,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2012,2.333333,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2012,102.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2012,2.335859,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2012,113.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2012,2.517677,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2012,112.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2012,2.282155,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2012,125.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2012,2.282155,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2012,135.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2012,2.598114,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2012,139.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2014,2.228909,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_LB,A2,2014,1.858624,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_UB,A2,2014,2.599195,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2014,148.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_LB,A2,2014,104.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_UB,A2,2014,159.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_HP,A2,2014,39.363091,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2014,1.925,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2014,152.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2014,2.4,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2014,103.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2014,2.066667,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2014,155.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2014,2.058333,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2014,157.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2014,2.225,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2014,142.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2014,2.75,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2014,130.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_LB,A2,2016,1.520061,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_UB,A2,2016,2.211941,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2016,157.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_LB,A2,2016,140.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_UB,A2,2016,160.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_HP,A2,2016,26.844695,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2016,2.142857,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2016,131.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2016,1.542857,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2016,157.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2016,2.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2016,154.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2016,1.742857,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2016,158.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2016,1.542857,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2016,159.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2016,2.142857,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2016,157.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2016,1.866001,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2018,2.331071,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_LB,A2,2018,2.110509,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC_UB,A2,2018,2.551633,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2018,135.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_LB,A2,2018,108.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_UB,A2,2018,153.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK_HP,A2,2018,41.577207,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2018,2.2,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2018,128.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2018,2.262861,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2018,112.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2018,2.192369,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2018,145.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2018,2.192369,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2018,144.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2018,2.46841,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2018,119.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2018,2.676646,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2018,134.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_SC,A2,2023,2.3,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,_T,WB_LPI_RK,A2,2023,123.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_SC,A2,2023,2.1,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_CTMS,WB_LPI_RK,A2,2023,120.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_SC,A2,2023,2.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_INF,WB_LPI_RK,A2,2023,131.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_SC,A2,2023,2.2,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_IS,WB_LPI_RK,A2,2023,128.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_SC,A2,2023,2.5,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_LOG,WB_LPI_RK,A2,2023,103.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_SC,A2,2023,2.8,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TML,WB_LPI_RK,A2,2023,102.0,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_SC,A2,2023,2.5,A
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,_Z,_Z,_Z,WB_LPI_TRC,WB_LPI_RK,A2,2023,98.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,3.1,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,72.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.598114,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,139.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,2.75,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,130.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,2.142857,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,157.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.676646,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,134.0,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.8,A
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,102.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2007,2.8,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2007,62.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2012,2.282155,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2012,135.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2014,2.225,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2014,142.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2016,1.542857,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2016,159.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2018,2.46841,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2018,119.0,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_SC,_Z,A2,2023,2.5,A
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,_Z,_Z,_Z,WB_LPI_RK,_Z,A2,2023,98.0,A

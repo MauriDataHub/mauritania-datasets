@@ -1,0 +1,921 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,-0.56358,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,-0.566475,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-0.574548,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,-0.29094,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,-0.292834,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-0.574149,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.675932,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,-0.625534,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.540672,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-0.799078,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.710906,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.617414,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-0.543122,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-0.736057,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-0.799992,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.92173,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.952705,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.832588,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.870865,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.895388,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.980939,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.781255,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.869605,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.83839,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.854833,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.976369,A,0
+WB_WDI_GOV_WGI_CC_EST,GOV.WGI.CC.EST,Control of Corruption - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.945362,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,36.674395,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,36.615993,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,36.453156,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,42.173962,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,42.135753,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,36.461213,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,34.408076,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,35.424695,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,37.136481,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,31.924044,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,33.702609,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,35.588478,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,37.087064,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,33.195263,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,31.905615,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,29.449958,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,28.825147,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,31.248096,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,30.475991,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,29.981318,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,28.255634,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,32.283559,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,30.501397,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,31.131057,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,30.79938,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,28.347806,A,0
+WB_WDI_GOV_WGI_CC_SC,GOV.WGI.CC.SC,Control of Corruption - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,28.973266,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,-0.313696,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,-0.327018,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-0.327863,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,-0.321053,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,-0.324883,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-0.572915,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.670747,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,-0.770992,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.690887,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-0.695842,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.687614,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.391467,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-0.382012,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-0.572964,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-0.766378,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.779375,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.854296,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.809388,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.76883,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.781607,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.775135,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.880595,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.828317,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.860358,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.885551,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.876374,A,0
+WB_WDI_GOV_WGI_GE_EST,GOV.WGI.GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.756715,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,45.922826,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,45.650141,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,45.632855,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,45.772231,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,45.693841,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,40.616998,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,38.614527,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,36.56267,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,38.202296,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,38.100882,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,38.269293,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,44.330969,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,44.524509,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,40.615997,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,36.657111,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,36.391076,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,34.857567,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,35.776766,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,36.606916,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,36.345397,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,36.477865,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,34.319264,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,35.389305,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,34.733479,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,34.217822,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,34.40566,A,0
+WB_WDI_GOV_WGI_GE_SC,GOV.WGI.GE.SC,Government Effectiveness - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,36.8549,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,0.049912,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,0.017746,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-0.03776,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,0.078564,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,-0.305384,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-0.289277,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.489336,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,0.10274,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.147964,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-0.687019,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.557064,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.819225,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-1.003689,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-1.097479,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-1.137978,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.786362,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.805423,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.951382,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.758142,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.747484,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.661918,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.642728,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.527047,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.298799,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.510179,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.628376,A,0
+WB_WDI_GOV_WGI_PV_EST,GOV.WGI.PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.654424,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,66.482496,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,65.918872,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,64.946253,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,66.984558,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,60.256778,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,60.539015,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,57.033461,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,67.408196,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,63.015194,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,53.569528,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,55.846691,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,51.252927,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,48.020629,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,46.377182,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,45.66754,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,51.82878,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,51.494774,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,48.937187,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,52.323272,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,52.510027,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,54.009362,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,54.345623,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,56.372659,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,60.372168,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,56.66824,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,54.597103,A,0
+WB_WDI_GOV_WGI_PV_SC,GOV.WGI.PV.SC,Political Stability - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,54.140684,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,-0.530228,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,-0.533134,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-0.529586,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,-0.519742,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,-0.636598,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-0.887123,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.778784,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,-0.735849,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.569033,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-1.076655,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.918826,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.883704,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-0.956377,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-0.993656,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-1.062092,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.969723,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.951519,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.888827,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.780949,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.817937,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.771998,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.743066,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.863201,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.840634,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.841959,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.846664,A,0
+WB_WDI_GOV_WGI_RL_EST,GOV.WGI.RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.80838,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,49.894578,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,49.846695,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,49.905168,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,50.067373,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,48.141847,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,44.013753,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,45.798936,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,46.506412,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,49.255168,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,40.890694,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,43.491352,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,44.070097,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,42.872597,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,42.258326,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,41.130655,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,42.652697,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,42.95266,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,43.985673,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,45.76326,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,45.153783,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,45.910753,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,46.387495,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,44.407942,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,44.779794,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,44.757956,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,44.68042,A,0
+WB_WDI_GOV_WGI_RL_SC,GOV.WGI.RL.SC,Rule of Law - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,45.311259,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,-0.673681,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,-0.661681,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-0.458096,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,0.288634,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,0.167908,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-0.373328,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.319709,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,-0.561605,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.480287,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-0.694304,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.645889,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.470949,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-0.444272,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-0.656642,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-0.802081,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.802448,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.786517,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.661003,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.678506,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.725367,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.724823,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.835731,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.921801,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.920558,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.852439,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.758683,A,0
+WB_WDI_GOV_WGI_RQ_EST,GOV.WGI.RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.722703,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,43.899013,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,44.105588,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,47.610257,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,60.464983,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,58.386721,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,49.069499,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,49.992548,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,45.828377,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,47.228242,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,43.544006,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,44.377454,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,47.388991,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,47.848233,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,44.192346,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,41.688652,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,41.682324,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,41.956578,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,44.117261,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,43.815957,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,43.009261,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,43.018622,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,41.109367,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,39.627701,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,39.649109,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,40.821754,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,42.435741,A,0
+WB_WDI_GOV_WGI_RQ_SC,GOV.WGI.RQ.SC,Regulatory Quality - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,43.055117,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1996,-0.93106,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,1998,-0.979574,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2000,-1.035224,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2002,-0.814226,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2003,-0.820569,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2004,-1.136817,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2005,-0.879212,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2006,-0.668003,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2007,-0.451307,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2008,-0.812258,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2009,-0.861522,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2010,-0.592761,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2011,-0.562762,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2012,-0.814685,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2013,-0.89972,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2014,-0.877646,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2015,-0.882965,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2016,-0.880921,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2017,-0.922704,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2018,-0.900087,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2019,-0.842424,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2020,-0.784165,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2021,-0.864054,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2022,-0.842218,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2023,-0.789346,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2024,-0.88586,A,0
+WB_WDI_GOV_WGI_VA_EST,GOV.WGI.VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),Number,_Z,_Z,_Z,A,2025,-0.901837,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,1996,40.636274,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,1998,39.745973,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2000,38.724718,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2002,42.780333,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2003,42.663938,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2004,36.860365,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2005,41.587758,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2006,45.46372,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2007,49.440379,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2008,42.816448,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2009,41.912399,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2010,46.844523,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2011,47.395041,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2012,42.771906,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2013,41.211405,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2014,41.616494,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2015,41.518883,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2016,41.556392,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2017,40.78961,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2018,41.204675,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2019,42.262869,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2020,43.331996,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2021,41.865933,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2022,42.266636,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2023,43.236925,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2024,41.465764,A,0
+WB_WDI_GOV_WGI_VA_SC,GOV.WGI.VA.SC,Voice and Accountability - Governance score (0-100),Score,_Z,_Z,_Z,A,2025,41.172551,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.5,A,0
+WB_WDI_IQ_CPA_BREG_XQ,IQ.CPA.BREG.XQ,CPIA business regulatory environment rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.5,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,4.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,4.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,4.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,4.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.5,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.5,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.5,A,0
+WB_WDI_IQ_CPA_DEBT_XQ,IQ.CPA.DEBT.XQ,CPIA debt policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,2.833333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.333333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.166667,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.333333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.333333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.333333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.666667,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.5,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.833333,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_ECON_XQ,IQ.CPA.ECON.XQ,CPIA economic management cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,4.166667,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,2.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_IQ_CPA_ENVR_XQ,IQ.CPA.ENVR.XQ,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2005,2.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2006,2.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2007,2.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2012,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2016,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2017,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2019,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2020,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2021,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2022,3.5,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_FINQ_XQ,IQ.CPA.FINQ.XQ,CPIA quality of budgetary and financial management rating (1=low to 6=high),,_T,_T,_T,A,2025,4.0,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,2.5,A,0
+WB_WDI_IQ_CPA_FINS_XQ,IQ.CPA.FINS.XQ,CPIA financial sector rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,2.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,2.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,2.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,4.5,A,0
+WB_WDI_IQ_CPA_FISP_XQ,IQ.CPA.FISP.XQ,CPIA fiscal policy rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,4.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.5,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_IQ_CPA_GNDR_XQ,IQ.CPA.GNDR.XQ,CPIA gender equality rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_HRES_XQ,IQ.CPA.HRES.XQ,CPIA building human resources rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,4.5,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.158333,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.283333,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.375,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.3,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.225,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.175,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.2,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.225,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.291667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.383333,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.316667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.366667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.391667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.366667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.366667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.341667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.391667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.391667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.566667,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.583333,A,0
+WB_WDI_IQ_CPA_IRAI_XQ,IQ.CPA.IRAI.XQ,IDA resource allocation index (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.65,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,2.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,4.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,4.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.5,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_MACR_XQ,IQ.CPA.MACR.XQ,CPIA macroeconomic management rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,4.5,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,2.5,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_IQ_CPA_PADM_XQ,IQ.CPA.PADM.XQ,CPIA quality of public administration rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2005,3.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2010,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2011,3.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2012,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2013,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2015,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2016,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2017,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2018,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2019,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2020,4.0,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2021,4.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2022,4.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2023,4.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2024,4.5,A,0
+WB_WDI_IQ_CPA_PRES_XQ,IQ.CPA.PRES.XQ,CPIA equity of public resource use rating (1=low to 6=high),,_T,_T,_T,A,2025,4.5,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_IQ_CPA_PROP_XQ,IQ.CPA.PROP.XQ,CPIA property rights and rule-based governance rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,2.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,2.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,2.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,2.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.5,A,0
+WB_WDI_IQ_CPA_PROT_XQ,IQ.CPA.PROT.XQ,CPIA social protection rating (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.5,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,2.9,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,2.9,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.0,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.0,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.0,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.0,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.1,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.1,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.2,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.2,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.2,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.3,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.4,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.4,A,0
+WB_WDI_IQ_CPA_PUBS_XQ,IQ.CPA.PUBS.XQ,CPIA public sector management and institutions cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.4,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2005,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2009,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2010,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2011,3.5,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2012,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2013,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2015,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2016,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2017,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2018,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2019,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2020,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2021,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2022,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_REVN_XQ,IQ.CPA.REVN.XQ,CPIA efficiency of revenue mobilization rating (1=low to 6=high),Score,_T,_T,_T,A,2025,4.0,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.4,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.4,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.4,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.2,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.3,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.3,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.4,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.4,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.6,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.5,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.6,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.6,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.7,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.6,A,0
+WB_WDI_IQ_CPA_SOCI_XQ,IQ.CPA.SOCI.XQ,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.7,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2005,3.5,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2006,3.5,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2007,3.5,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2008,3.3,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2009,3.333333,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2010,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2011,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2012,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2013,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2014,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2015,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2016,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2017,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2018,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2019,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2020,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2021,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2022,3.166667,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2023,3.333333,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2024,3.333333,A,0
+WB_WDI_IQ_CPA_STRC_XQ,IQ.CPA.STRC.XQ,CPIA structural policies cluster average (1=low to 6=high),Score [SCORE],_T,_T,_T,A,2025,3.333333,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2005,4.5,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2006,4.5,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2007,4.5,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2008,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2009,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2010,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2011,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2012,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2013,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2014,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2015,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2016,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2017,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2018,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2019,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2020,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2021,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2022,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2023,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2024,4.0,A,0
+WB_WDI_IQ_CPA_TRAD_XQ,IQ.CPA.TRAD.XQ,CPIA trade rating (1=low to 6=high),Score,_T,_T,_T,A,2025,4.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2005,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2006,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2007,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2008,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2009,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2010,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2011,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2012,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2013,2.5,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2016,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2017,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2018,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2019,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2020,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2021,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2022,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2023,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_IQ_CPA_TRAN_XQ,IQ.CPA.TRAN.XQ,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",Score [SCORE],_T,_T,_T,A,2025,3.0,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2016,40.854167,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2017,45.114583,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2018,50.94875,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2019,54.39875,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2020,53.847917,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2021,59.634167,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2022,59.740417,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2023,60.830417,A,0
+WB_WDI_IQ_SPI_OVRL,IQ.SPI.OVRL,Statistical performance indicators (SPI): Overall score (scale 0-100),Index (0-100),_T,_T,_T,A,2024,58.448333,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2004,40.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2005,40.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2006,30.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2007,30.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2008,40.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2009,40.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2010,30.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2011,30.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2012,50.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2013,50.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2014,50.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2015,70.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2016,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2017,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2018,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2019,100.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2020,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2021,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2022,90.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2023,80.0,A,0
+WB_WDI_IQ_SPI_PIL1,IQ.SPI.PIL1,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),Index (0-100),_T,_T,_T,A,2024,80.0,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2016,10.6,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2017,28.333333,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2018,62.466667,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2019,62.466667,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2020,60.9,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2021,60.9,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2022,63.2,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2023,63.2,A,0
+WB_WDI_IQ_SPI_PIL2,IQ.SPI.PIL2,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),Index (0-100),_T,_T,_T,A,2024,63.9,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2005,42.725,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2006,43.5875,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2007,46.15,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2008,47.08125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2009,47.13125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2010,44.31875,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2011,44.09375,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2012,45.68125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2013,42.375,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2014,45.5,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2015,50.48125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2016,51.7875,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2017,51.58125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2018,50.54375,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2019,47.79375,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2020,52.68125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2021,66.6125,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2022,58.31875,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2023,72.06875,A,0
+WB_WDI_IQ_SPI_PIL3,IQ.SPI.PIL3,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),Index (0-100),_T,_T,_T,A,2024,62.8,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2015,21.883333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2016,21.883333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2017,25.658333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2018,26.733333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2019,26.733333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2020,25.658333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2021,25.658333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2022,27.183333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2023,28.883333,A,0
+WB_WDI_IQ_SPI_PIL4,IQ.SPI.PIL4,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),Index (0-100),_T,_T,_T,A,2024,25.541667,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2016,30.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2017,30.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2018,25.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2019,35.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2020,40.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2021,55.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2022,60.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2023,60.0,A,0
+WB_WDI_IQ_SPI_PIL5,IQ.SPI.PIL5,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),Index (0-100),_T,_T,_T,A,2024,60.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1985,8500.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1989,16000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1990,17000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1991,17000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1992,16000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1993,16000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1994,11000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1995,20700.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1996,20700.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1997,20650.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1998,20650.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,1999,20650.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2000,20700.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2001,20600.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2002,20700.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2003,20700.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2004,20000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2005,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2006,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2007,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2008,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2009,20870.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2010,20870.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2011,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2012,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2013,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2014,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2015,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2016,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2017,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2018,20850.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2019,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_P1,MS.MIL.TOTL.P1,"Armed forces personnel, total",,_T,_T,_T,A,2020,21000.0,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1990,3.431785,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1991,3.329945,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1992,2.996451,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1993,2.857873,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1994,1.896032,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1995,3.479606,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1996,3.431749,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1997,3.357009,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1998,3.26802,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,1999,3.175121,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2000,3.086562,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2001,3.005825,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2002,2.969219,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2003,2.915711,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2004,2.764852,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2005,2.847315,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2006,2.790631,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2007,2.732553,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2008,2.661668,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2009,2.566568,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2010,2.494225,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2011,2.425677,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2012,2.364672,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2013,2.322791,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2014,2.282033,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2015,2.241261,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2016,2.200279,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2017,2.1746,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2018,2.093743,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2019,2.044373,A,0
+WB_WDI_MS_MIL_TOTL_TF_ZS,MS.MIL.TOTL.TF.ZS,Armed forces personnel (% of total labor force),,_T,_T,_T,A,2020,2.003851,A,0
+WB_WDI_VC_BTL_DETH,VC.BTL.DETH,Battle-related deaths (number of people),Count,_T,_T,_T,A,2010,1.0,A,0
+WB_WDI_VC_BTL_DETH,VC.BTL.DETH,Battle-related deaths (number of people),Count,_T,_T,_T,A,2024,3.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2010,5000.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2013,4600.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2017,2900.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2018,440.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2019,6600.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2020,1600.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2022,23000.0,A,0
+WB_WDI_VC_IDP_NWDS,VC.IDP.NWDS,"Internally displaced persons, new displacement associated with disasters (number of cases)",,_T,_T,_T,A,2023,1100.0,A,0
+WB_WDI_VC_IHR_PSRC_P5,VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)","Rate per 100,000 population",_T,_T,_T,A,2018,1.22185,A,0
+WB_WDI_VC_IHR_PSRC_P5,VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)","Rate per 100,000 population",_T,_T,_T,A,2019,1.074376,A,0
+WB_WDI_VC_IHR_PSRC_P5,VC.IHR.PSRC.P5,"Intentional homicides (per 100,000 people)","Rate per 100,000 population",_T,_T,_T,A,2020,0.999972,A,0

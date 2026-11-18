@@ -1,0 +1,399 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2000,14.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2001,15.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2002,15.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2003,16.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2004,16.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2005,18.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2006,19.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2007,19.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2008,19.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2009,18.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2010,18.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2011,17.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2012,17.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2013,17.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2014,18.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2015,19.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2016,19.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2017,20.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2018,21.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2019,21.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2020,21.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2021,22.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2022,22.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2023,23.0,A,0
+WB_WDI_EG_CFT_ACCS_RU_ZS,EG.CFT.ACCS.RU.ZS,"Access to clean fuels and technologies for cooking, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2024,24.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2000,54.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2001,56.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2002,57.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2003,59.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2004,61.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2005,63.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2006,66.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2007,68.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2008,69.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2009,68.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2010,68.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2011,67.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2012,68.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2013,68.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2014,69.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2015,71.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2016,72.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2017,72.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2018,73.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2019,73.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2020,74.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2021,74.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2022,75.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2023,76.0,A,0
+WB_WDI_EG_CFT_ACCS_UR_ZS,EG.CFT.ACCS.UR.ZS,"Access to clean fuels and technologies for cooking, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2024,77.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2000,30.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2001,31.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2002,32.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2003,33.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2004,34.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2005,36.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2006,38.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2007,40.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2008,41.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2009,41.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2010,41.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2011,41.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2012,41.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2013,43.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2014,44.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2015,46.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2016,47.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2017,48.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2018,49.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2019,50.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2020,51.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2021,52.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2022,53.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2023,55.0,A,0
+WB_WDI_EG_CFT_ACCS_ZS,EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),% (share) of population,_T,_T,_T,A,2024,56.0,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2000,2.55,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2001,2.67,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2002,2.79,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2003,2.69,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2004,2.71,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2005,2.59,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2006,2.2,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2007,2.44,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2008,2.6,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2009,2.79,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2010,2.81,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2011,2.81,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2012,2.87,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2013,2.58,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2014,2.81,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2015,3.0,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2016,2.73,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2017,3.22,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2018,3.72,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2019,3.66,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2020,3.78,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2021,3.54,A,0
+WB_WDI_EG_EGY_PRIM_PP_KD,EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),MJ per 2021 USD PPP GDP,_T,_T,_T,A,2022,3.74,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2000,3.0,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2001,4.9,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2002,3.7,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2003,3.8,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2004,3.8,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2005,1.2,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2006,3.8,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2007,3.8,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2008,4.0,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2009,3.2,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2010,2.1,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2011,1.5,A,0
+WB_WDI_EG_ELC_ACCS_RU_ZS,EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",% (share) of rural population,_T,_T,RUR,A,2012,0.8,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2000,45.3,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2001,49.7,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2002,49.4,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2003,51.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2004,53.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2005,41.6,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2006,57.7,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2007,70.4,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2008,62.0,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2009,64.2,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2010,71.0,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2011,72.7,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2012,74.4,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2013,76.0,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2014,76.9,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2015,79.0,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2016,80.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2017,82.0,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2018,83.6,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2019,85.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2020,87.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2021,89.7,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2022,91.6,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2023,93.5,A,0
+WB_WDI_EG_ELC_ACCS_UR_ZS,EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",% (share) of urban population,_T,_T,URB,A,2024,94.2,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2000,19.1,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2001,22.2,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2002,21.7,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2003,23.0,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2004,24.3,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2005,18.2,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2006,27.0,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2007,33.0,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2008,30.0,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2009,31.1,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2010,34.2,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2011,35.3,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2012,36.4,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2013,37.6,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2014,38.8,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2015,39.5,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2016,41.2,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2017,42.9,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2018,43.6,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2019,44.9,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2020,45.4,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2021,47.7,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2022,49.0,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2023,50.3,A,0
+WB_WDI_EG_ELC_ACCS_ZS,EG.ELC.ACCS.ZS,Access to electricity (% of population),% (share) of population,_T,_T,_T,A,2024,52.2,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_EG_ELC_COAL_ZS,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2000,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2001,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2002,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2003,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2004,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2005,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2006,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2007,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2008,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2009,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2010,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2011,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2012,100.0,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2013,95.180634,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2014,94.902168,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2015,86.581424,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2016,84.281033,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2017,86.088531,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2018,80.79101,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2019,80.206684,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2020,81.089938,A,0
+WB_WDI_EG_ELC_FOSL_ZS,EG.ELC.FOSL.ZS,"Electricity production from oil, gas and coal sources (% of total)",% (share) of total electricity production,_T,_T,_T,A,2021,80.644586,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_EG_ELC_HYRO_ZS,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_EG_ELC_NGAS_ZS,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_EG_ELC_NUCL_ZS,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2000,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2001,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2002,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2003,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2004,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2005,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2006,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2007,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2008,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2009,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2010,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2011,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2012,100.0,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2013,95.180634,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2014,94.902168,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2015,86.581424,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2016,84.281033,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2017,86.088531,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2018,80.79101,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2019,80.206684,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2020,81.089938,A,0
+WB_WDI_EG_ELC_PETR_ZS,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),% (share) of total electricity production,_T,_T,_T,A,2021,80.644586,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2013,4.819366,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2014,5.097832,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2015,13.418576,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2016,15.718967,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2017,13.911469,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2018,19.20899,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2019,19.793316,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2020,18.910062,A,0
+WB_WDI_EG_ELC_RNEW_ZS,EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),% (share) of electricity output,_T,_T,_T,A,2021,19.355414,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2013,39140000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2014,43380000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2015,130340000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2016,163100000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2017,165150000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2018,243230000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2019,271210000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2020,271210000.0,A,0
+WB_WDI_EG_ELC_RNWX_KH,EG.ELC.RNWX.KH,"Electricity production from renewable sources, excluding hydroelectric (kWh)",kilowatt-hour (kWh),_T,_T,_T,A,2021,271210000.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2013,4.819366,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2014,5.097832,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2015,13.418576,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2016,15.718967,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2017,13.911469,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2018,19.20899,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2019,19.793316,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2020,18.910062,A,0
+WB_WDI_EG_ELC_RNWX_ZS,EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",% (share) of total electricity production,_T,_T,_T,A,2021,19.355414,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1990,47.0,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1991,46.7,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1992,46.4,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1993,46.1,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1994,45.5,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1995,45.2,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1996,43.9,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1997,43.8,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1998,46.0,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,1999,43.9,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2000,44.4,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2001,44.2,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2002,42.1,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2003,40.2,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2004,38.6,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2005,38.8,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2006,39.1,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2007,35.6,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2008,35.8,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2009,33.4,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2010,34.0,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2011,33.3,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2012,31.9,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2013,35.1,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2014,31.0,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2015,28.3,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2016,31.7,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2017,25.5,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2018,21.6,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2019,21.2,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2020,20.9,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2021,22.1,A,0
+WB_WDI_EG_FEC_RNEW_ZS,EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),% (share) of final energy consumption,_T,_T,_T,A,2022,19.6,A,0
+WB_WDI_IC_ELC_DURS,IC.ELC.DURS,Time to obtain an electrical connection (days),Number of days,_T,_T,_T,A,2006,7.521037,A,0
+WB_WDI_IC_ELC_DURS,IC.ELC.DURS,Time to obtain an electrical connection (days),Number of days,_T,_T,_T,A,2014,16.067047,A,0
+WB_WDI_IC_ELC_DURS,IC.ELC.DURS,Time to obtain an electrical connection (days),Number of days,_T,_T,_T,A,2025,13.593997,A,0
+WB_WDI_IC_ELC_OUTG_ZS,IC.ELC.OUTG.ZS,Firms experiencing electrical outages (% of firms),Percentage,_T,_T,_T,A,2006,90.152054,A,0
+WB_WDI_IC_ELC_OUTG_ZS,IC.ELC.OUTG.ZS,Firms experiencing electrical outages (% of firms),Percentage,_T,_T,_T,A,2014,90.725098,A,0
+WB_WDI_IC_ELC_OUTG_ZS,IC.ELC.OUTG.ZS,Firms experiencing electrical outages (% of firms),Percentage,_T,_T,_T,A,2025,84.265533,A,0

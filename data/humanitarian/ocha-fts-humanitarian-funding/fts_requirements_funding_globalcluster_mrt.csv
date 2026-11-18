@@ -1,0 +1,74 @@
+countryCode,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,26480,Coordination and support services,3500000,,
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,6,Food Security,58000000,35273366,61
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,7,Health,,0,
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,8,Logistics,3500000,3109632,89
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,26479,Multi-sector,38000000,9754560,26
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,9,Nutrition,15000000,7164231,48
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,11,Water Sanitation Hygiene,1500000,2970018,198
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,,Not specified,,4244268,
+MRT,661,Mauritania  Plan de Travail Humanitaire 2018,OMRT18,2018-01-01,2018-12-31,2018,,Multiple clusters/sectors (shared),,8826134,
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,26480,Coordination and support services,2700000,2025674,75
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,2,Early Recovery,3500000,,
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,6,Food Security,15000000,12606391,84
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,7,Health,9000000,1164195,13
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,26479,Multi-sector,32540000,562505,2
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,9,Nutrition,10160000,3742551,37
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,10,Protection,1600000,,
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,,Not specified,,6076413,
+MRT,547,Mauritanie Plan de Réponse Humanitaire 2017,HMRT17,2017-01-01,2017-12-31,2017,,Multiple clusters/sectors (shared),,0,
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,26512,Agriculture,5366721,952807,18
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,26480,Coordination and support services,4614898,1469090,32
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,2,Early Recovery,4081040,,
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,6,Food Security,9359155,1106080,12
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,7,Health,21837887,5535913,25
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,26479,Multi-sector,37062202,10066311,27
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,10,Protection,1485807,,
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,11,Water Sanitation Hygiene,5401811,291504,5
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,,Not specified,,3815753,
+MRT,494,Mauritanie Plan de Réponse Humanitaire 2016,HMRT16,2016-01-01,2016-12-31,2016,,Multiple clusters/sectors (shared),,0,
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,26512,Agriculture,7521041,3631595,48
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,26480,Coordination and support services,6324543,4099794,65
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,2,Early Recovery,5809830,3464390,60
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,6,Food Security,15097281,11356889,75
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,7,Health,36590763,21386636,58
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,26479,Multi-sector,21050250,6812907,32
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,10,Protection,1358982,341196,25
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,11,Water Sanitation Hygiene,813298,438876,54
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,,Not specified,,624902,
+MRT,470,Mauritanie Plan de Réponse Stratégique 2015,HMRT15,2015-01-01,2015-12-31,2015,,Multiple clusters/sectors (shared),,0,
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,26512,Agriculture,4656000,1185197,25
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,26480,Coordination and support services,8111172,4524811,56
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,2,Early Recovery,6539105,1440482,22
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,3,Education,2447149,1549714,63
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,6,Food Security,25298095,8527644,34
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,7,Health,19802999,10386097,52
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,26479,Multi-sector,17002204,7059998,42
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,10,Protection,1663750,467924,28
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,11,Water Sanitation Hygiene,5402379,1814954,34
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,,Not specified,,26094462,
+MRT,434,Mauritanie Plan de Réponse Stratégique 2014,HMRT14,2014-01-01,2014-12-31,2014,,Multiple clusters/sectors (shared),,0,
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,26512,Agriculture,4377588,2471882,56
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,26480,Coordination and support services,1412028,,
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,2,Early Recovery,3058656,764523,25
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,3,Education,4825232,2109533,44
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,6,Food Security,35755066,26907120,75
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,7,Health,13842174,10794838,78
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,8,Logistics,4762369,6552777,138
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,26479,Multi-sector,28467262,30630346,108
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,10,Protection,2524335,1208584,48
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,11,Water Sanitation Hygiene,7768598,7072569,91
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,,Not specified,,0,
+MRT,408,Mauritania 2013,CMRT13,2013-01-01,2013-12-31,2013,,Multiple clusters/sectors (shared),,0,
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,26512,Agriculture,4440000,871218,20
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,26480,Coordination and support services,1224530,219000,18
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,2,Early Recovery,9051300,208200,2
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,3,Education,1198960,,
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,6,Food Security,15739419,20276939,129
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,7,Health,6229253,3396042,55
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,8,Logistics,4970921,3993234,80
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,26479,Multi-sector,48064562,25531894,53
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,10,Protection,743836,419875,56
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,11,Water Sanitation Hygiene,700000,426335,61
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,,Not specified,,1998785,
+MRT,392,Mauritania 2012,CMRT12,2012-05-01,2012-12-31,2012,,Multiple clusters/sectors (shared),,0,

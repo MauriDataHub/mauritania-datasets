@@ -1,0 +1,542 @@
+indicator_id,indicator_name,unit,sex,age,urbanisation,time_period,value,obs_status
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2009,13041.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2010,17971.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2011,173941.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2012,116936.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2013,208239.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2014,574711.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2015,975263.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2016,1451155.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2017,1350318.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2018,2201305.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2019,2513141.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2020,2897249.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2021,3265628.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2022,3477344.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2023,3000897.0,A
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",_Z,_Z,_Z,2024,3619709.0,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2000,0.293865,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2001,0.287446,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2002,3.468856,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2003,3.39038,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2004,9.412047,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2005,15.311023,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2006,14.93201,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2007,71.126998,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2008,76.964906,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2009,79.160943,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2010,82.572365,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2011,177.0007,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2012,171.316434,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2013,166.027639,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2014,441.728937,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2015,1210.299955,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2016,2422.517965,A
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,_Z,_Z,_Z,2017,2564.955113,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2000,153.029842,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2001,109.943784,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2002,955.004172,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2003,799.608631,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2004,1954.854569,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2005,2285.341669,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2006,1524.201303,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2007,4961.379944,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2008,4115.770385,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2009,3471.971172,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2010,2064.309127,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2011,3933.348895,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2012,3426.328683,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2013,2677.865142,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2014,3743.465572,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2015,6876.704291,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2016,12595.73828,A
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,_Z,_Z,_Z,2017,12204.097834,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2000,0.768,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2001,0.77,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2002,9.5,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2003,9.5,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2004,27.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2005,45.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2006,45.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2007,220.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2008,245.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2009,260.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2010,280.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2011,620.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2012,620.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2013,620.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2014,1700.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2015,4800.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2016,9900.0,A
+INT_CONN_BAND,International bandwidth usage,Megabits per second,_Z,_Z,_Z,2017,10800.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2014,4821.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2015,10607.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2016,13873.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2020,664444.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2021,1144000.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2022,1267000.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2023,1400000.0,A
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,_Z,_Z,_Z,2024,2000000.0,A
+IT_BB_FIX_TRF,Fixed-broadband internet traffic,Exabytes per year,_Z,_Z,_Z,2021,0.03185,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2017,0.011293,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2018,0.022167,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2019,0.032563,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2020,0.04519,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2021,0.056857,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2022,0.153621,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2023,0.259232,A
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,_Z,_Z,_Z,2024,0.307566,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2000,15300.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2000,0.585435,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2001,110463.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2001,4.123662,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2002,247238.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2002,9.027716,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2003,350954.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2003,12.524919,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2004,522400.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2004,18.210568,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,745615.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,25.369174,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,1060122.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,35.177226,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,1413967.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,45.714194,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,2091992.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,65.718354,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,2182249.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,66.44188,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,2776050.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,81.866076,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,3314767.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,94.631626,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,4025478.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,111.230732,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,3988195.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,106.798484,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,3753330.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,97.526734,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,3644483.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,91.894117,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,3614172.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,88.438349,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,4074157.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,96.759535,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,4566502.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,105.275095,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,4710800.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,105.44109,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,5808909.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,126.277034,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,6512361.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,137.540323,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,5357540.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,109.883898,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,4558995.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,90.772495,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,4759715.0,A
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,92.074895,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2002,0.5,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2003,0.8,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2004,1.1,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2005,1.6,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2006,1.9,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2007,2.0,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2008,2.51,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2009,2.84,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2010,2.99,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2011,3.4029,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2012,3.72,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2013,4.0,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2014,4.35,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2015,6.934744,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2016,5.0,A
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,_Z,_Z,_Z,2017,5.289504,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2002,0.0,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2003,0.4,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2004,0.5,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2005,0.6,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2006,0.72,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2007,0.9,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2008,1.0,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2009,1.19,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2010,1.6,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2011,2.5,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2012,3.399479,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2013,4.3,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2014,6.2,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2015,3.445653,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2016,11.236619,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2017,14.323288,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2018,24.944642,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2019,26.182664,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2021,51.192818,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2022,51.668588,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2023,54.731833,A
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,_Z,_Z,_Z,2024,58.672531,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2000,18969.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2000,0.725825,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2001,24856.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2001,0.927892,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2002,31529.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2002,1.151259,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2003,38178.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2003,1.362504,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2004,39000.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2004,1.359518,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,41000.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,1.395004,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,34870.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,1.157065,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,40267.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,1.30185,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,76354.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,2.398603,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,74464.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,2.267169,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,71572.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,2.110668,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,72294.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,2.063885,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,65069.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,1.797966,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,53993.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,1.44586,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,51432.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,1.336412,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,51294.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,1.293357,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,53191.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,1.301577,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,57057.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,1.35508,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,59959.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,1.382281,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,61858.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,1.384558,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,62099.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,1.34994,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,58094.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,1.226939,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,47503.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,0.974293,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,30213.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,0.60156,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,15997.0,A
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,0.309456,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,164.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2005,0.00558,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,973.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2006,0.032286,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,4000.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2007,0.129322,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,5876.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2008,0.18459,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,6775.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2009,0.206275,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,5809.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2010,0.171308,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,6120.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2011,0.174717,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,6697.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2012,0.185049,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,7532.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2013,0.201697,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,8000.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2014,0.207872,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,9638.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2015,0.243018,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,11141.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2016,0.272619,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,12637.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2017,0.300123,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,13224.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2018,0.304863,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,10815.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2019,0.24207,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,18457.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2020,0.401228,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,19219.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2021,0.405903,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,20245.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2022,0.415228,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,29653.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2023,0.59041,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,48929.0,A
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",_Z,_Z,_Z,2024,0.946513,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2000,0.192031,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2001,0.261449,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2002,0.363229,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2003,0.424005,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2004,0.48147,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2005,0.67,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2006,0.9797,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2007,1.4336,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2008,1.87,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2009,2.28,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2010,4.0,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2011,4.5,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2012,5.0,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2013,6.2,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2014,11.8,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2015,17.6,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2016,19.2328,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2017,21.0172,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2018,22.966999,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2019,25.097799,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2020,29.9065,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2021,35.6366,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2022,42.4645,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2023,44.956299,A
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,_T,_T,_T,2024,45.7794,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2005,26.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2006,36.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2007,51.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2008,62.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2014,90.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2015,90.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2016,90.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2017,95.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2018,96.0,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2019,96.3,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2020,96.5,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2021,96.6,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2022,97.7,A
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,_Z,_Z,_Z,2023,97.0,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2014,0.0,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2015,30.0,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2016,41.0,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2017,42.07,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2018,43.0,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2019,43.3,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2020,43.5,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2021,43.7,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2022,43.9,A
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,_Z,_Z,_Z,2024,78.001593,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2014,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2015,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2016,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2017,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2018,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2019,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2020,0.0,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2021,34.7,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2022,34.7,A
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,_Z,_Z,_Z,2024,73.0,A
+MOB_COV_5G,"Population coverage, at least 5G",Percentage of population,_Z,_Z,_Z,2021,0.0,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,45.01,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,126.03,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,49.89,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,46.74,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,123.7,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,49.46,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,29.73,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,82.47,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,31.46,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,29.189036,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,82.166289,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,28.653904,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,33.193566,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,79.82282,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,30.427435,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,8.48,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,23.77,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,8.41,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,8.48,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,23.77,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,8.41,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,3.95,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,15.9,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,5.35,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,3.817375,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,15.72072,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,5.55607,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,3.837921,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,15.72072,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,5.517749,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,3.01,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,15.67,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,5.85,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,3.05,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,16.15,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,5.07,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,2.94,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,16.22,A
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,5.02,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,81.25,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,146.08,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,62.97,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,77.07,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,142.4,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,57.8,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,30.05,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,58.99,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,23.54,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,29.12,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,57.6,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,23.54,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,24.39,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,54.06,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,21.14,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,18.814372,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,52.68,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,20.852595,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,10.656036,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,28.2,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,11.28,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,10.166626,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,28.2,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,10.76,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,9.98,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,28.1,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,9.8,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,32.164565,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,77.348313,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,29.484185,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,32.22,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,90.34,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,31.95,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,32.22,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,90.34,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,31.95,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,23.28,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,93.81,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,31.56,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,19.086874,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,78.603598,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,27.78035,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,19.189605,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,78.603598,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,27.588744,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,15.06,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,78.34,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,29.23,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,15.27,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,80.74,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,25.34,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,17.62,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,97.32,A
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,30.14,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,11.31,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,31.7,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,11.21,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,11.31,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,31.7,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,11.21,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,12.04,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,33.76,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,11.94,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,12.04,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,33.76,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,11.94,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,8.01,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,32.28,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,10.86,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,8.01,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,32.28,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,10.86,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,8.970831,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,36.943691,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,13.056765,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,8.970831,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,36.943691,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,13.056765,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,8.635322,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,35.371619,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,12.414935,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,8.635322,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,35.371619,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,12.414935,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,6.78,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,35.26,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,13.15,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,6.78,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,35.26,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,13.15,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,3.36,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,17.76,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,5.57,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,3.36,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,17.76,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,5.57,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,3.67,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,20.28,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,6.28,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,3.67,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,20.28,A
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,6.28,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,22.91,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,41.19,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2008,17.76,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,23.05,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,43.06,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2009,17.29,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,20.97,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,41.18,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2010,14.08,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,17.8,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,35.21,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2011,16.43,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,15.99,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,35.45,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2012,14.39,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,12.699551,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,35.56,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2013,14.075335,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,13.2,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,34.9,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2014,14.0,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,14.2,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,39.4,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2015,15.0,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,16.3,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,45.8,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2016,16.0,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,19.113851,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,45.964374,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2017,17.52103,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,16.0,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,44.85,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,15.86,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,16.0,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,44.85,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,15.86,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,4.34,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,17.49,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,5.88,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,4.389981,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,18.078827,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,6.389481,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,4.413609,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,18.078827,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,6.345411,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,3.46,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,18.02,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,6.72,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,0.92,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,4.84,A
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,1.52,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,5.65,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,15.85,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2018,5.61,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,6.22,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,17.43,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2019,6.17,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,4.34,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,17.49,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2020,5.88,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,8.016487,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,33.013511,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2021,11.667747,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,8.059634,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,33.013511,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2022,11.587272,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,6.33,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,32.9,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2023,12.28,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,0.92,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,4.84,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2024,1.52,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,1.47,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,8.11,A
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",_Z,_Z,_Z,2025,2.51,A

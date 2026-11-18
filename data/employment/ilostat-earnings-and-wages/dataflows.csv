@@ -1,0 +1,75 @@
+dataflow,label,rows
+DF_EAR_EHRA_SEX_AGE_CUR_NB,Average hourly earnings of employees by sex and age and currency,48
+DF_EAR_EHRA_SEX_AGE_NB,Average hourly earnings of employees by sex and age,143
+DF_EAR_EHRA_SEX_CUR_NB,Average hourly earnings of employees by sex and currency,6
+DF_EAR_EHRA_SEX_ECO_CUR_NB,"Average hourly earnings of employees by sex, economic activity and currency",91
+DF_EAR_EHRA_SEX_ECO_NB,Average hourly earnings of employees by sex and economic activity,97
+DF_EAR_EHRA_SEX_EDU_CUR_NB,"Average hourly earnings of employees by sex, education and currency",93
+DF_EAR_EHRA_SEX_EDU_NB,Average hourly earnings of employees by sex and education,274
+DF_EAR_EHRA_SEX_GEO_CUR_NB,"Average hourly earnings of employees by sex, rural / urban areas and currency",18
+DF_EAR_EHRA_SEX_GEO_NB,Average hourly earnings of employees by sex and rural / urban areas,54
+DF_EAR_EHRA_SEX_IND_CUR_NB,"Average hourly earnings of employees by ILO sector, sex and currency",51
+DF_EAR_EHRA_SEX_IND_NB,Average hourly earnings of employees by ILO sector and sex,63
+DF_EAR_EHRA_SEX_MTS_CUR_NB,"Average hourly earnings of employees by sex, marital status and currency",18
+DF_EAR_EHRA_SEX_MTS_NB,Average hourly earnings of employees by sex and marital status,84
+DF_EAR_EHRA_SEX_NB,Average hourly earnings of employees by sex,18
+DF_EAR_EHRG_SEX_AGE_NB,Gini index of hourly earnings of employees by sex and age,48
+DF_EAR_EHRG_SEX_ECO_NB,Gini index of hourly earnings of employees by sex and economic activity,97
+DF_EAR_EHRG_SEX_EDU_NB,Gini index of hourly earnings of employees by sex and education,96
+DF_EAR_EHRG_SEX_GEO_NB,Gini index of hourly earnings of employees by sex and rural / urban areas,18
+DF_EAR_EHRG_SEX_MTS_NB,Gini index of hourly earnings of employees by sex and marital status,48
+DF_EAR_EHRG_SEX_NB,Gini index of hourly earnings of employees by sex,6
+DF_EAR_EHRM_SEX_AGE_CUR_NB,Median hourly earnings of employees by sex and age and currency,48
+DF_EAR_EHRM_SEX_AGE_NB,Median hourly earnings of employees by sex and age,48
+DF_EAR_EHRM_SEX_CUR_NB,Median hourly earnings of employees by sex and currency,6
+DF_EAR_EHRM_SEX_ECO_CUR_NB,"Median hourly earnings of employees by sex, economic activity and currency",91
+DF_EAR_EHRM_SEX_ECO_NB,Median hourly earnings of employees by sex and economic activity,97
+DF_EAR_EHRM_SEX_EDU_CUR_NB,"Median hourly earnings of employees by sex, education and currency",93
+DF_EAR_EHRM_SEX_EDU_NB,Median hourly earnings of employees by sex and education,96
+DF_EAR_EHRM_SEX_GEO_CUR_NB,"Median hourly earnings of employees by sex, rural / urban areas and currency",18
+DF_EAR_EHRM_SEX_GEO_NB,Median hourly earnings of employees by sex and rural / urban areas,18
+DF_EAR_EHRM_SEX_MTS_CUR_NB,"Median hourly earnings of employees by sex, marital status and currency",18
+DF_EAR_EHRM_SEX_MTS_NB,Median hourly earnings of employees by sex and marital status,48
+DF_EAR_EHRM_SEX_NB,Median hourly earnings of employees by sex,6
+DF_EAR_EMTA_SEX_AGE_CUR_NB,"Average monthly earnings of employees by sex, age and currency",48
+DF_EAR_EMTA_SEX_AGE_NB,Average monthly earnings of employees by sex and age,268
+DF_EAR_EMTA_SEX_CCT_CUR_NB,"Average monthly earnings of employees by sex, citizenship and currency",9
+DF_EAR_EMTA_SEX_CCT_NB,Average monthly earnings of employees by sex and citizenship,9
+DF_EAR_EMTA_SEX_CUR_NB,Average monthly earnings of employees by sex and currency,6
+DF_EAR_EMTA_SEX_ECO_CUR_NB,"Average monthly earnings of employees by sex, economic activity and currency",91
+DF_EAR_EMTA_SEX_ECO_NB,Average monthly earnings of employees by sex and economic activity,97
+DF_EAR_EMTA_SEX_EDU_CUR_NB,"Average monthly earnings of employees by sex, education and currency",93
+DF_EAR_EMTA_SEX_EDU_NB,Average monthly earnings of employees by sex and education,278
+DF_EAR_EMTA_SEX_GEO_CUR_NB,"Average monthly earnings of employees by sex, rural / urban areas and currency",18
+DF_EAR_EMTA_SEX_GEO_NB,Average monthly earnings of employees by sex and rural / urban areas,54
+DF_EAR_EMTA_SEX_IND_CUR_NB,"Average monthly earnings of employees by ILO sector, sex and currency",51
+DF_EAR_EMTA_SEX_IND_NB,Average monthly earnings of employees by ILO sector and sex,63
+DF_EAR_EMTA_SEX_MTS_CUR_NB,"Average monthly earnings of employees by sex, marital status and currency",18
+DF_EAR_EMTA_SEX_MTS_NB,Average monthly earnings of employees by sex and marital status,84
+DF_EAR_EMTA_SEX_NB,Average monthly earnings of employees by sex,18
+DF_EAR_EMTG_SEX_AGE_NB,Gini index of monthly earnings of employees by sex and age,48
+DF_EAR_EMTG_SEX_ECO_NB,Gini index of monthly earnings of employees by sex and economic activity,97
+DF_EAR_EMTG_SEX_EDU_NB,Gini index of monthly earnings of employees by sex and education,98
+DF_EAR_EMTG_SEX_GEO_NB,Gini index of monthly earnings of employees by sex and rural / urban areas,18
+DF_EAR_EMTG_SEX_MTS_NB,Gini index of monthly earnings of employees by sex and marital status,48
+DF_EAR_EMTG_SEX_NB,Gini index of monthly earnings of employees by sex,6
+DF_EAR_EMTM_SEX_AGE_CUR_NB,"Median monthly earnings of employees by sex, age and currency",48
+DF_EAR_EMTM_SEX_AGE_NB,Median monthly earnings of employees by sex and age,90
+DF_EAR_EMTM_SEX_CUR_NB,Median monthly earnings of employees by sex and currency,6
+DF_EAR_EMTM_SEX_ECO_CUR_NB,"Median monthly earnings of employees by sex, economic activity and currency",91
+DF_EAR_EMTM_SEX_ECO_NB,Median monthly earnings of employees by sex and economic activity,97
+DF_EAR_EMTM_SEX_EDU_CUR_NB,"Median monthly earnings of employees by sex, education and currency",93
+DF_EAR_EMTM_SEX_EDU_NB,Median monthly earnings of employees by sex and education,98
+DF_EAR_EMTM_SEX_GEO_CUR_NB,"Median monthly earnings of employees by sex, rural / urban areas and currency",18
+DF_EAR_EMTM_SEX_GEO_NB,Median monthly earnings of employees by sex and rural / urban areas,18
+DF_EAR_EMTM_SEX_MTS_CUR_NB,"Median monthly earnings of employees by sex, marital status and currency",18
+DF_EAR_EMTM_SEX_MTS_NB,Median monthly earnings of employees by sex and marital status,48
+DF_EAR_EMTM_SEX_NB,Median monthly earnings of employees by sex,6
+DF_EAR_INEE_CUR_NB,Monthly minimum wage by currency,28
+DF_EAR_INEE_NOC_NB,Monthly minimum wage,19
+DF_EAR_PHRA_SEX_CUR_NB,Average hourly earnings of public sector employees by sex and currency,3
+DF_EAR_PHRA_SEX_NB,Average hourly earnings of public sector employees,3
+DF_EAR_PMTA_SEX_CUR_NB,Average monthly earnings of public sector employees by sex and currency,3
+DF_EAR_PMTA_SEX_NB,Average monthly earnings of public sector employees,3
+DF_EAR_XFLS_NOC_RT,Female share of low pay earners,2
+DF_EAR_XTLP_SEX_RT,Low pay rate by sex,6

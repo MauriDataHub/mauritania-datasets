@@ -1,0 +1,422 @@
+{
+  "generated": "2026-11-14",
+  "categories": [
+    {
+      "id": "demographics",
+      "code": "DEM",
+      "title": "Demographics",
+      "description": "Population size, structure, projections, births, censuses, gridded population.",
+      "path": "data/demographics/",
+      "datasets_total": 23,
+      "datasets_hosted": 7,
+      "datasets_reference_only": 16,
+      "formats_hosted": [
+        "7Z",
+        "CSV",
+        "GZ",
+        "GeoTIFF",
+        "XLS",
+        "XLSX"
+      ]
+    },
+    {
+      "id": "economy",
+      "code": "ECO",
+      "title": "Economy",
+      "description": "National accounts, prices, exchange rates, finance, financial inclusion, macro indicators.",
+      "path": "data/economy/",
+      "datasets_total": 30,
+      "datasets_hosted": 7,
+      "datasets_reference_only": 23,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "education",
+      "code": "EDU",
+      "title": "Education",
+      "description": "Enrolment, completion, literacy, learning outcomes, human capital, education facilities.",
+      "path": "data/education/",
+      "datasets_total": 6,
+      "datasets_hosted": 5,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "TXT"
+      ]
+    },
+    {
+      "id": "health",
+      "code": "HLT",
+      "title": "Health",
+      "description": "Mortality, disease burden, nutrition, health systems, health surveys, health facilities.",
+      "path": "data/health/",
+      "datasets_total": 17,
+      "datasets_hosted": 10,
+      "datasets_reference_only": 7,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "TXT",
+        "XLSX"
+      ]
+    },
+    {
+      "id": "agriculture",
+      "code": "AGR",
+      "title": "Agriculture",
+      "description": "Crop production, land use, inputs, food balances, producer prices.",
+      "path": "data/agriculture/",
+      "datasets_total": 10,
+      "datasets_hosted": 9,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "livestock",
+      "code": "LIV",
+      "title": "Livestock",
+      "description": "Herd sizes, livestock products, pastoralism.",
+      "path": "data/livestock/",
+      "datasets_total": 5,
+      "datasets_hosted": 3,
+      "datasets_reference_only": 2,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "fisheries",
+      "code": "FSH",
+      "title": "Fisheries",
+      "description": "Capture production, value chains, bycatch and marine resources.",
+      "path": "data/fisheries/",
+      "datasets_total": 9,
+      "datasets_hosted": 5,
+      "datasets_reference_only": 4,
+      "formats_hosted": [
+        "CSV",
+        "TXT",
+        "XLSX"
+      ]
+    },
+    {
+      "id": "food-security",
+      "code": "FSC",
+      "title": "Food security",
+      "description": "Acute food insecurity (IPC/Cadre Harmonisé), food prices, food-security indicators.",
+      "path": "data/food-security/",
+      "datasets_total": 11,
+      "datasets_hosted": 11,
+      "datasets_reference_only": 0,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "PDF",
+        "XLS",
+        "XLSX",
+        "ZIP"
+      ]
+    },
+    {
+      "id": "geography",
+      "code": "GEO",
+      "title": "Geography",
+      "description": "Settlements, populated places, built-up areas, reference grids.",
+      "path": "data/geography/",
+      "datasets_total": 5,
+      "datasets_hosted": 3,
+      "datasets_reference_only": 2,
+      "formats_hosted": [
+        "GeoJSON",
+        "GeoTIFF",
+        "JSON",
+        "TXT",
+        "XLSX",
+        "ZIP"
+      ]
+    },
+    {
+      "id": "administrative-divisions",
+      "code": "ADM",
+      "title": "Administrative divisions",
+      "description": "Boundaries and codes of wilayas, moughataas and communes.",
+      "path": "data/administrative-divisions/",
+      "datasets_total": 4,
+      "datasets_hosted": 3,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV",
+        "GZ",
+        "GeoJSON",
+        "XLSX"
+      ]
+    },
+    {
+      "id": "environment",
+      "code": "ENV",
+      "title": "Environment",
+      "description": "Emissions, land cover, forests, vegetation, biodiversity, protected areas.",
+      "path": "data/environment/",
+      "datasets_total": 11,
+      "datasets_hosted": 8,
+      "datasets_reference_only": 3,
+      "formats_hosted": [
+        "CSV",
+        "GZ"
+      ]
+    },
+    {
+      "id": "climate",
+      "code": "CLI",
+      "title": "Climate",
+      "description": "Temperature, precipitation, climate exposure and climate finance.",
+      "path": "data/climate/",
+      "datasets_total": 6,
+      "datasets_hosted": 6,
+      "datasets_reference_only": 0,
+      "formats_hosted": [
+        "CSV",
+        "PNG",
+        "TXT",
+        "ZIP"
+      ]
+    },
+    {
+      "id": "energy",
+      "code": "ENE",
+      "title": "Energy",
+      "description": "Electricity access, energy balances, renewables, energy-system models.",
+      "path": "data/energy/",
+      "datasets_total": 5,
+      "datasets_hosted": 4,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "BIB",
+        "CSV",
+        "TXT",
+        "XLSX",
+        "ZIP"
+      ]
+    },
+    {
+      "id": "water",
+      "code": "WAT",
+      "title": "Water",
+      "description": "Drinking water, sanitation, hygiene, water resources and waterways.",
+      "path": "data/water/",
+      "datasets_total": 2,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 0,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "TXT"
+      ]
+    },
+    {
+      "id": "transport",
+      "code": "TRN",
+      "title": "Transport",
+      "description": "Roads, railways, airports, ports, logistics performance.",
+      "path": "data/transport/",
+      "datasets_total": 13,
+      "datasets_hosted": 10,
+      "datasets_reference_only": 3,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "PDF",
+        "TXT",
+        "XLSX",
+        "ZIP"
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "code": "INF",
+      "title": "Infrastructure",
+      "description": "Points of interest, financial services, accessibility, buildings, private infrastructure investment.",
+      "path": "data/infrastructure/",
+      "datasets_total": 5,
+      "datasets_hosted": 4,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "TXT"
+      ]
+    },
+    {
+      "id": "public-finance",
+      "code": "PFN",
+      "title": "Public finance",
+      "description": "Government revenue and expenditure, budget laws, public and external debt.",
+      "path": "data/public-finance/",
+      "datasets_total": 9,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 7,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "elections",
+      "code": "ELE",
+      "title": "Elections",
+      "description": "Electoral results and reports.",
+      "path": "data/elections/",
+      "datasets_total": 2,
+      "datasets_hosted": 0,
+      "datasets_reference_only": 2,
+      "formats_hosted": []
+    },
+    {
+      "id": "telecommunications",
+      "code": "TEL",
+      "title": "Telecommunications",
+      "description": "Mobile, internet and broadband subscriptions and use, ICT prices.",
+      "path": "data/telecommunications/",
+      "datasets_total": 4,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 2,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "employment",
+      "code": "EMP",
+      "title": "Employment",
+      "description": "Labour force, employment, unemployment, earnings, child labour.",
+      "path": "data/employment/",
+      "datasets_total": 7,
+      "datasets_hosted": 5,
+      "datasets_reference_only": 2,
+      "formats_hosted": [
+        "CSV",
+        "Parquet"
+      ]
+    },
+    {
+      "id": "poverty",
+      "code": "POV",
+      "title": "Poverty",
+      "description": "Monetary and multidimensional poverty, inequality, wealth, human development, social protection.",
+      "path": "data/poverty/",
+      "datasets_total": 12,
+      "datasets_hosted": 6,
+      "datasets_reference_only": 6,
+      "formats_hosted": [
+        "CSV",
+        "Parquet"
+      ]
+    },
+    {
+      "id": "trade",
+      "code": "TRD",
+      "title": "Trade",
+      "description": "Merchandise and services trade, tariffs, agricultural trade.",
+      "path": "data/trade/",
+      "datasets_total": 3,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "tourism",
+      "code": "TOU",
+      "title": "Tourism",
+      "description": "International arrivals and receipts, cultural sites.",
+      "path": "data/tourism/",
+      "datasets_total": 2,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 0,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "JSON",
+        "TXT"
+      ]
+    },
+    {
+      "id": "mining",
+      "code": "MIN",
+      "title": "Mining",
+      "description": "Extractive-industry revenues, resource rents, mining production.",
+      "path": "data/mining/",
+      "datasets_total": 3,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV",
+        "XLSX"
+      ]
+    },
+    {
+      "id": "housing",
+      "code": "HOU",
+      "title": "Housing",
+      "description": "Housing conditions, slums, urban indicators.",
+      "path": "data/housing/",
+      "datasets_total": 4,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 2,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "humanitarian",
+      "code": "HUM",
+      "title": "Humanitarian",
+      "description": "Displacement, refugees, disasters, conflict, humanitarian funding, risk.",
+      "path": "data/humanitarian/",
+      "datasets_total": 18,
+      "datasets_hosted": 11,
+      "datasets_reference_only": 7,
+      "formats_hosted": [
+        "CSV",
+        "GeoJSON",
+        "XLS"
+      ]
+    },
+    {
+      "id": "governance",
+      "code": "GOV",
+      "title": "Governance",
+      "description": "Governance indicators, policy assessments, corruption, statistical capacity, SDG monitoring.",
+      "path": "data/governance/",
+      "datasets_total": 5,
+      "datasets_hosted": 4,
+      "datasets_reference_only": 1,
+      "formats_hosted": [
+        "CSV"
+      ]
+    },
+    {
+      "id": "gender",
+      "code": "GEN",
+      "title": "Gender",
+      "description": "Gender statistics and women, business and the law.",
+      "path": "data/gender/",
+      "datasets_total": 2,
+      "datasets_hosted": 2,
+      "datasets_reference_only": 0,
+      "formats_hosted": [
+        "CSV"
+      ]
+    }
+  ]
+}

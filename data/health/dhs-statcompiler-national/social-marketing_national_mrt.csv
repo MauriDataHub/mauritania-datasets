@@ -1,0 +1,4 @@
+ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
+MRT,836817,Using social marketing brand of pill,86.5,1,MR,Mauritania,2020,MR2020DHS,FP_SOCM_W_PIL,32763010,I,1000,0,Total,Total,0,,1,1,FPSOCMWPIL,,2019-21,DHS,574,567,,,
+MRT,3283,Number of women using pills,574,0,MR,Mauritania,2020,MR2020DHS,FP_SOCM_W_NPL,32763020,D,1000,0,Total,Total,0,,1,1,FPSOCMWNPL,,2019-21,DHS,,567,,,
+MRT,468886,Number of women using pills (unweighted),567,0,MR,Mauritania,2020,MR2020DHS,FP_SOCM_W_UPL,32763030,U,1000,0,Total,Total,0,,1,1,FPSOCMWUPL,,2019-21,DHS,574,,,,

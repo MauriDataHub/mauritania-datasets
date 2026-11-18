@@ -1,0 +1,1076 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+2001,COG,MRT,Congo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2001,GIN,MRT,Guinea,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2001,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,LBR,MRT,Liberia,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,LBR,MRT,Liberia,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2001,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500
+2001,SLE,MRT,Sierra Leone,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2001,SLE,MRT,Sierra Leone,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,316
+2001,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2002,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,U,0,8,0,0,0,0,8,0,0,0,0,0,0,0,8
+2002,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2002,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,LBR,MRT,Liberia,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,U,5,0,0,10,0,0,15,5,0,0,14,0,0,19,34
+2002,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500
+2002,SLE,MRT,Sierra Leone,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott,U,U,13,12,10,99,8,0,142,8,11,9,164,10,0,202,344
+2002,UKN,MRT,Various / unknown,Mauritania,REF,Nouakchott,U,U,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2002,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2003,COG,MRT,Congo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,U,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2003,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2003,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2003,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,LBR,MRT,Liberia,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2003,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,U,5,5,5,32,0,0,47,5,5,5,37,0,0,52,99
+2003,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,1855,1855,0,0,0,0,0,1645,1645,3500
+2003,SLE,MRT,Sierra Leone,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2003,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott,U,U,13,11,10,98,8,0,140,8,11,9,163,10,0,201,341
+2003,UKN,MRT,Various / unknown,Mauritania,REF,Nouakchott,U,U,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2003,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,13780,13780,0,0,0,0,0,12220,12220,26000
+2004,COG,MRT,Congo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2004,COG,MRT,Congo,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,U,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2004,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2004,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53
+2004,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott,U,U,0,0,0,9,0,0,9,0,0,0,13,0,0,13,22
+2004,LBR,MRT,Liberia,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2004,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,U,8,8,6,46,0,0,68,8,8,7,45,0,0,68,136
+2004,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,1855,1855,0,0,0,0,0,1645,1645,3500
+2004,SLE,MRT,Sierra Leone,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2004,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott,U,U,5,7,6,79,8,0,105,8,8,7,151,8,0,182,287
+2004,TGO,MRT,Togo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,UKN,MRT,Various / unknown,Mauritania,REF,Nouakchott,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2004,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,13780,13780,0,0,0,0,0,12220,12220,26000
+2005,CAF,MRT,Central African Republic,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2005,COG,MRT,Congo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2005,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2005,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2005,GIN,MRT,Guinea,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2005,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2005,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97
+2005,LBR,MRT,Liberia,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2005,LBR,MRT,Liberia,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,156
+2005,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,1820,1820,0,0,0,0,0,1680,1680,3500
+2005,SLE,MRT,Sierra Leone,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,288
+2005,TGO,MRT,Togo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2005,TGO,MRT,Togo,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2005,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,R,U,0,0,0,0,0,1820,1820,0,0,0,0,0,1680,1680,3500
+2005,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22500
+2006,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2006,COG,MRT,Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2006,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,12,0,0,12,17
+2006,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2006,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,5,5,0,6,0,0,16,0,0,5,24,0,0,29,45
+2006,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2006,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,19,0,0,19,24
+2006,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou,U,U,7,5,0,37,0,0,49,10,5,7,97,0,0,119,168
+2006,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2006,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,25,0,0,25,25
+2006,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou,U,U,12,10,5,52,0,0,79,10,8,6,60,0,0,84,163
+2006,MLI,MRT,Mali,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,1820,1820,0,0,0,0,0,1680,1680,3500
+2006,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,16,0,0,16,16
+2006,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott/Nouadhibou,U,U,10,11,6,80,8,0,115,14,10,6,151,8,0,189,304
+2006,SDN,MRT,Sudan,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2006,TGO,MRT,Togo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,8,0,0,0,0,8,0,5,0,23,0,0,28,36
+2006,UKN,MRT,Various / unknown,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,UKN,MRT,Various / unknown,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,ESH,MRT,Western Sahara,Mauritania,OOC,Dispersed in the country / territory,V,U,0,0,0,0,0,13520,13520,0,0,0,0,0,12480,12480,26000
+2007,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2007,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2007,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,8,0,0,0,0,8,8
+2007,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,6,6,0,9,0,0,21,0,0,6,28,0,0,34,55
+2007,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2007,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou,U,U,15,9,6,54,0,0,84,17,19,10,144,0,0,190,274
+2007,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,8,7,0,0,15,0,9,7,17,0,0,33,48
+2007,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou,U,U,12,10,5,57,0,0,84,11,8,6,66,0,0,91,175
+2007,MLI,MRT,Mali,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3500
+2007,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott/Nouadhibou,U,U,10,11,6,85,8,0,120,15,10,6,154,8,0,193,313
+2007,SDN,MRT,Sudan,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2007,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,6,6,0,0,12,0,5,0,31,0,0,36,48
+2007,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2008,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2008,TCD,MRT,Chad,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,COG,MRT,Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2008,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,14,0,0,14,19
+2008,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2008,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,6,5,5,15,0,0,31,0,0,9,33,0,0,42,73
+2008,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2008,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,30,0,0,30,35
+2008,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou,U,U,17,11,7,59,0,0,94,22,21,11,147,0,0,201,295
+2008,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,8,7,0,0,15,0,9,7,19,0,0,35,50
+2008,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou,U,U,13,11,5,61,0,0,90,11,10,6,68,0,0,95,185
+2008,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,802,878,451,1504,149,0,3784,780,813,368,1141,150,0,3252,7036
+2008,SEN,MRT,Senegal,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,SLE,MRT,Sierra Leone,Mauritania,REF,Nouakchott/Nouadhibou,U,U,10,11,6,87,8,0,122,15,10,6,156,8,0,195,317
+2008,SDN,MRT,Sudan,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,5,5,0,0,10,10
+2008,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,6,6,0,0,12,0,5,0,34,0,0,39,51
+2008,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2009,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2009,TCD,MRT,Chad,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2009,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,16,0,0,16,21
+2009,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,5,13,0,0,18,0,0,5,16,0,0,21,39
+2009,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,10,5,5,18,0,0,38,0,6,7,35,0,0,48,86
+2009,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,8,0,0,0,0,8,0,0,0,8,0,0,8,16
+2009,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,6,0,0,6,0,0,0,33,0,0,33,39
+2009,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2009,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,5,0,0,0,0,0,5,0,0,0,10,0,0,10,15
+2009,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou,U,U,19,11,9,66,0,0,105,23,22,13,167,0,0,225,330
+2009,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,8,7,0,0,15,0,9,7,19,0,0,35,50
+2009,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou,U,U,13,11,5,60,0,0,89,11,10,6,68,0,0,95,184
+2009,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12012
+2009,MLI,MRT,Mali,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2009,SEN,MRT,Senegal,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2009,SDN,MRT,Sudan,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2009,TGO,MRT,Togo,Mauritania,ASY,Nouakchott/Nouadhibou,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2009,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou,U,U,0,0,6,6,0,0,12,0,5,0,34,0,0,39,51
+2009,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2010,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2010,TCD,MRT,Chad,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2010,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,5,0,0,5,0,0,0,15,0,0,15,20
+2010,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,5,5,10,0,0,20,0,0,0,32,0,0,32,52
+2010,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,10,5,5,28,0,0,48,0,6,8,41,0,0,55,103
+2010,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2010,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,50,0,0,50,50
+2010,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2010,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,5,5,5,0,0,15,6,0,0,46,0,0,52,67
+2010,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,23,11,9,67,0,0,110,27,22,13,167,0,0,229,339
+2010,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,8,7,0,0,15,5,7,5,19,0,0,36,51
+2010,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,6,0,0,6,0,0,0,15,0,0,15,21
+2010,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,9,17,0,27,0,0,53,8,6,0,25,0,0,39,92
+2010,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2010,MRT,MRT,Mauritania,Mauritania,RET,Wilayas : Trarza / Brakna / Gorgol / Guidimakha / Assaba,R,U,173,189,84,313,24,0,783,169,157,68,189,19,0,602,1385
+2010,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2010,SDN,MRT,Sudan,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2010,TGO,MRT,Togo,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2010,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,6,6,0,0,12,0,5,0,31,0,0,36,48
+2010,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2011,TCD,MRT,Chad,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2011,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,COG,MRT,Congo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,5,0,0,0,0,0,5,0,0,0,6,0,0,6,11
+2011,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,7,0,0,7,6,0,5,28,0,0,39,46
+2011,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,7,5,0,26,0,0,38,0,0,8,22,0,0,30,68
+2011,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,5,0,0,0,0,5,0,0,0,5,0,0,5,10
+2011,GIN,MRT,Guinea,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,14,5,0,34,0,0,53,13,7,10,118,0,0,148,201
+2011,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,23,30,14,40,0,0,107,22,21,17,106,0,0,166,273
+2011,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,9,0,6,0,0,15,7,0,0,8,0,0,15,30
+2011,LBR,MRT,Liberia,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,5,17,5,28,0,0,55,6,8,0,20,0,0,34,89
+2011,MRT,MRT,Mauritania,Mauritania,RET,"Regions of Trarza, Brakna, Gorgol, Guidimakha and Assaba",R,U,131,209,101,272,23,0,736,173,176,73,188,21,0,631,1367
+2011,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2011,SEN,MRT,Senegal,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2011,TGO,MRT,Togo,Mauritania,REF,Nouakchott/Nouadhibou : Point,U,U,0,9,0,6,0,0,15,0,0,0,16,0,0,16,31
+2011,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2012,BDI,MRT,Burundi,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2012,BEN,MRT,Benin,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2012,TCD,MRT,Chad,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2012,TCD,MRT,Chad,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2012,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,7,0,0,7,0,0,0,18,0,0,18,25
+2012,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,COG,MRT,Congo,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2012,COG,MRT,Congo,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2012,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,8,10,5,51,0,0,74,8,7,6,85,0,0,106,180
+2012,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,7,5,0,28,0,0,40,7,0,0,23,0,0,30,70
+2012,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,8,0,0,0,0,8,0,0,0,5,0,0,5,13
+2012,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,GIN,MRT,Guinea,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,21,5,5,109,0,0,140,21,12,25,281,0,0,339,479
+2012,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,17,28,13,49,0,0,107,22,19,18,110,0,0,169,276
+2012,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2012,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,5,0,0,8,0,13,0,0,7,10,0,0,17,30
+2012,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2012,LBR,MRT,Liberia,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+2012,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,R,I,320,380,165,593,36,0,1494,289,381,150,381,41,0,1242,2736
+2012,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3472
+2012,MLI,MRT,Mali,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2012,MLI,MRT,Mali,Mauritania,REF,Mbera,R,S,6289,6544,2972,12953,866,0,29624,6299,6633,2633,8119,721,0,24405,54029
+2012,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2012,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,33,0,0,33,33
+2012,SEN,MRT,Senegal,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2012,SDN,MRT,Sudan,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2012,TGO,MRT,Togo,Mauritania,ASY,Nouakchott & Nouadhibou:points,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2012,TGO,MRT,Togo,Mauritania,REF,Nouakchott & Nouadhibou:points,U,I,0,8,0,7,0,0,15,0,5,0,13,0,0,18,33
+2012,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2013,BDI,MRT,Burundi,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2013,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,7,8,0,0,15,0,5,0,8,0,0,13,28
+2013,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2013,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,6,0,0,11,5,0,0,16,0,0,21,32
+2013,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2013,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2013,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,9,28,0,0,42,5,7,0,29,0,0,41,83
+2013,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,7,5,0,16,0,0,28,5,0,0,15,0,0,20,48
+2013,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,5,0,0,10,0,0,0,6,0,0,6,16
+2013,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2013,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,27,32,12,98,0,0,169,30,25,25,272,0,0,352,521
+2013,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,12,23,16,44,0,0,95,18,17,23,73,0,0,131,226
+2013,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,9,0,0,0,9,0,0,6,8,0,0,14,23
+2013,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2013,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2013,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,5482,9555,3708,15693,1910,0,36348,5483,9391,3830,9925,1416,0,30045,66393
+2013,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,9,0,0,9,5,0,0,10,0,0,15,24
+2013,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,7,0,0,7,0,0,0,57,0,0,57,64
+2013,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,14,0,0,19,9,0,0,8,5,0,22,41
+2013,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2013,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,6,0,6,0,0,12,0,0,0,15,0,0,15,27
+2013,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2014,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,15,12,6,23,0,0,56,8,7,5,22,0,0,42,98
+2014,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,14,26,26,52,5,0,123,12,29,13,40,0,0,94,217
+2014,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2014,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,8,0,0,8,0,0,0,15,0,0,15,23
+2014,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2014,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,7,12,0,0,24,0,6,0,11,0,0,17,41
+2014,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,7,6,0,18,0,0,31,7,0,0,18,0,0,25,56
+2014,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2014,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,6,0,0,0,0,6,0,0,0,5,0,0,5,11
+2014,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,9,8,0,23,0,0,40,7,5,5,71,0,0,88,128
+2014,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,13,26,16,56,0,0,111,19,23,22,93,0,0,157,268
+2014,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,9,0,0,9,0,0,5,14,0,0,19,28
+2014,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,4581,6851,2692,11641,1440,0,27205,4586,6640,2628,6790,1063,0,21707,48912
+2014,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,5,0,0,12,0,0,17,23
+2014,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,25,0,0,25,25
+2014,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,27,0,0,27,27
+2014,SOM,MRT,Somalia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,8,0,0,0,0,8,0,0,0,0,0,0,0,8
+2014,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,7,0,0,12,0,0,19,8,5,0,22,0,0,35,54
+2014,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,14,5,0,19,5,0,0,12,5,0,22,41
+2014,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2014,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,6,0,8,0,0,14,5,0,0,11,0,0,16,30
+2014,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2015,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,7,0,0,12,0,0,19,5,5,6,12,0,0,28,47
+2015,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,37,59,39,97,7,0,239,30,37,27,77,0,0,171,410
+2015,TCD,MRT,Chad,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2015,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,8,0,0,0,0,0,8,5,0,0,14,0,0,19,27
+2015,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2015,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2015,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,5,8,0,19,0,0,32,7,0,0,19,0,0,26,58
+2015,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2015,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2015,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,7,0,0,13,0,0,5,10,0,0,15,28
+2015,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2015,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,7,0,8,0,0,15,0,6,0,9,0,0,15,30
+2015,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2015,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,7,7,0,23,0,0,37,8,6,0,56,0,0,70,107
+2015,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,12,27,18,57,0,0,114,13,25,20,90,5,0,153,267
+2015,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,5,0,0,0,5,10
+2015,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,9,0,0,9,0,0,0,17,5,0,22,31
+2015,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2015,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,4077,7227,3034,12069,1458,0,27865,4138,6982,2987,7129,1127,0,22363,50228
+2015,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,18,0,0,23,5,0,5,50,0,0,60,83
+2015,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,8,0,0,8,13
+2015,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,6,0,0,11,0,0,0,23,0,0,23,34
+2015,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,43,0,0,43,48
+2015,SOM,MRT,Somalia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2015,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,7,9,10,20,0,0,46,0,10,11,40,0,0,61,107
+2015,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,10,18,16,57,5,0,106,11,14,12,67,5,0,109,215
+2015,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2015,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,6,0,8,0,0,14,5,0,0,12,0,0,17,31
+2015,UKR,MRT,Ukraine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2015,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26007
+2016,AFG,MRT,Afghanistan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,7,0,0,0,7,7
+2016,BDI,MRT,Burundi,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,5,0,7,0,0,17,10,15,14,21,0,0,60,77
+2016,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,49,79,61,123,7,0,319,17,32,37,118,5,0,209,528
+2016,TCD,MRT,Chad,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2016,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,8,0,0,8,0,0,0,17,0,0,17,25
+2016,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2016,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2016,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,9,10,0,0,24,5,0,6,15,0,0,26,50
+2016,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2016,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2016,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,9,0,9,0,0,18,0,0,8,18,0,0,26,44
+2016,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2016,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,7,0,0,5,0,0,12,0,6,0,11,0,0,17,29
+2016,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2016,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,6,0,0,20,0,0,26,7,0,0,34,0,0,41,67
+2016,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,12,26,22,52,0,0,112,14,25,16,89,5,0,149,261
+2016,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,9,8,0,0,17,0,0,5,19,0,0,24,41
+2016,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2016,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2016,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,3252,6208,3093,11144,1384,0,25081,3298,6069,3143,7899,1149,0,21558,46639
+2016,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2016,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,6,5,0,27,0,0,38,5,0,5,69,0,0,79,117
+2016,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,5,0,0,6,0,0,11,16
+2016,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,5,0,0,10,0,0,0,49,0,0,49,59
+2016,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,48,0,0,48,53
+2016,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2016,SOM,MRT,Somalia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2016,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,7,0,0,7,12
+2016,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,6,8,5,18,0,0,37,17,16,14,31,5,0,83,120
+2016,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,18,39,34,109,8,0,208,15,24,28,133,9,0,209,417
+2016,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2016,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,9,0,0,14,0,5,0,12,0,0,17,31
+2016,UKR,MRT,Ukraine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2016,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2016,YEM,MRT,Yemen,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,AFG,MRT,Afghanistan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,7,0,0,0,7,7
+2017,DZA,MRT,Algeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,0,7,0,0,0,0,7,13
+2017,EGY,MRT,Egypt,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,BDI,MRT,Burundi,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,BEN,MRT,Benin,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2017,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,8,6,20,0,0,39,5,0,8,18,0,0,31,70
+2017,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,33,79,54,133,9,0,308,35,49,49,109,5,0,247,555
+2017,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,10,0,0,13,0,0,23,0,0,0,24,0,0,24,47
+2017,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2017,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2017,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2017,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,5,0,0,10,0,5,0,7,0,0,12,22
+2017,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,11,0,14,0,0,25,0,6,0,16,0,0,22,47
+2017,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2017,GAB,MRT,Gabon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,6,0,0,6,0,5,0,15,0,0,20,26
+2017,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,5,5,0,6,0,0,16,0,0,8,11,5,0,24,40
+2017,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,9,0,0,9,8,0,0,28,0,0,36,45
+2017,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2017,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,6,0,0,13,0,0,19,6,0,5,34,0,0,45,64
+2017,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,14,26,20,58,0,0,118,10,29,16,91,5,0,151,269
+2017,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,5,9,0,0,14,0,0,5,19,0,0,24,38
+2017,LBY,MRT,Libya,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2017,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,5,6,0,0,11,0,0,0,18,0,0,18,29
+2017,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,5025,6555,3178,11143,1124,0,27025,5071,6211,3056,7439,1022,0,22799,49824
+2017,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2017,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,6,0,0,11,0,5,0,54,0,0,59,70
+2017,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,5,0,0,7,0,0,12,17
+2017,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,12,0,0,12,0,0,0,42,0,0,42,54
+2017,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,5,0,0,5,0,0,0,65,0,0,65,70
+2017,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,8,0,0,8,0,0,0,13,0,0,13,21
+2017,SOM,MRT,Somalia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,SOM,MRT,Somalia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,SSD,MRT,South Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,0,0,0,0,0,0,0,26,0,0,26,26
+2017,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,7,0,0,7,12
+2017,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,6,7,5,27,0,0,45,8,13,7,39,0,0,67,112
+2017,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,25,38,28,121,7,0,219,16,34,26,157,12,0,245,464
+2017,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,0,6,0,0,6,0,0,0,11,0,0,11,17
+2017,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,6,9,0,0,15,5,0,0,10,0,0,15,30
+2017,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping,U,I,9,5,0,20,0,0,34,5,5,5,22,0,0,37,71
+2017,UKR,MRT,Ukraine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2017,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2017,YEM,MRT,Yemen,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,AFG,MRT,Afghanistan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2018,DZA,MRT,Algeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,BEN,MRT,Benin,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,10,11,7,19,0,0,47,5,9,5,26,0,0,45,92
+2018,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,35,82,59,135,10,0,321,33,46,56,102,0,0,237,558
+2018,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,CHN,MRT,China,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2018,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,11,0,0,16,0,5,0,23,0,0,28,44
+2018,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,6,0,0,6,13
+2018,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2018,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,0,0,0,5,0,0,0,5,0,0,5,10
+2018,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,11,0,15,0,0,26,0,5,0,12,0,0,17,43
+2018,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2018,GAB,MRT,Gabon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2018,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,8,0,0,13,0,0,5,16,0,0,21,34
+2018,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,8,0,0,7,0,0,15,0,5,0,9,0,0,14,29
+2018,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2018,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,13,0,0,13,0,5,0,17,0,0,22,35
+2018,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,7,5,21,0,0,38,5,5,5,45,0,0,60,98
+2018,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2018,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,6,17,0,0,28,8,0,5,42,0,0,55,83
+2018,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,14,22,22,55,0,0,113,14,27,18,82,5,0,146,259
+2018,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,10,0,0,10,0,0,5,9,0,0,14,24
+2018,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,18,0,0,18,23
+2018,LBR,MRT,Liberia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2018,LBN,MRT,Lebanon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,11,0,0,11,0,0,0,17,0,0,17,28
+2018,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,4949,7053,4127,12691,1274,0,30094,5089,6730,3951,8707,1209,0,25686,55780
+2018,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MAR,MRT,Morocco,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2018,NER,MRT,Niger,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2018,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,9,0,0,14,0,0,0,61,0,0,61,75
+2018,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,6,0,0,6,11
+2018,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,21,0,0,21,5,0,0,32,0,0,37,58
+2018,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,52,0,0,52,57
+2018,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,12,7,6,57,0,0,82,10,11,6,217,0,0,244,326
+2018,SSD,MRT,South Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2018,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,17,0,0,17,17
+2018,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,6,0,0,6,11
+2018,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,12,0,0,17,9,0,0,21,0,0,30,47
+2018,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,19,24,16,85,8,0,152,18,23,22,107,10,0,180,332
+2018,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,12,0,0,17,0,7,0,16,0,0,23,40
+2018,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,6,6,0,0,12,5,0,0,7,0,0,12,24
+2018,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,9,0,0,9,0,6,0,9,0,0,15,24
+2018,UKR,MRT,Ukraine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2018,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2018,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,7,0,0,7,12
+2019,BEN,MRT,Benin,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2019,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,5,0,13,0,0,18,25
+2019,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,10,9,5,14,0,0,38,5,9,0,22,0,0,36,74
+2019,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,39,90,64,155,10,0,358,35,51,56,122,0,0,264,622
+2019,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2019,CHN,MRT,China,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,CHN,MRT,China,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,7,0,33,0,0,45,9,0,0,75,0,0,84,129
+2019,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,5,0,6,0,0,11,18
+2019,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2019,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,9,0,0,0,9,7,0,0,12,0,0,19,28
+2019,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,7,0,12,0,0,19,0,5,0,8,0,0,13,32
+2019,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2019,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,9,0,0,9,14
+2019,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,8,0,0,0,0,0,8,0,0,0,19,0,0,19,27
+2019,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,5,5,12,0,0,27,0,5,5,18,5,0,33,60
+2019,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2019,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,5,0,9,0,0,14,19
+2019,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,12,9,5,42,0,0,68,17,8,0,91,0,0,116,184
+2019,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2019,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,7,5,31,0,0,48,6,5,0,77,0,0,88,136
+2019,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,17,22,22,58,0,0,119,16,26,17,81,5,0,145,264
+2019,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,10,0,0,10,0,0,5,9,0,0,14,24
+2019,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,31,0,0,31,31
+2019,LBR,MRT,Liberia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2019,LBN,MRT,Lebanon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2019,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,13,13,0,32,0,0,58,18,7,5,79,0,0,109,167
+2019,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,5312,7211,4553,12608,1182,0,30866,5225,6890,4285,8288,1108,0,25796,56662
+2019,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,68,59,33,166,0,0,326,59,66,30,236,13,0,404,730
+2019,MAR,MRT,Morocco,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,7,0,0,0,0,7,7
+2019,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,15,0,0,20,0,0,6,80,0,0,86,106
+2019,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,6,0,0,6,11
+2019,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2019,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,36,0,0,41,0,6,0,77,0,0,83,124
+2019,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,45,0,0,45,45
+2019,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,7,6,5,42,0,0,60,5,5,5,138,0,0,153,213
+2019,SOM,MRT,Somalia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2019,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,5,5,0,0,10,10
+2019,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,11,0,0,16,0,0,5,15,0,0,20,36
+2019,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,20,24,20,86,9,0,159,29,25,18,112,12,0,196,355
+2019,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,19,0,0,24,8,5,0,46,0,0,59,83
+2019,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,6,0,0,11,0,5,0,7,0,0,12,23
+2019,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,5,0,0,10,0,8,0,6,0,0,14,24
+2019,UKR,MRT,Ukraine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2019,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2019,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,7,0,8,0,0,15,6,0,0,16,0,0,22,37
+2019,YEM,MRT,Yemen,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,0,0,0,5,0,0,0,5,0,0,5,10
+2020,BEN,MRT,Benin,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2020,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,8,0,0,0,0,8,15
+2020,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,7,7,5,18,0,0,37,5,7,0,20,0,0,32,69
+2020,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,39,89,66,165,10,0,369,28,59,58,125,5,0,275,644
+2020,TCD,MRT,Chad,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,TCD,MRT,Chad,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2020,CHN,MRT,China,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,10,0,31,0,0,41,5,0,5,77,0,0,87,128
+2020,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,7,0,0,7,14
+2020,COG,MRT,Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,9,0,0,9,16
+2020,COG,MRT,Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2020,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,6,5,0,0,11,9,0,0,16,0,0,25,36
+2020,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,7,0,12,0,0,19,0,5,0,7,0,0,12,31
+2020,ETH,MRT,Ethiopia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2020,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2020,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,0,0,0,5,0,0,0,25,0,0,25,30
+2020,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,6,6,6,16,0,0,34,0,6,6,23,5,0,40,74
+2020,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2020,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,5,0,5,0,0,10,10
+2020,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,8,9,5,23,0,0,45,7,0,7,75,0,0,89,134
+2020,GIN,MRT,Guinea,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2020,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,7,5,38,0,0,55,7,0,5,71,0,0,83,138
+2020,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,16,25,23,66,0,0,130,16,27,17,83,5,0,148,278
+2020,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,10,0,0,10,0,0,0,10,5,0,15,25
+2020,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,16,0,0,16,21
+2020,LBR,MRT,Liberia,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2020,LBY,MRT,Libya,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,7,0,0,7,0,0,5,5,0,0,10,17
+2020,MLI,MRT,Mali,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,72,56,20,129,0,0,277,74,40,15,352,5,0,486,763
+2020,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,5651,8014,5299,14244,1507,0,34715,5447,7743,4864,9735,1359,0,29148,63863
+2020,MLI,MRT,Mali,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,187,205,93,442,12,0,939,187,216,95,616,31,0,1145,2084
+2020,NER,MRT,Niger,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,15,0,0,20,7,0,0,59,0,0,66,86
+2020,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,0,0,0,0,0,5,0,0,0,6,0,0,6,11
+2020,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2020,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,7,0,32,0,0,39,0,0,9,83,0,0,92,131
+2020,SEN,MRT,Senegal,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,14,0,0,14,0,0,0,74,0,0,74,88
+2020,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,8,0,0,12,0,0,20,0,0,7,48,0,0,55,75
+2020,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2020,SDN,MRT,Sudan,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,0,0,0,0,0,0,5,6,0,0,11,11
+2020,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,5,5,0,15,0,0,25,9,0,0,21,0,0,30,55
+2020,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,21,24,20,91,10,0,166,25,24,21,119,9,0,198,364
+2020,TGO,MRT,Togo,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,14,0,0,27,0,0,41,8,8,0,66,0,0,82,123
+2020,TGO,MRT,Togo,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,5,6,0,0,11,6,0,0,7,0,0,13,24
+2020,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,6,0,0,6,0,0,12,9,0,0,6,0,0,15,27
+2020,TUR,MRT,Türkiye,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2020,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2020,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,5,0,5,0,0,10,0,6,0,11,0,0,17,27
+2020,YEM,MRT,Yemen,Mauritania,REF,Nouakchott and Nouadhibou : Regional grouping - do not use anymore,U,I,0,7,0,8,0,0,15,0,7,0,14,0,0,21,36
+2021,BEN,MRT,Benin,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2021,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2021,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott,U,I,8,0,0,10,0,0,18,8,0,0,37,0,0,45,63
+2021,BFA,MRT,Burkina Faso,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,5,0,5,0,0,10,10
+2021,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2021,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott,U,I,5,9,5,24,0,0,43,6,7,5,33,0,0,51,94
+2021,CAF,MRT,Central African Republic,Mauritania,REF,Nouadhibou,U,I,0,8,0,0,0,0,8,0,0,5,8,0,0,13,21
+2021,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott,U,I,34,81,63,176,10,0,364,25,56,49,133,5,0,268,632
+2021,TCD,MRT,Chad,Mauritania,ASY,Nouakchott,U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2021,TCD,MRT,Chad,Mauritania,REF,Nouadhibou,U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2021,CHN,MRT,China,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,CMR,MRT,Cameroon,Mauritania,ASY,Nouadhibou,U,I,0,0,0,7,0,0,7,0,0,0,13,0,0,13,20
+2021,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott,U,I,0,7,0,27,0,0,34,9,0,0,68,0,0,77,111
+2021,CMR,MRT,Cameroon,Mauritania,REF,Nouadhibou,U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2021,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott,U,I,0,0,0,6,0,0,6,0,0,0,7,0,0,7,13
+2021,COG,MRT,Congo,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,9,0,0,0,9,14
+2021,COG,MRT,Congo,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2021,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouadhibou,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2021,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott,U,I,0,0,8,0,0,0,8,0,5,0,11,0,0,16,24
+2021,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,I,0,7,0,12,0,0,19,0,5,0,7,0,0,12,31
+2021,ETH,MRT,Ethiopia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2021,ETH,MRT,Ethiopia,Mauritania,REF,Nouadhibou,U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2021,GMB,MRT,Gambia,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2021,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2021,PSE,MRT,State of Palestine,Mauritania,ASY,Nouadhibou,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2021,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott,U,I,5,0,0,6,0,0,11,0,0,0,26,0,0,26,37
+2021,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott,U,I,5,5,6,18,0,0,34,5,5,0,29,5,0,44,78
+2021,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2021,GIN,MRT,Guinea,Mauritania,ASY,Nouadhibou,U,I,0,6,0,5,0,0,11,0,0,0,20,0,0,20,31
+2021,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott,U,I,7,6,0,26,0,0,39,5,5,5,77,0,0,92,131
+2021,GIN,MRT,Guinea,Mauritania,REF,Nouadhibou,U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2021,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouadhibou,U,I,7,5,0,14,0,0,26,5,0,5,24,0,0,34,60
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott,U,I,11,7,6,51,0,0,75,9,5,0,72,0,0,86,161
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouadhibou,U,I,0,0,7,14,0,0,21,5,5,0,20,0,0,30,51
+2021,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott,U,I,11,20,20,55,0,0,106,13,17,19,66,5,0,120,226
+2021,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott,U,I,0,0,0,10,0,0,10,0,0,0,9,5,0,14,24
+2021,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,17,0,0,17,17
+2021,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2021,LBY,MRT,Libya,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,11,0,0,11,16
+2021,LBY,MRT,Libya,Mauritania,REF,Nouakchott,U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2021,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott,U,I,0,6,0,0,0,0,6,0,0,0,8,0,0,8,14
+2021,MLI,MRT,Mali,Mauritania,ASY,Nouadhibou,U,I,31,25,17,70,0,0,143,34,25,9,207,0,0,275,418
+2021,MLI,MRT,Mali,Mauritania,ASY,Nouakchott,U,I,109,94,37,225,0,0,465,102,90,30,601,10,0,833,1298
+2021,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,6244,8861,5672,15176,1519,0,37472,6050,8546,5271,10441,1369,0,31677,69149
+2021,MLI,MRT,Mali,Mauritania,REF,Nouadhibou,U,I,125,94,38,244,5,0,506,115,100,30,601,10,0,856,1362
+2021,MLI,MRT,Mali,Mauritania,REF,Nouakchott,U,I,330,376,165,769,16,0,1656,328,382,152,1109,58,0,2029,3685
+2021,NER,MRT,Niger,Mauritania,ASY,Nouakchott,U,I,0,0,0,7,0,0,7,0,7,0,5,0,0,12,19
+2021,NER,MRT,Niger,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,NGA,MRT,Nigeria,Mauritania,ASY,Nouadhibou,U,I,0,0,0,6,0,0,6,0,0,0,18,0,0,18,24
+2021,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott,U,I,0,0,0,13,0,0,13,0,0,0,31,0,0,31,44
+2021,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott,U,I,6,0,0,0,0,0,6,0,7,0,0,0,0,7,13
+2021,RUS,MRT,Russian Federation,Mauritania,REF,Nouakchott,U,I,5,0,0,0,0,0,5,0,6,0,0,0,0,6,11
+2021,SEN,MRT,Senegal,Mauritania,ASY,Nouadhibou,U,I,0,0,5,10,0,0,15,0,0,0,12,0,0,12,27
+2021,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott,U,I,6,6,0,42,0,0,54,5,5,0,122,0,0,132,186
+2021,SEN,MRT,Senegal,Mauritania,REF,Nouadhibou,U,I,0,0,0,6,0,0,6,0,0,0,8,0,0,8,14
+2021,SEN,MRT,Senegal,Mauritania,REF,Nouakchott,U,I,0,0,0,13,0,0,13,0,0,0,80,0,0,80,93
+2021,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2021,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott,U,I,5,0,5,23,0,0,33,0,0,9,90,0,0,99,132
+2021,SOM,MRT,Somalia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,SOM,MRT,Somalia,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,18,0,0,18,18
+2021,SDN,MRT,Sudan,Mauritania,REF,Nouakchott,U,I,0,5,0,0,0,0,5,0,0,0,8,0,0,8,13
+2021,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2021,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott,U,I,8,5,10,30,5,0,58,10,12,7,47,0,0,76,134
+2021,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouadhibou,U,I,0,5,0,10,0,0,15,5,0,0,7,0,0,12,27
+2021,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott,U,I,14,29,19,80,11,0,153,19,24,19,118,8,0,188,341
+2021,TGO,MRT,Togo,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,TGO,MRT,Togo,Mauritania,ASY,Nouakchott,U,I,11,5,0,30,0,0,46,12,9,0,64,0,0,85,131
+2021,TGO,MRT,Togo,Mauritania,REF,Nouakchott,U,I,0,0,0,8,0,0,8,0,9,0,0,0,0,9,17
+2021,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott,U,I,0,8,0,0,0,0,8,0,0,7,0,0,0,7,15
+2021,TUR,MRT,Türkiye,Mauritania,REF,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2021,ESH,MRT,Western Sahara,Mauritania,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26000
+2021,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott,U,I,0,8,0,6,0,0,14,0,9,0,19,0,0,28,42
+2021,YEM,MRT,Yemen,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,9,0,0,0,0,0,9,9
+2021,YEM,MRT,Yemen,Mauritania,REF,Nouakchott,U,I,0,6,0,8,0,0,14,0,7,0,15,0,0,22,36
+2022,BEN,MRT,Benin,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2022,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2022,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott,U,I,6,5,0,14,0,0,25,6,7,0,57,0,0,70,95
+2022,BFA,MRT,Burkina Faso,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott,U,I,0,7,0,0,0,0,7,0,0,0,7,0,0,7,14
+2022,CAF,MRT,Central African Republic,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott,U,I,5,9,6,28,0,0,48,12,9,0,36,0,0,57,105
+2022,CAF,MRT,Central African Republic,Mauritania,REF,Nouadhibou,U,I,0,8,0,0,0,0,8,0,0,5,7,0,0,12,20
+2022,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott,U,I,30,74,69,187,11,0,371,24,58,49,143,5,0,279,650
+2022,TCD,MRT,Chad,Mauritania,ASY,Nouakchott,U,I,0,0,0,7,0,0,7,0,0,0,8,0,0,8,15
+2022,CHN,MRT,China,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,CMR,MRT,Cameroon,Mauritania,ASY,Nouadhibou,U,I,0,0,0,11,0,0,11,0,0,0,10,0,0,10,21
+2022,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott,U,I,5,6,0,41,0,0,52,7,0,5,82,0,0,94,146
+2022,CMR,MRT,Cameroon,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2022,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2022,COG,MRT,Congo,Mauritania,ASY,Nouakchott,U,I,0,0,0,8,0,0,8,0,0,6,9,0,0,15,23
+2022,COG,MRT,Congo,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2022,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouadhibou,U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2022,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott,U,I,0,0,8,0,0,0,8,0,0,0,14,0,0,14,22
+2022,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,I,0,0,6,11,0,0,17,0,7,0,9,0,0,16,33
+2022,ETH,MRT,Ethiopia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2022,ETH,MRT,Ethiopia,Mauritania,REF,Nouadhibou,U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2022,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,PSE,MRT,State of Palestine,Mauritania,ASY,Nouadhibou,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2022,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott,U,I,0,0,0,9,0,0,9,0,5,0,16,0,0,21,30
+2022,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott,U,I,0,7,8,18,0,0,33,5,7,0,29,5,0,46,79
+2022,GHA,MRT,Ghana,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,GIN,MRT,Guinea,Mauritania,ASY,Nouadhibou,U,I,0,0,5,6,0,0,11,0,5,0,18,0,0,23,34
+2022,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott,U,I,11,11,5,42,0,0,69,10,15,7,120,5,0,157,226
+2022,GIN,MRT,Guinea,Mauritania,REF,Nouadhibou,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2022,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouadhibou,U,I,0,8,0,10,0,0,18,0,0,5,13,0,0,18,36
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott,U,I,0,9,0,32,0,0,41,8,0,0,80,0,0,88,129
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouadhibou,U,I,0,0,5,9,0,0,14,0,7,0,15,0,0,22,36
+2022,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott,U,I,5,11,13,41,0,0,70,5,7,7,44,0,0,63,133
+2022,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott,U,I,0,0,0,10,0,0,10,0,0,0,9,5,0,14,24
+2022,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott,U,I,0,0,0,6,0,0,6,0,0,0,17,0,0,17,23
+2022,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2022,LBY,MRT,Libya,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,LBY,MRT,Libya,Mauritania,REF,Nouakchott,U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2022,LBN,MRT,Lebanon,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,8,0,0,0,0,8,8
+2022,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott,U,I,0,6,5,11,0,0,22,5,7,5,10,0,0,27,49
+2022,MLI,MRT,Mali,Mauritania,ASY,Nouadhibou,U,I,40,54,15,98,0,0,207,53,35,10,407,5,0,510,717
+2022,MLI,MRT,Mali,Mauritania,ASY,Nouakchott,U,I,228,196,78,463,5,0,970,212,160,63,1071,18,0,1524,2494
+2022,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,8755,11368,7066,19492,1814,0,48495,8503,10808,6617,15174,1666,0,42768,91263
+2022,MLI,MRT,Mali,Mauritania,REF,Nouadhibou,U,I,168,134,50,336,5,0,693,147,123,45,1116,15,0,1446,2139
+2022,MLI,MRT,Mali,Mauritania,REF,Nouakchott,U,I,483,548,258,1268,24,0,2581,517,571,221,1926,79,0,3314,5895
+2022,NER,MRT,Niger,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,NER,MRT,Niger,Mauritania,ASY,Nouakchott,U,I,9,0,0,10,0,0,19,7,8,0,15,0,0,30,49
+2022,NER,MRT,Niger,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,NGA,MRT,Nigeria,Mauritania,ASY,Nouadhibou,U,I,0,5,0,19,0,0,24,0,5,0,61,0,0,66,90
+2022,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott,U,I,0,0,0,22,0,0,22,0,0,0,43,0,0,43,65
+2022,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott,U,I,0,0,7,0,0,0,7,0,7,0,0,0,0,7,14
+2022,RUS,MRT,Russian Federation,Mauritania,REF,Nouakchott,U,I,5,0,0,0,0,0,5,0,6,0,0,0,0,6,11
+2022,RWA,MRT,Rwanda,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2022,SEN,MRT,Senegal,Mauritania,ASY,Nouadhibou,U,I,0,0,0,10,0,0,10,0,0,0,8,0,0,8,18
+2022,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott,U,I,5,5,0,58,0,0,68,6,5,5,160,0,0,176,244
+2022,SEN,MRT,Senegal,Mauritania,REF,Nouadhibou,U,I,0,0,0,9,0,0,9,0,0,0,14,0,0,14,23
+2022,SEN,MRT,Senegal,Mauritania,REF,Nouakchott,U,I,0,0,0,11,0,0,11,0,0,0,87,0,0,87,98
+2022,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2022,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott,U,I,8,0,0,34,0,0,42,0,8,0,134,0,0,142,184
+2022,SOM,MRT,Somalia,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2022,SOM,MRT,Somalia,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,SDN,MRT,Sudan,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,17,0,0,17,17
+2022,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2022,SDN,MRT,Sudan,Mauritania,REF,Nouakchott,U,I,0,0,5,0,0,0,5,0,0,0,8,0,0,8,13
+2022,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouadhibou,U,I,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2022,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott,U,I,12,16,13,47,0,0,88,12,23,9,61,0,0,105,193
+2022,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouadhibou,U,I,0,0,0,11,0,0,11,0,0,0,8,0,0,8,19
+2022,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott,U,I,9,35,14,87,14,0,159,16,30,22,121,11,0,200,359
+2022,TGO,MRT,Togo,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,TGO,MRT,Togo,Mauritania,ASY,Nouakchott,U,I,15,9,0,33,0,0,57,13,7,0,89,0,0,109,166
+2022,TGO,MRT,Togo,Mauritania,REF,Nouakchott,U,I,0,0,0,8,0,0,8,0,9,0,0,0,0,9,17
+2022,TUN,MRT,Tunisia,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2022,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott,U,I,0,8,0,0,0,0,8,0,0,0,7,0,0,7,15
+2022,TUR,MRT,Türkiye,Mauritania,REF,Nouadhibou,U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2022,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott,U,I,5,0,0,5,0,0,10,0,5,0,14,0,0,19,29
+2022,YEM,MRT,Yemen,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,9,0,0,0,0,0,9,9
+2022,YEM,MRT,Yemen,Mauritania,REF,Nouakchott,U,I,0,5,0,9,0,0,14,0,7,0,15,0,0,22,36
+2023,BEN,MRT,Benin,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2023,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,12,0,0,12,17
+2023,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott,U,I,6,6,0,15,0,0,27,5,6,0,50,0,0,61,88
+2023,BFA,MRT,Burkina Faso,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,5,0,0,6,0,0,11,11
+2023,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott,U,I,0,0,9,0,0,0,9,6,0,0,14,0,0,20,29
+2023,CAF,MRT,Central African Republic,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2023,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott,U,I,0,6,7,24,0,0,37,12,6,0,31,0,0,49,86
+2023,CAF,MRT,Central African Republic,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2023,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott,U,I,30,70,70,195,10,0,375,25,52,46,153,5,0,281,656
+2023,TCD,MRT,Chad,Mauritania,ASY,Nouakchott,U,I,0,0,0,8,0,0,8,0,0,0,8,0,0,8,16
+2023,CHN,MRT,China,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,CMR,MRT,Cameroon,Mauritania,ASY,Nouadhibou,U,I,0,5,0,5,0,0,10,0,0,0,14,0,0,14,24
+2023,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott,U,I,5,5,0,42,0,0,52,6,5,0,48,0,0,59,111
+2023,CMR,MRT,Cameroon,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2023,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2023,COG,MRT,Congo,Mauritania,ASY,Nouakchott,U,I,0,0,6,11,0,0,17,0,7,0,7,0,0,14,31
+2023,COG,MRT,Congo,Mauritania,REF,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2023,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott,U,I,0,7,0,5,0,0,12,0,0,0,14,0,0,14,26
+2023,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouadhibou,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2023,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott,U,I,0,0,6,13,0,0,19,0,8,0,8,0,0,16,35
+2023,ETH,MRT,Ethiopia,Mauritania,REF,Nouadhibou,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2023,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2023,PSE,MRT,State of Palestine,Mauritania,ASY,Nouadhibou,U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2023,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,6,0,9,0,0,15,20
+2023,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott,U,I,0,6,8,18,0,0,32,5,7,0,27,6,0,45,77
+2023,GHA,MRT,Ghana,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2023,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott,U,I,0,5,0,6,0,0,11,0,0,0,8,0,0,8,19
+2023,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott,U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2023,GIN,MRT,Guinea,Mauritania,ASY,Nouadhibou,U,I,0,0,5,8,0,0,13,0,0,0,21,0,0,21,34
+2023,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott,U,I,26,15,8,58,0,0,107,18,28,10,124,5,0,185,292
+2023,GIN,MRT,Guinea,Mauritania,REF,Nouadhibou,U,I,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+2023,GIN,MRT,Guinea,Mauritania,REF,Nouakchott,U,I,0,0,0,7,0,0,7,0,0,0,6,0,0,6,13
+2023,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2023,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott,U,I,0,6,0,15,0,0,21,0,5,0,41,0,0,46,67
+2023,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott,U,I,0,0,7,11,0,0,18,0,5,0,9,0,0,14,32
+2023,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,5,0,0,0,5,10
+2023,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott,U,I,0,0,0,10,0,0,10,0,0,0,8,5,0,13,23
+2023,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott,U,I,5,0,0,0,0,0,5,0,0,0,13,0,0,13,18
+2023,LBR,MRT,Liberia,Mauritania,REF,Nouakchott,U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2023,LBY,MRT,Libya,Mauritania,REF,Nouakchott,U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2023,LBN,MRT,Lebanon,Mauritania,ASY,Nouadhibou,U,I,0,7,0,0,0,0,7,0,8,0,0,0,0,8,15
+2023,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott,U,I,0,7,0,6,0,0,13,0,6,5,7,0,0,18,31
+2023,MLI,MRT,Mali,Mauritania,ASY,Nouadhibou,U,I,37,61,11,117,0,0,226,41,42,10,448,5,0,546,772
+2023,MLI,MRT,Mali,Mauritania,ASY,Nouakchott,U,I,249,225,81,542,9,0,1106,270,203,69,1072,29,0,1643,2749
+2023,MLI,MRT,Mali,Mauritania,REF,Mbera : Point,R,P,7965,12946,8284,22333,2268,0,53796,7742,12326,7763,17135,2045,0,47011,100807
+2023,MLI,MRT,Mali,Mauritania,REF,Nouadhibou,U,I,206,210,71,478,5,0,970,207,192,63,1572,20,0,2054,3024
+2023,MLI,MRT,Mali,Mauritania,REF,Nouakchott,U,I,569,677,306,1562,31,0,3145,612,716,279,2324,90,0,4021,7166
+2023,NER,MRT,Niger,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2023,NER,MRT,Niger,Mauritania,ASY,Nouakchott,U,I,8,0,0,10,0,0,18,5,5,5,16,0,0,31,49
+2023,NER,MRT,Niger,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,NGA,MRT,Nigeria,Mauritania,ASY,Nouadhibou,U,I,0,5,0,69,0,0,74,0,5,0,132,0,0,137,211
+2023,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott,U,I,0,0,0,9,0,0,9,0,0,0,17,0,0,17,26
+2023,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott,U,I,0,0,7,0,0,0,7,0,0,0,8,0,0,8,15
+2023,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott,U,I,0,7,0,0,0,0,7,0,5,0,0,0,0,5,12
+2023,RUS,MRT,Russian Federation,Mauritania,REF,Nouakchott,U,I,0,5,0,0,0,0,5,0,6,0,0,0,0,6,11
+2023,RWA,MRT,Rwanda,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2023,SEN,MRT,Senegal,Mauritania,ASY,Nouadhibou,U,I,8,0,0,38,0,0,46,5,5,0,33,0,0,43,89
+2023,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott,U,I,15,11,6,116,0,0,148,9,12,7,220,0,0,248,396
+2023,SEN,MRT,Senegal,Mauritania,REF,Nouadhibou,U,I,0,0,5,6,0,0,11,0,0,0,11,0,0,11,22
+2023,SEN,MRT,Senegal,Mauritania,REF,Nouakchott,U,I,0,0,0,6,0,0,6,0,0,0,59,0,0,59,65
+2023,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouadhibou,U,I,0,0,5,9,0,0,14,0,0,5,38,0,0,43,57
+2023,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott,U,I,5,0,0,30,0,0,35,6,0,0,104,0,0,110,145
+2023,SDN,MRT,Sudan,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,21,0,0,21,21
+2023,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott,U,I,0,0,0,0,0,0,0,0,0,5,22,0,0,27,27
+2023,SDN,MRT,Sudan,Mauritania,REF,Nouakchott,U,I,0,0,5,0,0,0,5,0,0,0,9,0,0,9,14
+2023,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouadhibou,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2023,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott,U,I,10,11,9,37,0,0,67,10,14,9,51,0,0,84,151
+2023,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouadhibou,U,I,0,0,0,11,0,0,11,0,0,0,8,0,0,8,19
+2023,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott,U,I,8,33,22,95,15,0,173,20,32,26,128,15,0,221,394
+2023,TGO,MRT,Togo,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2023,TGO,MRT,Togo,Mauritania,ASY,Nouakchott,U,I,15,12,5,34,0,0,66,13,8,5,93,0,0,119,185
+2023,TGO,MRT,Togo,Mauritania,REF,Nouakchott,U,I,0,0,0,8,0,0,8,0,9,0,0,0,0,9,17
+2023,TUN,MRT,Tunisia,Mauritania,ASY,Nouakchott,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2023,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott,U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2023,YEM,MRT,Yemen,Mauritania,ASY,Nouadhibou,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott,U,I,0,8,0,0,0,0,8,0,0,5,5,0,0,10,18
+2023,YEM,MRT,Yemen,Mauritania,REF,Nouadhibou,U,I,0,0,0,0,0,0,0,9,0,0,0,0,0,9,9
+2023,YEM,MRT,Yemen,Mauritania,REF,Nouakchott,U,I,0,5,0,7,0,0,12,0,5,0,12,0,0,17,29
+2024,BDI,MRT,Burundi,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2024,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2024,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,BFA,MRT,Burkina Faso,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,22,0,0,22,27
+2024,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,5,0,0,10,0,0,15,5,0,0,26,0,0,31,46
+2024,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,12,0,0,12,19
+2024,BFA,MRT,Burkina Faso,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,5,6,0,0,11,11
+2024,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,6,0,5,0,0,11,7,0,0,9,0,0,16,27
+2024,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2024,CAF,MRT,Central African Republic,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,16,0,0,16,16
+2024,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,7,0,0,0,7,0,0,0,5,0,0,5,12
+2024,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,7,0,0,12,0,6,0,14,0,0,20,32
+2024,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,5,0,7,0,0,12,0,0,7,5,0,0,12,24
+2024,CAF,MRT,Central African Republic,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2024,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,5,17,13,50,0,0,85,6,14,6,23,0,0,49,134
+2024,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,11,15,11,45,5,0,87,6,11,10,41,0,0,68,155
+2024,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,5,14,19,47,6,0,91,5,9,9,37,0,0,60,151
+2024,TCD,MRT,Chad,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,CHN,MRT,China,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,CMR,MRT,Cameroon,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,9,0,0,9,0,0,0,11,0,0,11,20
+2024,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,9,0,0,34,0,0,43,7,0,0,30,0,0,37,80
+2024,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2024,CMR,MRT,Cameroon,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2024,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2024,COG,MRT,Congo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,5,0,0,6,0,0,11,0,0,0,5,0,0,5,16
+2024,COG,MRT,Congo,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,7,0,0,0,7,7
+2024,COG,MRT,Congo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2024,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,8,0,5,0,0,13,0,0,0,17,0,0,17,30
+2024,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,5,12,0,0,17,0,5,0,7,0,0,12,29
+2024,ETH,MRT,Ethiopia,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2024,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+2024,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,8,0,0,0,8,0,7,0,7,0,0,14,22
+2024,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,0,0,5,5,0,0,10,5,0,0,5,5,0,15,25
+2024,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,5,0,11,0,0,16,0,0,6,12,5,0,23,39
+2024,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,GHA,MRT,Ghana,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2024,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,6,0,0,0,0,6,0,0,0,0,0,0,0,6
+2024,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2024,GIN,MRT,Guinea,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,5,12,0,0,17,0,0,0,25,0,0,25,42
+2024,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,5,0,7,0,0,12,0,7,0,15,0,0,22,34
+2024,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,14,25,13,53,0,0,105,20,18,16,108,5,0,167,272
+2024,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,16,14,5,30,0,0,65,11,19,6,60,0,0,96,161
+2024,GIN,MRT,Guinea,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9
+2024,GIN,MRT,Guinea,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,8,0,0,0,0,0,8,0,0,0,6,0,0,6,14
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,7,0,0,12,0,0,0,23,0,0,23,35
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2024,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,9,0,0,9,16
+2024,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2024,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,10,0,0,10,0,0,0,7,5,0,12,22
+2024,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,11,0,0,11,16
+2024,LBR,MRT,Liberia,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2024,LBN,MRT,Lebanon,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,7,0,0,0,0,7,0,5,0,0,0,0,5,12
+2024,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,6,0,5,0,0,11,0,6,0,5,0,0,11,22
+2024,MLI,MRT,Mali,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,30,37,18,95,0,0,180,42,35,12,374,0,0,463,643
+2024,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,44,33,13,92,5,0,187,38,31,11,178,5,0,263,450
+2024,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,125,122,49,336,0,0,632,134,120,45,622,14,0,935,1567
+2024,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,140,133,50,308,0,0,631,114,106,37,583,15,0,855,1486
+2024,MLI,MRT,Mali,Mauritania,ASY,Trarza [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2024,MLI,MRT,Mali,Mauritania,REF,Assaba [Admin 1],U,I,6,0,0,0,0,0,6,0,0,5,0,0,0,5,11
+2024,MLI,MRT,Mali,Mauritania,REF,Brakna [Admin 1],U,I,0,6,5,10,0,0,21,0,10,11,14,0,0,35,56
+2024,MLI,MRT,Mali,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,201,219,86,497,5,0,1008,197,210,71,1409,26,0,1913,2921
+2024,MLI,MRT,Mali,Mauritania,REF,Gorgol [Admin 1],U,I,0,0,6,0,0,0,6,0,0,0,9,0,0,9,15
+2024,MLI,MRT,Mali,Mauritania,REF,Hodh Chargui [Admin 1],R,P,12054,17413,11012,32306,3268,0,76053,12109,16936,10158,26055,3093,0,68351,144404
+2024,MLI,MRT,Mali,Mauritania,REF,Inchiri [Admin 1],U,I,0,7,0,5,0,0,12,0,0,0,5,0,0,5,17
+2024,MLI,MRT,Mali,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,118,183,104,348,16,0,769,111,183,108,429,39,0,870,1639
+2024,MLI,MRT,Mali,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,214,245,103,535,9,0,1106,219,246,97,748,25,0,1335,2441
+2024,MLI,MRT,Mali,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,185,248,103,494,5,0,1035,238,277,77,699,18,0,1309,2344
+2024,MLI,MRT,Mali,Mauritania,REF,Trarza [Admin 1],U,I,5,9,10,23,0,0,47,11,20,12,31,5,0,79,126
+2024,MAR,MRT,Morocco,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,NER,MRT,Niger,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,5,0,10,0,0,15,20
+2024,NER,MRT,Niger,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,5,0,0,5,5,0,0,5,0,0,10,15
+2024,NER,MRT,Niger,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,7,0,0,7,0,5,0,13,0,0,18,25
+2024,NER,MRT,Niger,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,5,0,0,6,0,0,11,16
+2024,NER,MRT,Niger,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2024,NER,MRT,Niger,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+2024,NGA,MRT,Nigeria,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,9,0,0,137,0,0,146,0,0,5,179,0,0,184,330
+2024,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,10,0,0,10,0,0,0,8,0,0,8,18
+2024,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2024,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,7,0,0,0,7,7
+2024,NGA,MRT,Nigeria,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2024,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,0,0,0,5,0,5,0,0,0,0,5,10
+2024,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,RUS,MRT,Russian Federation,Mauritania,REF,Trarza [Admin 1],U,I,0,5,0,0,0,0,5,0,6,0,0,0,0,6,11
+2024,SEN,MRT,Senegal,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,6,0,0,45,0,0,51,0,7,0,33,0,0,40,91
+2024,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,6,0,5,0,0,11,5,0,0,16,0,0,21,32
+2024,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,7,12,7,103,0,0,129,5,9,8,174,0,0,196,325
+2024,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,5,7,5,44,0,0,61,5,13,5,68,0,0,91,152
+2024,SEN,MRT,Senegal,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,5,5,0,0,10,0,0,0,13,0,0,13,23
+2024,SEN,MRT,Senegal,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,26,0,0,26,32
+2024,SEN,MRT,Senegal,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2024,SLE,MRT,Sierra Leone,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,6,23,0,0,29,0,0,6,66,0,0,72,101
+2024,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,13,0,0,13,20
+2024,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,7,25,0,0,32,8,0,0,43,0,0,51,83
+2024,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,7,0,35,0,0,42,6,5,0,49,0,0,60,102
+2024,SDN,MRT,Sudan,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,27,0,0,27,27
+2024,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,5,0,0,0,5,0,0,5,16,0,0,21,26
+2024,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,6,0,0,6,0,0,5,9,0,0,14,20
+2024,SDN,MRT,Sudan,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2024,SDN,MRT,Sudan,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,6,5,0,0,11,0,0,0,9,0,0,9,20
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,6,10,5,26,0,0,47,6,5,7,31,0,0,49,96
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,8,7,0,0,15,0,6,0,9,0,0,15,30
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,6,0,0,6,0,7,0,0,0,0,7,13
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,0,5,0,8,0,0,13,0,5,0,5,0,0,10,23
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,9,26,13,83,11,0,142,11,27,21,94,9,0,162,304
+2024,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2024,TGO,MRT,Togo,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,8,0,0,8,5,0,0,22,0,0,27,35
+2024,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,6,8,0,16,0,0,30,5,7,0,33,0,0,45,75
+2024,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,7,6,5,23,0,0,41,10,6,0,73,0,0,89,130
+2024,TGO,MRT,Togo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,9,0,0,0,0,9,14
+2024,TUN,MRT,Tunisia,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2024,YEM,MRT,Yemen,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2024,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,6,0,0,0,0,6,0,0,0,0,0,0,0,6
+2024,YEM,MRT,Yemen,Mauritania,ASY,Trarza [Admin 1],U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2024,YEM,MRT,Yemen,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,6,0,0,0,0,6,6
+2024,YEM,MRT,Yemen,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,5,0,5,0,0,10,0,0,0,12,0,0,12,22
+2025,EGY,MRT,Egypt,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,BDI,MRT,Burundi,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2025,BEN,MRT,Benin,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2025,BFA,MRT,Burkina Faso,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,9,0,0,9,0,0,8,30,0,0,38,47
+2025,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,5,5,0,15,0,0,25,9,0,0,32,0,0,41,66
+2025,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,9,0,0,0,0,9,0,0,0,13,0,0,13,22
+2025,BFA,MRT,Burkina Faso,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,BFA,MRT,Burkina Faso,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2025,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,8,0,5,0,0,13,0,6,0,17,0,0,23,36
+2025,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,11,0,0,11,16
+2025,BFA,MRT,Burkina Faso,Mauritania,REF,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2025,CAF,MRT,Central African Republic,Mauritania,ASY,Brakna [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,CAF,MRT,Central African Republic,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2025,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,13,0,0,13,21
+2025,CAF,MRT,Central African Republic,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,9,0,0,9,0,0,9,0,0,0,9,18
+2025,CAF,MRT,Central African Republic,Mauritania,OOC,Nouakchott Nord [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,6,0,0,0,6,0,5,0,10,0,0,15,21
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,7,16,30,66,0,0,119,5,17,19,32,0,0,73,192
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,7,16,13,52,5,0,93,5,8,10,35,0,0,58,151
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,5,14,23,65,5,0,112,7,12,16,58,0,0,93,205
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2025,CAF,MRT,Central African Republic,Mauritania,REF,Tiris Zemmour [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,TCD,MRT,Chad,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,TCD,MRT,Chad,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,CMR,MRT,Cameroon,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,5,0,0,8,0,0,13,5,0,0,21,0,0,26,39
+2025,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,10,6,0,46,0,0,62,0,5,6,73,0,0,84,146
+2025,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,6,9,0,0,15,0,6,0,12,0,0,18,33
+2025,CMR,MRT,Cameroon,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,10,0,0,10,0,5,0,8,0,0,13,23
+2025,CMR,MRT,Cameroon,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,CMR,MRT,Cameroon,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2025,COG,MRT,Congo,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2025,COG,MRT,Congo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,5,0,0,11,0,0,16,0,0,0,7,0,0,7,23
+2025,COG,MRT,Congo,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,9,0,0,0,9,9
+2025,COG,MRT,Congo,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,COG,MRT,Congo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,5,5,0,0,10,0,0,0,17,0,0,17,27
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,COD,MRT,Democratic Republic of the Congo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,5,10,0,0,15,0,5,0,8,0,0,13,28
+2025,COM,MRT,Comoros,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,ETH,MRT,Ethiopia,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,ETH,MRT,Ethiopia,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,GMB,MRT,Gambia,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2025,GMB,MRT,Gambia,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,PSE,MRT,State of Palestine,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,9,0,0,9,0,6,0,6,0,0,12,21
+2025,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,8,0,8,13
+2025,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,6,0,8,0,0,14,0,0,5,14,0,0,19,33
+2025,PSE,MRT,State of Palestine,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,GHA,MRT,Ghana,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2025,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2025,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,GHA,MRT,Ghana,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,GNB,MRT,Guinea-Bissau,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,0,5,0,5,0,0,0,0,0,0,0,5
+2025,GIN,MRT,Guinea,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,13,9,5,58,0,0,85,0,9,0,54,0,0,63,148
+2025,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,6,7,0,0,13,0,5,0,12,0,0,17,30
+2025,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,17,26,18,67,0,0,128,23,20,15,95,5,0,158,286
+2025,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,12,9,5,30,0,0,56,13,14,6,54,0,0,87,143
+2025,GIN,MRT,Guinea,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,6,6,0,17,0,0,29,6,0,7,5,0,0,18,47
+2025,GIN,MRT,Guinea,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2025,GIN,MRT,Guinea,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,6,0,0,6,13
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,14,0,0,14,0,0,0,13,0,0,13,27
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,15,0,0,15,23
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2025,CIV,MRT,Côte d'Ivoire,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,7,0,0,7,13
+2025,IRQ,MRT,Iraq,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2025,IRQ,MRT,Iraq,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,9,0,0,9,0,0,0,6,5,0,11,20
+2025,KAZ,MRT,Kazakhstan,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2025,LBR,MRT,Liberia,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,LBR,MRT,Liberia,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,LBR,MRT,Liberia,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2025,LBR,MRT,Liberia,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2025,LBR,MRT,Liberia,Mauritania,REF,Nouakchott [Admin 3: PRP],U,I,0,0,0,26,5,0,31,0,0,5,16,0,0,21,52
+2025,LBN,MRT,Lebanon,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2025,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,8,0,0,0,0,8,0,5,0,5,0,0,10,18
+2025,LBN,MRT,Lebanon,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,9,0,0,0,9,0,0,0,0,0,0,0,9
+2025,LBN,MRT,Lebanon,Mauritania,ASY,Trarza [Admin 1],U,I,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MLI,MRT,Mali,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,20,24,7,72,0,0,123,19,22,5,182,5,0,233,356
+2025,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,33,25,7,59,0,0,124,28,23,10,143,0,0,204,328
+2025,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,132,116,59,297,5,0,609,119,128,42,549,12,0,850,1459
+2025,MLI,MRT,Mali,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,121,124,39,273,0,0,557,119,101,27,551,12,0,810,1367
+2025,MLI,MRT,Mali,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,28,13,9,21,0,0,71,37,11,5,38,0,0,91,162
+2025,MLI,MRT,Mali,Mauritania,ASY,Trarza [Admin 1],U,I,5,0,0,0,0,0,5,0,0,5,0,0,0,5,10
+2025,MLI,MRT,Mali,Mauritania,OOC,Dakhlet Nouadhibou [Admin 1],U,I,0,7,0,0,0,0,7,0,0,5,0,0,0,5,12
+2025,MLI,MRT,Mali,Mauritania,OOC,Nouakchott Nord [Admin 1],U,I,0,6,0,0,0,0,6,0,0,0,0,0,0,0,6
+2025,MLI,MRT,Mali,Mauritania,OOC,Nouakchott Ouest [Admin 1],U,I,0,0,8,0,0,0,8,0,8,6,0,0,0,14,22
+2025,MLI,MRT,Mali,Mauritania,OOC,Nouakchott Sud [Admin 1],U,I,5,9,6,0,0,0,20,0,14,5,0,0,0,19,39
+2025,MLI,MRT,Mali,Mauritania,OOC,Nouakchott [Admin 3: PRP],U,I,0,5,0,0,0,0,5,0,6,0,0,0,0,6,11
+2025,MLI,MRT,Mali,Mauritania,OOC,Trarza [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2025,MLI,MRT,Mali,Mauritania,REF,Assaba [Admin 1],U,I,0,6,0,0,0,0,6,0,0,5,0,0,0,5,11
+2025,MLI,MRT,Mali,Mauritania,REF,Brakna [Admin 1],U,I,0,6,5,10,0,0,21,0,11,10,15,0,0,36,57
+2025,MLI,MRT,Mali,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,209,241,94,519,5,0,1068,214,240,83,1247,28,0,1812,2880
+2025,MLI,MRT,Mali,Mauritania,REF,Gorgol [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2025,MLI,MRT,Mali,Mauritania,REF,Hodh Chargui [Admin 1],U,I,4495,4995,2549,9720,859,0,22618,4625,4802,2003,11718,1063,0,24211,46829
+2025,MLI,MRT,Mali,Mauritania,REF,Hodh Chargui [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124232
+2025,MLI,MRT,Mali,Mauritania,REF,Inchiri [Admin 1],U,I,0,6,0,0,0,0,6,0,5,0,0,0,0,5,11
+2025,MLI,MRT,Mali,Mauritania,REF,M'Bera [Admin 3: POC],R,P,10623,15099,9958,26000,2710,0,64390,10619,14697,9397,18010,2360,0,55083,119473
+2025,MLI,MRT,Mali,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,117,193,89,338,13,0,750,121,185,110,449,34,0,899,1649
+2025,MLI,MRT,Mali,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,190,268,97,524,7,0,1086,221,250,94,717,23,0,1305,2391
+2025,MLI,MRT,Mali,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,198,278,118,476,5,0,1075,227,302,85,710,17,0,1341,2416
+2025,MLI,MRT,Mali,Mauritania,REF,Nouakchott [Admin 3: PRP],U,I,11,13,8,22,0,0,54,14,11,7,29,5,0,66,120
+2025,MLI,MRT,Mali,Mauritania,REF,Tiris Zemmour [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MLI,MRT,Mali,Mauritania,REF,Trarza [Admin 1],U,I,5,6,10,22,0,0,43,13,15,9,26,5,0,68,111
+2025,MAR,MRT,Morocco,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,NER,MRT,Niger,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,7,0,0,7,0,5,0,25,0,0,30,37
+2025,NER,MRT,Niger,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,5,0,0,5,7,0,0,6,0,0,13,18
+2025,NER,MRT,Niger,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,5,0,0,10,0,5,0,19,0,0,24,34
+2025,NER,MRT,Niger,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,6,0,0,6,0,0,12,8,0,0,9,0,0,17,29
+2025,NER,MRT,Niger,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,NER,MRT,Niger,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2025,NER,MRT,Niger,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,NGA,MRT,Nigeria,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,6,0,5,151,0,0,162,0,5,0,180,0,0,185,347
+2025,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,26,0,0,26,0,0,0,24,0,0,24,50
+2025,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,6,5,0,0,11,0,0,5,7,0,0,12,23
+2025,NGA,MRT,Nigeria,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,5,5,0,0,10,5,0,0,5,0,0,10,20
+2025,NGA,MRT,Nigeria,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,PAK,MRT,Pakistan,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,RUS,MRT,Russian Federation,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,RUS,MRT,Russian Federation,Mauritania,REF,Trarza [Admin 1],U,I,0,6,0,0,0,0,6,0,6,0,0,0,0,6,12
+2025,SEN,MRT,Senegal,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,6,0,0,35,0,0,41,5,0,0,21,0,0,26,67
+2025,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,9,0,0,0,0,9,5,0,0,12,0,0,17,26
+2025,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,10,13,11,100,0,0,134,7,12,8,173,5,0,205,339
+2025,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,9,0,27,0,0,36,0,7,5,72,5,0,89,125
+2025,SEN,MRT,Senegal,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,5,14,0,0,19,5,0,0,15,0,0,20,39
+2025,SEN,MRT,Senegal,Mauritania,ASY,Tiris Zemmour [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,SEN,MRT,Senegal,Mauritania,OOC,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,SEN,MRT,Senegal,Mauritania,OOC,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2025,SEN,MRT,Senegal,Mauritania,OOC,Nouakchott Sud [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,SEN,MRT,Senegal,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,5,0,0,8,0,0,13,0,0,0,11,0,0,11,24
+2025,SEN,MRT,Senegal,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,22,0,0,22,27
+2025,SEN,MRT,Senegal,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2025,SLE,MRT,Sierra Leone,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,5,0,0,27,0,0,32,0,0,6,57,0,0,63,95
+2025,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,15,0,0,15,21
+2025,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,7,6,36,0,0,49,8,0,0,42,0,0,50,99
+2025,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,7,0,0,37,0,0,44,10,5,0,52,0,0,67,111
+2025,SLE,MRT,Sierra Leone,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2025,SOM,MRT,Somalia,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,5,6,0,0,11,0,0,0,40,0,0,40,51
+2025,SOM,MRT,Somalia,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,SDN,MRT,Sudan,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,5,8,132,0,0,145,145
+2025,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,7,0,0,0,0,7,7
+2025,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,5,0,6,0,0,11,0,0,5,38,0,0,43,54
+2025,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,6,0,0,0,0,6,0,0,5,6,0,0,11,17
+2025,SDN,MRT,Sudan,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,SDN,MRT,Sudan,Mauritania,ASY,Tiris Zemmour [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,SDN,MRT,Sudan,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,9,0,0,9,14
+2025,SDN,MRT,Sudan,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,6,0,0,0,6,0,0,0,5,0,0,5,11
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Guidimagha [Admin 1],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,5,7,5,22,0,0,39,7,5,9,32,0,0,53,92
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,0,5,10,12,0,0,27,0,9,0,13,0,0,22,49
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,8,0,0,8,0,5,0,0,0,0,5,13
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Nord [Admin 1],U,I,0,5,0,6,0,0,11,0,9,0,0,0,0,9,20
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,5,19,9,60,10,0,103,7,15,15,75,10,0,122,225
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott Sud [Admin 1],U,I,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2025,SYR,MRT,Syrian Arab Republic,Mauritania,REF,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2025,TGO,MRT,Togo,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,6,0,0,0,0,0,6,6
+2025,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,7,0,0,7,5,0,0,26,0,0,31,38
+2025,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,7,6,0,12,0,0,25,6,7,0,26,0,0,39,64
+2025,TGO,MRT,Togo,Mauritania,ASY,Nouakchott Sud [Admin 1],U,I,8,8,0,18,0,0,34,7,5,0,57,0,0,69,103
+2025,TGO,MRT,Togo,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,TGO,MRT,Togo,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2025,TUR,MRT,Türkiye,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,UZB,MRT,Uzbekistan,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,ESH,MRT,Western Sahara,Mauritania,ASY,Nouakchott [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,YEM,MRT,Yemen,Mauritania,ASY,Dakhlet Nouadhibou [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2025,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott Nord [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,YEM,MRT,Yemen,Mauritania,ASY,Nouakchott Ouest [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2025,YEM,MRT,Yemen,Mauritania,ASY,Trarza [Admin 1],U,I,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2025,YEM,MRT,Yemen,Mauritania,REF,Nouakchott Ouest [Admin 1],U,I,0,0,0,8,0,0,8,0,0,0,9,0,0,9,17

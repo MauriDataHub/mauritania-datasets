@@ -1,0 +1,112 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_BG_GSR_NFSV_GD_ZS,BG.GSR.NFSV.GD.ZS,Trade in services (% of GDP),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_CMCP_ZS,BM.GSR.CMCP.ZS,"Communications, computer, etc. (% of service imports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_FCTY_CD,BM.GSR.FCTY.CD,"Primary income payments (BoP, current US$)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_GNFS_CD,BM.GSR.GNFS.CD,"Imports of goods and services (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_INSF_ZS,BM.GSR.INSF.ZS,"Insurance and financial services (% of service imports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,33,1975,2023
+WB_WDI_BM_GSR_MRCH_CD,BM.GSR.MRCH.CD,"Goods imports (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_NFSV_CD,BM.GSR.NFSV.CD,"Service imports (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_ROYL_CD,BM.GSR.ROYL.CD,"Charges for the use of intellectual property, payments (BoP, current US$)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,9,2014,2024
+WB_WDI_BM_GSR_TOTL_CD,BM.GSR.TOTL.CD,"Imports of goods, services and primary income (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BM_GSR_TRAN_ZS,BM.GSR.TRAN.ZS,"Transport services (% of service imports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_CCIS_CD,BX.GSR.CCIS.CD,"ICT service exports (BoP, current US$)",,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,13,2012,2024
+WB_WDI_BX_GSR_CCIS_ZS,BX.GSR.CCIS.ZS,"ICT service exports (% of service exports, BoP)",,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,13,2012,2024
+WB_WDI_BX_GSR_CMCP_ZS,BX.GSR.CMCP.ZS,"Communications, computer, etc. (% of service exports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_FCTY_CD,BX.GSR.FCTY.CD,"Primary income receipts (BoP, current US$)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_GNFS_CD,BX.GSR.GNFS.CD,"Exports of goods and services (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_INSF_ZS,BX.GSR.INSF.ZS,"Insurance and financial services (% of service exports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,18,1975,2023
+WB_WDI_BX_GSR_MRCH_CD,BX.GSR.MRCH.CD,"Goods exports (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_NFSV_CD,BX.GSR.NFSV.CD,"Service exports (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_ROYL_CD,BX.GSR.ROYL.CD,"Charges for the use of intellectual property, receipts (BoP, current US$)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,4,2018,2024
+WB_WDI_BX_GSR_TOTL_CD,BX.GSR.TOTL.CD,"Exports of goods, services and primary income (current US$, BoP)",current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_TRAN_ZS,BX.GSR.TRAN.ZS,"Transport services (% of service exports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_BX_GSR_TRVL_ZS,BX.GSR.TRVL.ZS,"Travel services (% of service exports, BoP)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_NE_EXP_GNFS_CD,NE.EXP.GNFS.CD,Exports of goods and services (current US$),current US$,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_EXP_GNFS_CN,NE.EXP.GNFS.CN,Exports of goods and services (current LCU),current LCU,Annual,,National Statistical Organizations and/or Central Banks; Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_EXP_GNFS_KD,NE.EXP.GNFS.KD,Exports of goods and services (constant 2015 US$),constant 2015 US$,Annual,,National Statistical Organizations and/or Central Banks; Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_EXP_GNFS_KD_ZG,NE.EXP.GNFS.KD.ZG,Exports of goods and services (annual % growth),%,Annual,,National Statistical Organizations and/or Central Banks; Country official statistics,CC BY 4.0,64,1962,2025
+WB_WDI_NE_EXP_GNFS_KN,NE.EXP.GNFS.KN,Exports of goods and services (constant LCU),constant LCU,Annual,,National Statistical Organizations and/or Central Banks; Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_EXP_GNFS_ZS,NE.EXP.GNFS.ZS,Exports of goods and services (% of GDP),%,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_IMP_GNFS_CD,NE.IMP.GNFS.CD,Imports of goods and services (current US$),current US$,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_IMP_GNFS_CN,NE.IMP.GNFS.CN,Imports of goods and services (current LCU),current LCU,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_IMP_GNFS_KD,NE.IMP.GNFS.KD,Imports of goods and services (constant 2015 US$),constant 2015 US$,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_IMP_GNFS_KD_ZG,NE.IMP.GNFS.KD.ZG,Imports of goods and services (annual % growth),%,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,64,1962,2025
+WB_WDI_NE_IMP_GNFS_KN,NE.IMP.GNFS.KN,Imports of goods and services (constant LCU),constant LCU,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_IMP_GNFS_ZS,NE.IMP.GNFS.ZS,Imports of goods and services (% of GDP),%,Annual,,National Statistical Offices (NSOs); Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_NE_TRD_GNFS_ZS,NE.TRD.GNFS.ZS,Trade (% of GDP),%,Annual,,National Statistical Organizations and/or Central Banks; Country official statistics,CC BY 4.0,65,1961,2025
+WB_WDI_TG_VAL_TOTL_GD_ZS,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP),%,Annual,,World Trade Organization (WTO),CC BY 4.0,65,1961,2025
+WB_WDI_TM_QTY_MRCH_XD_WD,TM.QTY.MRCH.XD.WD,Import volume index (2015 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,20,2005,2024
+WB_WDI_TM_TAX_MANF_BC_ZS,TM.TAX.MANF.BC.ZS,"Binding coverage, manufactured products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MANF_BR_ZS,TM.TAX.MANF.BR.ZS,"Bound rate, simple mean, manufactured products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MANF_SM_AR_ZS,TM.TAX.MANF.SM.AR.ZS,"Tariff rate, applied, simple mean, manufactured products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MANF_SM_FN_ZS,TM.TAX.MANF.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, manufactured products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MANF_WM_AR_ZS,TM.TAX.MANF.WM.AR.ZS,"Tariff rate, applied, weighted mean, manufactured products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MANF_WM_FN_ZS,TM.TAX.MANF.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, manufactured products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_BC_ZS,TM.TAX.MRCH.BC.ZS,"Binding coverage, all products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_BR_ZS,TM.TAX.MRCH.BR.ZS,"Bound rate, simple mean, all products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_SM_AR_ZS,TM.TAX.MRCH.SM.AR.ZS,"Tariff rate, applied, simple mean, all products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_SM_FN_ZS,TM.TAX.MRCH.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, all products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_WM_AR_ZS,TM.TAX.MRCH.WM.AR.ZS,"Tariff rate, applied, weighted mean, all products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_MRCH_WM_FN_ZS,TM.TAX.MRCH.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, all products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_BC_ZS,TM.TAX.TCOM.BC.ZS,"Binding coverage, primary products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_BR_ZS,TM.TAX.TCOM.BR.ZS,"Bound rate, simple mean, primary products (%)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_SM_AR_ZS,TM.TAX.TCOM.SM.AR.ZS,"Tariff rate, applied, simple mean, primary products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_SM_FN_ZS,TM.TAX.TCOM.SM.FN.ZS,"Tariff rate, most favored nation, simple mean, primary products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_WM_AR_ZS,TM.TAX.TCOM.WM.AR.ZS,"Tariff rate, applied, weighted mean, primary products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_TAX_TCOM_WM_FN_ZS,TM.TAX.TCOM.WM.FN.ZS,"Tariff rate, most favored nation, weighted mean, primary products (%)",,Annual,,Staff estimates,CC BY 4.0,14,2001,2022
+WB_WDI_TM_UVI_MRCH_XD_WD,TM.UVI.MRCH.XD.WD,Import unit value index (2015 = 100),index (2015 = 100),Annual,,UN Conference on Trade and Development (UNCTAD); Handbook of Statistics and data files.,CC BY 4.0,46,1980,2025
+WB_WDI_TM_VAL_AGRI_ZS_UN,TM.VAL.AGRI.ZS.UN,Agricultural raw materials imports (% of merchandise imports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,35,1962,2024
+WB_WDI_TM_VAL_FOOD_ZS_UN,TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,35,1962,2024
+WB_WDI_TM_VAL_FUEL_ZS_UN,TM.VAL.FUEL.ZS.UN,Fuel imports (% of merchandise imports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,35,1962,2024
+WB_WDI_TM_VAL_ICTG_ZS_UN,TM.VAL.ICTG.ZS.UN,ICT goods imports (% total goods imports),,Annual,,UN Conference on Trade and Development (UNCTAD); UNCTADstat database,CC BY 4.0,25,2000,2024
+WB_WDI_TM_VAL_INSF_ZS_WT,TM.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service imports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,33,1975,2023
+WB_WDI_TM_VAL_MANF_ZS_UN,TM.VAL.MANF.ZS.UN,Manufactures imports (% of merchandise imports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,35,1962,2024
+WB_WDI_TM_VAL_MMTL_ZS_UN,TM.VAL.MMTL.ZS.UN,Ores and metals imports (% of merchandise imports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,35,1962,2024
+WB_WDI_TM_VAL_MRCH_AL_ZS,TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,45,1964,2023
+WB_WDI_TM_VAL_MRCH_CD_WT,TM.VAL.MRCH.CD.WT,Merchandise imports (current US$),current US$,Annual,,World Trade Organization (WTO),CC BY 4.0,66,1960,2025
+WB_WDI_TM_VAL_MRCH_HI_ZS,TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TM_VAL_MRCH_OR_ZS,TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,53,1964,2023
+WB_WDI_TM_VAL_MRCH_R1_ZS,TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,52,1966,2023
+WB_WDI_TM_VAL_MRCH_R2_ZS,TM.VAL.MRCH.R2.ZS,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,35,1985,2023
+WB_WDI_TM_VAL_MRCH_R3_ZS,TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,42,1964,2023
+WB_WDI_TM_VAL_MRCH_R4_ZS,TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,45,1964,2023
+WB_WDI_TM_VAL_MRCH_R5_ZS,TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,39,1985,2023
+WB_WDI_TM_VAL_MRCH_R6_ZS,TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,53,1964,2023
+WB_WDI_TM_VAL_MRCH_RS_ZS,TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TM_VAL_MRCH_WL_CD,TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TM_VAL_MRCH_WR_ZS,TM.VAL.MRCH.WR.ZS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,53,1964,2023
+WB_WDI_TM_VAL_MRCH_XD_WD,TM.VAL.MRCH.XD.WD,Import value index (2015 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,20,2005,2024
+WB_WDI_TM_VAL_OTHR_ZS_WT,TM.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service imports)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TM_VAL_SERV_CD_WT,TM.VAL.SERV.CD.WT,Commercial service imports (current US$),current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TM_VAL_TRAN_ZS_WT,TM.VAL.TRAN.ZS.WT,Transport services (% of commercial service imports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TM_VAL_TRVL_ZS_WT,TM.VAL.TRVL.ZS.WT,Travel services (% of commercial service imports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TT_PRI_MRCH_XD_WD,TT.PRI.MRCH.XD.WD,Net barter terms of trade index (2015 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,20,2005,2024
+WB_WDI_TX_QTY_MRCH_XD_WD,TX.QTY.MRCH.XD.WD,Export volume index (2015 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,20,2005,2024
+WB_WDI_TX_UVI_MRCH_XD_WD,TX.UVI.MRCH.XD.WD,Export unit value index (2015 = 100),index (2015 = 100),Annual,,UN Conference on Trade and Development (UNCTAD); Handbook of Statistics and data files.,CC BY 4.0,46,1980,2025
+WB_WDI_TX_VAL_AGRI_ZS_UN,TX.VAL.AGRI.ZS.UN,Agricultural raw materials exports (% of merchandise exports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,34,1962,2024
+WB_WDI_TX_VAL_FOOD_ZS_UN,TX.VAL.FOOD.ZS.UN,Food exports (% of merchandise exports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,34,1962,2024
+WB_WDI_TX_VAL_FUEL_ZS_UN,TX.VAL.FUEL.ZS.UN,Fuel exports (% of merchandise exports),%,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,24,1962,2024
+WB_WDI_TX_VAL_ICTG_ZS_UN,TX.VAL.ICTG.ZS.UN,ICT goods exports (% of total goods exports),,Annual,,UN Conference on Trade and Development (UNCTAD); UNCTADstat database,CC BY 4.0,5,2020,2024
+WB_WDI_TX_VAL_INSF_ZS_WT,TX.VAL.INSF.ZS.WT,Insurance and financial services (% of commercial service exports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,18,1975,2023
+WB_WDI_TX_VAL_MANF_ZS_UN,TX.VAL.MANF.ZS.UN,Manufactures exports (% of merchandise exports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,31,1962,2024
+WB_WDI_TX_VAL_MMTL_ZS_UN,TX.VAL.MMTL.ZS.UN,Ores and metals exports (% of merchandise exports),%,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,34,1962,2024
+WB_WDI_TX_VAL_MRCH_AL_ZS,TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,44,1963,2023
+WB_WDI_TX_VAL_MRCH_CD_WT,TX.VAL.MRCH.CD.WT,Merchandise exports (current US$),current US$,Annual,,World Trade Organization (WTO),CC BY 4.0,66,1960,2025
+WB_WDI_TX_VAL_MRCH_HI_ZS,TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TX_VAL_MRCH_OR_ZS,TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,44,1963,2023
+WB_WDI_TX_VAL_MRCH_R1_ZS,TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,38,1985,2023
+WB_WDI_TX_VAL_MRCH_R2_ZS,TX.VAL.MRCH.R2.ZS,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,28,1988,2023
+WB_WDI_TX_VAL_MRCH_R3_ZS,TX.VAL.MRCH.R3.ZS,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,33,1967,2023
+WB_WDI_TX_VAL_MRCH_R4_ZS,TX.VAL.MRCH.R4.ZS,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,44,1963,2023
+WB_WDI_TX_VAL_MRCH_R5_ZS,TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,32,1987,2023
+WB_WDI_TX_VAL_MRCH_R6_ZS,TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,54,1963,2023
+WB_WDI_TX_VAL_MRCH_RS_ZS,TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TX_VAL_MRCH_WL_CD,TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,55,1962,2023
+WB_WDI_TX_VAL_MRCH_WR_ZS,TX.VAL.MRCH.WR.ZS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports),,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,54,1963,2023
+WB_WDI_TX_VAL_MRCH_XD_WD,TX.VAL.MRCH.XD.WD,Export value index (2015 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,20,2005,2024
+WB_WDI_TX_VAL_OTHR_ZS_WT,TX.VAL.OTHR.ZS.WT,"Computer, communications and other services (% of commercial service exports)",%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TX_VAL_SERV_CD_WT,TX.VAL.SERV.CD.WT,Commercial service exports (current US$),current US$,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TX_VAL_TECH_CD,TX.VAL.TECH.CD,High-technology exports (current US$),USD current,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,7,2016,2024
+WB_WDI_TX_VAL_TECH_MF_ZS,TX.VAL.TECH.MF.ZS,High-technology exports (% of manufactured exports),% of GDP,Annual,,United Nations (UN); Comtrade database,CC BY 4.0,7,2016,2024
+WB_WDI_TX_VAL_TRAN_ZS_WT,TX.VAL.TRAN.ZS.WT,Transport services (% of commercial service exports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024
+WB_WDI_TX_VAL_TRVL_ZS_WT,TX.VAL.TRVL.ZS.WT,Travel services (% of commercial service exports),%,Annual,,International Monetary Fund (IMF); Balance of Payments Statistics Yearbook and data files,CC BY 4.0,37,1975,2024

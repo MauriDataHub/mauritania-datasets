@@ -1,0 +1,14 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,96,1987,2019
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,320,1987,2019
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,96,1987,2019
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,Annual,Polarization index (World Bank estimate),World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,96,1987,2019
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,96,1987,2019
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,32,1987,2019
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,Annual,,World Bank (WB); Poverty and Inequality Platform,CC0 1.0,96,1987,2019

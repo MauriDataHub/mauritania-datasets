@@ -1,0 +1,1025 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1987,0.4394,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1987,0.4394,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1987,0.4394,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1987,0.4394,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1993,0.4952,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1993,0.4952,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1993,0.4952,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1993,0.4952,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1995,0.3775,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1995,0.3775,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1995,0.3775,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,1995,0.3775,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2000,0.3903,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2000,0.3903,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2000,0.3903,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2000,0.3903,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2004,0.4017,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2004,0.4017,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2004,0.4017,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2004,0.4017,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2008,0.3569,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2008,0.3569,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2008,0.3569,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2008,0.3569,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2014,0.3262,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2014,0.3262,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2014,0.3262,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2014,0.3262,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2019,0.32,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2019,0.32,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2019,0.32,A,0
+PV_PI_GINI,PV_PI_GINI,Gini Index,0-100 scale,,,,A,2019,0.32,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,67.63,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,67.63,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,90.91,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,90.91,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,67.63,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,67.63,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,90.91,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1987,90.91,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,71.45,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,71.45,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,91.31,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,91.31,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,71.45,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,71.45,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,91.31,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1993,91.31,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,31.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,31.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,52.15,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,52.15,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,85.57,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,85.57,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,31.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,31.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,52.15,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,52.15,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,85.57,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,1995,85.57,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,30.67,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,30.67,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,49.2,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,49.2,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,82.79,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,82.79,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,30.67,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,30.67,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,49.2,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,49.2,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,82.79,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2000,82.79,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,28.48,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,28.48,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,49.39,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,49.39,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,84.36,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,84.36,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,28.48,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,28.48,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,49.39,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,49.39,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,84.36,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2004,84.36,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,19.24,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,19.24,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,36.82,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,36.82,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,74.1,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,74.1,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,19.24,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,19.24,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,36.82,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,36.82,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,74.1,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2008,74.1,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,11.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,11.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,26.29,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,26.29,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,70.04,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,70.04,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,11.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,11.71,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,26.29,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,26.29,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,70.04,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2014,70.04,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,10.22,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,10.22,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,25.96,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,25.96,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,71.16,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,71.16,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,10.22,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,10.22,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,25.96,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,25.96,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,71.16,A,0
+PV_PI_HEADCOUNT,PV_PI_HEADCOUNT,Poverty Headcount Rate,Percentage of population,,,,A,2019,71.16,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,6.75,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,6.75,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,8.25,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,8.25,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,8.25,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,8.25,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,12.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,12.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,12.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,12.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,16.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,16.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,16.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,16.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,31.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,31.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,31.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,31.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,1.42,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,1.42,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,1.42,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,1.42,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,2.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,2.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,2.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,2.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,4.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,4.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,4.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,4.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,5.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,5.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,5.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,5.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,6.75,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1987,6.75,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,5.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,5.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,6.7,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,6.7,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,6.7,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,6.7,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,8.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,8.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,8.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,8.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,10.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,13.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,13.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,13.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,13.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,41.89,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,41.89,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,41.89,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,41.89,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,2.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,2.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,2.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,2.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,4.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,4.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,4.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,4.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,5.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1993,5.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,7.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,7.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,8.52,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,8.52,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,8.52,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,8.52,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,10.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,10.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,10.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,10.11,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,12.24,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,12.24,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,12.24,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,12.24,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,15.77,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,15.77,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,15.77,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,15.77,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,28.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,28.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,28.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,28.69,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,2.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,2.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,2.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,2.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,3.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,3.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,3.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,3.96,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,4.99,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,4.99,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,4.99,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,4.99,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,7.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,1995,7.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,6.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,6.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,8.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,8.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,8.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,8.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,10.05,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,10.05,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,10.05,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,10.05,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,12.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,12.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,12.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,12.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,16.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,16.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,16.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,16.14,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,29.53,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,29.53,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,29.53,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,29.53,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,2.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,2.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,2.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,2.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,3.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,3.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,3.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,3.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,4.78,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,4.78,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,4.78,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,4.78,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,5.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,5.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,5.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,5.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,6.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2000,6.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,6.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,6.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,7.88,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,7.88,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,7.88,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,7.88,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,9.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,9.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,9.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,9.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,11.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,11.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,11.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,11.32,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,14.82,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,14.82,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,14.82,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,14.82,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,32.62,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,32.62,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,32.62,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,32.62,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,2.61,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,2.61,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,2.61,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,2.61,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,3.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.67,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.67,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.67,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,5.67,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,6.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2004,6.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,7.38,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,7.38,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,8.91,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,8.91,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,8.91,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,8.91,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,10.54,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,10.54,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,10.54,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,10.54,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,12.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,12.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,12.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,12.81,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,16.19,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,16.19,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,16.19,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,16.19,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,26.18,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,26.18,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,26.18,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,26.18,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,2.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,2.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,2.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,2.63,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,4.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,4.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,4.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,4.08,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,5.12,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,5.12,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,5.12,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,5.12,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,6.17,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,7.38,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2008,7.38,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,7.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,7.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,9.06,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,9.06,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,9.06,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,9.06,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,10.58,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,10.58,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,10.58,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,10.58,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,12.44,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,12.44,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,12.44,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,12.44,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,15.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,15.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,15.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,15.26,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,24.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,24.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,24.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,24.93,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,2.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,2.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,2.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,2.98,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,4.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,4.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,4.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,4.55,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,5.66,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,5.66,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,5.66,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,5.66,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,6.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,6.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,6.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,6.71,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,7.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2014,7.83,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,7.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,7.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,9.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,9.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,9.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,9.01,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,10.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,10.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,10.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,10.45,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,12.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,12.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,12.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,12.41,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,15.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,15.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,15.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,15.39,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,24.59,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,24.59,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,24.59,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,24.59,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,3.13,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,3.13,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,3.13,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,3.13,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,4.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,4.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,4.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,4.72,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,5.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,5.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,5.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,5.74,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,6.76,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,6.76,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,6.76,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,6.76,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,7.8,A,0
+PV_PI_INC_SHARE,PV_PI_INC_SHARE,Income Share Held by Deciles,Percentage of population,,,,A,2019,7.8,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1987,3.9572,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1987,3.9572,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1987,3.9572,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1987,3.9572,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1993,4.5518,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1993,4.5518,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1993,4.5518,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1993,4.5518,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1995,5.2302,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1995,5.2302,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1995,5.2302,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,1995,5.2302,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2000,5.6002,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2000,5.6002,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2000,5.6002,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2000,5.6002,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2004,5.7761,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2004,5.7761,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2004,5.7761,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2004,5.7761,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2008,6.6185,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2008,6.6185,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2008,6.6185,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2008,6.6185,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2014,7.2411,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2014,7.2411,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2014,7.2411,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2014,7.2411,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2019,7.2069,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2019,7.2069,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2019,7.2069,A,0
+PV_PI_MEAN,PV_PI_MEAN,Survey Mean/Average Consumption or Income Per Capita,Purchasing Power Parities,,,,A,2019,7.2069,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1987,2.9534,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1987,2.9534,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1987,2.9534,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1987,2.9534,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1993,2.7911,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1993,2.7911,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1993,2.7911,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1993,2.7911,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1995,4.064,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1995,4.064,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1995,4.064,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,1995,4.064,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2000,4.2503,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2000,4.2503,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2000,4.2503,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2000,4.2503,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2004,4.2276,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2004,4.2276,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2004,4.2276,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2004,4.2276,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2008,5.3947,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2008,5.3947,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2008,5.3947,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2008,5.3947,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2014,6.0859,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2014,6.0859,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2014,6.0859,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2014,6.0859,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2019,6.0598,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2019,6.0598,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2019,6.0598,A,0
+PV_PI_MEDIAN,PV_PI_MEDIAN,Survey Median Consumption or Income Per Capita,PPP dollars per person,,,,A,2019,6.0598,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1987,0.3548,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1987,0.3548,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1987,0.3548,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1987,0.3548,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1993,0.424,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1993,0.424,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1993,0.424,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1993,0.424,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1995,0.244,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1995,0.244,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1995,0.244,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,1995,0.244,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2000,0.2547,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2000,0.2547,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2000,0.2547,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2000,0.2547,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2004,0.2699,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2004,0.2699,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2004,0.2699,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2004,0.2699,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2008,0.216,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2008,0.216,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2008,0.216,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2008,0.216,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2014,0.1798,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2014,0.1798,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2014,0.1798,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2014,0.1798,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2019,0.1717,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2019,0.1717,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2019,0.1717,A,0
+PV_PI_MLD,PV_PI_MLD,Mean Log Deviation (MLD) Index,Index,,,,A,2019,0.1717,A,0
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,0.9156,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,0.9156,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.2194,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.2194,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.6391,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.6391,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,0.9156,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,0.9156,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.2194,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.2194,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.6391,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1987,1.6391,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.1771,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.1771,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.5535,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.5535,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.9855,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.9855,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.1771,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.1771,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.5535,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.5535,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.9855,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1993,1.9855,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,0.7416,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,0.7416,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,1.2195,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,1.2195,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,2.001,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,2.001,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,0.7416,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,0.7416,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,1.2195,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,1.2195,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,2.001,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,1995,2.001,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,0.8116,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,0.8116,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,1.3018,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,1.3018,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,2.1907,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,2.1907,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,0.8116,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,0.8116,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,1.3018,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,1.3018,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,2.1907,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2000,2.1907,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,0.828,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,0.828,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,1.4361,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,1.4361,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,2.4527,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,2.4527,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,0.828,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,0.828,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,1.4361,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,1.4361,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,2.4527,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2004,2.4527,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,0.6165,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,0.6165,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,1.1795,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,1.1795,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,2.3738,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,2.3738,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,0.6165,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,0.6165,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,1.1795,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,1.1795,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,2.3738,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2008,2.3738,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,0.4505,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,0.4505,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,1.0117,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,1.0117,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,2.6955,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,2.6955,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,0.4505,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,0.4505,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,1.0117,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,1.0117,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,2.6955,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2014,2.6955,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,0.4648,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,0.4648,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,1.1804,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,1.1804,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,3.2357,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,3.2357,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,0.4648,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,0.4648,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,1.1804,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,1.1804,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,3.2357,A,6
+PV_PI_NPOOR,PV_PI_NPOOR,Population Living in Poverty,Persons (Millions),,,,A,2019,3.2357,A,6
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1987,15.0112,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1987,15.0112,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1987,15.0112,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1987,15.0112,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1993,12.1995,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1993,12.1995,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1993,12.1995,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1993,12.1995,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1995,8.7307,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1995,8.7307,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1995,8.7307,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,1995,8.7307,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2000,8.1567,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2000,8.1567,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2000,8.1567,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2000,8.1567,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2004,7.8678,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2004,7.8678,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2004,7.8678,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2004,7.8678,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2008,6.5677,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2008,6.5677,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2008,6.5677,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2008,6.5677,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2014,5.5467,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2014,5.5467,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2014,5.5467,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2014,5.5467,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2019,5.4979,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2019,5.4979,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2019,5.4979,A,0
+PV_PI_PG,PV_PI_PG,Prosperity Gap,Percentage,,,,A,2019,5.4979,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1987,0.4051,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1987,0.4051,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1987,0.4051,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1987,0.4051,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1993,0.3728,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1993,0.3728,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1993,0.3728,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1993,0.3728,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1995,0.3332,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1995,0.3332,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1995,0.3332,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,1995,0.3332,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2000,0.3564,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2000,0.3564,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2000,0.3564,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2000,0.3564,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2004,0.3216,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2004,0.3216,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2004,0.3216,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2004,0.3216,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2008,0.3333,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2008,0.3333,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2008,0.3333,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2008,0.3333,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2014,0.2839,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2014,0.2839,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2014,0.2839,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2014,0.2839,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2019,0.2786,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2019,0.2786,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2019,0.2786,A,0
+PV_PI_POLARIZATION,PV_PI_POLARIZATION,Welfare Polarization: Wolfson Polarization Index,Percentage,,,,A,2019,0.2786,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,23.0,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,23.0,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,33.5,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,33.5,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,57.58,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,57.58,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,23.0,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,23.0,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,33.5,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,33.5,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,57.58,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1987,57.58,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,20.52,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,20.52,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,32.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,32.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,58.18,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,58.18,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,20.52,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,20.52,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,32.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,32.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,58.18,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1993,58.18,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,10.26,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,10.26,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,19.33,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,19.33,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,45.46,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,45.46,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,10.26,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,10.26,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,19.33,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,19.33,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,45.46,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,1995,45.46,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,9.61,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,9.61,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,18.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,18.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,43.47,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,43.47,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,9.61,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,9.61,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,18.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,18.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,43.47,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2000,43.47,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,8.01,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,8.01,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,16.95,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,16.95,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,43.69,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,43.69,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,8.01,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,8.01,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,16.95,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,16.95,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,43.69,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2004,43.69,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,5.23,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,5.23,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,11.76,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,11.76,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,34.43,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,34.43,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,5.23,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,5.23,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,11.76,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,11.76,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,34.43,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2008,34.43,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,2.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,2.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,7.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,7.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,28.67,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,28.67,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,2.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,2.84,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,7.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,7.37,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,28.67,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2014,28.67,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,2.48,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,2.48,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,6.83,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,6.83,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,28.68,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,28.68,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,2.48,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,2.48,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,6.83,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,6.83,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,28.68,A,0
+PV_PI_POV_GAP,PV_PI_POV_GAP,Poverty Gap,Percentage of poverty line,,,,A,2019,28.68,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,21.06,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,21.06,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,41.3,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,41.3,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,13.76,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,13.76,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,21.06,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,21.06,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,41.3,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,41.3,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,13.76,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1987,13.76,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,18.53,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,18.53,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,40.93,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,40.93,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,10.18,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,10.18,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,18.53,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,18.53,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,40.93,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,40.93,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,10.18,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1993,10.18,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,9.75,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,9.75,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,28.42,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,28.42,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,4.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,4.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,9.75,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,9.75,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,28.42,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,28.42,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,4.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,1995,4.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,9.07,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,9.07,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,27.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,27.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,4.16,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,4.16,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,9.07,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,9.07,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,27.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,27.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,4.16,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2000,4.16,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,7.87,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,7.87,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,26.48,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,26.48,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,3.28,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,3.28,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,7.87,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,7.87,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,26.48,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,26.48,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,3.28,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2004,3.28,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,5.27,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,5.27,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,19.78,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,19.78,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,2.13,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,2.13,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,5.27,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,5.27,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,19.78,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,19.78,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,2.13,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2008,2.13,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,3.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,3.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,15.0,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,15.0,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,1.09,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,1.09,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,3.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,3.04,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,15.0,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,15.0,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,1.09,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2014,1.09,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,2.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,2.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,14.71,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,14.71,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,0.99,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,0.99,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,2.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,2.74,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,14.71,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,14.71,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,0.99,A,0
+PV_PI_POV_SEV,PV_PI_POV_SEV,Poverty Severity,0-1 scale,,,,A,2019,0.99,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1987,50.78,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1993,54.14,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1995,36.63,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1995,36.63,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1995,36.63,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,1995,36.63,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2000,37.88,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2000,37.88,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2000,37.88,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2000,37.88,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2004,36.48,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2004,36.48,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2004,36.48,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2004,36.48,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2008,34.01,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2008,34.01,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2008,34.01,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2008,34.01,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2014,28.23,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2014,28.23,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2014,28.23,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2014,28.23,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2019,27.57,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2019,27.57,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2019,27.57,A,0
+PV_PI_SPR,PV_PI_SPR,Societal Poverty Rate,Percentage of population,,,,A,2019,27.57,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.3807,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.3807,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.5801,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.5801,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,1.1315,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,1.1315,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.3807,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.3807,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.5801,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,0.5801,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,1.1315,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1987,1.1315,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.2962,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.2962,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.5086,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.5086,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,1.0744,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,1.0744,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.2962,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.2962,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.5086,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,0.5086,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,1.0744,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1993,1.0744,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.1446,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.1446,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.2839,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.2839,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.7627,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.7627,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.1446,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.1446,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.2839,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.2839,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.7627,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,1995,0.7627,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.1297,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.1297,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.2634,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.2634,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.7217,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.7217,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.1297,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.1297,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.2634,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.2634,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.7217,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2000,0.7217,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.1065,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.1065,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.2368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.2368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.7078,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.7078,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.1065,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.1065,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.2368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.2368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.7078,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2004,0.7078,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.0698,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.0698,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.1626,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.1626,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.5408,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.5408,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.0698,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.0698,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.1626,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.1626,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.5408,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2008,0.5408,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0983,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0983,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.4252,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.4252,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0368,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0983,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.0983,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.4252,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2014,0.4252,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0328,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0328,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0909,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0909,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.4209,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.4209,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0328,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0328,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0909,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.0909,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.4209,A,0
+PV_PI_WATTS,PV_PI_WATTS,Watts Index,Percentage,,,,A,2019,0.4209,A,0

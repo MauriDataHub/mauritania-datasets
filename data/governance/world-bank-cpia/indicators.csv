@@ -1,0 +1,6 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,Annual,,World Bank (WB); Country Policy and Institutional Assessments,CC BY 4.0,84,2005,2025
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,Annual,,World Bank (WB); Country Policy and Institutional Assessments,CC BY 4.0,21,2005,2025
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,Annual,,World Bank (WB); Country Policy and Institutional Assessments,CC BY 4.0,126,2005,2025
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,Annual,,World Bank (WB); Country Policy and Institutional Assessments,CC BY 4.0,126,2005,2025
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,Annual,,World Bank (WB); Country Policy and Institutional Assessments,CC BY 4.0,84,2005,2025

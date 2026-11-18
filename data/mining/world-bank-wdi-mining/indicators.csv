@@ -1,0 +1,7 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,52,1970,2021
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,52,1970,2021
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,Annual,,World Bank (WB); The Changing Wealth of Nations,CC BY 4.0,42,1980,2021
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,Annual,,World Bank (WB); The Changing Wealth of Nations,CC BY 4.0,52,1970,2021
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,Annual,,World Bank (WB); The Changing Wealth of Nations,CC BY 4.0,42,1980,2021
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,Annual,,World Bank (WB); The Changing Wealth of Nations,CC BY 4.0,42,1980,2021

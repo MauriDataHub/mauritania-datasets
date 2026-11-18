@@ -1,0 +1,9 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,59,2000,2022
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,161,2000,2022
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,69,2000,2022
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,96,1990,2021
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,64,1990,2021
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,32,1990,2021
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,184,2000,2022
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",Annual,,Sustainable Energy for All (SE4ALL); Sustainable Energy For All,CC BY 4.0,23,2000,2022

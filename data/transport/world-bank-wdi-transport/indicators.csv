@@ -1,0 +1,18 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_IS_AIR_DPRT,IS.AIR.DPRT,"Air transport, registered carrier departures worldwide",Count,Annual,,International Civil Aviation Organization (ICAO); Civil Aviation Statistics of the World,CC BY 4.0,54,1970,2023
+WB_WDI_IS_AIR_GOOD_MT_K1,IS.AIR.GOOD.MT.K1,"Air transport, freight (million ton-km)",tonnes-km,Annual,,International Civil Aviation Organization (ICAO); Civil Aviation Statistics of the World,CC BY 4.0,48,1970,2023
+WB_WDI_IS_AIR_PSGR,IS.AIR.PSGR,"Air transport, passengers carried",Number,Annual,,International Civil Aviation Organization (ICAO); Civil Aviation Statistics of the World,CC BY 4.0,54,1970,2023
+WB_WDI_IS_RRS_GOOD_MT_K6,IS.RRS.GOOD.MT.K6,"Railways, goods transported (million ton-km)",Ton-km,Annual,,International Union of Railways (UIC); Railisa Database (UIC),CC BY 4.0,6,2002,2010
+WB_WDI_IS_RRS_PASG_KM,IS.RRS.PASG.KM,"Railways, passengers carried (million passenger-km)",Passenger-kilometers,Annual,,International Union of Railways (UIC); Railisa Database (UIC),CC BY 4.0,2,2007,2008
+WB_WDI_IS_RRS_TOTL_KM,IS.RRS.TOTL.KM,Rail lines (total route-km),Kilometers,Annual,,International Union of Railways (UIC); Railisa Database,CC BY 4.0,11,2002,2021
+WB_WDI_IS_SHP_GCNW_XQ,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),,Annual,,UN Conference on Trade and Development (UNCTAD); Review of Maritime Transport 2010.,CC BY 4.0,16,2006,2021
+WB_WDI_IS_SHP_GOOD_TU,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),,Annual,,UN Conference on Trade and Development (UNCTAD),CC BY 4.0,12,2008,2019
+WB_WDI_LP_EXP_DURS_MD,LP.EXP.DURS.MD,"Lead time to export, median case (days)",,Annual,,World Bank (WB); Logistic Performance Index Surveys,CC BY 4.0,4,2010,2016
+WB_WDI_LP_IMP_DURS_MD,LP.IMP.DURS.MD,"Lead time to import, median case (days)",,Annual,,World Bank (WB); Logistic Performance Index Surveys,CC BY 4.0,3,2010,2016
+WB_WDI_LP_LPI_CUST_XQ,LP.LPI.CUST.XQ,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_INFR_XQ,LP.LPI.INFR.XQ,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_ITRN_XQ,LP.LPI.ITRN.XQ,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_LOGS_XQ,LP.LPI.LOGS.XQ,Logistics performance index: Competence and quality of logistics services (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_OVRL_XQ,LP.LPI.OVRL.XQ,Logistics performance index: Overall (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_TIME_XQ,LP.LPI.TIME.XQ,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022
+WB_WDI_LP_LPI_TRAC_XQ,LP.LPI.TRAC.XQ,Logistics performance index: Ability to track and trace consignments (1=low to 5=high),,,,World Bank (WB); Connecting to Compete - Logistics Performance Index (LPI),CC BY 4.0,6,2007,2022

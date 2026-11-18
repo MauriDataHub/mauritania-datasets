@@ -1,0 +1,174 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_PER_ALLSP_ADQ_POP_TOT,PER.ALLSP.ADQ.POP.TOT,Adequacy of social protection and labor programs (% of total welfare of beneficiary households),% of Total,_T,_T,_T,A,2008,45.33907,A,0
+WB_WDI_PER_ALLSP_BEN_Q1_TOT,PER.ALLSP.BEN.Q1.TOT,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),% of Total,_T,_T,_T,A,2008,7.694656,A,0
+WB_WDI_PER_ALLSP_COV_POP_TOT,PER.ALLSP.COV.POP.TOT,Coverage of social protection and labor programs (% of population),% of Total,_T,_T,_T,A,2008,39.398387,A,0
+WB_WDI_PER_ALLSP_COV_POP_TOT,PER.ALLSP.COV.POP.TOT,Coverage of social protection and labor programs (% of population),% of Total,_T,_T,_T,A,2014,45.21555,A,0
+WB_WDI_PER_SA_ALLSA_ADQ_POP_TOT,PER.SA.ALLSA.ADQ.POP.TOT,Adequacy of social safety net programs (% of total welfare of beneficiary households),% of Total,_T,_T,_T,A,2008,44.122072,A,0
+WB_WDI_PER_SA_ALLSA_BEN_Q1_TOT,PER.SA.ALLSA.BEN.Q1.TOT,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),% of Total,_T,_T,_T,A,2008,7.237927,A,0
+WB_WDI_PER_SA_ALLSA_COV_POP_TOT,PER.SA.ALLSA.COV.POP.TOT,Coverage of social safety net programs (% of population),% of Total,_T,_T,_T,A,2008,33.525658,A,0
+WB_WDI_PER_SA_ALLSA_COV_POP_TOT,PER.SA.ALLSA.COV.POP.TOT,Coverage of social safety net programs (% of population),% of Total,_T,_T,_T,A,2014,45.21555,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q1_TOT,PER.SA.ALLSA.COV.Q1.TOT,Coverage of social safety net programs in poorest quintile (% of population),% of Total,_T,_T,_T,A,2008,30.346341,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q1_TOT,PER.SA.ALLSA.COV.Q1.TOT,Coverage of social safety net programs in poorest quintile (% of population),% of Total,_T,_T,_T,A,2014,47.460808,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q2_TOT,PER.SA.ALLSA.COV.Q2.TOT,Coverage of social safety net programs in 2nd quintile (% of population),% of Total,_T,_T,_T,A,2008,32.127727,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q2_TOT,PER.SA.ALLSA.COV.Q2.TOT,Coverage of social safety net programs in 2nd quintile (% of population),% of Total,_T,_T,_T,A,2014,46.008416,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q3_TOT,PER.SA.ALLSA.COV.Q3.TOT,Coverage of social safety net programs in 3rd quintile (% of population),% of Total,_T,_T,_T,A,2008,37.429467,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q3_TOT,PER.SA.ALLSA.COV.Q3.TOT,Coverage of social safety net programs in 3rd quintile (% of population),% of Total,_T,_T,_T,A,2014,48.665525,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q4_TOT,PER.SA.ALLSA.COV.Q4.TOT,Coverage of social safety net programs in 4th quintile (% of population),% of Total,_T,_T,_T,A,2008,34.702025,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q4_TOT,PER.SA.ALLSA.COV.Q4.TOT,Coverage of social safety net programs in 4th quintile (% of population),% of Total,_T,_T,_T,A,2014,46.671994,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q5_TOT,PER.SA.ALLSA.COV.Q5.TOT,Coverage of social safety net programs in richest quintile (% of population),% of Total,_T,_T,_T,A,2008,33.02365,A,0
+WB_WDI_PER_SA_ALLSA_COV_Q5_TOT,PER.SA.ALLSA.COV.Q5.TOT,Coverage of social safety net programs in richest quintile (% of population),% of Total,_T,_T,_T,A,2014,37.275262,A,0
+WB_WDI_PER_SI_ALLSI_ADQ_POP_TOT,PER.SI.ALLSI.ADQ.POP.TOT,Adequacy of social insurance programs (% of total welfare of beneficiary households),% of Total,_T,_T,_T,A,2008,34.80438,A,0
+WB_WDI_PER_SI_ALLSI_BEN_Q1_TOT,PER.SI.ALLSI.BEN.Q1.TOT,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),% of Total,_T,_T,_T,A,2008,9.927482,A,0
+WB_WDI_PER_SI_ALLSI_COV_POP_TOT,PER.SI.ALLSI.COV.POP.TOT,Coverage of social insurance programs (% of population),% of Total,_T,_T,_T,A,2008,9.227044,A,0
+WB_WDI_PER_SI_ALLSI_COV_Q1_TOT,PER.SI.ALLSI.COV.Q1.TOT,Coverage of social insurance programs in poorest quintile (% of population),% of Total,_T,_T,_T,A,2008,10.446986,A,0
+WB_WDI_PER_SI_ALLSI_COV_Q2_TOT,PER.SI.ALLSI.COV.Q2.TOT,Coverage of social insurance programs in 2nd quintile (% of population),% of Total,_T,_T,_T,A,2008,10.104685,A,0
+WB_WDI_PER_SI_ALLSI_COV_Q3_TOT,PER.SI.ALLSI.COV.Q3.TOT,Coverage of social insurance programs in 3rd quintile (% of population),% of Total,_T,_T,_T,A,2008,8.436127,A,0
+WB_WDI_PER_SI_ALLSI_COV_Q4_TOT,PER.SI.ALLSI.COV.Q4.TOT,Coverage of social insurance programs in 4th quintile (% of population),% of Total,_T,_T,_T,A,2008,8.816736,A,0
+WB_WDI_PER_SI_ALLSI_COV_Q5_TOT,PER.SI.ALLSI.COV.Q5.TOT,Coverage of social insurance programs in richest quintile (% of population),% of Total,_T,_T,_T,A,2008,8.330667,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,1987,9.5,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,1993,8.7,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,1995,11.2,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,2000,10.6,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,2004,10.7,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,2008,11.3,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,2014,12.4,A,0
+WB_WDI_SI_DST_02ND_20,SI.DST.02ND.20,Income share held by second 20%,%,_T,_T,_T,A,2019,12.5,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,1987,15.0,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,1993,12.3,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,1995,15.7,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,2000,15.2,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,2004,14.7,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,2008,16.3,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,2014,16.9,A,0
+WB_WDI_SI_DST_03RD_20,SI.DST.03RD.20,Income share held by third 20%,%,_T,_T,_T,A,2019,16.8,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,1987,22.6,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,1993,18.2,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,1995,22.4,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,2000,22.3,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,2004,20.6,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,2008,23.3,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,2014,23.0,A,0
+WB_WDI_SI_DST_04TH_20,SI.DST.04TH.20,Income share held by fourth 20%,%,_T,_T,_T,A,2019,22.9,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,1987,48.6,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,1993,55.6,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,1995,44.5,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,2000,45.7,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,2004,47.4,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,2008,42.4,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,2014,40.2,A,0
+WB_WDI_SI_DST_05TH_20,SI.DST.05TH.20,Income share held by highest 20%,%,_T,_T,_T,A,2019,40.0,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,1987,32.0,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,1993,41.9,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,1995,28.7,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,2000,29.5,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,2004,32.6,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,2008,26.2,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,2014,24.9,A,0
+WB_WDI_SI_DST_10TH_10,SI.DST.10TH.10,Income share held by highest 10%,%,_T,_T,_T,A,2019,24.6,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,1987,22.1,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,1993,14.1,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,1995,14.2,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,2000,16.0,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,2004,12.4,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,2008,14.9,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,2014,12.1,A,0
+WB_WDI_SI_DST_50MD,SI.DST.50MD,Proportion of people living below 50 percent of median income (%),%,_T,_T,_T,A,2019,10.6,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,1987,1.4,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,1993,2.1,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,1995,2.4,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,2000,2.5,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,2004,2.6,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,2008,2.6,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,2014,3.0,A,0
+WB_WDI_SI_DST_FRST_10,SI.DST.FRST.10,Income share held by lowest 10%,%,_T,_T,_T,A,2019,3.1,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,1987,4.2,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,1993,5.2,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,1995,6.4,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,2000,6.2,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,2004,6.5,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,2008,6.7,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,2014,7.5,A,0
+WB_WDI_SI_DST_FRST_20,SI.DST.FRST.20,Income share held by lowest 20%,%,_T,_T,_T,A,2019,7.8,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1987,50.8,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1993,54.1,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1995,31.7,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2000,30.7,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2004,28.5,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2008,19.2,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2014,11.7,A,0
+WB_WDI_SI_POV_DDAY,SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2019,10.2,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,1987,23.0,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,1993,20.5,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,1995,10.3,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,2000,9.6,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,2004,8.0,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,2008,5.2,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,2014,2.8,A,0
+WB_WDI_SI_POV_GAPS,SI.POV.GAPS,Poverty gap at $3.00 a day (2021 PPP) (%),%,_T,_T,_T,A,2019,2.5,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,1987,43.9,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,1993,49.5,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,1995,37.7,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,2000,39.0,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,2004,40.2,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,2008,35.7,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,2014,32.6,A,0
+WB_WDI_SI_POV_GINI,SI.POV.GINI,Gini index,%,_T,_T,_T,A,2019,32.0,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1987,67.6,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1993,71.4,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1995,52.2,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2000,49.2,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2004,49.4,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2008,36.8,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2014,26.3,A,0
+WB_WDI_SI_POV_LMIC,SI.POV.LMIC,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2019,26.0,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,1987,33.5,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,1993,32.8,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,1995,19.3,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,2000,18.4,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,2004,17.0,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,2008,11.8,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,2014,7.4,A,0
+WB_WDI_SI_POV_LMIC_GP,SI.POV.LMIC.GP,Poverty gap at $4.20 a day (2021 PPP) (%),%,_T,_T,_T,A,2019,6.8,A,0
+WB_WDI_SI_POV_MPUN,SI.POV.MPUN,Multidimensional poverty headcount ratio (UNDP & OPHI) (% of population),%,_T,_T,_T,A,2019,58.4,A,0
+WB_WDI_SI_POV_MPWB,SI.POV.MPWB,Multidimensional poverty headcount ratio (World Bank) (% of population),%,_T,_T,_T,A,2014,47.2,A,0
+WB_WDI_SI_POV_MPWB,SI.POV.MPWB,Multidimensional poverty headcount ratio (World Bank) (% of population),%,_T,_T,_T,A,2019,42.7,A,0
+WB_WDI_SI_POV_NAHC,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),%,_T,_T,_T,A,2014,34.3,A,0
+WB_WDI_SI_POV_NAHC,SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),%,_T,_T,_T,A,2019,31.8,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,1987,50.8,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,1993,54.1,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,1995,36.6,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,2000,37.9,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,2004,36.5,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,2008,34.0,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,2014,28.2,A,0
+WB_WDI_SI_POV_SOPO,SI.POV.SOPO,Poverty headcount ratio at societal poverty line (% of population),%,_T,_T,_T,A,2019,27.6,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1987,90.9,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1993,91.3,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,1995,85.6,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2000,82.8,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2004,84.4,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2008,74.1,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2014,70.0,A,0
+WB_WDI_SI_POV_UMIC,SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),%,_T,_T,_T,A,2019,71.2,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,1987,57.6,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,1993,58.2,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,1995,45.5,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,2000,43.5,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,2004,43.7,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,2008,34.4,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,2014,28.7,A,0
+WB_WDI_SI_POV_UMIC_GP,SI.POV.UMIC.GP,Poverty gap at $8.30 a day (2021 PPP) (%),%,_T,_T,_T,A,2019,28.7,A,0
+WB_WDI_SI_SPR_PC40,SI.SPR.PC40,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",2021 PPP $,_T,_T,_T,A,2014,3.6,A,0
+WB_WDI_SI_SPR_PC40,SI.SPR.PC40,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",2021 PPP $,_T,_T,_T,A,2019,3.67,A,0
+WB_WDI_SI_SPR_PC40_ZG,SI.SPR.PC40.ZG,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",%,_T,_T,_T,A,2019,0.31,A,0
+WB_WDI_SI_SPR_PCAP,SI.SPR.PCAP,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",2021 PPP $,_T,_T,_T,A,2014,7.24,A,0
+WB_WDI_SI_SPR_PCAP,SI.SPR.PCAP,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",2021 PPP $,_T,_T,_T,A,2019,7.21,A,0
+WB_WDI_SI_SPR_PCAP_ZG,SI.SPR.PCAP.ZG,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",%,_T,_T,_T,A,2019,-0.08,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,1987,15.0,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,1993,12.2,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,1995,8.7,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,2000,8.2,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,2004,7.9,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,2008,6.6,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,2014,5.5,A,0
+WB_WDI_SI_SPR_PGAP,SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),NA,_T,_T,_T,A,2019,5.5,A,0

@@ -1,0 +1,23 @@
+indicator_id,indicator_name,unit,min,max,count
+ACT_MOB_SB,Active mobile-broadband subscriptions (ITU),"Subscriptions per 100 inhabitants, Subscriptions",2009,2024,16
+INT_BAND_PER_PS,International bandwidth usage - per capita,Kilobits per second,2000,2017,18
+INT_BAND_PER_USR,International bandwidth usage - per internet user,Kilobits per second,2000,2017,18
+INT_CONN_BAND,International bandwidth usage,Megabits per second,2000,2017,18
+INT_CONN_BAND_PS,Lit/equipped international bandwidth capacity,Megabits per second,2014,2024,8
+IT_BB_FIX_TRF,Fixed-broadband internet traffic,Exabytes per year,2021,2021,1
+IT_BB_MOB_TRF,Mobile-broadband internet traffic within the country,Exabytes per year,2017,2024,8
+IT_CEL_SETS,Mobile-cellular subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",2000,2024,50
+IT_HH_COMP,Percentage of households with a computer (ITU),Percentage of households,2002,2017,16
+IT_HH_INT,Percentage of households with internet access at home (ITU),Percentage of households,2002,2024,22
+IT_MLT_MAIN,Fixed-telephone subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",2000,2024,50
+IT_NET_BBND,Fixed-broadband subscriptions (ITU),"Subscriptions, Subscriptions per 100 inhabitants",2005,2024,40
+IT_NET_USER,Percentage of individuals using the internet (ITU),Percentage of population,2000,2024,25
+MOB_COV_2G,"Population coverage, at least 2G",Percentage of population,2005,2023,14
+MOB_COV_3G,"Population coverage, at least 3G",Percentage of population,2014,2024,10
+MOB_COV_4G,"Population coverage, at least 4G",Percentage of population,2014,2024,10
+MOB_COV_5G,"Population coverage, at least 5G",Percentage of population,2021,2021,1
+PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",2013,2025,39
+PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",2008,2025,54
+PRI_HU_VD,Price of a high usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",2018,2025,48
+PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",2008,2024,51
+PRI_LU_VD,Price of a low usage voice and data bundle (ITU),"Percentage of GNI per person, Purchasing Power Parities, US dollars",2018,2025,24

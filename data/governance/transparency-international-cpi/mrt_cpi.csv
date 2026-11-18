@@ -1,0 +1,15 @@
+country,iso3,region,year,score,rank,sources,standardError,lowerCi,upperCi
+Mauritania,MRT,SSA,2025,30,130,6,2.36,26,34
+Mauritania,MRT,SSA,2024,30,130,6,2.29,26,34
+Mauritania,MRT,SSA,2023,30,130,6,1.65,27,33
+Mauritania,MRT,SSA,2022,30,130,6,1.68,27,33
+Mauritania,MRT,SSA,2021,28,140,7,1.85,25,31
+Mauritania,MRT,SSA,2020,29,134,6,1.60,26,32
+Mauritania,MRT,SSA,2019,28,137,6,2.73,24,32
+Mauritania,MRT,SSA,2018,27,144,6,2.95,22,32
+Mauritania,MRT,SSA,2017,28,143,6,2.41,24,32
+Mauritania,MRT,SSA,2016,27,142,5,3.62,21,33
+Mauritania,MRT,SSA,2015,31,111,5,5.07,23,39
+Mauritania,MRT,SSA,2014,30,124,5,4.23,23,37
+Mauritania,MRT,SSA,2013,30,119,5,4.10,23,37
+Mauritania,MRT,SSA,2012,31,123,5,3.50,25,36

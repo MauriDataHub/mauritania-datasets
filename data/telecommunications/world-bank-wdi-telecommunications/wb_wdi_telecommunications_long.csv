@@ -1,0 +1,316 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1960,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1965,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1970,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1975,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1976,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1977,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1978,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1979,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1980,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1981,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1982,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1983,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1984,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1985,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1986,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1987,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1988,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1989,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1992,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1993,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1994,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1995,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1996,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1998,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,1999,0.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2000,15300.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2001,110463.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2002,247238.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2003,350954.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2004,522400.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2005,745615.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2006,1060122.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2007,1413967.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2008,2091992.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2009,2182249.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2010,2776050.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2011,3314767.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2012,4025478.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2013,3988195.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2014,3753330.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2015,3644483.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2016,3614172.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2017,4074157.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2018,4566502.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2019,4710800.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2020,5808909.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2021,6512361.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2022,5357540.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2023,4558995.0,A,0
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,_T,_T,_T,A,2024,4759715.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1960,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1965,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1970,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1975,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1976,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1977,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1978,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1979,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1980,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1981,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1982,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1983,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1984,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1985,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1986,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1987,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1988,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1989,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1992,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1993,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1994,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1995,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1996,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1998,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1999,0.0,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2000,0.585435,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2001,4.123662,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2002,9.027716,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2003,12.524919,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2004,18.210568,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2005,25.369174,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2006,35.177226,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2007,45.714194,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2008,65.718354,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2009,66.44188,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2010,81.866076,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2011,94.631626,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2012,111.230732,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2013,106.798484,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2014,97.526734,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2015,91.894117,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2016,88.438349,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2017,96.759535,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2018,105.275095,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2019,105.44109,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2020,126.277034,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2021,137.540323,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2022,109.883898,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2023,90.772495,A,0
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2024,92.074895,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1970,600.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1971,600.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1972,600.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1973,600.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1974,600.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1975,1329.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1976,1534.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1977,2214.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1978,2567.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1979,2989.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1980,3256.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1981,3350.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1982,3511.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1983,3714.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1984,3776.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1985,3953.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1986,4110.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1987,4310.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1988,4517.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1989,4539.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1990,5880.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1991,6382.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1992,6750.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1993,7499.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1994,8426.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1995,9249.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1996,10204.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1997,13045.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1998,15030.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,1999,16525.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2000,18969.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2001,24856.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2002,31529.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2003,38178.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2004,39000.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2005,41000.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2006,34870.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2007,40267.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2008,76354.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2009,74464.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2010,71572.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2011,72294.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2012,65069.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2013,53993.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2014,51432.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2015,51294.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2016,53191.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2017,57057.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2018,59959.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2019,61858.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2020,62099.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2021,58094.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2022,47503.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2023,30213.0,A,0
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,_T,_T,_T,A,2024,15997.0,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1970,0.053467,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1971,0.05232,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1972,0.05232,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1973,0.05232,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1974,0.05232,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1975,0.10204,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1976,0.114341,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1977,0.16028,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1978,0.180548,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1979,0.204234,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1980,0.216102,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1981,0.215894,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1982,0.219667,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1983,0.225591,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1984,0.222684,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1985,0.226369,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1986,0.228586,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1987,0.232836,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1988,0.237007,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1989,0.232169,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1990,0.301,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1991,0.318,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1992,0.323,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1993,0.345,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1994,0.375,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1995,0.4,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1996,0.433,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1997,0.541,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1998,0.607,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,1999,0.65,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2000,0.725825,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2001,0.927892,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2002,1.151259,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2003,1.362504,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2004,1.359518,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2005,1.395004,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2006,1.157065,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2007,1.30185,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2008,2.398603,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2009,2.267169,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2010,2.110668,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2011,2.063885,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2012,1.797966,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2013,1.44586,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2014,1.336412,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2015,1.293357,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2016,1.301577,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2017,1.35508,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2018,1.382281,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2019,1.384558,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2020,1.34994,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2021,1.226939,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2022,0.974293,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2023,0.60156,A,0
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2024,0.309456,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2005,164.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2006,973.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2007,4000.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2008,5876.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2009,6775.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2010,5809.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2011,6120.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2012,6697.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2013,7532.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2014,8000.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2015,9638.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2016,11141.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2017,12637.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2018,13224.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2019,10815.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2020,18457.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2021,19219.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2022,20245.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2023,29653.0,A,0
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,_T,_T,_T,A,2024,48929.0,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2005,0.00558,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2006,0.032286,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2007,0.129322,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2008,0.18459,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2009,0.206275,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2010,0.171308,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2011,0.174717,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2012,0.185049,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2013,0.201697,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2014,0.207872,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2015,0.243018,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2016,0.272619,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2017,0.300123,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2018,0.304863,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2019,0.24207,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2020,0.401228,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2021,0.405903,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2022,0.415228,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2023,0.59041,A,0
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,_T,_T,_T,A,2024,0.946513,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2010,6.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2011,4.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2012,1.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2013,2.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2014,1.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2015,14.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2016,14.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2017,18.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2018,24.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2019,33.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2020,65.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2021,65.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2022,123.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2023,174.0,A,0
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,_T,_T,_T,A,2024,270.0,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2010,1.769408,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2011,1.14194,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2012,0.276317,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2013,0.535573,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2014,0.259841,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2015,3.530042,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2016,3.425783,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2017,4.274925,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2018,5.532905,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2019,7.386338,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2020,14.130032,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2021,13.727926,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2022,25.227473,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2023,34.644509,A,0
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,_T,_T,_T,A,2024,52.230483,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,1997,0.00417,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,1998,0.0406,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,1999,0.118,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2000,0.192031,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2001,0.261449,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2002,0.363229,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2003,0.424005,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2004,0.48147,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2005,0.67,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2006,0.9797,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2007,1.4336,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2008,1.87,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2009,2.28,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2010,4.0,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2011,4.5,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2012,5.0,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2013,6.2,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2014,11.8,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2015,17.6,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2016,19.2328,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2017,21.0172,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2018,22.966999,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2019,25.097799,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2020,29.9065,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2021,35.6366,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2022,42.4645,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2023,44.956299,A,0
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,_T,_T,_T,A,2024,45.7794,A,0

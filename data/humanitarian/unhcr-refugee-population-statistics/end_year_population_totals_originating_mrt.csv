@@ -1,0 +1,768 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Refugees,Asylum seekers,Other people in need of international protection,Internally displaced persons,Stateless Persons,Others of concern to UNHCR,Host community
+1989,MRT,SEN,Mauritania,Senegal,48236,0,0,0,0,0,0
+1990,MRT,MLI,Mauritania,Mali,13000,0,0,0,0,0,0
+1990,MRT,SEN,Mauritania,Senegal,52995,0,0,0,0,0,0
+1991,MRT,MLI,Mauritania,Mali,13076,0,0,0,0,0,0
+1991,MRT,SEN,Mauritania,Senegal,66798,0,0,0,0,0,0
+1992,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+1992,MRT,MLI,Mauritania,Mali,13076,0,0,0,0,0,0
+1992,MRT,NLD,Mauritania,Netherlands (Kingdom of the),10,0,0,0,0,0,0
+1992,MRT,SEN,Mauritania,Senegal,66498,0,0,0,0,0,0
+1992,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+1993,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+1993,MRT,CIV,Mauritania,Côte d'Ivoire,23,0,0,0,0,0,0
+1993,MRT,NLD,Mauritania,Netherlands (Kingdom of the),10,0,0,0,0,0,0
+1993,MRT,SEN,Mauritania,Senegal,67844,0,0,0,0,0,0
+1993,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+1994,MRT,CAN,Mauritania,Canada,16,0,0,0,0,0,0
+1994,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+1994,MRT,GAB,Mauritania,Gabon,123,0,0,0,0,0,0
+1994,MRT,CIV,Mauritania,Côte d'Ivoire,23,0,0,0,0,0,0
+1994,MRT,NLD,Mauritania,Netherlands (Kingdom of the),23,0,0,0,0,0,0
+1994,MRT,SEN,Mauritania,Senegal,67844,0,0,0,0,0,0
+1994,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+1995,MRT,CAN,Mauritania,Canada,22,0,0,0,0,0,0
+1995,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+1995,MRT,FRA,Mauritania,France,1328,0,0,0,0,0,0
+1995,MRT,GAB,Mauritania,Gabon,126,0,0,0,0,0,0
+1995,MRT,MLI,Mauritania,Mali,16997,0,0,0,0,0,0
+1995,MRT,NLD,Mauritania,Netherlands (Kingdom of the),41,0,0,0,0,0,0
+1995,MRT,SEN,Mauritania,Senegal,65485,0,0,0,0,0,0
+1995,MRT,ESP,Mauritania,Spain,5,0,0,0,0,0,0
+1995,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+1995,MRT,USA,Mauritania,United States of America,296,0,0,0,0,0,0
+1996,MRT,CAN,Mauritania,Canada,24,0,0,0,0,0,0
+1996,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+1996,MRT,FRA,Mauritania,France,1380,0,0,0,0,0,0
+1996,MRT,GAB,Mauritania,Gabon,127,0,0,0,0,0,0
+1996,MRT,MLI,Mauritania,Mali,16764,0,0,0,0,0,0
+1996,MRT,NLD,Mauritania,Netherlands (Kingdom of the),76,0,0,0,0,0,0
+1996,MRT,SEN,Mauritania,Senegal,64030,0,0,0,0,0,0
+1996,MRT,ESP,Mauritania,Spain,5,0,0,0,0,0,0
+1996,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+1996,MRT,USA,Mauritania,United States of America,815,0,0,0,0,0,0
+1997,MRT,BFA,Mauritania,Burkina Faso,12,0,0,0,0,0,0
+1997,MRT,CAN,Mauritania,Canada,24,0,0,0,0,0,0
+1997,MRT,COG,Mauritania,Congo,6,0,0,0,0,0,0
+1997,MRT,DNK,Mauritania,Denmark,7,0,0,0,0,0,0
+1997,MRT,FRA,Mauritania,France,1434,0,0,0,0,0,0
+1997,MRT,GAB,Mauritania,Gabon,130,0,0,0,0,0,0
+1997,MRT,CIV,Mauritania,Côte d'Ivoire,5,0,0,0,0,0,0
+1997,MRT,MLI,Mauritania,Mali,11103,0,0,0,0,0,0
+1997,MRT,NLD,Mauritania,Netherlands (Kingdom of the),119,0,0,0,0,0,0
+1997,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+1997,MRT,SEN,Mauritania,Senegal,56229,0,0,0,0,0,0
+1997,MRT,ESP,Mauritania,Spain,8,0,0,0,0,0,0
+1997,MRT,SWE,Mauritania,Sweden,6,0,0,0,0,0,0
+1997,MRT,USA,Mauritania,United States of America,1206,0,0,0,0,0,0
+1998,MRT,BEL,Mauritania,Belgium,71,0,0,0,0,0,0
+1998,MRT,BFA,Mauritania,Burkina Faso,10,0,0,0,0,0,0
+1998,MRT,CAN,Mauritania,Canada,28,0,0,0,0,0,0
+1998,MRT,COG,Mauritania,Congo,6,0,0,0,0,0,0
+1998,MRT,DNK,Mauritania,Denmark,7,0,0,0,0,0,0
+1998,MRT,FRA,Mauritania,France,1470,0,0,0,0,0,0
+1998,MRT,GAB,Mauritania,Gabon,123,0,0,0,0,0,0
+1998,MRT,CIV,Mauritania,Côte d'Ivoire,5,0,0,0,0,0,0
+1998,MRT,MLI,Mauritania,Mali,11627,0,0,0,0,0,0
+1998,MRT,NLD,Mauritania,Netherlands (Kingdom of the),132,0,0,0,0,0,0
+1998,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+1998,MRT,SEN,Mauritania,Senegal,55133,0,0,0,0,0,0
+1998,MRT,ESP,Mauritania,Spain,11,0,0,0,0,0,0
+1998,MRT,SWE,Mauritania,Sweden,6,0,0,0,0,0,0
+1998,MRT,USA,Mauritania,United States of America,1587,0,0,0,0,0,0
+1999,MRT,BEL,Mauritania,Belgium,73,0,0,0,0,0,0
+1999,MRT,BFA,Mauritania,Burkina Faso,10,0,0,0,0,0,0
+1999,MRT,CAN,Mauritania,Canada,26,0,0,0,0,0,0
+1999,MRT,DNK,Mauritania,Denmark,12,0,0,0,0,0,0
+1999,MRT,FRA,Mauritania,France,1513,0,0,0,0,0,0
+1999,MRT,GAB,Mauritania,Gabon,88,0,0,0,0,0,0
+1999,MRT,CIV,Mauritania,Côte d'Ivoire,5,0,0,0,0,0,0
+1999,MRT,MLI,Mauritania,Mali,6110,0,0,0,0,0,0
+1999,MRT,NLD,Mauritania,Netherlands (Kingdom of the),150,0,0,0,0,0,0
+1999,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+1999,MRT,SEN,Mauritania,Senegal,19999,0,0,0,0,0,0
+1999,MRT,ESP,Mauritania,Spain,15,0,0,0,0,0,0
+1999,MRT,SWE,Mauritania,Sweden,6,0,0,0,0,0,0
+1999,MRT,USA,Mauritania,United States of America,1930,0,0,0,0,0,0
+2000,MRT,BEL,Mauritania,Belgium,78,0,0,0,0,0,0
+2000,MRT,BFA,Mauritania,Burkina Faso,10,0,0,0,0,0,0
+2000,MRT,CAN,Mauritania,Canada,15,23,0,0,0,0,0
+2000,MRT,DNK,Mauritania,Denmark,11,0,0,0,0,0,0
+2000,MRT,FRA,Mauritania,France,1555,0,0,0,0,0,0
+2000,MRT,GAB,Mauritania,Gabon,20,68,0,0,0,0,0
+2000,MRT,DEU,Mauritania,Germany,0,32,0,0,0,0,0
+2000,MRT,CIV,Mauritania,Côte d'Ivoire,5,0,0,0,0,0,0
+2000,MRT,MLI,Mauritania,Mali,6115,97,0,0,0,0,0
+2000,MRT,MAR,Mauritania,Morocco,22,0,0,0,0,0,0
+2000,MRT,NLD,Mauritania,Netherlands (Kingdom of the),172,190,0,0,0,0,0
+2000,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+2000,MRT,SEN,Mauritania,Senegal,19803,130,0,0,0,0,0
+2000,MRT,ESP,Mauritania,Spain,25,0,0,0,0,0,0
+2000,MRT,SWE,Mauritania,Sweden,6,0,0,0,0,0,0
+2000,MRT,CHE,Mauritania,Switzerland,0,35,0,0,0,0,0
+2000,MRT,USA,Mauritania,United States of America,1900,1207,0,0,0,0,0
+2001,MRT,AUS,Mauritania,Australia,0,5,0,0,0,0,0
+2001,MRT,BEL,Mauritania,Belgium,33,0,0,0,0,0,0
+2001,MRT,CAN,Mauritania,Canada,15,47,0,0,0,0,0
+2001,MRT,COG,Mauritania,Congo,0,19,0,0,0,0,0
+2001,MRT,DNK,Mauritania,Denmark,7,0,0,0,0,0,0
+2001,MRT,FRA,Mauritania,France,1801,0,0,0,0,0,0
+2001,MRT,GAB,Mauritania,Gabon,20,72,0,0,0,0,0
+2001,MRT,DEU,Mauritania,Germany,0,35,0,0,0,0,0
+2001,MRT,CIV,Mauritania,Côte d'Ivoire,5,0,0,0,0,0,0
+2001,MRT,MLI,Mauritania,Mali,6117,110,0,0,0,0,0
+2001,MRT,MAR,Mauritania,Morocco,22,0,0,0,0,0,0
+2001,MRT,NLD,Mauritania,Netherlands (Kingdom of the),186,180,0,0,0,0,0
+2001,MRT,SEN,Mauritania,Senegal,19783,297,0,0,0,0,0
+2001,MRT,ESP,Mauritania,Spain,23,0,0,0,0,0,0
+2001,MRT,SWE,Mauritania,Sweden,5,0,0,0,0,0,0
+2001,MRT,CHE,Mauritania,Switzerland,0,53,0,0,0,0,0
+2001,MRT,USA,Mauritania,United States of America,1833,1739,0,0,0,0,0
+2002,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2002,MRT,BEL,Mauritania,Belgium,21,0,0,0,0,0,0
+2002,MRT,CAN,Mauritania,Canada,20,67,0,0,0,0,0
+2002,MRT,COG,Mauritania,Congo,0,23,0,0,0,0,0
+2002,MRT,DNK,Mauritania,Denmark,6,0,0,0,0,0,0
+2002,MRT,FRA,Mauritania,France,2143,0,0,0,0,0,0
+2002,MRT,GAB,Mauritania,Gabon,28,60,0,0,0,0,0
+2002,MRT,DEU,Mauritania,Germany,72,37,0,0,0,0,0
+2002,MRT,CIV,Mauritania,Côte d'Ivoire,5,5,0,0,0,0,0
+2002,MRT,MLI,Mauritania,Mali,6121,110,0,0,0,0,0
+2002,MRT,MAR,Mauritania,Morocco,22,0,0,0,0,0,0
+2002,MRT,NLD,Mauritania,Netherlands (Kingdom of the),193,134,0,0,0,0,0
+2002,MRT,SEN,Mauritania,Senegal,19777,0,0,0,0,0,0
+2002,MRT,ESP,Mauritania,Spain,25,0,0,0,0,0,0
+2002,MRT,SWE,Mauritania,Sweden,5,10,0,0,0,0,0
+2002,MRT,CHE,Mauritania,Switzerland,0,47,0,0,0,0,0
+2002,MRT,USA,Mauritania,United States of America,1687,2479,0,0,0,0,0
+2003,MRT,AGO,Mauritania,Angola,5,0,0,0,0,0,0
+2003,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2003,MRT,BEL,Mauritania,Belgium,17,14,0,0,0,0,0
+2003,MRT,CAN,Mauritania,Canada,30,45,0,0,0,0,0
+2003,MRT,COG,Mauritania,Congo,0,32,0,0,0,0,0
+2003,MRT,DNK,Mauritania,Denmark,6,0,0,0,0,0,0
+2003,MRT,FRA,Mauritania,France,2763,0,0,0,0,0,0
+2003,MRT,GAB,Mauritania,Gabon,30,34,0,0,0,0,0
+2003,MRT,DEU,Mauritania,Germany,67,22,0,0,0,0,0
+2003,MRT,GRC,Mauritania,Greece,0,8,0,0,0,0,0
+2003,MRT,CIV,Mauritania,Côte d'Ivoire,5,6,0,0,0,0,0
+2003,MRT,IRL,Mauritania,Ireland,0,5,0,0,0,0,0
+2003,MRT,MLI,Mauritania,Mali,6148,103,0,0,0,0,0
+2003,MRT,MAR,Mauritania,Morocco,21,0,0,0,0,0,0
+2003,MRT,NLD,Mauritania,Netherlands (Kingdom of the),201,91,0,0,0,0,0
+2003,MRT,SEN,Mauritania,Senegal,19777,104,0,0,0,0,0
+2003,MRT,ESP,Mauritania,Spain,23,0,0,0,0,0,0
+2003,MRT,SWE,Mauritania,Sweden,5,16,0,0,0,0,0
+2003,MRT,CHE,Mauritania,Switzerland,0,15,0,0,0,0,0
+2003,MRT,USA,Mauritania,United States of America,1415,2377,0,0,0,0,0
+2004,MRT,AGO,Mauritania,Angola,5,0,0,0,0,0,0
+2004,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2004,MRT,BEL,Mauritania,Belgium,30,46,0,0,0,0,0
+2004,MRT,BEN,Mauritania,Benin,0,5,0,0,0,0,0
+2004,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2004,MRT,CAN,Mauritania,Canada,69,97,0,0,0,0,0
+2004,MRT,COG,Mauritania,Congo,0,32,0,0,0,0,0
+2004,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+2004,MRT,FRA,Mauritania,France,3391,0,0,0,0,0,0
+2004,MRT,GAB,Mauritania,Gabon,30,26,0,0,0,0,0
+2004,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,5,0,0,0,0,0,0
+2004,MRT,DEU,Mauritania,Germany,68,5,0,0,0,0,0
+2004,MRT,GRC,Mauritania,Greece,0,20,0,0,0,0,0
+2004,MRT,CIV,Mauritania,Côte d'Ivoire,5,6,0,0,0,0,0
+2004,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2004,MRT,ITA,Mauritania,Italy,6,0,0,0,0,0,0
+2004,MRT,MLI,Mauritania,Mali,6185,78,0,0,0,0,0
+2004,MRT,NLD,Mauritania,Netherlands (Kingdom of the),189,45,0,0,0,0,0
+2004,MRT,SEN,Mauritania,Senegal,19778,69,0,0,0,0,0
+2004,MRT,ESP,Mauritania,Spain,23,0,0,0,0,0,0
+2004,MRT,SWE,Mauritania,Sweden,5,17,0,0,0,0,0
+2004,MRT,CHE,Mauritania,Switzerland,0,6,0,0,0,0,0
+2004,MRT,USA,Mauritania,United States of America,1300,2115,0,0,0,0,0
+2005,MRT,AGO,Mauritania,Angola,7,0,0,0,0,0,0
+2005,MRT,AUS,Mauritania,Australia,6,0,0,0,0,0,0
+2005,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2005,MRT,BEL,Mauritania,Belgium,52,428,0,0,0,0,0
+2005,MRT,BEN,Mauritania,Benin,0,5,0,0,0,0,0
+2005,MRT,BRA,Mauritania,Brazil,5,0,0,0,0,0,0
+2005,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2005,MRT,CAN,Mauritania,Canada,129,82,0,0,0,0,0
+2005,MRT,COG,Mauritania,Congo,0,21,0,0,0,0,0
+2005,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+2005,MRT,FRA,Mauritania,France,3771,0,0,0,0,0,0
+2005,MRT,GAB,Mauritania,Gabon,22,27,0,0,0,0,0
+2005,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,5,0,0,0,0,0,0
+2005,MRT,DEU,Mauritania,Germany,57,10,0,0,0,0,0
+2005,MRT,GRC,Mauritania,Greece,0,13,0,0,0,0,0
+2005,MRT,CIV,Mauritania,Côte d'Ivoire,5,6,0,0,0,0,0
+2005,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2005,MRT,ITA,Mauritania,Italy,6,0,0,0,0,0,0
+2005,MRT,MLI,Mauritania,Mali,6165,118,0,0,0,0,0
+2005,MRT,MAR,Mauritania,Morocco,0,5,0,0,0,0,0
+2005,MRT,NLD,Mauritania,Netherlands (Kingdom of the),175,12,0,0,0,0,0
+2005,MRT,SEN,Mauritania,Senegal,19712,59,0,0,0,0,0
+2005,MRT,ESP,Mauritania,Spain,24,0,0,0,0,0,0
+2005,MRT,SWE,Mauritania,Sweden,6,12,0,0,0,0,0
+2005,MRT,CHE,Mauritania,Switzerland,5,5,0,0,0,0,0
+2005,MRT,SYR,Mauritania,Syrian Arab Republic,0,5,0,0,0,0,0
+2005,MRT,TUR,Mauritania,Türkiye,0,13,0,0,0,0,0
+2005,MRT,USA,Mauritania,United States of America,1483,1470,0,0,0,0,0
+2006,MRT,AGO,Mauritania,Angola,10,18,0,0,0,0,0
+2006,MRT,AUS,Mauritania,Australia,6,0,0,0,0,0,0
+2006,MRT,AUT,Mauritania,Austria,5,19,0,0,0,0,0
+2006,MRT,BEL,Mauritania,Belgium,92,294,0,0,0,0,0
+2006,MRT,BFA,Mauritania,Burkina Faso,0,6,0,0,0,0,0
+2006,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2006,MRT,CAN,Mauritania,Canada,229,30,0,0,0,0,0
+2006,MRT,COG,Mauritania,Congo,0,35,0,0,0,0,0
+2006,MRT,CYP,Mauritania,Cyprus,0,5,0,0,0,0,0
+2006,MRT,DNK,Mauritania,Denmark,5,0,0,0,0,0,0
+2006,MRT,FRA,Mauritania,France,3904,0,0,0,0,0,0
+2006,MRT,GAB,Mauritania,Gabon,14,18,0,0,0,0,0
+2006,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,5,0,0,0,0,0,0
+2006,MRT,DEU,Mauritania,Germany,32,0,0,0,0,0,0
+2006,MRT,GRC,Mauritania,Greece,0,25,0,0,0,0,0
+2006,MRT,CIV,Mauritania,Côte d'Ivoire,5,6,0,0,0,0,0
+2006,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2006,MRT,ITA,Mauritania,Italy,6,0,0,0,0,0,0
+2006,MRT,MLI,Mauritania,Mali,6165,129,0,0,0,0,0
+2006,MRT,NLD,Mauritania,Netherlands (Kingdom of the),140,6,0,0,0,0,0
+2006,MRT,NOR,Mauritania,Norway,0,5,0,0,0,0,0
+2006,MRT,SEN,Mauritania,Senegal,19630,59,0,0,0,0,0
+2006,MRT,ESP,Mauritania,Spain,24,0,0,0,0,0,0
+2006,MRT,SWE,Mauritania,Sweden,7,5,0,0,0,0,0
+2006,MRT,CHE,Mauritania,Switzerland,5,5,0,0,0,0,0
+2006,MRT,TUR,Mauritania,Türkiye,0,34,0,0,0,0,0
+2006,MRT,UKR,Mauritania,Ukraine,0,5,0,0,0,0,0
+2006,MRT,USA,Mauritania,United States of America,3131,1085,0,0,0,0,0
+2007,MRT,AGO,Mauritania,Angola,13,11,0,0,0,0,0
+2007,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2007,MRT,AUT,Mauritania,Austria,5,10,0,0,0,0,0
+2007,MRT,BEL,Mauritania,Belgium,71,0,0,0,0,0,0
+2007,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2007,MRT,CAN,Mauritania,Canada,231,27,0,0,0,0,0
+2007,MRT,COG,Mauritania,Congo,0,35,0,0,0,0,0
+2007,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2007,MRT,FRA,Mauritania,France,4008,0,0,0,0,0,0
+2007,MRT,GAB,Mauritania,Gabon,18,20,0,0,0,0,0
+2007,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2007,MRT,DEU,Mauritania,Germany,32,0,0,0,0,0,0
+2007,MRT,GRC,Mauritania,Greece,0,25,0,0,0,0,0
+2007,MRT,CIV,Mauritania,Côte d'Ivoire,0,6,0,0,0,0,0
+2007,MRT,IRL,Mauritania,Ireland,6,0,0,0,0,0,0
+2007,MRT,ISR,Mauritania,Israel,0,5,0,0,0,0,0
+2007,MRT,ITA,Mauritania,Italy,28,0,0,0,0,0,0
+2007,MRT,MLI,Mauritania,Mali,6165,128,0,0,0,0,0
+2007,MRT,MAR,Mauritania,Morocco,7,0,0,0,0,0,0
+2007,MRT,NLD,Mauritania,Netherlands (Kingdom of the),93,0,0,0,0,0,0
+2007,MRT,NOR,Mauritania,Norway,0,6,0,0,0,0,0
+2007,MRT,SEN,Mauritania,Senegal,19503,58,0,0,0,0,0
+2007,MRT,ESP,Mauritania,Spain,21,0,0,0,0,0,0
+2007,MRT,SWE,Mauritania,Sweden,7,0,0,0,0,0,0
+2007,MRT,CHE,Mauritania,Switzerland,0,5,0,0,0,0,0
+2007,MRT,TUR,Mauritania,Türkiye,0,33,0,0,0,0,0
+2007,MRT,USA,Mauritania,United States of America,2870,626,0,0,0,0,0
+2008,MRT,AGO,Mauritania,Angola,16,9,0,0,0,0,0
+2008,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2008,MRT,AUT,Mauritania,Austria,5,8,0,0,0,0,0
+2008,MRT,BEL,Mauritania,Belgium,76,0,0,0,0,0,0
+2008,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2008,MRT,CAN,Mauritania,Canada,254,31,0,0,0,0,0
+2008,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2008,MRT,COG,Mauritania,Congo,0,34,0,0,0,0,0
+2008,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2008,MRT,FRA,Mauritania,France,4125,0,0,0,0,0,0
+2008,MRT,GAB,Mauritania,Gabon,18,20,0,0,0,0,0
+2008,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2008,MRT,DEU,Mauritania,Germany,36,5,0,0,0,0,0
+2008,MRT,GRC,Mauritania,Greece,0,17,0,0,0,0,0
+2008,MRT,IRL,Mauritania,Ireland,6,0,0,0,0,0,0
+2008,MRT,ISR,Mauritania,Israel,0,5,0,0,0,0,0
+2008,MRT,ITA,Mauritania,Italy,44,0,0,0,0,0,0
+2008,MRT,MLI,Mauritania,Mali,6157,132,0,0,0,0,0
+2008,MRT,NLD,Mauritania,Netherlands (Kingdom of the),80,0,0,0,0,0,0
+2008,MRT,NOR,Mauritania,Norway,0,23,0,0,0,0,0
+2008,MRT,SEN,Mauritania,Senegal,32292,62,0,0,0,0,0
+2008,MRT,ESP,Mauritania,Spain,21,0,0,0,0,0,0
+2008,MRT,SWE,Mauritania,Sweden,7,5,0,0,0,0,0
+2008,MRT,CHE,Mauritania,Switzerland,5,21,0,0,0,0,0
+2008,MRT,TUR,Mauritania,Türkiye,0,22,0,0,0,0,0
+2008,MRT,USA,Mauritania,United States of America,2428,373,0,0,0,0,0
+2009,MRT,AGO,Mauritania,Angola,64,109,0,0,0,0,0
+2009,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2009,MRT,AUT,Mauritania,Austria,6,11,0,0,0,0,0
+2009,MRT,BDI,Mauritania,Burundi,0,8,0,0,0,0,0
+2009,MRT,BEL,Mauritania,Belgium,116,0,0,0,0,0,0
+2009,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2009,MRT,CAN,Mauritania,Canada,268,44,0,0,0,0,0
+2009,MRT,CMR,Mauritania,Cameroon,8,0,0,0,0,0,0
+2009,MRT,COG,Mauritania,Congo,0,31,0,0,0,0,0
+2009,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2009,MRT,FRA,Mauritania,France,4393,0,0,0,0,0,0
+2009,MRT,GAB,Mauritania,Gabon,15,20,0,0,0,0,0
+2009,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2009,MRT,DEU,Mauritania,Germany,47,0,0,0,0,0,0
+2009,MRT,IRL,Mauritania,Ireland,6,0,0,0,0,0,0
+2009,MRT,ISR,Mauritania,Israel,0,5,0,0,0,0,0
+2009,MRT,ITA,Mauritania,Italy,75,0,0,0,0,0,0
+2009,MRT,MLI,Mauritania,Mali,10482,132,0,0,0,0,0
+2009,MRT,MLT,Mauritania,Malta,0,5,0,0,0,0,0
+2009,MRT,NLD,Mauritania,Netherlands (Kingdom of the),62,0,0,0,0,0,0
+2009,MRT,NOR,Mauritania,Norway,0,44,0,0,0,0,0
+2009,MRT,SEN,Mauritania,Senegal,21377,64,0,0,0,0,0
+2009,MRT,ESP,Mauritania,Spain,17,0,0,0,0,0,0
+2009,MRT,SWE,Mauritania,Sweden,9,10,0,0,0,0,0
+2009,MRT,CHE,Mauritania,Switzerland,5,17,0,0,0,0,0
+2009,MRT,SYR,Mauritania,Syrian Arab Republic,0,5,0,0,0,0,0
+2009,MRT,TUR,Mauritania,Türkiye,0,12,0,0,0,0,0
+2009,MRT,USA,Mauritania,United States of America,2167,368,0,0,0,0,0
+2010,MRT,AGO,Mauritania,Angola,83,90,0,0,0,0,0
+2010,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2010,MRT,AUT,Mauritania,Austria,6,5,0,0,0,0,0
+2010,MRT,BDI,Mauritania,Burundi,8,0,0,0,0,0,0
+2010,MRT,BEL,Mauritania,Belgium,128,0,0,0,0,0,0
+2010,MRT,BGR,Mauritania,Bulgaria,0,6,0,0,0,0,0
+2010,MRT,CAN,Mauritania,Canada,284,56,0,0,0,0,0
+2010,MRT,CMR,Mauritania,Cameroon,9,5,0,0,0,0,0
+2010,MRT,COG,Mauritania,Congo,10,40,0,0,0,0,0
+2010,MRT,DNK,Mauritania,Denmark,0,5,0,0,0,0,0
+2010,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2010,MRT,FRA,Mauritania,France,4542,0,0,0,0,0,0
+2010,MRT,GAB,Mauritania,Gabon,15,22,0,0,0,0,0
+2010,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2010,MRT,DEU,Mauritania,Germany,49,10,0,0,0,0,0
+2010,MRT,GRC,Mauritania,Greece,0,190,0,0,0,0,0
+2010,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2010,MRT,ISR,Mauritania,Israel,0,5,0,0,0,0,0
+2010,MRT,ITA,Mauritania,Italy,90,10,0,0,0,0,0
+2010,MRT,MLI,Mauritania,Mali,10468,132,0,0,0,0,0
+2010,MRT,MLT,Mauritania,Malta,0,5,0,0,0,0,0
+2010,MRT,NLD,Mauritania,Netherlands (Kingdom of the),40,5,0,0,0,0,0
+2010,MRT,NOR,Mauritania,Norway,0,12,0,0,0,0,0
+2010,MRT,SEN,Mauritania,Senegal,19937,67,0,0,0,0,0
+2010,MRT,ESP,Mauritania,Spain,7,25,0,0,0,0,0
+2010,MRT,SWE,Mauritania,Sweden,9,8,0,0,0,0,0
+2010,MRT,CHE,Mauritania,Switzerland,5,19,0,0,0,0,0
+2010,MRT,USA,Mauritania,United States of America,2009,36,0,0,0,0,0
+2011,MRT,AGO,Mauritania,Angola,235,0,0,0,0,0,0
+2011,MRT,AUS,Mauritania,Australia,5,0,0,0,0,0,0
+2011,MRT,AUT,Mauritania,Austria,6,6,0,0,0,0,0
+2011,MRT,BDI,Mauritania,Burundi,8,0,0,0,0,0,0
+2011,MRT,BEL,Mauritania,Belgium,139,167,0,0,0,0,0
+2011,MRT,BGR,Mauritania,Bulgaria,0,5,0,0,0,0,0
+2011,MRT,CAN,Mauritania,Canada,292,45,0,0,0,0,0
+2011,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2011,MRT,COG,Mauritania,Congo,7,35,0,0,0,0,0
+2011,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2011,MRT,FRA,Mauritania,France,4734,0,0,0,0,0,0
+2011,MRT,GAB,Mauritania,Gabon,15,23,0,0,0,0,0
+2011,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,9,0,0,0,0,0,0
+2011,MRT,DEU,Mauritania,Germany,49,11,0,0,0,0,0
+2011,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2011,MRT,ITA,Mauritania,Italy,109,0,0,0,0,0,0
+2011,MRT,MLI,Mauritania,Mali,12442,132,0,0,0,0,0
+2011,MRT,MLT,Mauritania,Malta,0,5,0,0,0,0,0
+2011,MRT,NLD,Mauritania,Netherlands (Kingdom of the),26,6,0,0,0,0,0
+2011,MRT,NOR,Mauritania,Norway,0,15,0,0,0,0,0
+2011,MRT,SEN,Mauritania,Senegal,19917,77,0,0,0,0,0
+2011,MRT,ESP,Mauritania,Spain,6,0,0,0,0,0,0
+2011,MRT,SWE,Mauritania,Sweden,8,0,0,0,0,0,0
+2011,MRT,CHE,Mauritania,Switzerland,5,31,0,0,0,0,0
+2011,MRT,TUR,Mauritania,Türkiye,5,0,0,0,0,0,0
+2011,MRT,USA,Mauritania,United States of America,1887,21,0,0,0,0,0
+2012,MRT,AGO,Mauritania,Angola,235,2490,0,0,0,0,0
+2012,MRT,AUT,Mauritania,Austria,7,5,0,0,0,0,0
+2012,MRT,BDI,Mauritania,Burundi,8,0,0,0,0,0,0
+2012,MRT,BEL,Mauritania,Belgium,156,146,0,0,0,0,0
+2012,MRT,CAN,Mauritania,Canada,299,23,0,0,0,0,0
+2012,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2012,MRT,COG,Mauritania,Congo,7,32,0,0,0,0,0
+2012,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2012,MRT,FRA,Mauritania,France,4899,0,0,0,0,0,0
+2012,MRT,GAB,Mauritania,Gabon,15,24,0,0,0,0,0
+2012,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,9,0,0,0,0,0,0
+2012,MRT,DEU,Mauritania,Germany,49,20,0,0,0,0,0
+2012,MRT,IRL,Mauritania,Ireland,5,5,0,0,0,0,0
+2012,MRT,ITA,Mauritania,Italy,146,64,0,0,0,0,0
+2012,MRT,MKD,Mauritania,North Macedonia,0,5,0,0,0,0,0
+2012,MRT,MLI,Mauritania,Mali,12436,0,0,0,0,0,0
+2012,MRT,NLD,Mauritania,Netherlands (Kingdom of the),17,6,0,0,0,0,0
+2012,MRT,NOR,Mauritania,Norway,0,12,0,0,0,0,0
+2012,MRT,SEN,Mauritania,Senegal,13702,74,0,0,0,0,0
+2012,MRT,ESP,Mauritania,Spain,5,20,0,0,0,0,0
+2012,MRT,SWE,Mauritania,Sweden,6,10,0,0,0,0,0
+2012,MRT,CHE,Mauritania,Switzerland,0,47,0,0,0,0,0
+2012,MRT,TUR,Mauritania,Türkiye,5,5,0,0,0,0,0
+2012,MRT,USA,Mauritania,United States of America,1731,35,0,0,0,0,0
+2013,MRT,AGO,Mauritania,Angola,235,2257,0,0,0,0,0
+2013,MRT,AUT,Mauritania,Austria,7,9,0,0,0,0,0
+2013,MRT,BEL,Mauritania,Belgium,155,98,0,0,0,0,0
+2013,MRT,BRA,Mauritania,Brazil,0,5,0,0,0,0,0
+2013,MRT,BGR,Mauritania,Bulgaria,0,5,0,0,0,0,0
+2013,MRT,CAN,Mauritania,Canada,294,19,0,0,0,0,0
+2013,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2013,MRT,COG,Mauritania,Congo,7,55,0,0,0,0,0
+2013,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2013,MRT,FRA,Mauritania,France,5101,770,0,0,0,0,0
+2013,MRT,GAB,Mauritania,Gabon,17,23,0,0,0,0,0
+2013,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,11,0,0,0,0,0,0
+2013,MRT,DEU,Mauritania,Germany,15,106,0,0,0,0,0
+2013,MRT,GRC,Mauritania,Greece,8,142,0,0,0,0,0
+2013,MRT,HUN,Mauritania,Hungary,0,14,0,0,0,0,0
+2013,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2013,MRT,ITA,Mauritania,Italy,195,30,0,0,0,0,0
+2013,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2013,MRT,MKD,Mauritania,North Macedonia,0,5,0,0,0,0,0
+2013,MRT,MLI,Mauritania,Mali,12897,0,0,0,0,0,0
+2013,MRT,NLD,Mauritania,Netherlands (Kingdom of the),11,0,0,0,0,0,0
+2013,MRT,NOR,Mauritania,Norway,0,5,0,0,0,0,0
+2013,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2013,MRT,SEN,Mauritania,Senegal,13703,65,0,0,0,0,0
+2013,MRT,ESP,Mauritania,Spain,5,14,0,0,0,0,0
+2013,MRT,SWE,Mauritania,Sweden,9,12,0,0,0,0,0
+2013,MRT,CHE,Mauritania,Switzerland,0,46,0,0,0,0,0
+2013,MRT,TUR,Mauritania,Türkiye,5,5,0,0,0,0,0
+2013,MRT,USA,Mauritania,United States of America,1544,148,0,0,0,0,0
+2014,MRT,AGO,Mauritania,Angola,299,5415,0,0,0,0,0
+2014,MRT,AUT,Mauritania,Austria,6,0,0,0,0,0,0
+2014,MRT,BEL,Mauritania,Belgium,191,84,0,0,0,0,0
+2014,MRT,BRA,Mauritania,Brazil,0,5,0,0,0,0,0
+2014,MRT,CAN,Mauritania,Canada,265,9,0,0,0,0,0
+2014,MRT,CMR,Mauritania,Cameroon,5,6,0,0,0,0,0
+2014,MRT,COG,Mauritania,Congo,7,55,0,0,0,5,0
+2014,MRT,FIN,Mauritania,Finland,5,5,0,0,0,0,0
+2014,MRT,FRA,Mauritania,France,5058,587,0,0,0,0,0
+2014,MRT,GAB,Mauritania,Gabon,8,0,0,0,0,0,0
+2014,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,5,0,0,0,0,0
+2014,MRT,DEU,Mauritania,Germany,14,114,0,0,0,0,0
+2014,MRT,GRC,Mauritania,Greece,30,19,0,0,0,0,0
+2014,MRT,HUN,Mauritania,Hungary,5,0,0,0,0,0,0
+2014,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2014,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2014,MRT,ITA,Mauritania,Italy,230,51,0,0,0,0,0
+2014,MRT,MKD,Mauritania,North Macedonia,0,5,0,0,0,0,0
+2014,MRT,MLI,Mauritania,Mali,12898,0,0,0,0,0,0
+2014,MRT,NLD,Mauritania,Netherlands (Kingdom of the),10,0,0,0,0,0,0
+2014,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2014,MRT,SEN,Mauritania,Senegal,13699,69,0,0,0,0,0
+2014,MRT,ESP,Mauritania,Spain,5,0,0,0,0,0,0
+2014,MRT,SWE,Mauritania,Sweden,13,6,0,0,0,0,0
+2014,MRT,CHE,Mauritania,Switzerland,5,24,0,0,0,0,0
+2014,MRT,TUR,Mauritania,Türkiye,6,5,0,0,0,0,0
+2014,MRT,USA,Mauritania,United States of America,1327,528,0,0,0,0,0
+2015,MRT,AGO,Mauritania,Angola,306,5403,0,0,0,0,0
+2015,MRT,AUT,Mauritania,Austria,5,12,0,0,0,0,0
+2015,MRT,BEL,Mauritania,Belgium,211,57,0,0,0,0,0
+2015,MRT,BRA,Mauritania,Brazil,0,7,0,0,0,0,0
+2015,MRT,CAN,Mauritania,Canada,248,33,0,0,0,0,0
+2015,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2015,MRT,COG,Mauritania,Congo,0,59,0,0,0,5,0
+2015,MRT,FIN,Mauritania,Finland,6,0,0,0,0,0,0
+2015,MRT,FRA,Mauritania,France,5066,804,0,0,0,0,0
+2015,MRT,GAB,Mauritania,Gabon,8,5,0,0,0,0,0
+2015,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2015,MRT,DEU,Mauritania,Germany,15,160,0,0,0,0,0
+2015,MRT,GRC,Mauritania,Greece,39,10,0,0,0,0,0
+2015,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2015,MRT,HUN,Mauritania,Hungary,5,28,0,0,0,0,0
+2015,MRT,ISL,Mauritania,Iceland,5,0,0,0,0,0,0
+2015,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2015,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2015,MRT,ITA,Mauritania,Italy,282,54,0,0,0,0,0
+2015,MRT,MLI,Mauritania,Mali,13539,0,0,0,0,0,0
+2015,MRT,NLD,Mauritania,Netherlands (Kingdom of the),8,0,0,0,0,0,0
+2015,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2015,MRT,SEN,Mauritania,Senegal,13687,78,0,0,0,0,0
+2015,MRT,ESP,Mauritania,Spain,0,15,0,0,0,0,0
+2015,MRT,SWE,Mauritania,Sweden,13,8,0,0,0,0,0
+2015,MRT,CHE,Mauritania,Switzerland,5,11,0,0,0,0,0
+2015,MRT,TUR,Mauritania,Türkiye,7,0,0,0,0,0,0
+2015,MRT,USA,Mauritania,United States of America,1174,725,0,0,0,0,0
+2016,MRT,AGO,Mauritania,Angola,306,5403,0,0,0,0,0
+2016,MRT,AUS,Mauritania,Australia,0,5,0,0,0,0,0
+2016,MRT,AUT,Mauritania,Austria,5,12,0,0,0,0,0
+2016,MRT,BEL,Mauritania,Belgium,206,63,0,0,0,0,0
+2016,MRT,BRA,Mauritania,Brazil,0,12,0,0,0,0,0
+2016,MRT,CAN,Mauritania,Canada,124,56,0,0,0,0,0
+2016,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2016,MRT,COG,Mauritania,Congo,0,59,0,0,0,5,0
+2016,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2016,MRT,FRA,Mauritania,France,5183,542,0,0,0,0,0
+2016,MRT,GAB,Mauritania,Gabon,8,5,0,0,0,0,0
+2016,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,0,0,0,0,0,0
+2016,MRT,DEU,Mauritania,Germany,17,174,0,0,0,0,0
+2016,MRT,GRC,Mauritania,Greece,41,14,0,0,0,0,0
+2016,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2016,MRT,HUN,Mauritania,Hungary,5,0,0,0,0,0,0
+2016,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2016,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2016,MRT,ITA,Mauritania,Italy,331,55,0,0,0,0,0
+2016,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2016,MRT,MLI,Mauritania,Mali,15298,0,0,0,0,0,0
+2016,MRT,NLD,Mauritania,Netherlands (Kingdom of the),8,9,0,0,0,0,0
+2016,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2016,MRT,SEN,Mauritania,Senegal,13683,92,0,0,0,0,0
+2016,MRT,ESP,Mauritania,Spain,0,20,0,0,0,0,0
+2016,MRT,SWE,Mauritania,Sweden,12,5,0,0,0,0,0
+2016,MRT,CHE,Mauritania,Switzerland,5,7,0,0,0,0,0
+2016,MRT,TUR,Mauritania,Türkiye,8,0,0,0,0,0,0
+2016,MRT,USA,Mauritania,United States of America,991,838,0,0,0,0,0
+2017,MRT,AGO,Mauritania,Angola,306,5403,0,0,0,0,0
+2017,MRT,ARG,Mauritania,Argentina,0,5,0,0,0,0,0
+2017,MRT,AUS,Mauritania,Australia,0,5,0,0,0,0,0
+2017,MRT,AUT,Mauritania,Austria,5,6,0,0,0,0,0
+2017,MRT,BEL,Mauritania,Belgium,206,135,0,0,0,0,0
+2017,MRT,BRA,Mauritania,Brazil,0,137,0,0,0,0,0
+2017,MRT,CAN,Mauritania,Canada,151,59,0,0,0,0,0
+2017,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2017,MRT,COG,Mauritania,Congo,0,60,0,0,0,5,0
+2017,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2017,MRT,FRA,Mauritania,France,5320,526,0,0,0,0,0
+2017,MRT,GAB,Mauritania,Gabon,8,0,0,0,0,0,0
+2017,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,5,0,0,0,0,0,0
+2017,MRT,DEU,Mauritania,Germany,33,120,0,0,0,0,0
+2017,MRT,GRC,Mauritania,Greece,49,8,0,0,0,0,0
+2017,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2017,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2017,MRT,IRL,Mauritania,Ireland,5,0,0,0,0,0,0
+2017,MRT,ITA,Mauritania,Italy,342,48,0,0,0,0,0
+2017,MRT,LBN,Mauritania,Lebanon,0,5,0,0,0,0,0
+2017,MRT,MLI,Mauritania,Mali,15319,0,0,0,0,0,0
+2017,MRT,MAR,Mauritania,Morocco,0,5,0,0,0,0,0
+2017,MRT,NLD,Mauritania,Netherlands (Kingdom of the),7,5,0,0,0,0,0
+2017,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2017,MRT,SEN,Mauritania,Senegal,13779,99,0,0,0,0,0
+2017,MRT,ESP,Mauritania,Spain,0,37,0,0,0,0,0
+2017,MRT,SWE,Mauritania,Sweden,12,5,0,0,0,0,0
+2017,MRT,CHE,Mauritania,Switzerland,6,7,0,0,0,0,0
+2017,MRT,TUR,Mauritania,Türkiye,8,0,0,0,0,0,0
+2017,MRT,USA,Mauritania,United States of America,944,858,0,0,0,0,0
+2018,MRT,AGO,Mauritania,Angola,324,5402,0,0,0,0,0
+2018,MRT,ARG,Mauritania,Argentina,0,5,0,0,0,0,0
+2018,MRT,AUT,Mauritania,Austria,5,5,0,0,0,0,0
+2018,MRT,BEL,Mauritania,Belgium,206,130,0,0,0,0,0
+2018,MRT,BRA,Mauritania,Brazil,0,200,0,0,0,0,0
+2018,MRT,CAN,Mauritania,Canada,159,186,0,0,0,0,0
+2018,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2018,MRT,COG,Mauritania,Congo,5,94,0,0,0,0,0
+2018,MRT,FIN,Mauritania,Finland,5,0,0,0,0,0,0
+2018,MRT,FRA,Mauritania,France,5419,959,0,0,0,0,0
+2018,MRT,GAB,Mauritania,Gabon,7,0,0,0,0,0,0
+2018,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,6,5,0,0,0,0,0
+2018,MRT,DEU,Mauritania,Germany,34,87,0,0,0,0,0
+2018,MRT,GRC,Mauritania,Greece,53,21,0,0,0,0,0
+2018,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2018,MRT,CIV,Mauritania,Côte d'Ivoire,0,9,0,0,0,0,0
+2018,MRT,ITA,Mauritania,Italy,347,37,0,0,0,0,0
+2018,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2018,MRT,MLI,Mauritania,Mali,15319,0,0,0,0,0,0
+2018,MRT,MAR,Mauritania,Morocco,5,5,0,0,0,0,0
+2018,MRT,MOZ,Mauritania,Mozambique,0,5,0,0,0,0,0
+2018,MRT,NLD,Mauritania,Netherlands (Kingdom of the),7,0,0,0,0,0,0
+2018,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2018,MRT,SEN,Mauritania,Senegal,14120,61,0,0,0,0,0
+2018,MRT,ESP,Mauritania,Spain,0,95,0,0,0,0,0
+2018,MRT,SWE,Mauritania,Sweden,14,0,0,0,0,0,0
+2018,MRT,CHE,Mauritania,Switzerland,9,0,0,0,0,0,0
+2018,MRT,TUR,Mauritania,Türkiye,8,0,0,0,0,0,0
+2018,MRT,USA,Mauritania,United States of America,983,810,0,0,0,0,0
+2019,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2019,MRT,AUT,Mauritania,Austria,5,5,0,0,0,0,0
+2019,MRT,BEL,Mauritania,Belgium,271,80,0,0,0,0,0
+2019,MRT,BRA,Mauritania,Brazil,21,252,0,0,0,0,0
+2019,MRT,CAN,Mauritania,Canada,144,210,0,0,0,0,0
+2019,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2019,MRT,COG,Mauritania,Congo,5,45,0,0,0,0,0
+2019,MRT,DNK,Mauritania,Denmark,0,5,0,0,0,0,0
+2019,MRT,FRA,Mauritania,France,5675,1307,0,0,0,0,0
+2019,MRT,GAB,Mauritania,Gabon,7,0,0,0,0,0,0
+2019,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,6,5,0,0,0,0,0
+2019,MRT,DEU,Mauritania,Germany,41,97,0,0,0,0,0
+2019,MRT,GRC,Mauritania,Greece,55,18,0,0,0,0,0
+2019,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2019,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2019,MRT,ITA,Mauritania,Italy,355,8,0,0,0,0,0
+2019,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2019,MRT,MEX,Mauritania,Mexico,0,7,0,0,0,0,0
+2019,MRT,MLI,Mauritania,Mali,15316,0,0,0,0,0,0
+2019,MRT,MAR,Mauritania,Morocco,6,5,0,0,0,0,0
+2019,MRT,NLD,Mauritania,Netherlands (Kingdom of the),5,5,0,0,0,0,0
+2019,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+2019,MRT,PRT,Mauritania,Portugal,5,0,0,0,0,0,0
+2019,MRT,SEN,Mauritania,Senegal,14150,68,0,0,0,0,0
+2019,MRT,ESP,Mauritania,Spain,5,120,0,0,0,0,0
+2019,MRT,SWE,Mauritania,Sweden,13,5,0,0,0,0,0
+2019,MRT,CHE,Mauritania,Switzerland,10,5,0,0,0,0,0
+2019,MRT,URY,Mauritania,Uruguay,0,5,0,0,0,0,0
+2019,MRT,USA,Mauritania,United States of America,990,911,0,0,0,0,0
+2020,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2020,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2020,MRT,BEL,Mauritania,Belgium,269,185,0,0,0,0,0
+2020,MRT,BRA,Mauritania,Brazil,50,244,0,0,0,0,0
+2020,MRT,CAN,Mauritania,Canada,134,201,0,0,0,0,0
+2020,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2020,MRT,COG,Mauritania,Congo,5,45,0,0,0,0,0
+2020,MRT,FRA,Mauritania,France,5891,1773,0,0,0,0,0
+2020,MRT,GAB,Mauritania,Gabon,7,0,0,0,0,0,0
+2020,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,7,0,0,0,0,0
+2020,MRT,DEU,Mauritania,Germany,58,82,0,0,0,0,0
+2020,MRT,GRC,Mauritania,Greece,63,14,0,0,0,0,0
+2020,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2020,MRT,CIV,Mauritania,Côte d'Ivoire,0,5,0,0,0,0,0
+2020,MRT,ITA,Mauritania,Italy,286,6,0,0,0,0,0
+2020,MRT,MEX,Mauritania,Mexico,0,29,0,0,0,0,0
+2020,MRT,MLI,Mauritania,Mali,15697,0,0,0,0,0,0
+2020,MRT,MAR,Mauritania,Morocco,6,9,0,0,0,0,0
+2020,MRT,MLT,Mauritania,Malta,0,5,0,0,0,0,0
+2020,MRT,NLD,Mauritania,Netherlands (Kingdom of the),5,5,0,0,0,0,0
+2020,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+2020,MRT,PRT,Mauritania,Portugal,0,5,0,0,0,0,0
+2020,MRT,SEN,Mauritania,Senegal,14115,72,0,0,0,0,0
+2020,MRT,ESP,Mauritania,Spain,18,75,0,0,0,0,0
+2020,MRT,SWE,Mauritania,Sweden,13,0,0,0,0,0,0
+2020,MRT,CHE,Mauritania,Switzerland,8,0,0,0,0,0,0
+2020,MRT,TUN,Mauritania,Tunisia,0,6,0,0,0,0,0
+2020,MRT,USA,Mauritania,United States of America,956,1077,0,0,0,0,0
+2021,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2021,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2021,MRT,BEL,Mauritania,Belgium,274,200,0,0,0,0,0
+2021,MRT,BRA,Mauritania,Brazil,60,243,0,0,0,0,0
+2021,MRT,BGR,Mauritania,Bulgaria,0,5,0,0,0,0,0
+2021,MRT,CAN,Mauritania,Canada,225,109,0,0,0,0,0
+2021,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2021,MRT,COG,Mauritania,Congo,5,45,0,0,0,0,0
+2021,MRT,FRA,Mauritania,France,7860,1123,0,0,0,0,0
+2021,MRT,GAB,Mauritania,Gabon,6,0,0,0,0,0,0
+2021,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,7,0,0,0,0,0
+2021,MRT,DEU,Mauritania,Germany,65,74,0,0,0,0,0
+2021,MRT,GRC,Mauritania,Greece,68,0,0,0,0,0,0
+2021,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2021,MRT,CIV,Mauritania,Côte d'Ivoire,5,5,0,0,0,0,0
+2021,MRT,ITA,Mauritania,Italy,273,5,0,0,0,0,0
+2021,MRT,MEX,Mauritania,Mexico,6,71,0,0,0,0,0
+2021,MRT,MLI,Mauritania,Mali,14965,0,0,0,0,0,0
+2021,MRT,MAR,Mauritania,Morocco,7,14,0,0,0,0,0
+2021,MRT,NLD,Mauritania,Netherlands (Kingdom of the),6,5,0,0,0,0,0
+2021,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+2021,MRT,PRT,Mauritania,Portugal,0,5,0,0,0,0,0
+2021,MRT,SEN,Mauritania,Senegal,14148,77,0,0,0,0,0
+2021,MRT,ESP,Mauritania,Spain,18,195,0,0,0,0,0
+2021,MRT,SWE,Mauritania,Sweden,13,0,0,0,0,0,0
+2021,MRT,CHE,Mauritania,Switzerland,9,0,0,0,0,0,0
+2021,MRT,USA,Mauritania,United States of America,916,1115,0,0,0,0,0
+2022,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2022,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2022,MRT,BEL,Mauritania,Belgium,244,265,0,0,0,0,0
+2022,MRT,BRA,Mauritania,Brazil,64,203,0,0,0,0,0
+2022,MRT,BGR,Mauritania,Bulgaria,0,5,0,0,0,0,0
+2022,MRT,CAN,Mauritania,Canada,167,103,0,0,0,0,0
+2022,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2022,MRT,COG,Mauritania,Congo,5,45,0,0,0,0,0
+2022,MRT,FRA,Mauritania,France,8298,939,0,0,0,0,0
+2022,MRT,GAB,Mauritania,Gabon,6,0,0,0,0,0,0
+2022,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,7,11,0,0,0,0,0
+2022,MRT,DEU,Mauritania,Germany,44,88,0,0,0,0,0
+2022,MRT,GRC,Mauritania,Greece,66,0,0,0,0,0,0
+2022,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2022,MRT,CIV,Mauritania,Côte d'Ivoire,5,5,0,0,0,0,0
+2022,MRT,ITA,Mauritania,Italy,239,9,0,0,0,0,0
+2022,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2022,MRT,MEX,Mauritania,Mexico,7,93,0,0,0,0,0
+2022,MRT,MLI,Mauritania,Mali,14952,0,0,0,0,0,0
+2022,MRT,MAR,Mauritania,Morocco,7,9,0,0,0,0,0
+2022,MRT,MOZ,Mauritania,Mozambique,0,5,0,0,0,0,0
+2022,MRT,NLD,Mauritania,Netherlands (Kingdom of the),23,0,0,0,0,0,0
+2022,MRT,SEN,Mauritania,Senegal,11494,7,0,0,0,0,0
+2022,MRT,ESP,Mauritania,Spain,35,120,0,0,0,0,0
+2022,MRT,SWE,Mauritania,Sweden,13,0,0,0,0,0,0
+2022,MRT,CHE,Mauritania,Switzerland,9,5,0,0,0,0,0
+2022,MRT,TUN,Mauritania,Tunisia,0,10,0,0,0,0,0
+2022,MRT,URY,Mauritania,Uruguay,0,5,0,0,0,0,0
+2022,MRT,USA,Mauritania,United States of America,905,1219,0,0,0,0,0
+2023,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2023,MRT,BEL,Mauritania,Belgium,248,260,0,0,0,0,0
+2023,MRT,BRA,Mauritania,Brazil,64,78,0,0,0,0,0
+2023,MRT,CAN,Mauritania,Canada,218,323,0,0,0,0,0
+2023,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2023,MRT,COG,Mauritania,Congo,10,39,0,0,0,0,0
+2023,MRT,FIN,Mauritania,Finland,0,7,0,0,0,0,0
+2023,MRT,FRA,Mauritania,France,8721,870,0,0,0,0,0
+2023,MRT,GAB,Mauritania,Gabon,6,0,0,0,0,0,0
+2023,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,10,16,0,0,0,0,0
+2023,MRT,DEU,Mauritania,Germany,75,76,0,0,0,0,0
+2023,MRT,GRC,Mauritania,Greece,61,6,0,0,0,0,0
+2023,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2023,MRT,CIV,Mauritania,Côte d'Ivoire,5,16,0,0,0,0,0
+2023,MRT,IRL,Mauritania,Ireland,0,5,0,0,0,0,0
+2023,MRT,ITA,Mauritania,Italy,278,15,0,0,0,0,0
+2023,MRT,LUX,Mauritania,Luxembourg,0,10,0,0,0,0,0
+2023,MRT,MEX,Mauritania,Mexico,7,292,0,0,0,0,0
+2023,MRT,MLI,Mauritania,Mali,14965,0,0,0,0,0,0
+2023,MRT,MAR,Mauritania,Morocco,5,11,0,0,0,0,0
+2023,MRT,NLD,Mauritania,Netherlands (Kingdom of the),15,5,0,0,0,0,0
+2023,MRT,SEN,Mauritania,Senegal,11528,22,0,0,0,0,0
+2023,MRT,ESP,Mauritania,Spain,54,105,0,0,0,0,0
+2023,MRT,SWE,Mauritania,Sweden,8,0,0,0,0,0,0
+2023,MRT,CHE,Mauritania,Switzerland,5,6,0,0,0,0,0
+2023,MRT,TUN,Mauritania,Tunisia,0,9,0,0,0,0,0
+2023,MRT,URY,Mauritania,Uruguay,0,5,0,0,0,0,0
+2023,MRT,USA,Mauritania,United States of America,916,11194,0,0,0,0,0
+2024,MRT,DZA,Mauritania,Algeria,0,5,0,0,0,0,0
+2024,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2024,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2024,MRT,BEL,Mauritania,Belgium,238,336,0,0,0,0,0
+2024,MRT,BRA,Mauritania,Brazil,66,208,0,0,0,0,0
+2024,MRT,CAN,Mauritania,Canada,372,545,0,0,0,0,0
+2024,MRT,CAF,Mauritania,Central African Republic,0,5,0,0,0,0,0
+2024,MRT,CMR,Mauritania,Cameroon,5,0,0,0,0,0,0
+2024,MRT,COG,Mauritania,Congo,11,45,0,0,0,5,0
+2024,MRT,FRA,Mauritania,France,9049,1182,0,0,0,0,0
+2024,MRT,GAB,Mauritania,Gabon,5,0,0,0,0,0,0
+2024,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,12,12,0,0,0,0,0
+2024,MRT,DEU,Mauritania,Germany,76,59,0,0,0,0,0
+2024,MRT,GRC,Mauritania,Greece,28,0,0,0,0,0,0
+2024,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2024,MRT,CIV,Mauritania,Côte d'Ivoire,5,5,0,0,0,0,0
+2024,MRT,ITA,Mauritania,Italy,277,28,0,0,0,0,0
+2024,MRT,LUX,Mauritania,Luxembourg,0,10,0,0,0,0,0
+2024,MRT,MEX,Mauritania,Mexico,7,293,0,0,0,0,0
+2024,MRT,MLI,Mauritania,Mali,15010,0,0,0,0,0,0
+2024,MRT,MAR,Mauritania,Morocco,5,5,0,0,0,0,0
+2024,MRT,NLD,Mauritania,Netherlands (Kingdom of the),15,86,0,0,0,0,0
+2024,MRT,NOR,Mauritania,Norway,5,0,0,0,0,0,0
+2024,MRT,PRT,Mauritania,Portugal,0,8,0,0,0,0,0
+2024,MRT,SEN,Mauritania,Senegal,11539,35,0,0,0,0,0
+2024,MRT,ESP,Mauritania,Spain,74,1340,0,0,0,0,0
+2024,MRT,SWE,Mauritania,Sweden,9,0,0,0,0,0,0
+2024,MRT,CHE,Mauritania,Switzerland,6,5,0,0,0,0,0
+2024,MRT,TUN,Mauritania,Tunisia,6,5,0,0,0,0,0
+2024,MRT,URY,Mauritania,Uruguay,0,5,0,0,0,0,0
+2024,MRT,USA,Mauritania,United States of America,958,18798,0,0,0,0,0
+2025,MRT,AGO,Mauritania,Angola,323,5402,0,0,0,0,0
+2025,MRT,AUT,Mauritania,Austria,5,0,0,0,0,0,0
+2025,MRT,BEL,Mauritania,Belgium,226,385,0,0,0,0,0
+2025,MRT,BRA,Mauritania,Brazil,68,411,0,0,0,0,0
+2025,MRT,CAN,Mauritania,Canada,474,701,0,0,0,0,0
+2025,MRT,CAF,Mauritania,Central African Republic,0,7,0,0,0,0,0
+2025,MRT,CMR,Mauritania,Cameroon,5,5,0,0,0,0,0
+2025,MRT,COG,Mauritania,Congo,11,45,0,0,0,5,0
+2025,MRT,FRA,Mauritania,France,9522,1355,0,0,0,0,0
+2025,MRT,GAB,Mauritania,Gabon,5,0,0,0,0,0,0
+2025,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,19,6,0,0,0,0,0
+2025,MRT,DEU,Mauritania,Germany,84,75,0,0,0,0,0
+2025,MRT,GRC,Mauritania,Greece,36,0,0,0,0,0,0
+2025,MRT,HRV,Mauritania,Croatia,5,0,0,0,0,0,0
+2025,MRT,CIV,Mauritania,Côte d'Ivoire,6,12,0,0,0,0,0
+2025,MRT,IRL,Mauritania,Ireland,0,6,0,0,0,0,0
+2025,MRT,ITA,Mauritania,Italy,218,24,0,0,0,0,0
+2025,MRT,LUX,Mauritania,Luxembourg,0,5,0,0,0,0,0
+2025,MRT,MEX,Mauritania,Mexico,5,109,0,0,0,0,0
+2025,MRT,MLI,Mauritania,Mali,15044,0,0,0,0,0,0
+2025,MRT,MAR,Mauritania,Morocco,0,5,0,0,0,0,0
+2025,MRT,NLD,Mauritania,Netherlands (Kingdom of the),14,26,0,0,0,0,0
+2025,MRT,PRT,Mauritania,Portugal,0,40,0,0,0,0,0
+2025,MRT,SEN,Mauritania,Senegal,16650,54,0,0,0,245,0
+2025,MRT,ESP,Mauritania,Spain,117,1940,0,0,0,0,0
+2025,MRT,SWE,Mauritania,Sweden,8,0,0,0,0,0,0
+2025,MRT,CHE,Mauritania,Switzerland,6,0,0,0,0,0,0
+2025,MRT,TUN,Mauritania,Tunisia,6,0,0,0,0,0,0
+2025,MRT,USA,Mauritania,United States of America,1049,17825,0,0,0,0,0

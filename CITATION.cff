@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Mauritania Datasets, please cite it as below and also cite the original publisher of each dataset (see the dataset README)."
+type: dataset
+title: "Mauritania Datasets — Open Data Hub for Mauritania"
+abstract: "A curated, documented collection of open datasets about Mauritania from official national publications and international organisations, organised by theme with machine-readable metadata. Datasets keep their original licences."
+authors:
+  - name: "Mauritania Datasets contributors"
+version: "2026-11-14"
+repository: "https://github.com/MauriDataHub/mauritania-datasets"
+url: "https://github.com/MauriDataHub/mauritania-datasets"
+date-released: "2026-11-14"
+license: CC-BY-4.0
+keywords:
+  - Mauritania
+  - open data
+  - statistics
+  - development indicators
+  - geospatial
+  - humanitarian

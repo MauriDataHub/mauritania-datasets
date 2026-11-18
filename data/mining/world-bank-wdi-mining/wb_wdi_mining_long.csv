@@ -1,0 +1,283 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1970,11266603.25134,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1971,11395367.025851,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1972,15118690.159658,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1973,24925239.495573,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1974,31344489.747884,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1975,18822243.871642,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1976,33356207.515565,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1977,28123320.136581,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1978,15342630.076382,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1979,23046982.038259,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1980,28761271.539704,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1981,27237333.094197,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1982,35121161.879027,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1983,24074332.866444,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1984,27125635.296813,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1985,28837204.690772,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1986,24599248.908181,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1987,19536184.167935,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1988,16600761.689135,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1989,28458882.89729,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1990,36579356.370899,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1992,286247.385333,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1993,488966.957401,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1994,5957836.290993,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1995,1260337.438876,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1996,513724.354982,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1998,11338402.177094,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,1999,2603164.190624,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2001,18133566.234406,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2002,20320191.825451,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2004,39165564.322048,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2005,152449923.741817,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2006,138499340.175068,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2007,408197809.678423,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2008,537029179.558051,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2009,219890549.865812,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2010,469170649.924692,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2011,487749081.830105,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2012,411218411.159729,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2013,317894664.92944,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2014,205194831.495545,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2015,60760977.280889,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2016,102003472.278986,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2017,125940518.362918,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2018,14765054.481318,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2019,25452360.018206,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2020,22262217.194353,A,0
+WB_WDI_NY_ADJ_DMIN_CD,NY.ADJ.DMIN.CD,"Adjusted savings, mineral depletion (current US$)",current US$,_T,_T,_T,A,2021,651412944.134749,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1970,3.779404,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1971,3.541473,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1972,4.02983,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1973,5.158117,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1974,5.158745,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1975,2.795568,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1976,4.655598,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1977,3.721896,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1978,1.973198,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1979,2.503743,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1980,2.816777,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1981,2.581854,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1982,3.303438,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1983,2.182852,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1984,2.620153,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1985,3.012248,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1986,2.203531,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1987,1.541983,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1988,1.236047,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1989,2.046806,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1990,2.52638,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1992,0.013646,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1993,0.027491,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1994,0.318572,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1995,0.062473,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1996,0.023825,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1998,0.550866,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,1999,0.129152,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2001,1.058067,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2002,1.10863,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2004,1.613067,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2005,5.080644,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2006,3.601804,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2007,9.525299,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2008,10.36047,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2009,4.613273,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2010,8.438358,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2011,7.379714,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2012,6.290286,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2013,4.522092,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2014,3.236202,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2015,1.014922,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2016,1.623652,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2017,1.878734,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2018,0.198586,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2019,0.319356,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2020,0.268227,A,0
+WB_WDI_NY_ADJ_DMIN_GN_ZS,NY.ADJ.DMIN.GN.ZS,"Adjusted savings, mineral depletion (% of GNI)",%,_T,_T,_T,A,2021,6.613379,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1980,7.846005,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1981,9.014393,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1982,10.572256,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1983,11.18955,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1984,9.863324,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1985,9.075453,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1986,5.643359,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1987,3.741947,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1988,2.574541,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1989,3.997532,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1990,4.479662,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1991,2.949978,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1992,2.486636,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1993,2.406351,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1994,1.70892,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1995,2.011777,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1996,2.303992,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1997,2.435734,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1998,2.565591,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1999,1.932872,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2000,2.031413,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2001,2.589322,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2002,2.730717,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2003,2.102324,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2004,2.355984,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2005,4.088953,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2006,3.536622,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2007,2.261375,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2008,6.44044,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2009,4.098704,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2010,4.569335,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2011,5.024861,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2012,2.41584,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2013,1.630016,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2014,1.494276,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2015,1.024868,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2016,0.920132,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2017,1.256015,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2018,1.112263,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2019,0.784232,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2020,0.513765,A,0
+WB_WDI_NY_GDP_COAL_RT_ZS,NY.GDP.COAL.RT.ZS,Coal rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2021,0.670017,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1970,10.271342,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1971,9.44073,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1972,9.760651,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1973,11.063144,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1974,11.906443,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1975,7.543898,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1976,12.077261,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1977,9.986627,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1978,5.493941,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1979,7.11983,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1980,8.070962,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1981,7.245276,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1982,9.314775,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1983,6.07592,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1984,7.424579,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1985,8.398429,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1986,6.096131,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1987,4.272409,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1988,3.450116,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1989,5.769038,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1990,7.1383,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1992,0.097307,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1993,0.253369,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1994,0.423185,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1995,0.079966,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1996,0.031832,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1998,1.447831,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1999,0.365417,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2001,2.917139,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2002,3.415535,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2004,4.584716,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2005,13.722134,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2006,9.435044,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2007,22.195626,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2008,24.834151,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2009,12.129112,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2010,24.823117,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2011,21.624089,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2012,15.067806,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2013,11.755534,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2014,8.172368,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2015,2.30112,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2016,4.301372,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2017,5.099374,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2018,0.375159,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2019,0.604822,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2020,0.608689,A,0
+WB_WDI_NY_GDP_MINR_RT_ZS,NY.GDP.MINR.RT.ZS,Mineral rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2021,9.585036,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1980,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1981,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1982,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1983,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1984,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1985,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1986,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1987,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1988,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1989,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1992,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1993,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1994,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1995,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1996,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1998,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1999,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_NY_GDP_NGAS_RT_ZS,NY.GDP.NGAS.RT.ZS,Natural gas rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1980,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1981,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1982,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1983,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1984,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1985,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1986,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1987,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1988,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1989,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1992,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1993,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1994,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1995,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1996,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1998,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,1999,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2006,11.433903,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2007,5.944902,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2008,5.461636,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2009,2.658982,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2010,2.430445,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2011,2.804895,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2012,2.349211,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2013,1.921876,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2014,1.483262,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2015,0.51382,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2016,0.407545,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2017,0.541319,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_NY_GDP_PETR_RT_ZS,NY.GDP.PETR.RT.ZS,Oil rents (% of GDP),% (share) of GDP,_T,_T,_T,A,2021,0.0,A,0

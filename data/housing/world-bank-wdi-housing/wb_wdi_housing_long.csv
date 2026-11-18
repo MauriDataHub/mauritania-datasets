@@ -1,0 +1,13 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2000,84.69319,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2002,81.3166,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2004,77.94,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2006,74.5634,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2008,71.18681,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2010,67.81021,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2012,64.43361,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2014,61.05702,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2016,57.68042,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2018,56.0,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2020,56.0,A,0
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,_T,_T,URB,A,2022,58.56017,A,0

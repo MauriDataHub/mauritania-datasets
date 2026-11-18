@@ -1,0 +1,92 @@
+market_id,market,countryiso3,admin1,admin2,latitude,longitude
+689,Boghé,MRT,Brakna,Boghe,16.6,-14.26
+690,Magta-lahjar,MRT,Brakna,Maghta Lahjar,17.52,-13.1
+691,Mederdra,MRT,Trarza,Mederdra,16.9,-15.76
+692,Moudjeria,MRT,Tagant,Moudjeria,17.87,-12.33
+693,Nouakchott,MRT,Nouakchott,Nouakchott,18.12,-16.02
+694,Toufoundé-Civé,MRT,Gorgol,Kaedi,15.65,-13.22
+695,Adel Bagrou,MRT,Hodh Ech Chargi,Amourj,15.53,-7.03
+696,Aoujeft,MRT,Adrar,Aoujeft,19.96,-13.06
+1357,Kankossa,MRT,Assaba,Kankossa,15.94,-11.53
+1396,Tintane,MRT,Hodh El Gharbi,Tintane,16.38,-10.17
+1611,Aioun,MRT,Hodh El Gharbi,Aioun,16.7,-9.6
+1612,Aleg,MRT,Brakna,Aleg,17.05,-13.91
+1613,Atar,MRT,Adrar,Atar,20.51,-13.05
+1614,Barkéol,MRT,Assaba,Barkeol,16.64,-12.5
+1615,Djougountourou,MRT,Guidimakha,Selibaby,14.77,-12.25
+1616,Kaedi,MRT,Gorgol,Kaedi,16.15,-13.5
+1617,Kiffa,MRT,Assaba,Kiffa,16.62,-11.4
+1618,Lexeiba1,MRT,Gorgol,Kaedi,16.22,-13.14
+1619,Maghama,MRT,Gorgol,Maghama,15.51,-12.85
+1620,Mbagne,MRT,Brakna,M'Bagne,16.15,-13.78
+1621,Mbout,MRT,Gorgol,M'Bout,16.02,-12.58
+1622,Medbougou,MRT,Hodh El Gharbi,Kobeni,15.52,-9.49
+1623,Ndiago,MRT,Trarza,Keur Macene,16.17,-16.5
+1624,Nema,MRT,Hodh Ech Chargi,Nema,16.62,-7.25
+1625,Nouadhibou,MRT,Dakhlet-Nouadhibou,Nouadhibou,20.91,-17.05
+1626,Ouadane,MRT,Adrar,Ouadane,20.93,-11.62
+1627,Ould Yenge,MRT,Guidimakha,Ould Yenge,15.52,-11.72
+1628,Rosso,MRT,Trarza,Rosso,16.51,-15.81
+1629,Selibaby,MRT,Guidimakha,Selibaby,15.16,-12.18
+1630,Socogim,MRT,Nouakchott,Nouakchott,18.1,-15.95
+1631,Tamchekket,MRT,Hodh El Gharbi,Tamchekett,17.24,-10.67
+1632,Tidjikja,MRT,Tagant,Tidjikja,18.55,-11.43
+1635,Twil,MRT,Hodh El Gharbi,Tintane,15.52,-10.13
+1636,Vassala,MRT,Hodh Ech Chargi,Bassikounou,15.56,-5.52
+1637,Wompou,MRT,Guidimakha,Selibaby,15.13,-12.73
+1638,Zoueiratt,MRT,Tiris-Zemmour,Zoueratt,22.69,-12.46
+3074,Ghabou,MRT,Guidimakha,Selibaby,14.74,-12.09
+3083,Gouraye,MRT,Guidimakha,Selibaby,14.9,-12.45
+3084,Are,MRT,Guidimakha,Selibaby,15.29,-12.55
+3085,Djiguenni ,MRT,Hodh Ech Chargi,Djigueni,15.73,-8.67
+3086,El Mabrouk ,MRT,Hodh Ech Chargi,Nema,16.39,-7.37
+3087,Bassiknou,MRT,Hodh Ech Chargi,Bassikounou,15.87,-5.95
+3089,Ejare centre,MRT,Guidimakha,Selibaby,15.52,-12.47
+3090,Soufi,MRT,Guidimakha,Selibaby,15.16,-12.01
+3091,Bouaze,MRT,Guidimakha,Selibaby,15.82,-12.24
+3092,Tichitt,MRT,Tagant,Tichitt,18.44,-9.49
+3093,Hachram,MRT,Brakna,Maghta Lahjar,17.36,-12.44
+3095,Nbeika,MRT,Tagant,Moudjeria,17.98,-12.25
+3096,Nimlam,MRT,Tagant,Tidjikja,18.34,-11.67
+3097,Rachid,MRT,Tagant,Tidjikja,18.79,-11.69
+3098,Goudya,MRT,Tagant,Tidjikja,17.82,-11.56
+3830,Amourj ,MRT,Hodh Ech Chargi,Amourj,16.11,-7.21
+4620,Kouroudjel,MRT,Assaba,Kankossa,16.21,-11.5
+4621,Sani,MRT,Adrar,Ouadane,21.67,-10.53
+4622,Blajemil,MRT,Assaba,Kankossa,15.91,-11.18
+4623,Hamoud,MRT,Assaba,Kankossa,15.64,-11.52
+5358,Boumdeid ,MRT,Assaba,Boumdeid,17.46,-11.34
+5359,Djewol ,MRT,Gorgol,Kaedi,16.06,-13.38
+5366,El Ghayra,MRT,Assaba,Guerrou,17.2,-12.24
+5368,Guerou,MRT,Assaba,Guerrou,16.83,-11.84
+5372,Mounguel,MRT,Gorgol,Monguel,16.41,-13.13
+5375,Wali Djantang,MRT,Gorgol,Maghama,15.33,-12.87
+5599,Achram,MRT,Tagant,Moudjeria,17.25,-12.31
+5917,Birmoughrein,MRT,Tiris-Zemmour,Bir Mogrein,25.23,-11.58
+5918,F'Deirick,MRT,Tiris-Zemmour,F'Derik,22.68,-12.71
+5919,Akjoujt,MRT,Inchiri,Akjoujt,19.74,-14.38
+5920,Chinguitti,MRT,Adrar,Chinguity,20.46,-12.37
+5921,N'Beikett Lehouach,MRT,Hodh Ech Chargi,Oualata,16.84,-5.94
+5922,Oualata,MRT,Hodh Ech Chargi,Oualata,17.3,-7.03
+5923,Timbedra,MRT,Hodh Ech Chargi,Timbedra,16.24,-8.16
+5924,Bababe,MRT,Brakna,Bababe,16.34,-13.95
+5925,Boutilimit,MRT,Trarza,Boutilimit,17.55,-14.69
+5926,Ouad Naga,MRT,Trarza,Ouad Naga,17.96,-15.52
+5927,R'Kiz,MRT,Trarza,R'kiz,16.92,-15.24
+9636,Camp de Mberra,MRT,Hodh Ech Chargi,Bassikounou,15.84,-5.8
+9646,Aweinat Zbel,MRT,Hodh Ech Chargi,Djigueni,16.38,-8.89
+10295,Chelkha Dakhna,MRT,Guidimakha,Ould Yenge,15.49,-11.72
+10296,Moutalague Debaye,MRT,Guidimakha,Ould Yenge,15.38,-11.93
+10297,Tassota,MRT,Guidimakha,Selibaby,15.43,-12.26
+10298,Artemou,MRT,Guidimakha,Selibaby,15.51,-12.28
+10299,Agouemit,MRT,Guidimakha,Selibaby,15.57,-12.33
+10300,Nieleba-Haouisse,MRT,Guidimakha,Selibaby,15.53,-12.21
+10301,Ndieo,MRT,Guidimakha,Ould Yenge,15.87,-12.04
+10302,Boully,MRT,Guidimakha,Ould Yenge,15.32,-11.79
+10303,Mbedia-Achar,MRT,Guidimakha,Selibaby,15.53,-12.09
+10304,Dafort,MRT,Guidimakha,Selibaby,15.66,-12.15
+11482,Niabina,MRT,Brakna,M'Bagne,16.27,-13.76
+11483,Keur Macene,MRT,Trarza,Keur Macene,16.55,-16.23
+11717,Camp Mbera,MRT,Hodh Ech Chargi,Bassikounou,15.86,-5.79
+11718,Fassala,MRT,Hodh Ech Chargi,Bassikounou,15.57,-5.55
+11719,Chami,MRT,Dakhlet-Nouadhibou,Nouadhibou,20.17,-15.97

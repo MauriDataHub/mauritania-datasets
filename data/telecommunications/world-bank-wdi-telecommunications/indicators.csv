@@ -1,0 +1,10 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_IT_CEL_SETS,IT.CEL.SETS,Mobile cellular subscriptions,number of subscriptions,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,53,1960,2024
+WB_WDI_IT_CEL_SETS_P2,IT.CEL.SETS.P2,Mobile cellular subscriptions (per 100 people),number of subscriptions*100/population,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,53,1960,2024
+WB_WDI_IT_MLT_MAIN,IT.MLT.MAIN,Fixed telephone subscriptions,number of subscriptions,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,55,1970,2024
+WB_WDI_IT_MLT_MAIN_P2,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people),number of subscriptions*100/population,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,55,1970,2024
+WB_WDI_IT_NET_BBND,IT.NET.BBND,Fixed broadband subscriptions,number of subscriptions,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,20,2005,2024
+WB_WDI_IT_NET_BBND_P2,IT.NET.BBND.P2,Fixed broadband subscriptions (per 100 people),number of subscriptions*100/population,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,20,2005,2024
+WB_WDI_IT_NET_SECR,IT.NET.SECR,Secure Internet servers,Count,Annual,,Netcraft; Secure Server Survey,CC BY 4.0,15,2010,2024
+WB_WDI_IT_NET_SECR_P6,IT.NET.SECR.P6,Secure Internet servers (per 1 million people),Count,Annual,,Netcraft; Secure Server Survey,CC BY 4.0,15,2010,2024
+WB_WDI_IT_NET_USER_ZS,IT.NET.USER.ZS,Individuals using the Internet (% of population),% of population,Annual,,International Telecommunication Union (ITU); World Telecommunication/ICT Indicators Database,CC BY 4.0,29,1990,2024

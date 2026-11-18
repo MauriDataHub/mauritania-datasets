@@ -1,0 +1,673 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Procedure Type,Procedure Name,Application Type Code,Application Type,Application Data Type,Application Data,Application Average Persons Per Case,Number of Applications
+2000,MRT,AUS,Mauritania,Australia,G,Government,V,Various,C,Cases,0,5
+2000,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,9
+2000,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,188
+2000,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,33
+2000,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,390
+2000,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,1385
+2000,MRT,GAB,Mauritania,Gabon,U,UNHCR,V,Various,P,Persons,0,63
+2000,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,21
+2000,MRT,ITA,Mauritania,Italy,G,Government,V,Various,P,Persons,0,5
+2000,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,16
+2000,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,84
+2000,MRT,SEN,Mauritania,Senegal,G,Government,V,Various,P,Persons,0,69
+2000,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,17
+2000,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,71
+2000,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,532
+2000,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,834
+2001,MRT,AUS,Mauritania,Australia,G,Government,V,Various,C,Cases,0,5
+2001,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,10
+2001,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,43
+2001,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,52
+2001,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,43
+2001,MRT,COG,Mauritania,Congo,U,UNHCR,V,Various,C,Cases,0,19
+2001,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,731
+2001,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,2332
+2001,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,48
+2001,MRT,GAB,Mauritania,Gabon,U,UNHCR,V,Various,P,Persons,0,5
+2001,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,13
+2001,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,5
+2001,MRT,ITA,Mauritania,Italy,G,Government,V,Various,P,Persons,0,6
+2001,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,15
+2001,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,75
+2001,MRT,SEN,Mauritania,Senegal,G,Government,V,Various,P,Persons,0,180
+2001,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,10
+2001,MRT,SWE,Mauritania,Sweden,G,Government,V,Various,P,Persons,0,8
+2001,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,93
+2001,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,577
+2001,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,1096
+2002,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,9
+2002,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,23
+2002,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,222
+2002,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,63
+2002,MRT,COG,Mauritania,Congo,U,UNHCR,V,Various,C,Cases,0,5
+2002,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,1649
+2002,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,2998
+2002,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,78
+2002,MRT,GAB,Mauritania,Gabon,G,Government,V,Various,P,Persons,0,29
+2002,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,37
+2002,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,5
+2002,MRT,CIV,Mauritania,Côte d'Ivoire,J,Joint,V,Various,P,Persons,0,5
+2002,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,15
+2002,MRT,MLT,Mauritania,Malta,G,Government,V,Various,C,Cases,0,5
+2002,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,40
+2002,MRT,NOR,Mauritania,Norway,G,Government,V,Various,P,Persons,0,5
+2002,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,16
+2002,MRT,SWE,Mauritania,Sweden,G,Government,V,Various,P,Persons,0,5
+2002,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,101
+2002,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,781
+2002,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,1091
+2003,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,12
+2003,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,12
+2003,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,255
+2003,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,48
+2003,MRT,COG,Mauritania,Congo,U,UNHCR,V,Various,C,Cases,0,9
+2003,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,2598
+2003,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,2380
+2003,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,132
+2003,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,V,Various,P,Persons,0,5
+2003,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,16
+2003,MRT,GRC,Mauritania,Greece,G,Government,V,Various,P,Persons,0,8
+2003,MRT,IRL,Mauritania,Ireland,G,Government,V,Various,P,Persons,0,5
+2003,MRT,LUX,Mauritania,Luxembourg,G,Government,V,Various,P,Persons,0,7
+2003,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,21
+2003,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,18
+2003,MRT,NOR,Mauritania,Norway,G,Government,V,Various,P,Persons,0,12
+2003,MRT,SEN,Mauritania,Senegal,G,Government,V,Various,P,Persons,0,104
+2003,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,31
+2003,MRT,SWE,Mauritania,Sweden,G,Government,V,Various,P,Persons,0,11
+2003,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,38
+2003,MRT,ARE,Mauritania,United Arab Emirates,U,UNHCR,V,Various,P,Persons,0,6
+2003,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,1185
+2003,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,745
+2004,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,12
+2004,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,45
+2004,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,186
+2004,MRT,BGR,Mauritania,Bulgaria,G,Government,V,Various,P,Persons,0,9
+2004,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,108
+2004,MRT,COG,Mauritania,Congo,U,UNHCR,V,Various,C,Cases,0,6
+2004,MRT,FIN,Mauritania,Finland,G,Government,V,Various,P,Persons,0,5
+2004,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,2405
+2004,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,1540
+2004,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,373
+2004,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,V,Various,P,Persons,0,12
+2004,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,13
+2004,MRT,GRC,Mauritania,Greece,G,Government,V,Various,P,Persons,0,26
+2004,MRT,ITA,Mauritania,Italy,G,Government,V,Various,P,Persons,0,19
+2004,MRT,LUX,Mauritania,Luxembourg,G,Government,V,Various,P,Persons,0,5
+2004,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,12
+2004,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,10
+2004,MRT,NOR,Mauritania,Norway,G,Government,V,Various,P,Persons,0,6
+2004,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,31
+2004,MRT,SVK,Mauritania,Slovakia,G,Government,V,Various,P,Persons,0,5
+2004,MRT,SWE,Mauritania,Sweden,G,Government,V,Various,P,Persons,0,16
+2004,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,44
+2004,MRT,SYR,Mauritania,Syrian Arab Republic,U,UNHCR,V,Various,C,Cases,0,5
+2004,MRT,TUR,Mauritania,Türkiye,U,UNHCR,V,Various,P,Persons,0,5
+2004,MRT,ARE,Mauritania,United Arab Emirates,U,UNHCR,V,Various,P,Persons,0,6
+2004,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,13
+2004,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,449
+2005,MRT,AUT,Mauritania,Austria,G,Government,V,Various,P,Persons,0,5
+2005,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,119
+2005,MRT,BEL,Mauritania,Belgium,G,Government,V,Various,P,Persons,0,128
+2005,MRT,CAN,Mauritania,Canada,G,Government,V,Various,P,Persons,0,57
+2005,MRT,COG,Mauritania,Congo,U,UNHCR,V,Various,C,Cases,0,19
+2005,MRT,FIN,Mauritania,Finland,G,Government,V,Various,P,Persons,0,5
+2005,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,1262
+2005,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,1067
+2005,MRT,FRA,Mauritania,France,G,Government,V,Various,P,Persons,0,598
+2005,MRT,GAB,Mauritania,Gabon,G,Government,V,Various,C,Cases,0,5
+2005,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,V,Various,P,Persons,0,8
+2005,MRT,DEU,Mauritania,Germany,G,Government,V,Various,P,Persons,0,5
+2005,MRT,GRC,Mauritania,Greece,G,Government,V,Various,P,Persons,0,14
+2005,MRT,MLI,Mauritania,Mali,G,Government,V,Various,P,Persons,0,49
+2005,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,V,Various,P,Persons,0,5
+2005,MRT,NOR,Mauritania,Norway,G,Government,V,Various,P,Persons,0,5
+2005,MRT,SEN,Mauritania,Senegal,G,Government,V,Various,P,Persons,0,5
+2005,MRT,ESP,Mauritania,Spain,G,Government,V,Various,P,Persons,0,28
+2005,MRT,SWE,Mauritania,Sweden,G,Government,V,Various,P,Persons,0,5
+2005,MRT,CHE,Mauritania,Switzerland,G,Government,V,Various,P,Persons,0,21
+2005,MRT,TUR,Mauritania,Türkiye,U,UNHCR,V,Various,P,Persons,0,14
+2005,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,11
+2005,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,199
+2006,MRT,AGO,Mauritania,Angola,G,Government,NR,New and repeat,P,Persons,0,25
+2006,MRT,AUT,Mauritania,Austria,G,Government,NR,New and repeat,P,Persons,0,5
+2006,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,P,Persons,0,253
+2006,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,93
+2006,MRT,BFA,Mauritania,Burkina Faso,G,Government,N,New,P,Persons,0,6
+2006,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,16
+2006,MRT,COG,Mauritania,Congo,J,Joint,N,New,C,Cases,0,21
+2006,MRT,CYP,Mauritania,Cyprus,G,Government,N,New,P,Persons,0,5
+2006,MRT,FRA,Mauritania,France,G,Government,NR,New and repeat,P,Persons,0,948
+2006,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,548
+2006,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,425
+2006,MRT,GAB,Mauritania,Gabon,G,Government,NR,New and repeat,P,Persons,0,9
+2006,MRT,DEU,Mauritania,Germany,G,Government,NA,New and appeal,P,Persons,0,5
+2006,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,67
+2006,MRT,ITA,Mauritania,Italy,G,Government,NR,New and repeat,P,Persons,0,8
+2006,MRT,MLI,Mauritania,Mali,G,Government,N,New,P,Persons,0,13
+2006,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,8
+2006,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,5
+2006,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,7
+2006,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,5
+2006,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,15
+2006,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,15
+2006,MRT,TUR,Mauritania,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,7
+2006,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,43
+2006,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,20
+2006,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,59
+2007,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,54
+2007,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,13
+2007,MRT,FIN,Mauritania,Finland,G,Government,N,New,P,Persons,0,5
+2007,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,570
+2007,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,432
+2007,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,276
+2007,MRT,GAB,Mauritania,Gabon,G,Government,NR,New and repeat,P,Persons,0,5
+2007,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2007,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,95
+2007,MRT,IRL,Mauritania,Ireland,G,Government,N,New,P,Persons,0,5
+2007,MRT,ISR,Mauritania,Israel,J,Joint,FA,First and appeal,P,Persons,0,5
+2007,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,29
+2007,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,7
+2007,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,5
+2007,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,6
+2007,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,16
+2007,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,30
+2007,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,6
+2007,MRT,TUR,Mauritania,Türkiye,U,UNHCR,A,Appeal,P,Persons,0,8
+2007,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,10
+2007,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,16
+2007,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,38
+2008,MRT,AGO,Mauritania,Angola,G,Government,NR,New and repeat,P,Persons,0,11
+2008,MRT,AUT,Mauritania,Austria,G,Government,NR,New and repeat,P,Persons,0,5
+2008,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,128
+2008,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,21
+2008,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2008,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,719
+2008,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,636
+2008,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2008,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,6
+2008,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,41
+2008,MRT,ISR,Mauritania,Israel,J,Joint,N,New,P,Persons,0,5
+2008,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,53
+2008,MRT,MLI,Mauritania,Mali,G,Government,N,New,P,Persons,0,5
+2008,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2008,MRT,MLT,Mauritania,Malta,G,Government,N,New,P,Persons,0,5
+2008,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2008,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2008,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,26
+2008,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,11
+2008,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,34
+2008,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2008,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,29
+2008,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,16
+2008,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,12
+2008,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,29
+2009,MRT,AGO,Mauritania,Angola,G,Government,N,New,P,Persons,0,198
+2009,MRT,AUT,Mauritania,Austria,G,Government,NR,New and repeat,P,Persons,0,5
+2009,MRT,BDI,Mauritania,Burundi,G,Government,N,New,P,Persons,0,8
+2009,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,187
+2009,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,19
+2009,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,7
+2009,MRT,FIN,Mauritania,Finland,G,Government,N,New,P,Persons,0,5
+2009,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1214
+2009,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,268
+2009,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2009,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,5
+2009,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,37
+2009,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,65
+2009,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2009,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2009,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,30
+2009,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,45
+2009,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,16
+2009,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,8
+2009,MRT,SWE,Mauritania,Sweden,G,Government,A,Appeal,P,Persons,0,5
+2009,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,9
+2009,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,40
+2009,MRT,SYR,Mauritania,Syrian Arab Republic,U,UNHCR,A,Appeal,P,Persons,0,5
+2009,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,18
+2009,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,18
+2009,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,44
+2010,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,142
+2010,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,73
+2010,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,33
+2010,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2010,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,10
+2010,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2010,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,880
+2010,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,984
+2010,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,176
+2010,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2010,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,10
+2010,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,6
+2010,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,15
+2010,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,35
+2010,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2010,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,33
+2010,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,16
+2010,MRT,SEN,Mauritania,Senegal,U,UNHCR,N,New,P,Persons,0,9
+2010,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,12
+2010,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,7
+2010,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2010,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,29
+2010,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,5
+2010,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,23
+2010,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,161
+2011,MRT,AGO,Mauritania,Angola,G,Government,NR,New and repeat,P,Persons,0,62
+2011,MRT,AUT,Mauritania,Austria,G,Government,NR,New and repeat,P,Persons,0,6
+2011,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,125
+2011,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,70
+2011,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,9
+2011,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,13
+2011,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2011,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1157
+2011,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,234
+2011,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,11
+2011,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,14
+2011,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,112
+2011,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,6
+2011,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,14
+2011,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,9
+2011,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,16
+2011,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,7
+2011,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2011,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,44
+2011,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,5
+2011,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,12
+2011,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,87
+2012,MRT,AUT,Mauritania,Austria,G,Government,NA,New and appeal,P,Persons,0,8
+2012,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,168
+2012,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,90
+2012,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,6
+2012,MRT,CMR,Mauritania,Cameroon,U,UNHCR,NR,New and repeat,P,Persons,0,5
+2012,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2012,MRT,FIN,Mauritania,Finland,G,Government,N,New,P,Persons,0,5
+2012,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,1253
+2012,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1307
+2012,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,271
+2012,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,5
+2012,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,6
+2012,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,14
+2012,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,23
+2012,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,100
+2012,MRT,MKD,Mauritania,North Macedonia,G,Government,N,New,P,Persons,0,5
+2012,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2012,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2012,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,10
+2012,MRT,ROU,Mauritania,Romania,G,Government,R,Repeat,P,Persons,0,7
+2012,MRT,SRB,Mauritania,Serbia,G,Government,N,New,P,Persons,0,5
+2012,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,12
+2012,MRT,CHE,Mauritania,Switzerland,G,Government,A,Appeal,P,Persons,0,5
+2012,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,69
+2012,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,5
+2012,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,13
+2012,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,67
+2013,MRT,AUT,Mauritania,Austria,G,Government,NR,New and repeat,P,Persons,0,39
+2013,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,131
+2013,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,109
+2013,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,26
+2013,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2013,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,28
+2013,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,7
+2013,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,1078
+2013,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1046
+2013,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,251
+2013,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2013,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,96
+2013,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,8
+2013,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,25
+2013,MRT,HUN,Mauritania,Hungary,G,Government,N,New,P,Persons,0,129
+2013,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,66
+2013,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2013,MRT,MKD,Mauritania,North Macedonia,G,Government,N,New,P,Persons,0,14
+2013,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2013,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,5
+2013,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,6
+2013,MRT,SRB,Mauritania,Serbia,G,Government,N,New,P,Persons,0,32
+2013,MRT,SWE,Mauritania,Sweden,G,Government,A,Appeal,P,Persons,0,6
+2013,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,18
+2013,MRT,CHE,Mauritania,Switzerland,G,Government,A,Appeal,P,Persons,0,10
+2013,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,51
+2013,MRT,CHE,Mauritania,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2013,MRT,TUR,Mauritania,Türkiye,U,UNHCR,N,New,P,Persons,0,5
+2013,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,7
+2013,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,154
+2014,MRT,AGO,Mauritania,Angola,G,Government,N,New,P,Persons,0,3180
+2014,MRT,AUT,Mauritania,Austria,G,Government,N,New,P,Persons,0,5
+2014,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,89
+2014,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,C,Cases,0,87
+2014,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,77
+2014,MRT,BGR,Mauritania,Bulgaria,G,Government,N,New,P,Persons,0,5
+2014,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,16
+2014,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2014,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2014,MRT,FIN,Mauritania,Finland,G,Government,N,New,P,Persons,0,5
+2014,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,612
+2014,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,724
+2014,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,169
+2014,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,198
+2014,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2014,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,92
+2014,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,6
+2014,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,27
+2014,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,37
+2014,MRT,HRV,Mauritania,Croatia,G,Government,N,New,P,Persons,0,5
+2014,MRT,HUN,Mauritania,Hungary,G,Government,N,New,P,Persons,0,9
+2014,MRT,HUN,Mauritania,Hungary,G,Government,R,Repeat,P,Persons,0,8
+2014,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,76
+2014,MRT,ITA,Mauritania,Italy,G,Government,R,Repeat,P,Persons,0,5
+2014,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2014,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,8
+2014,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2014,MRT,SEN,Mauritania,Senegal,G,Government,N,New,C,Cases,0,6
+2014,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,7
+2014,MRT,SRB,Mauritania,Serbia,G,Government,N,New,P,Persons,0,7
+2014,MRT,SWE,Mauritania,Sweden,G,Government,A,Appeal,P,Persons,0,5
+2014,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,14
+2014,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,28
+2014,MRT,CHE,Mauritania,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2014,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,5
+2014,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,255
+2015,MRT,AGO,Mauritania,Angola,G,Government,N,New,P,Persons,0,16
+2015,MRT,AUT,Mauritania,Austria,G,Government,N,New,P,Persons,0,6
+2015,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,96
+2015,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,C,Cases,0,59
+2015,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,35
+2015,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,5
+2015,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,8
+2015,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,43
+2015,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2015,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,50
+2015,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2015,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,480
+2015,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,913
+2015,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,143
+2015,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,176
+2015,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,144
+2015,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,13
+2015,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,8
+2015,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,5
+2015,MRT,GRC,Mauritania,Greece,G,Government,R,Repeat,P,Persons,0,9
+2015,MRT,HUN,Mauritania,Hungary,G,Government,N,New,P,Persons,0,78
+2015,MRT,HUN,Mauritania,Hungary,G,Government,R,Repeat,P,Persons,0,6
+2015,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,90
+2015,MRT,MNE,Mauritania,Montenegro,G,Government,N,New,P,Persons,0,5
+2015,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,5
+2015,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2015,MRT,SEN,Mauritania,Senegal,G,Government,N,New,C,Cases,0,9
+2015,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,6
+2015,MRT,SWE,Mauritania,Sweden,G,Government,A,Appeal,P,Persons,0,5
+2015,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,13
+2015,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,19
+2015,MRT,CHE,Mauritania,Switzerland,G,Government,R,Repeat,P,Persons,0,5
+2015,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,289
+2016,MRT,AUS,Mauritania,Australia,G,Government,N,New,P,Persons,0,6
+2016,MRT,AUT,Mauritania,Austria,G,Government,N,New,P,Persons,0,5
+2016,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,62
+2016,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,C,Cases,0,40
+2016,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,51
+2016,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,6
+2016,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,70
+2016,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2016,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,626
+2016,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,637
+2016,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,113
+2016,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,156
+2016,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,111
+2016,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,13
+2016,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,7
+2016,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,8
+2016,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,58
+2016,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2016,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,11
+2016,MRT,NOR,Mauritania,Norway,G,Government,A,Appeal,P,Persons,0,5
+2016,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2016,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,7
+2016,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,14
+2016,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,9
+2016,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,8
+2016,MRT,SWE,Mauritania,Sweden,G,Government,R,Repeat,P,Persons,0,5
+2016,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,17
+2016,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,6
+2016,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,205
+2017,MRT,ARG,Mauritania,Argentina,G,Government,N,New,P,Persons,0,5
+2017,MRT,AUT,Mauritania,Austria,G,Government,N,New,P,Persons,0,5
+2017,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,65
+2017,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,65
+2017,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,123
+2017,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,9
+2017,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,49
+2017,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2017,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,641
+2017,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,735
+2017,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,144
+2017,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,171
+2017,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,54
+2017,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,9
+2017,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,11
+2017,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,53
+2017,MRT,LBN,Mauritania,Lebanon,U,UNHCR,N,New,P,Persons,0,5
+2017,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2017,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2017,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,15
+2017,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2017,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,15
+2017,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,7
+2017,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,42
+2017,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2017,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,19
+2017,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,14
+2017,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,103
+2018,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,70
+2018,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,20
+2018,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,73
+2018,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,6
+2018,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,155
+2018,MRT,COG,Mauritania,Congo,J,Joint,N,New,P,Persons,0,55
+2018,MRT,DNK,Mauritania,Denmark,G,Government,N,New,P,Persons,0,5
+2018,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,481
+2018,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1117
+2018,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,139
+2018,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,159
+2018,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2018,MRT,DEU,Mauritania,Germany,G,Government,J,Judiciary,P,Persons,0,30
+2018,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,33
+2018,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,5
+2018,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,5
+2018,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,14
+2018,MRT,CIV,Mauritania,Côte d'Ivoire,G,Government,N,New,P,Persons,0,7
+2018,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,14
+2018,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2018,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,7
+2018,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,9
+2018,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2018,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,5
+2018,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,9
+2018,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,54
+2018,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,7
+2018,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,7
+2018,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,86
+2018,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,18
+2018,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,87
+2019,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,45
+2019,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,19
+2019,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,71
+2019,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,58
+2019,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,880
+2019,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1447
+2019,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,108
+2019,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,142
+2019,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,44
+2019,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,13
+2019,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,7
+2019,MRT,CIV,Mauritania,Côte d'Ivoire,G,Government,N,New,P,Persons,0,5
+2019,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,5
+2019,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2019,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,8
+2019,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,6
+2019,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,12
+2019,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,5
+2019,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,10
+2019,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,57
+2019,MRT,SWE,Mauritania,Sweden,G,Government,A,Appeal,P,Persons,0,6
+2019,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2019,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,5
+2019,MRT,URY,Mauritania,Uruguay,G,Government,N,New,P,Persons,0,5
+2019,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,116
+2019,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,43
+2019,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,231
+2020,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,63
+2020,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,25
+2020,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,21
+2020,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,692
+2020,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1227
+2020,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,139
+2020,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,212
+2020,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,7
+2020,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,21
+2020,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,8
+2020,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,5
+2020,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,5
+2020,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,22
+2020,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2020,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,11
+2020,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,5
+2020,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,5
+2020,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,42
+2020,MRT,TUN,Mauritania,Tunisia,U,UNHCR,N,New,P,Persons,0,6
+2020,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,67
+2020,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,66
+2020,MRT,USA,Mauritania,United States of America,G,Government,N,New,C,Cases,0,154
+2021,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,70
+2021,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,20
+2021,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,9
+2021,MRT,BGR,Mauritania,Bulgaria,G,Government,NR,New and repeat,P,Persons,0,5
+2021,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,9
+2021,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,5
+2021,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,26
+2021,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,1189
+2021,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1017
+2021,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,223
+2021,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,306
+2021,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2021,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,19
+2021,MRT,DEU,Mauritania,Germany,G,Government,J,Judiciary,P,Persons,0,17
+2021,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,6
+2021,MRT,CIV,Mauritania,Côte d'Ivoire,G,Government,N,New,P,Persons,0,10
+2021,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,55
+2021,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,8
+2021,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2021,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,5
+2021,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,171
+2021,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2021,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,5
+2021,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,36
+2021,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,33
+2021,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,56
+2022,MRT,AUT,Mauritania,Austria,G,Government,N,New,P,Persons,0,8
+2022,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,129
+2022,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,P,Persons,0,43
+2022,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,32
+2022,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,14
+2022,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,21
+2022,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,53
+2022,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,1127
+2022,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1420
+2022,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,246
+2022,MRT,FRA,Mauritania,France,G,Government,R,Repeat,P,Persons,0,387
+2022,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,A,Appeal,C,Cases,0,5
+2022,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,5
+2022,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,40
+2022,MRT,DEU,Mauritania,Germany,G,Government,J,Judiciary,P,Persons,0,9
+2022,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,5
+2022,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,5
+2022,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,57
+2022,MRT,MAR,Mauritania,Morocco,U,UNHCR,N,New,P,Persons,0,5
+2022,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,88
+2022,MRT,SVN,Mauritania,Slovenia,G,Government,N,New,P,Persons,0,8
+2022,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,7
+2022,MRT,TUN,Mauritania,Tunisia,U,UNHCR,N,New,P,Persons,0,9
+2022,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,34
+2022,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,92
+2022,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,168
+2023,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,95
+2023,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,P,Persons,0,103
+2023,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,24
+2023,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,52
+2023,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,7
+2023,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,477
+2023,MRT,FIN,Mauritania,Finland,G,Government,N,New,P,Persons,0,12
+2023,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1184
+2023,MRT,FRA,Mauritania,France,G,Government,RA,Repeat/reopened,P,Persons,0,366
+2023,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,15
+2023,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,38
+2023,MRT,DEU,Mauritania,Germany,G,Government,A,Appeal,P,Persons,0,19
+2023,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,5
+2023,MRT,GRC,Mauritania,Greece,G,Government,N,New,P,Persons,0,6
+2023,MRT,CIV,Mauritania,Côte d'Ivoire,G,Government,N,New,P,Persons,0,12
+2023,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,12
+2023,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2023,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,212
+2023,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2023,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,6
+2023,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,15
+2023,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,60
+2023,MRT,SWE,Mauritania,Sweden,G,Government,N,New,P,Persons,0,5
+2023,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,5
+2023,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,38
+2023,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,8397
+2023,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,2487
+2024,MRT,DZA,Mauritania,Algeria,U,UNHCR,N,New,P,Persons,0,5
+2024,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,155
+2024,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,P,Persons,0,102
+2024,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,47
+2024,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,160
+2024,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,16
+2024,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,264
+2024,MRT,CAF,Mauritania,Central African Republic,G,Government,N,New,P,Persons,0,5
+2024,MRT,COG,Mauritania,Congo,G,Government,N,New,P,Persons,0,6
+2024,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,977
+2024,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1560
+2024,MRT,FRA,Mauritania,France,G,Government,RA,Repeat/reopened,P,Persons,0,299
+2024,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,6
+2024,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,35
+2024,MRT,DEU,Mauritania,Germany,G,Government,A,Appeal,P,Persons,0,28
+2024,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,23
+2024,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,7
+2024,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,126
+2024,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,18
+2024,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,13
+2024,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,1890
+2024,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,6
+2024,MRT,USA,Mauritania,United States of America,G,Government,A,Appeal,P,Persons,0,5
+2024,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,7174
+2024,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,1485
+2025,MRT,BEL,Mauritania,Belgium,G,Government,N,New,P,Persons,0,146
+2025,MRT,BEL,Mauritania,Belgium,G,Government,A,Appeal,P,Persons,0,52
+2025,MRT,BEL,Mauritania,Belgium,G,Government,R,Repeat,P,Persons,0,29
+2025,MRT,BRA,Mauritania,Brazil,G,Government,N,New,P,Persons,0,228
+2025,MRT,CAN,Mauritania,Canada,G,Government,A,Appeal,P,Persons,0,26
+2025,MRT,CAN,Mauritania,Canada,G,Government,N,New,P,Persons,0,548
+2025,MRT,CMR,Mauritania,Cameroon,U,UNHCR,N,New,P,Persons,0,5
+2025,MRT,FRA,Mauritania,France,G,Government,A,Appeal,P,Persons,0,1604
+2025,MRT,FRA,Mauritania,France,G,Government,N,New,P,Persons,0,1630
+2025,MRT,FRA,Mauritania,France,G,Government,RA,Repeat/reopened,P,Persons,0,470
+2025,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,G,Government,N,New,P,Persons,0,8
+2025,MRT,DEU,Mauritania,Germany,G,Government,N,New,P,Persons,0,56
+2025,MRT,DEU,Mauritania,Germany,G,Government,A,Appeal,P,Persons,0,75
+2025,MRT,DEU,Mauritania,Germany,G,Government,R,Repeat,P,Persons,0,6
+2025,MRT,GRC,Mauritania,Greece,G,Government,A,Appeal,P,Persons,0,5
+2025,MRT,CIV,Mauritania,Côte d'Ivoire,G,Government,N,New,P,Persons,0,8
+2025,MRT,IRL,Mauritania,Ireland,G,Government,N,New,P,Persons,0,7
+2025,MRT,ITA,Mauritania,Italy,G,Government,N,New,P,Persons,0,15
+2025,MRT,LUX,Mauritania,Luxembourg,G,Government,N,New,P,Persons,0,5
+2025,MRT,MEX,Mauritania,Mexico,G,Government,N,New,P,Persons,0,5
+2025,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,N,New,P,Persons,0,5
+2025,MRT,NLD,Mauritania,Netherlands (Kingdom of the),G,Government,R,Repeat,P,Persons,0,14
+2025,MRT,NOR,Mauritania,Norway,G,Government,N,New,P,Persons,0,5
+2025,MRT,PRT,Mauritania,Portugal,G,Government,N,New,P,Persons,0,5
+2025,MRT,SEN,Mauritania,Senegal,G,Government,N,New,P,Persons,0,26
+2025,MRT,ESP,Mauritania,Spain,G,Government,N,New,P,Persons,0,1069
+2025,MRT,CHE,Mauritania,Switzerland,G,Government,N,New,P,Persons,0,6
+2025,MRT,USA,Mauritania,United States of America,G,Government,N,New,P,Persons,0,1098

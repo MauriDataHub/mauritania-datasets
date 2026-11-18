@@ -1,0 +1,6 @@
+Flag, Description
+B,Time series break
+E,Estimated value
+L,Missing value; data exist but were not collected
+U,Low reliability
+X,Figure from external organization

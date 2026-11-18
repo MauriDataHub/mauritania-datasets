@@ -1,0 +1,4 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,Annual,,Food and Agriculture Organization of the United Nations (FAO); Food and Agriculture Organization.,CC BY 4.0,65,1960,2024
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,Annual,,Food and Agriculture Organization of the United Nations (FAO); Food and Agriculture Organization.,CC BY 4.0,65,1960,2024
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,Annual,,Food and Agriculture Organization of the United Nations (FAO); Food and Agriculture Organization.,CC BY 4.0,65,1960,2024

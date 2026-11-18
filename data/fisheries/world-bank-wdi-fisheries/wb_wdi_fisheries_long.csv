@@ -1,0 +1,196 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1960,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1961,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1962,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1963,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1964,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1965,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1966,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1967,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1968,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1969,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1970,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1971,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1972,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1973,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1974,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1975,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1976,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1977,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1978,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1979,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1980,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1981,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1982,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1983,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1984,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1985,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1986,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1987,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1988,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1989,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1990,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1991,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1992,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1993,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1994,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1995,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1996,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1997,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1998,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,1999,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2000,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2001,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2002,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2003,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2004,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2005,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2006,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2007,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2008,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2009,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2010,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2011,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2012,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2013,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2014,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2015,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2016,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2017,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2018,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2019,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2020,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2021,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2022,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2023,0.0,A,0
+WB_WDI_ER_FSH_AQUA_MT,ER.FSH.AQUA.MT,Aquaculture production (metric tons),metric tons,_T,_T,_T,A,2024,0.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1960,20000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1961,22000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1962,23000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1963,23000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1964,23000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1965,25000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1966,27000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1967,30700.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1968,37000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1969,43000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1970,49570.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1971,58925.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1972,36291.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1973,33190.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1974,43697.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1975,33921.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1976,33834.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1977,37897.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1978,41467.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1979,24541.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1980,21598.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1981,58779.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1982,56288.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1983,81600.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1984,57676.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1985,66277.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1986,76614.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1987,88397.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1988,77666.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1989,76000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1990,66000.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1991,67637.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1992,66054.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1993,59452.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1994,53746.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1995,56147.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1996,63324.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1997,74127.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1998,98043.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,1999,104527.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2000,114456.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2001,140142.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2002,156131.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2003,199650.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2004,270733.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2005,304877.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2006,165312.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2007,223207.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2008,195328.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2009,216900.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2010,276238.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2011,372011.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2012,437709.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2013,387833.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2014,378339.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2015,403776.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2016,609754.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2017,794580.0,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2018,967706.752,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2019,720849.509,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2020,678425.001,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2021,762868.259,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2022,703628.563,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2023,663269.325,A,0
+WB_WDI_ER_FSH_CAPT_MT,ER.FSH.CAPT.MT,Capture fisheries production (metric tons),metric tons,_T,_T,_T,A,2024,640321.907,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1960,20000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1961,22000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1962,23000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1963,23000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1964,23000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1965,25000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1966,27000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1967,30700.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1968,37000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1969,43000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1970,49570.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1971,58925.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1972,36291.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1973,33190.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1974,43697.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1975,33921.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1976,33834.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1977,37897.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1978,41467.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1979,24541.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1980,21598.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1981,58779.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1982,56288.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1983,81600.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1984,57676.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1985,66277.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1986,76614.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1987,88397.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1988,77666.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1989,76000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1990,66000.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1991,67637.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1992,66054.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1993,59452.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1994,53746.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1995,56147.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1996,63324.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1997,74127.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1998,98043.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,1999,104527.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2000,114456.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2001,140142.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2002,156131.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2003,199650.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2004,270733.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2005,304877.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2006,165312.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2007,223207.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2008,195328.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2009,216900.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2010,276238.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2011,372011.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2012,437709.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2013,387833.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2014,378339.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2015,403776.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2016,609754.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2017,794580.0,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2018,967706.752,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2019,720849.509,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2020,678425.001,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2021,762868.259,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2022,703628.563,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2023,663269.325,A,0
+WB_WDI_ER_FSH_PROD_MT,ER.FSH.PROD.MT,Total fisheries production (metric tons),metric tons,_T,_T,_T,A,2024,640321.907,A,0

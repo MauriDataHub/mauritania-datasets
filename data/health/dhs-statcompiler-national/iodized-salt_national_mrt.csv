@@ -1,0 +1,8 @@
+ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
+MRT,776817,Households with salt tested for iodine content,88.4,1,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_SLT,104531010,I,1000,0,Total,Total,0,,1,1,CNIODZHSLT,,2019-21,DHS,11658,11658,,,
+MRT,776816,Households with no salt,10,1,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_NSL,104531020,I,1000,0,Total,Total,0,,1,1,CNIODZHNSL,,2019-21,DHS,11658,11658,,,
+MRT,786828,Number of households,11658,0,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_NM1,104531030,D,1000,0,Total,Total,0,,1,1,CNIODZHNM1,,2019-21,DHS,,11658,,,
+MRT,499622,Number of households (unweighted),11658,0,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_UN1,104531040,U,1000,0,Total,Total,0,,1,1,CNIODZHUN1,,2019-21,DHS,11658,,,,
+MRT,715579,Households with iodized salt,21.4,1,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_IOD,104531050,I,1000,0,Total,Total,0,,1,1,CNIODZHIOD,,2019-21,DHS,10309,10432,,,
+MRT,719989,Number of households with salt tested,10309,0,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_NM2,104531060,D,1000,0,Total,Total,0,,1,1,CNIODZHNM2,,2019-21,DHS,,10432,,,
+MRT,408454,Number of households with salt tested (unweighted),10432,0,MR,Mauritania,2020,MR2020DHS,CN_IODZ_H_UN2,104531070,U,1000,0,Total,Total,0,,1,1,CNIODZHUN2,,2019-21,DHS,10309,,,,

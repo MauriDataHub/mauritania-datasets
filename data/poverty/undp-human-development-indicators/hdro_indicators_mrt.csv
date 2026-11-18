@@ -1,0 +1,912 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,3.685,1990
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,3.784,1991
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,4.091,1992
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,4.563,1993
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.220,1994
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.382,1995
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.646,1996
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.711,1997
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.090,1998
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.272,1999
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.303,2000
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.335,2001
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.359,2002
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.435,2003
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.907,2004
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.957,2005
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.181,2006
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.077,2007
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.974,2008
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.516,2009
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.665,2010
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.816,2011
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.192,2012
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.485,2013
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.560,2014
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.635,2015
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.175,2016
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.077,2017
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.511,2018
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.722,2019
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.052,2020
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.950,2021
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.950,2022
+MRT,Mauritania,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.950,2023
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.831,1990
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,2.993,1991
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,3.331,1992
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,3.808,1993
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.463,1994
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.637,1995
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,4.890,1996
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.072,1997
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.634,1998
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.865,1999
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.895,2000
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.924,2001
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.043,2002
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.190,2003
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.706,2004
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.827,2005
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.986,2006
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.926,2007
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.865,2008
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.330,2009
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.448,2010
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.516,2011
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.799,2012
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.138,2013
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.245,2014
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.352,2015
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.003,2016
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.992,2017
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.465,2018
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.765,2019
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.160,2020
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.132,2021
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.132,2022
+MRT,Mauritania,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.132,2023
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.519,1990
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.557,1991
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,4.834,1992
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,5.302,1993
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,5.962,1994
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.110,1995
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.385,1996
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.335,1997
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.535,1998
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.670,1999
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.703,2000
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.736,2001
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.671,2002
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.676,2003
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.106,2004
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.088,2005
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.379,2006
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.233,2007
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.088,2008
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.711,2009
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.890,2010
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.135,2011
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.616,2012
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.866,2013
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.905,2014
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.945,2015
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.369,2016
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.179,2017
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.569,2018
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.691,2019
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.957,2020
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.783,2021
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.783,2022
+MRT,Mauritania,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.783,2023
+MRT,Mauritania,gdi_group,GDI Group,GDI,Gender Development Index,5,2023
+MRT,Mauritania,gii_rank,GII Rank,GII,Gender Inequality Index,161,2023
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2478.903,2000
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2838.342,2001
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2447.477,2002
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2566.893,2003
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2638.776,2004
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2799.567,2005
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3122.955,2006
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3015.498,2007
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2963.152,2008
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2931.776,2009
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2995.272,2010
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2990.877,2011
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3302.680,2012
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3082.207,2013
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3121.731,2014
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3252.314,2015
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3249.439,2016
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3884.620,2017
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3519.166,2018
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3719.045,2019
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3436.752,2020
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3378.533,2021
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3561.209,2022
+MRT,Mauritania,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3603.750,2023
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7350.648,2000
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6463.796,2001
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7209.138,2002
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7529.925,2003
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7711.153,2004
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8151.456,2005
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,9061.781,2006
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8720.634,2007
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8566.963,2008
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8487.757,2009
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8125.568,2010
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8097.568,2011
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,7861.001,2012
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8251.284,2013
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8300.608,2014
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8592.786,2015
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8533.808,2016
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8336.774,2017
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,9085.629,2018
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8822.141,2019
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8721.053,2020
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8516.174,2021
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,8919.948,2022
+MRT,Mauritania,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,9037.775,2023
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5197.818,1990
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5190.712,1991
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5098.433,1992
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5153.183,1993
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4817.305,1994
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5146.982,1995
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5557.609,1996
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5200.568,1997
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5229.576,1998
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5286.543,1999
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4908.392,2000
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4644.375,2001
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4814.512,2002
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5029.345,2003
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5150.967,2004
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5445.785,2005
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6054.940,2006
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5828.395,2007
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5720.050,2008
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5656.910,2009
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5504.645,2010
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5482.519,2011
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5521.939,2012
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5597.178,2013
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5643.230,2014
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5854.391,2015
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5826.160,2016
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6057.295,2017
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6237.844,2018
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6213.408,2019
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6021.526,2020
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,5893.293,2021
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6186.125,2022
+MRT,Mauritania,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,6267.471,2023
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.420,2000
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.430,2001
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.428,2002
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.436,2003
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.448,2004
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.456,2005
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.467,2006
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.468,2007
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.469,2008
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.478,2009
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.483,2010
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.487,2011
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.498,2012
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.502,2013
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.503,2014
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.505,2015
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.503,2016
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.515,2017
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.520,2018
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.530,2019
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.518,2020
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.518,2021
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.526,2022
+MRT,Mauritania,hdi_f,HDI female,GDI,Gender Development Index,0.528,2023
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.504,2000
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.504,2001
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.511,2002
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.516,2003
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.528,2004
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.533,2005
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.545,2006
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.544,2007
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.544,2008
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.555,2009
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.558,2010
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.563,2011
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.571,2012
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.578,2013
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.585,2014
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.593,2015
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.588,2016
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.587,2017
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.599,2018
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.601,2019
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.588,2020
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.586,2021
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.594,2022
+MRT,Mauritania,hdi_m,HDI male,GDI,Gender Development Index,0.595,2023
+MRT,Mauritania,hdi_rank,HDI Rank,HDI,Human Development Index,163,2023
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.06,2010
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.785,2011
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.785,2012
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.785,2013
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.785,2014
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.344,2015
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.344,2016
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.344,2017
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.344,2018
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.987,2019
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.987,2020
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.987,2021
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.987,2022
+MRT,Mauritania,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.987,2023
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.454,2010
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.454,2011
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.454,2012
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,38.454,2013
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2014
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2015
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2016
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2017
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2018
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2019
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2020
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2021
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2022
+MRT,Mauritania,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,34.999,2023
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,25.163,2010
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.752,2011
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.215,2012
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,23.719,2013
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,23.362,2014
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.837,2015
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.304,2016
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.984,2017
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.431,2018
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.114,2019
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.502,2020
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.075,2021
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,19.821,2022
+MRT,Mauritania,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,19.346,2023
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.087,1990
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.291,1991
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.568,1992
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.733,1993
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.763,1994
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.861,1995
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.915,1996
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.417,1997
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.89,1998
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.443,1999
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.044,2000
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.662,2001
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.249,2002
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.805,2003
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.369,2004
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.92,2005
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.493,2006
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.885,2007
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.233,2008
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.485,2009
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.661,2010
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.754,2011
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.808,2012
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.89,2013
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.207,2014
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.498,2015
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.823,2016
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.088,2017
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.419,2018
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.64,2019
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.794,2020
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.762,2021
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.281,2022
+MRT,Mauritania,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.484,2023
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.581,1990
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.749,1991
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.051,1992
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.181,1993
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.23,1994
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.324,1995
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.389,1996
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.986,1997
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.657,1998
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.206,1999
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.832,2000
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.527,2001
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.168,2002
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.823,2003
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.356,2004
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.022,2005
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.621,2006
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.056,2007
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.443,2008
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.734,2009
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.881,2010
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.01,2011
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.003,2012
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.09,2013
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.327,2014
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.555,2015
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.771,2016
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.954,2017
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.258,2018
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.518,2019
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.897,2020
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.689,2021
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.261,2022
+MRT,Mauritania,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.484,2023
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.585,1990
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.821,1991
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.075,1992
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.277,1993
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.29,1994
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.393,1995
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.433,1996
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.842,1997
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.125,1998
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.675,1999
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.248,2000
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.794,2001
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.322,2002
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.778,2003
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.362,2004
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.796,2005
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.334,2006
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.676,2007
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.98,2008
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.243,2009
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.486,2010
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.592,2011
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.737,2012
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.85,2013
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.224,2014
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.559,2015
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.969,2016
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.299,2017
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.644,2018
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.817,2019
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.804,2020
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.876,2021
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.326,2022
+MRT,Mauritania,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.499,2023
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.5,2000
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.46,2001
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.42,2002
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.38,2003
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.34,2004
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.31,2005
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.27,2006
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.23,2007
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.19,2008
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.15,2009
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.11,2010
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.07,2011
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.03,2012
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.87,2013
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.71,2014
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.55,2015
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.38,2016
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.22,2017
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,28.5,2018
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,29.78,2019
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.38,2020
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.99,2021
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,31.61,2022
+MRT,Mauritania,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,31.61,2023
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.5,2000
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.36,2001
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.22,2002
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.07,2003
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.93,2004
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.79,2005
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.65,2006
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.51,2007
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.36,2008
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.22,2009
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.08,2010
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.94,2011
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.8,2012
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.18,2013
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.56,2014
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.95,2015
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,60.33,2016
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,59.71,2017
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.89,2018
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.06,2019
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.88,2020
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.71,2021
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.55,2022
+MRT,Mauritania,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.55,2023
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.619,2010
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.094,2011
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.944,2012
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.743,2013
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.455,2014
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.938,2015
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.759,2016
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.575,2017
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.512,2018
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.922,2019
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.755,2020
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.635,2021
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.808,2022
+MRT,Mauritania,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.570,2023
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.251,1990
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.379,1991
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.425,1992
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.200,1993
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.306,1994
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.676,1995
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.925,1996
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.067,1997
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.391,1998
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.376,1999
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.326,2000
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.687,2001
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.645,2002
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.689,2003
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.546,2004
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.093,2005
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.340,2006
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.231,2007
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.512,2008
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.336,2009
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.494,2010
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.393,2011
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.839,2012
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.838,2013
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.238,2014
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.083,2015
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.052,2016
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.011,2017
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.664,2018
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.347,2019
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.478,2020
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.062,2021
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.93,2022
+MRT,Mauritania,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.773,2023
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,692.644,1990
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,694.686,1991
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,673.455,1992
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,673.358,1993
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,681.832,1994
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,697.267,1995
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,697.208,1996
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,668.290,1997
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,662.322,1998
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,676.501,1999
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,683.639,2000
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,658.339,2001
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,671.183,2002
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,678.276,2003
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,657.053,2004
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,652.121,2005
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,654.289,2006
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,637.742,2007
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,634.394,2008
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,590.449,2009
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,586.072,2010
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,565.734,2011
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,557.798,2012
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,533.505,2013
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,536.420,2014
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,509.992,2015
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,479.828,2016
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,457.593,2017
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,461.182,2018
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,431.101,2019
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,463.832,2020
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,463.832,2021
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,463.832,2022
+MRT,Mauritania,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,463.832,2023
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,117.542,1990
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,113.792,1991
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,106.423,1992
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,106.361,1993
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,104.277,1994
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.09,1995
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.108,1996
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,95.932,1997
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,89.151,1998
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,89.914,1999
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,89.946,2000
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,91.034,2001
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,90.649,2002
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,91.322,2003
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,96.543,2004
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.479,2005
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.627,2006
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.838,2007
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.904,2008
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.202,2009
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,101.835,2010
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,101.953,2011
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,101.637,2012
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.99,2013
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,99.962,2014
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.982,2015
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,97.886,2016
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,96.818,2017
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,95.559,2018
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,94.333,2019
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,92.93,2020
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,91.693,2021
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,90.246,2022
+MRT,Mauritania,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,88.903,2023
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.426,1990
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.420,1991
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.421,1992
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.414,1993
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.413,1994
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.426,1995
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.437,1996
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.434,1997
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.419,1998
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.418,1999
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.413,2000
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.425,2001
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.443,2002
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.447,2003
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.470,2004
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.477,2005
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.503,2006
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.557,2007
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.567,2008
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.606,2009
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.612,2010
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.633,2011
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.673,2012
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.579,2013
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.668,2014
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.761,2015
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.648,2016
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.861,2017
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.042,2018
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.054,2019
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.063,2020
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.976,2021
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.967,2022
+MRT,Mauritania,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.907,2023
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.226,2010
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.664,2011
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.485,2012
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.319,2013
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.049,2014
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.393,2015
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.216,2016
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.109,2017
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.925,2018
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.367,2019
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.163,2020
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.020,2021
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.936,2022
+MRT,Mauritania,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.778,2023
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.267,1990
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.344,1991
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.421,1992
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.498,1993
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.576,1994
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.653,1995
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.726,1996
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.799,1997
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.872,1998
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.946,1999
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.019,2000
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.096,2001
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.173,2002
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.251,2003
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.328,2004
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.405,2005
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.490,2006
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.576,2007
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.661,2008
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.747,2009
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.832,2010
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.958,2011
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.084,2012
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.210,2013
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.213,2014
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.216,2015
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.324,2016
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.431,2017
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.539,2018
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.646,2019
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.754,2020
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.852,2021
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.852,2022
+MRT,Mauritania,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.852,2023
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.893,1990
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.954,1991
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.015,1992
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.076,1993
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.137,1994
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.198,1995
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.252,1996
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.306,1997
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.360,1998
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.415,1999
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.469,2000
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.523,2001
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.577,2002
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.631,2003
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.685,2004
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.739,2005
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.831,2006
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.922,2007
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.014,2008
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.106,2009
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.197,2010
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.355,2011
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.512,2012
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.670,2013
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.544,2014
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.417,2015
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.556,2016
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.695,2017
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.835,2018
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.974,2019
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.113,2020
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.246,2021
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.246,2022
+MRT,Mauritania,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.246,2023
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.745,1990
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.838,1991
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,2.932,1992
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.025,1993
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.118,1994
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.212,1995
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.298,1996
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.383,1997
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.469,1998
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.555,1999
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.641,2000
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.738,2001
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.835,2002
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.932,2003
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.029,2004
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.127,2005
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.199,2006
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.272,2007
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.345,2008
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.418,2009
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.491,2010
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.597,2011
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.704,2012
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.810,2013
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.090,2014
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.371,2015
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.452,2016
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.534,2017
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.616,2018
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.698,2019
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.780,2020
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.854,2021
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.854,2022
+MRT,Mauritania,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.854,2023
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,1.952,1990
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.010,1991
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.088,1992
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.174,1993
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.249,1994
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.312,1995
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.358,1996
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.411,1997
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.475,1998
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.542,1999
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.613,2000
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.679,2001
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.739,2002
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.802,2003
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.869,2004
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,2.939,2005
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.014,2006
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.093,2007
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.183,2008
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.284,2009
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.391,2010
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.503,2011
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.619,2012
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.734,2013
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.849,2014
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,3.966,2015
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.087,2016
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.211,2017
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.338,2018
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.468,2019
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.600,2020
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.735,2021
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,4.876,2022
+MRT,Mauritania,pop_total,"Population, total (millions)",OTHER,Additional Indicators,5.022,2023
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1990
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1991
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1992
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1993
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1994
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1995
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1996
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,0.741,1997
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,2.222,1998
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,2.222,1999
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,2.963,2000
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,2.963,2001
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,2.963,2002
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.380,2003
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.380,2004
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.380,2005
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.895,2006
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,2007
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,2008
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.205,2009
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.205,2010
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.205,2011
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.205,2012
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.205,2013
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.167,2014
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.167,2015
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.167,2016
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.170,2017
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.261,2018
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.261,2019
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.261,2020
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.261,2021
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.261,2022
+MRT,Mauritania,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23.295,2023
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1990
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1991
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1992
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1993
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1994
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1995
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1996
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,99.259,1997
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,97.778,1998
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,97.778,1999
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,97.037,2000
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,97.037,2001
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,97.037,2002
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.620,2003
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.620,2004
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.620,2005
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.105,2006
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,2007
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,2008
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.795,2009
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.795,2010
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.795,2011
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.795,2012
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.795,2013
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.833,2014
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.833,2015
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.833,2016
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.830,2017
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.739,2018
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.739,2019
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.739,2020
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.739,2021
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.739,2022
+MRT,Mauritania,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,76.705,2023
+MRT,Mauritania,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,2,2023
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.133,1990
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.423,1991
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,2.713,1992
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.004,1993
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.294,1994
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.584,1995
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,3.917,1996
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.249,1997
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.582,1998
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,4.915,1999
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.248,2000
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.563,2001
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,5.879,2002
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.195,2003
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.511,2004
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,6.826,2005
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.225,2006
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,7.624,2007
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.023,2008
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.422,2009
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.821,2010
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.574,2011
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.327,2012
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.080,2013
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.314,2014
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,13.549,2015
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.054,2016
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.559,2017
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.065,2018
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.570,2019
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.075,2020
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.695,2021
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.695,2022
+MRT,Mauritania,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.695,2023
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.264,1990
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,7.858,1991
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,8.451,1992
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.045,1993
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,9.638,1994
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,10.231,1995
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,10.779,1996
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,11.326,1997
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,11.874,1998
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,12.421,1999
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,12.968,2000
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,13.504,2001
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.039,2002
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,14.575,2003
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.110,2004
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,15.646,2005
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.077,2006
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.508,2007
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,16.940,2008
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.371,2009
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,17.803,2010
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.352,2011
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,18.901,2012
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,19.450,2013
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,22.447,2014
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,25.444,2015
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,25.867,2016
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,26.289,2017
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,26.711,2018
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.134,2019
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.556,2020
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.852,2021
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.852,2022
+MRT,Mauritania,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,27.852,2023
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.293,1990
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.741,1991
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.912,1992
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.463,1993
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.861,1994
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.745,1995
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.571,1996
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.778,1997
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,6.087,1998
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.854,1999
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.983,2000
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,6.170,2001
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.421,2002
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.261,2003
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.453,2004
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.6,2005
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.297,2006
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.883,2007
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.906,2008
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.406,2009
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4,2010
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.396,2011
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.717,2012
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.676,2013
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.291,2014
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.267,2015
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.285,2016
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.267,2017
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.743,2018
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.710,2019
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.791,2020
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.978,2021
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.915,2022
+MRT,Mauritania,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.730,2023
+MRT,Mauritania,mpi_value,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.327,2021
+MRT,Mauritania,mpi_headcount,MPI Headcount (%),MPI,Multidimensional Poverty Index,58.4,2021
+MRT,Mauritania,mpi_intensity,MPI Intensity (%),MPI,Multidimensional Poverty Index,56,2021
+MRT,Mauritania,nutrition,Contribution of Nutrition to MPI (%),MPI,Multidimensional Poverty Index,14.993,2021
+MRT,Mauritania,child_mortality,Contribution of Child mortality to MPI (%),MPI,Multidimensional Poverty Index,2.706,2021
+MRT,Mauritania,years_of_schooling,Contribution of Years of schooling to MPI (%),MPI,Multidimensional Poverty Index,20.545,2021
+MRT,Mauritania,school_attendance,Contribution of School attendance to MPI (%),MPI,Multidimensional Poverty Index,21.891,2021
+MRT,Mauritania,cooking_fuel,Contribution of Cooking fuel to MPI (%),MPI,Multidimensional Poverty Index,8.152,2021
+MRT,Mauritania,sanitation,Contribution of Sanitation to MPI (%),MPI,Multidimensional Poverty Index,7.168,2021
+MRT,Mauritania,drinking_water,Contribution of Drinking water to MPI (%),MPI,Multidimensional Poverty Index,5.126,2021
+MRT,Mauritania,electricity,Contribution of Electricity to MPI (%),MPI,Multidimensional Poverty Index,8.045,2021
+MRT,Mauritania,assets,Contribution of Assets to MPI (%),MPI,Multidimensional Poverty Index,3.427,2021
+MRT,Mauritania,housing,Contribution of Housing to MPI (%),MPI,Multidimensional Poverty Index,7.947,2021

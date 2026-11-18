@@ -1,0 +1,689 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,comp_breakdown_1,freq,time_period,value,obs_status,unit_mult
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2000,3.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2001,4.9,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2002,3.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2003,3.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2004,3.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2005,1.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2006,3.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2007,3.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2008,4.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2009,3.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2010,2.1,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2011,1.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,RUR,_Z,A,2012,0.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2000,45.3,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2001,49.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2002,49.4,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2003,51.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2004,53.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2005,41.6,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2006,57.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2007,70.4,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2008,62.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2009,64.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2010,71.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2011,72.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2012,74.4,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2013,76.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2014,76.9,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2015,79.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2016,80.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2017,82.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2018,83.6,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2019,85.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2020,87.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2021,89.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,URB,_Z,A,2022,91.6,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2000,19.1,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2001,22.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2002,21.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2003,23.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2004,24.3,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2005,18.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2006,27.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2007,33.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2008,30.0,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2009,31.1,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2010,34.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2011,35.3,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2012,36.4,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2013,37.6,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2014,38.8,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2015,39.5,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2016,41.2,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2017,42.9,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2018,43.6,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2019,44.9,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2020,45.4,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2021,47.7,A,0
+WB_SE4ALL_EG_ACS_ELEC,EG.ACS.ELEC,Access to electricity (% of population),Percentage,_T,_T,_T,_Z,A,2022,49.0,A,0
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2013,6.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2013,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2013,4.8,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2013,1.2,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2014,5.9,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2014,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2014,4.7,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2014,1.1,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2015,13.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2015,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2015,4.6,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2015,8.7,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2016,17.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2016,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2016,8.6,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2016,8.5,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2017,17.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2017,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2017,8.4,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2017,8.3,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2018,28.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2018,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2018,20.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2018,8.1,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2019,28.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2019,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2019,20.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2019,7.8,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2020,27.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2020,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2020,19.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2020,7.6,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2021,26.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2021,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2021,19.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2021,7.5,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2022,26.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2022,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2022,19.0,A,6
+WB_SE4ALL_EG_EGEN_RNEW,EG.EGEN.RNEW,Installed renewable electricity-generating capacity (watts per capita),Watts per person,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2022,7.3,A,6
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2000,13.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2001,14.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2002,15.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2003,15.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2004,16.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2005,16.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2006,17.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2007,18.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2008,18.3,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2009,18.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2010,18.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2011,18.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2012,18.7,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2013,18.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2014,18.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2015,19.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2016,19.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2017,19.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2018,19.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2019,19.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2020,19.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2021,19.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,RUR,_Z,A,2022,20.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2000,52.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2001,55.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2002,57.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2003,60.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2004,61.8,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2005,63.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2006,64.8,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2007,66.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2008,66.8,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2009,67.7,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2010,68.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2011,68.8,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2012,68.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2013,69.7,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2014,69.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2015,70.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2016,71.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2017,71.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2018,72.35,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2019,72.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2020,73.3,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2021,74.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,URB,_Z,A,2022,74.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2000,29.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2001,31.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2002,33.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2003,34.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2004,36.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2005,37.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2006,38.4,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2007,39.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2008,40.1,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2009,40.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2010,41.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2011,41.8,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2012,42.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2013,42.9,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2014,43.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2015,44.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2016,44.6,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2017,45.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2018,46.0,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2019,46.5,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2020,47.3,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2021,48.2,A,0
+WB_SE4ALL_EG_EGY_CLEAN,EG.EGY.CLEAN,Access to clean fuels and technologies for cooking  (% of population),Percentage,_T,_T,_T,_Z,A,2022,48.9,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1990,8.3,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1990,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1990,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1991,8.4,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1991,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1991,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1992,8.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1992,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1992,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1993,8.7,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1993,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1993,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1994,8.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1994,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1994,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1995,8.9,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1995,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1995,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1996,9.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1996,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1996,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1997,9.2,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1997,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1997,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1998,9.4,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1998,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1998,0.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,1999,9.5,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,1999,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,1999,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2000,9.7,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2000,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2000,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2001,9.9,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2001,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2001,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2002,10.2,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2002,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2002,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2003,10.4,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2003,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2003,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2004,10.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2004,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2004,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2005,10.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2005,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2005,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2006,11.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2006,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2006,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2007,11.3,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2007,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2007,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2008,11.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2008,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2008,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2009,11.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2009,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2009,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2010,12.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2010,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2010,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2011,12.3,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2011,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2011,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2012,12.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2012,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2012,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2013,12.9,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2013,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2013,0.2,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2014,13.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2014,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2014,0.2,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2015,13.4,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2015,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2015,0.5,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2016,13.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2016,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2016,0.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2017,13.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2017,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2017,0.5,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2018,14.1,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2018,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2018,0.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2019,14.3,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2019,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2019,0.9,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2020,14.6,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2020,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2020,1.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_HEATRSNG,A,2021,14.8,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_TRNSPRT,A,2021,0.0,A,0
+WB_SE4ALL_EG_FCON_RNEW,EG.FCON.RNEW,Final consumption of renewable energy (PJ),PetaJoules (PJ),_T,_T,_T,WB_SE4ALL_TYPE_ELEC_CONSP,A,2021,1.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1990,47.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1990,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1991,46.7,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1991,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1992,46.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1992,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1993,46.1,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1993,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1994,45.5,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1994,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1995,45.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1995,0.5,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1996,43.9,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1996,0.5,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1997,43.8,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1997,0.5,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1998,46.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1998,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,1999,43.9,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,1999,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2000,44.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2000,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2001,44.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2001,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2002,42.1,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2002,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2003,40.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2003,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2004,38.6,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2004,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2005,38.8,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2005,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2006,39.1,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2006,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2007,35.6,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2007,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2008,35.8,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2008,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2009,33.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2009,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2010,34.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2010,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2011,33.3,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2011,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2012,31.9,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2012,0.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2013,35.1,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2013,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2014,31.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2014,0.4,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2015,28.3,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2015,1.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2016,31.7,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2016,1.3,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2017,25.5,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2017,1.0,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2018,21.6,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2018,1.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2019,21.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2019,1.2,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2020,20.9,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2020,1.3,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_RENEWBLS,A,2021,22.1,A,0
+WB_SE4ALL_EG_FEC_RNEW,EG.FEC.RNEW,Share in total final energy consumption (%),Percentage,_T,_T,_T,WB_SE4ALL_TYPE_MDRNRENWBLS,A,2021,1.4,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1990,17.9,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1991,18.3,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1992,18.7,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1993,19.0,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1994,19.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1995,19.9,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1996,20.8,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1997,21.1,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1998,20.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,1999,21.7,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2000,21.9,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2001,22.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2002,24.1,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2003,25.8,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2004,27.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2005,27.9,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2006,28.3,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2007,31.8,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2008,32.3,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2009,35.3,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2010,35.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2011,37.0,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2012,39.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2013,37.2,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2014,42.9,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2015,49.1,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2016,44.7,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2017,56.5,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2018,69.2,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2019,71.6,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2020,74.3,A,0
+WB_SE4ALL_EG_FEC_TOT,EG.FEC.TOT,Total final energy consumption (PJ),PetaJoules (PJ),_T,_T,_T,_Z,A,2021,71.6,A,0
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2000,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2001,0.21,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2001,0.21,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2001,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2002,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2003,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2004,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2005,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2006,26.51,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2006,26.51,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2006,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2007,0.08,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2007,0.08,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2007,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2008,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2009,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2010,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2011,0.01,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2011,0.01,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2011,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2012,73.93,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2012,73.93,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2012,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2013,230.84,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2013,155.63,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2013,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2013,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2013,24.76,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2013,50.45,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2014,6.6,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2014,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2014,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2014,1.37,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2014,0.13,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2014,5.1,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2015,0.13,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2015,0.13,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2015,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2016,195.17,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2016,0.3,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2016,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2016,57.06,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2016,5.64,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2016,132.18,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2017,20.16,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2017,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2017,20.16,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2018,0.76,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2018,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2018,0.01,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2018,0.75,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2018,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2019,13.66,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2019,13.66,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2019,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2020,30.28,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2020,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2020,30.18,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2020,0.1,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2020,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2021,0.02,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2021,0.02,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2021,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_ALLRENEW,A,2022,13.02,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_BIOENRGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_GEOTHRMLENRGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_HYDPWR,A,2022,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MRERGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_MLTREWBLS,A,2022,0.0,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_SLRERGY,A,2022,13.02,A,6
+WB_SE4ALL_EG_INFLW_IC,EG.INFLW.IC,"International financial flows to developing countries in support of clean energy, International Commitments (2020 USD millions)",US dollars,_T,_T,_T,WB_SE4ALL_RENEWSRC_WNDERGY,A,2022,0.0,A,6
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2000,2.55,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2001,2.67,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2002,2.79,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2003,2.69,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2004,2.71,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2005,2.59,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2006,2.2,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2007,2.44,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2008,2.6,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2009,2.79,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2010,2.81,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2011,2.81,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2012,2.87,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2013,2.58,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2014,2.81,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2015,3.0,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2016,2.73,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2017,3.22,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2018,3.72,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2019,3.66,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2020,3.78,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2021,3.54,A,0
+WB_SE4ALL_EG_INT_LVL,EG.INT.LVL,Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP),"Megajoules per unit of GDP, 2017 constant PPP",_T,_T,_T,_Z,A,2022,3.74,A,0

@@ -1,0 +1,104 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_EN_POP_DNST,EN.POP.DNST,Population density (people per sq. km of land area),people per square kilometer of land area,Annual,,Food and Agriculture Organization of the United Nations (FAO); FAO population estimates,CC BY 4.0,64,1961,2024
+WB_WDI_EN_URB_LCTY,EN.URB.LCTY,Population in largest city,people,Annual,,United Nations (UN); World Urbanization Prospects 2018,CC BY 4.0,66,1960,2025
+WB_WDI_EN_URB_LCTY_UR_ZS,EN.URB.LCTY.UR.ZS,Population in the largest city (% of urban population),% (share) of urban population,Annual,,United Nations (UN); World Urbanization Prospects 2018,CC BY 4.0,66,1960,2025
+WB_WDI_EN_URB_MCTY,EN.URB.MCTY,Population in urban agglomerations of more than 1 million,people,Annual,,United Nations (UN); World Urbanization Prospects 2018,CC BY 4.0,66,1960,2025
+WB_WDI_EN_URB_MCTY_TL_ZS,EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),% (share) of population,Annual,,United Nations (UN); World Urbanization Prospects 2018,CC BY 4.0,66,1960,2025
+WB_WDI_SM_POP_ASYS_EA,SM.POP.ASYS.EA,Asylum-seekers by country or territory of asylum,Number,Annual,,UN High Commissioner for Refugees (UNHCR); Refugee Population Statistics Database,CC BY 4.0,26,2000,2025
+WB_WDI_SM_POP_ASYS_EO,SM.POP.ASYS.EO,Asylum-seekers by country or territory of origin,Number,Annual,,UN High Commissioner for Refugees (UNHCR); Refugee Population Statistics Database,CC BY 4.0,26,2000,2025
+WB_WDI_SM_POP_FDIP,SM.POP.FDIP,Forcibly displaced people,Number,Annual,,UN High Commissioner for Refugees (UNHCR); Refugee Population Statistics Database,CC BY 4.0,16,2010,2025
+WB_WDI_SM_POP_NETM,SM.POP.NETM,Net migration,Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SM_POP_RHCR_EA,SM.POP.RHCR.EA,Refugees under the mandate of the UNHCR by country or territory of asylum,Number,Annual,,UN High Commissioner for Refugees (UNHCR); Refugee Population Statistics Database,CC BY 4.0,38,1987,2025
+WB_WDI_SM_POP_RHCR_EO,SM.POP.RHCR.EO,Refugees under the mandate of the UNHCR by country or territory of origin,Number,Annual,,UN High Commissioner for Refugees (UNHCR); Refugee Population Statistics Database,CC BY 4.0,37,1989,2025
+WB_WDI_SM_POP_TOTL,SM.POP.TOTL,"International migrant stock, total",,Annual,,United Nations (UN); International Migrant Stock,CC BY 4.0,8,1990,2024
+WB_WDI_SM_POP_TOTL_ZS,SM.POP.TOTL.ZS,International migrant stock (% of population),,Annual,,United Nations (UN); International Migrant Stock,CC BY 4.0,8,1990,2024
+WB_WDI_SP_DYN_AMRT_FE,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",Per 1000 female adults,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_AMRT_MA,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",Per 1000 male adults,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_CBRT_IN,SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)",Per 1000 people,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_CDRT_IN,SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)",Per 1000 people,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_CONM_ZS,SP.DYN.CONM.ZS,"Contraceptive prevalence, any modern method (% of married women ages 15-49)",,Annual,,United Nations (UN); Household surveys,CC BY 4.0,7,1981,2021
+WB_WDI_SP_DYN_CONU_ZS,SP.DYN.CONU.ZS,"Contraceptive prevalence, any method (% of married women ages 15-49)",,Annual,,United Nations (UN); Household surveys,CC BY 4.0,7,1981,2021
+WB_WDI_SP_DYN_IMRT_FE_IN,SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)",Per 1000 live births,Annual,,UN Children's Fund (UNICEF); UN Inter-agency Group for Child Mortality Estimation,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_IMRT_IN,SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",Per 1000 live births,Annual,,UN Children's Fund (UNICEF); UN Inter-agency Group for Child Mortality Estimation,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_IMRT_MA_IN,SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)",Per 1000 live births,Annual,,UN Children's Fund (UNICEF); UN Inter-agency Group for Child Mortality Estimation,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_LE00_FE_IN,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",Years,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_LE00_IN,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",Years,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_LE00_MA_IN,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",Years,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_TFRT_IN,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",Births per woman,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_TO65_FE_ZS,SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_TO65_MA_ZS,SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_DYN_WFRT,SP.DYN.WFRT,Wanted fertility rate (births per woman),Births per woman,Annual,,Demographic and Health Surveys,CC BY 4.0,2,2001,2021
+WB_WDI_SP_HOU_FEMA_ZS,SP.HOU.FEMA.ZS,Female headed households (% of households),% of households,Annual,,Demographic and Health Surveys (DHS) Program; DHS API,CC BY 4.0,2,2001,2021
+WB_WDI_SP_POP_0004_FE_5Y,SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0004_MA_5Y,SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_FE_IN,SP.POP.0014.FE.IN,"Population ages 0-14, female",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_FE_ZS,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_MA_IN,SP.POP.0014.MA.IN,"Population ages 0-14, male",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_MA_ZS,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_TO,SP.POP.0014.TO,"Population ages 0-14, total",Unit,Annual,,World Bank (WB); Staff estimates,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0014_TO_ZS,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population),Percentage,Annual,,United Nations Population Division; United Nations Population Division. World Population Prospects.,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0509_FE_5Y,SP.POP.0509.FE.5Y,"Population ages 05-09, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_0509_MA_5Y,SP.POP.0509.MA.5Y,"Population ages 05-09, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1014_FE_5Y,SP.POP.1014.FE.5Y,"Population ages 10-14, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1014_MA_5Y,SP.POP.1014.MA.5Y,"Population ages 10-14, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1519_FE_5Y,SP.POP.1519.FE.5Y,"Population ages 15-19, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1519_MA_5Y,SP.POP.1519.MA.5Y,"Population ages 15-19, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_FE_IN,SP.POP.1564.FE.IN,"Population ages 15-64, female",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_FE_ZS,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_MA_IN,SP.POP.1564.MA.IN,"Population ages 15-64, male",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_MA_ZS,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_TO,SP.POP.1564.TO,"Population ages 15-64, total",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_1564_TO_ZS,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population),Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_2024_FE_5Y,SP.POP.2024.FE.5Y,"Population ages 20-24, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_2024_MA_5Y,SP.POP.2024.MA.5Y,"Population ages 20-24, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_2529_FE_5Y,SP.POP.2529.FE.5Y,"Population ages 25-29, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_2529_MA_5Y,SP.POP.2529.MA.5Y,"Population ages 25-29, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_3034_FE_5Y,SP.POP.3034.FE.5Y,"Population ages 30-34, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_3034_MA_5Y,SP.POP.3034.MA.5Y,"Population ages 30-34, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_3539_FE_5Y,SP.POP.3539.FE.5Y,"Population ages 35-39, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_3539_MA_5Y,SP.POP.3539.MA.5Y,"Population ages 35-39, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_4044_FE_5Y,SP.POP.4044.FE.5Y,"Population ages 40-44, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_4044_MA_5Y,SP.POP.4044.MA.5Y,"Population ages 40-44, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_4549_FE_5Y,SP.POP.4549.FE.5Y,"Population ages 45-49, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_4549_MA_5Y,SP.POP.4549.MA.5Y,"Population ages 45-49, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_5054_FE_5Y,SP.POP.5054.FE.5Y,"Population ages 50-54, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_5054_MA_5Y,SP.POP.5054.MA.5Y,"Population ages 50-54, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_5559_FE_5Y,SP.POP.5559.FE.5Y,"Population ages 55-59, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_5559_MA_5Y,SP.POP.5559.MA.5Y,"Population ages 55-59, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_6064_FE_5Y,SP.POP.6064.FE.5Y,"Population ages 60-64, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_6064_MA_5Y,SP.POP.6064.MA.5Y,"Population ages 60-64, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_6569_FE_5Y,SP.POP.6569.FE.5Y,"Population ages 65-69, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_6569_MA_5Y,SP.POP.6569.MA.5Y,"Population ages 65-69, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_FE_IN,SP.POP.65UP.FE.IN,"Population ages 65 and above, female",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_FE_ZS,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_MA_IN,SP.POP.65UP.MA.IN,"Population ages 65 and above, male",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_MA_ZS,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_TO,SP.POP.65UP.TO,"Population ages 65 and above, total",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_65UP_TO_ZS,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_7074_FE_5Y,SP.POP.7074.FE.5Y,"Population ages 70-74, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_7074_MA_5Y,SP.POP.7074.MA.5Y,"Population ages 70-74, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_7579_FE_5Y,SP.POP.7579.FE.5Y,"Population ages 75-79, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_7579_MA_5Y,SP.POP.7579.MA.5Y,"Population ages 75-79, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_80UP_FE_5Y,SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_80UP_MA_5Y,SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_BRTH_MF,SP.POP.BRTH.MF,Sex ratio at birth (male births per female births),Male births per female births,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1960,2024
+WB_WDI_SP_POP_DPND,SP.POP.DPND,Age dependency ratio (% of working-age population),Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_DPND_OL,SP.POP.DPND.OL,"Age dependency ratio, old (% of working-age population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_DPND_YG,SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_GROW,SP.POP.GROW,Population growth (annual %),Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,65,1961,2025
+WB_WDI_SP_POP_TOTL,SP.POP.TOTL,"Population, total",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_TOTL_FE_IN,SP.POP.TOTL.FE.IN,"Population, female",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_TOTL_FE_ZS,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_TOTL_MA_IN,SP.POP.TOTL.MA.IN,"Population, male",Unit,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_POP_TOTL_MA_ZS,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)",Percentage,Annual,,United Nations (UN); World Population Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_REG_BRTH_FE_ZS,SP.REG.BRTH.FE.ZS,"Completeness of birth registration, female (%)",,Annual,,UN Children's Fund (UNICEF); Household surveys,CC BY 4.0,2,2015,2021
+WB_WDI_SP_REG_BRTH_MA_ZS,SP.REG.BRTH.MA.ZS,"Completeness of birth registration, male (%)",,Annual,,UN Children's Fund (UNICEF); Household surveys,CC BY 4.0,2,2015,2021
+WB_WDI_SP_REG_BRTH_RU_ZS,SP.REG.BRTH.RU.ZS,"Completeness of birth registration, rural (%)",,Annual,,UN Children's Fund (UNICEF); Household surveys,CC BY 4.0,4,2007,2021
+WB_WDI_SP_REG_BRTH_UR_ZS,SP.REG.BRTH.UR.ZS,"Completeness of birth registration, urban (%)",,Annual,,UN Children's Fund (UNICEF); Household surveys,CC BY 4.0,4,2007,2021
+WB_WDI_SP_REG_BRTH_ZS,SP.REG.BRTH.ZS,Completeness of birth registration (%),,Annual,,UN Children's Fund (UNICEF); Household surveys,CC BY 4.0,4,2007,2021
+WB_WDI_SP_RUR_TOTL,SP.RUR.TOTL,Rural population,Unit,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_RUR_TOTL_ZG,SP.RUR.TOTL.ZG,Rural population growth (annual %),Percentage,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,65,1961,2025
+WB_WDI_SP_RUR_TOTL_ZS,SP.RUR.TOTL.ZS,Rural population (% of total population),Percentage,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_URB_GROW,SP.URB.GROW,Urban population growth (annual %),Percentage,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,65,1961,2025
+WB_WDI_SP_URB_TOTL,SP.URB.TOTL,Urban population,Unit,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,66,1960,2025
+WB_WDI_SP_URB_TOTL_IN_ZS,SP.URB.TOTL.IN.ZS,Urban population (% of total population),Percentage,Annual,,United Nations (UN); World Urbanization Prospects,CC BY 4.0,66,1960,2025

@@ -1,0 +1,2 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_EN_POP_SLUM_UR_ZS,EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),% (share) of urban population,Annual,,UN Human Settlements Programme (UN-Habitat); Urban Indicators Database,CC BY 4.0,12,2000,2022

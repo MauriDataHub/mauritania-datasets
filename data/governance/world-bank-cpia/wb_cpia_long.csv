@@ -1,0 +1,442 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,comp_breakdown_1,freq,time_period,value,obs_status
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2005,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2005,2.833333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2005,2.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2005,2.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2006,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2006,3.333333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2006,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2006,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2007,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2007,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2007,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2007,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2008,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2008,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2008,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2008,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2009,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2009,3.166667,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2009,2.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2009,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2010,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2010,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2010,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2010,3.333333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2011,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2011,3.333333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2011,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2011,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2012,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2012,3.333333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2012,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2012,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2013,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2013,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2013,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2013,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2014,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2014,3.666667,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2014,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2014,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2015,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2015,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2015,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2015,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2016,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2016,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2016,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2016,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2017,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2017,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2017,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2017,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2018,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2018,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2018,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2018,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2019,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2019,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2019,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2019,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2020,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2020,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2020,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2020,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2021,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2021,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2021,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2021,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2022,3.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2022,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2022,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2022,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2023,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2023,3.833333,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2023,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2023,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2024,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2024,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2024,4.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2024,4.0,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_DEBT,A,2025,3.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,_T,A,2025,4.166667,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_FISP,A,2025,4.5,A
+IQ_CPA_ECON_XQ,IQ_CPA_ECON_XQ,Country Policy and Institutional Assessment (CPIA) Cluster A Rating: Economic Management,1-6 scale,_Z,_Z,_Z,CPA_MACR,A,2025,4.5,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2005,3.158333,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2006,3.283333,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2007,3.375,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2008,3.3,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2009,3.225,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2010,3.175,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2011,3.2,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2012,3.225,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2013,3.291667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2014,3.383333,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2015,3.316667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2016,3.366667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2017,3.391667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2018,3.366667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2019,3.366667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2020,3.341667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2021,3.391667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2022,3.391667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2023,3.566667,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2024,3.583333,A
+IQ_CPA_IRAI_XQ,IQ_CPA_IRAI_XQ,International Development Association (IDA) Resource Allocation Overall Rating,1-6 scale,_Z,_Z,_Z,_T,A,2025,3.65,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2005,2.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2005,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2005,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2005,2.9,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2005,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2005,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2006,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2006,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2006,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2006,2.9,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2006,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2006,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2007,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2007,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2007,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2007,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2007,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2007,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2008,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2008,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2008,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2008,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2008,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2008,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2009,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2009,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2009,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2009,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2009,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2009,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2010,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2010,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2010,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2010,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2010,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2010,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2011,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2011,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2011,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2011,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2011,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2011,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2012,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2012,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2012,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2012,3.1,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2012,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2012,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2013,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2013,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2013,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2013,3.1,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2013,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2013,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2014,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2014,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2014,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2014,3.2,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2014,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2014,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2015,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2015,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2015,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2015,3.2,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2015,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2015,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2016,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2016,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2016,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2016,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2016,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2016,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2017,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2017,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2017,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2017,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2017,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2017,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2018,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2018,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2018,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2018,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2018,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2018,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2019,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2019,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2019,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2019,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2019,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2019,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2020,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2020,2.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2020,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2020,3.2,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2020,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2020,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2021,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2021,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2021,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2021,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2021,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2021,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2022,3.5,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2022,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2022,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2022,3.3,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2022,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2022,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2023,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2023,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2023,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2023,3.4,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2023,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2023,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2024,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2024,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2024,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2024,3.4,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2024,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2024,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_FINQ,A,2025,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PADM,A,2025,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_PROP,A,2025,3.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,_T,A,2025,3.4,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_REVN,A,2025,4.0,A
+IQ_CPA_PUBS_XQ,IQ_CPA_PUBS_XQ,Country Policy and Institutional Assessment (CPIA) Cluster D Rating: Public Sector Management and Institutions,1-6 scale,_Z,_Z,_Z,CPA_TRAN,A,2025,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2005,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2005,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2005,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2005,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2005,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2005,3.4,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2006,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2006,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2006,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2006,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2006,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2006,3.4,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2007,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2007,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2007,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2007,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2007,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2007,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2008,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2008,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2008,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2008,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2008,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2008,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2009,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2009,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2009,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2009,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2009,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2009,3.4,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2010,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2010,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2010,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2010,2.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2010,3.2,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2010,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2011,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2011,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2011,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2011,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2011,2.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2011,3.3,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2012,2.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2012,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2012,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2012,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2012,2.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2012,3.3,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2013,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2013,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2013,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2013,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2013,2.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2013,3.4,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2014,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2014,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2014,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2014,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2014,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2014,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2015,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2015,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2015,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2015,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2015,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2015,3.4,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2016,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2016,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2016,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2016,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2016,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2016,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2017,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2017,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2017,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2017,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2017,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2017,3.6,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2018,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2018,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2018,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2018,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2018,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2018,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2019,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2019,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2019,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2019,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2019,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2019,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2020,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2020,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2020,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2020,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2020,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2020,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2021,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2021,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2021,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2021,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2021,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2021,3.6,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2022,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2022,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2022,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2022,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2022,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2022,3.6,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2023,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2023,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2023,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2023,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2023,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2023,3.7,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2024,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2024,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2024,4.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2024,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2024,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2024,3.6,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_ENVR,A,2025,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_GNDR,A,2025,3.0,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_HRES,A,2025,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PRES,A,2025,4.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,CPA_PROT,A,2025,3.5,A
+IQ_CPA_SOCI_XQ,IQ_CPA_SOCI_XQ,Country Policy and Institutional Assessment (CPIA) Cluster C Rating: Policies for Social Inclusion and Equity,1-6 scale,_Z,_Z,_Z,_T,A,2025,3.7,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2005,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2005,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2005,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2005,4.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2006,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2006,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2006,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2006,4.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2007,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2007,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2007,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2007,4.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2008,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2008,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2008,3.3,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2008,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2009,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2009,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2009,3.333333,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2009,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2010,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2010,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2010,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2010,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2011,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2011,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2011,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2011,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2012,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2012,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2012,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2012,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2013,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2013,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2013,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2013,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2014,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2014,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2014,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2014,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2015,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2015,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2015,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2015,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2016,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2016,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2016,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2016,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2017,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2017,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2017,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2017,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2018,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2018,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2018,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2018,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2019,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2019,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2019,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2019,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2020,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2020,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2020,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2020,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2021,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2021,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2021,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2021,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2022,3.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2022,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2022,3.166667,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2022,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2023,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2023,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2023,3.333333,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2023,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2024,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2024,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2024,3.333333,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2024,4.0,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_BREG,A,2025,3.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_FINS,A,2025,2.5,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,_T,A,2025,3.333333,A
+IQ_CPA_STRC_XQ,IQ_CPA_STRC_XQ,Country Policy and Institutional Assessment (CPIA) Cluster B Rating: Structural Policies,1-6 scale,_Z,_Z,_Z,CPA_TRAD,A,2025,4.0,A

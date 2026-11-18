@@ -1,0 +1,1449 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+2001,MRT,AUS,Mauritania,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,0,0,0,0,0,0,0,33,33,33
+2001,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+2001,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2001,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2001,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2001,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,287,287,0,0,0,0,0,1514,1514,1801
+2001,MRT,GAB,Mauritania,Gabon,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+2001,MRT,GAB,Mauritania,Gabon,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2001,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2001,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,MRT,MLI,Mauritania,Mali,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+2001,MRT,MLI,Mauritania,Mali,REF,Kayes,C,U,802,622,535,571,90,0,2620,324,990,849,1208,126,0,3497,6117
+2001,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2001,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180
+2001,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,186
+2001,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,5,10,8,74,0,0,97,8,15,12,165,0,0,200,297
+2001,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,217,278,239,308,54,0,1096,145,185,159,206,36,0,731,1827
+2001,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,229,292,250,323,57,0,1151,153,194,167,216,38,0,768,1919
+2001,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,949,1222,1048,1358,240,0,4817,638,815,699,906,160,0,3218,8035
+2001,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,942,1220,1045,1355,239,0,4801,628,813,696,904,160,0,3201,8002
+2001,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2001,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,R,U,0,0,0,0,0,0,0,0,9,9,30,0,0,48,48
+2001,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1739
+2001,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1833
+2002,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2002,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2002,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2002,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2002,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2002,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,362,362,0,0,0,0,0,1781,1781,2143
+2002,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,16,0,0,16,16
+2002,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,44,0,0,44,44
+2002,MRT,GAB,Mauritania,Gabon,REF,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2002,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2002,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2002,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+2002,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2002,MRT,MLI,Mauritania,Mali,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+2002,MRT,MLI,Mauritania,Mali,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2002,MRT,MLI,Mauritania,Mali,REF,Kayes,R,U,802,622,534,572,90,0,2620,324,990,848,1207,126,0,3495,6115
+2002,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2002,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134
+2002,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193
+2002,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,217,278,239,308,54,0,1096,145,185,159,206,36,0,731,1827
+2002,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,229,292,250,323,57,0,1151,153,194,167,216,38,0,768,1919
+2002,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,949,1222,1048,1358,240,0,4817,638,815,699,905,160,0,3217,8034
+2002,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,942,1220,1045,1355,239,0,4801,628,810,694,904,160,0,3196,7997
+2002,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2002,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2002,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,R,U,0,0,0,5,0,0,5,0,0,0,42,0,0,42,47
+2002,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2479
+2002,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1687
+2003,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,R,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2003,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2003,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2003,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2003,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2003,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2003,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,R,U,0,0,0,0,0,427,427,0,0,0,0,0,2336,2336,2763
+2003,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2003,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2003,MRT,GAB,Mauritania,Gabon,REF,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2003,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,5,0,0,0,0,5,0,0,0,17,0,0,17,22
+2003,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2003,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2003,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2003,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2003,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2003,MRT,IRL,Mauritania,Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,0,9,7,21,5,0,42,7,10,9,30,5,0,61,103
+2003,MRT,MLI,Mauritania,Mali,REF,Kayes,R,U,817,622,534,571,90,0,2634,344,990,848,1206,126,0,3514,6148
+2003,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2003,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2003,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,201
+2003,MRT,SEN,Mauritania,Senegal,ASY,Dakar,C,U,9,6,6,23,0,0,44,8,9,8,35,0,0,60,104
+2003,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,217,278,239,308,54,0,1096,145,185,159,206,36,0,731,1827
+2003,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,229,292,250,323,57,0,1151,153,194,167,216,38,0,768,1919
+2003,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,949,1222,1048,1358,240,0,4817,638,815,699,905,160,0,3217,8034
+2003,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,942,1220,1045,1355,239,0,4801,628,810,694,904,160,0,3196,7997
+2003,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2003,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2003,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2003,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2377
+2003,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1415
+2004,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,R,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46
+2004,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2004,MRT,BEN,Mauritania,Benin,ASY,Cotonou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2004,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97
+2004,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69
+2004,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2004,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3391
+2004,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,17,0,0,17,17
+2004,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2004,MRT,GAB,Mauritania,Gabon,REF,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2004,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,5,0,0,0,0,5,0,0,0,16,0,0,16,21
+2004,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2004,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2004,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2004,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2004,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2004,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,5,5,19,0,0,34,5,6,5,28,0,0,44,78
+2004,MRT,MLI,Mauritania,Mali,REF,Kayes,R,U,819,628,538,571,90,0,2646,349,995,853,1216,126,0,3539,6185
+2004,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2004,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,189
+2004,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,0,5,15,0,0,20,0,6,0,43,0,0,49,69
+2004,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,217,278,239,308,54,0,1096,145,185,159,207,36,0,732,1828
+2004,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,229,292,250,323,57,0,1151,153,194,167,216,38,0,768,1919
+2004,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,949,1222,1048,1358,240,0,4817,638,815,699,905,160,0,3217,8034
+2004,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,942,1220,1045,1355,239,0,4801,628,810,694,904,160,0,3196,7997
+2004,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2004,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2004,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2004,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2115
+2004,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1300
+2005,MRT,AGO,Mauritania,Angola,REF,Luanda,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2005,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,428
+2005,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52
+2005,MRT,BEN,Mauritania,Benin,ASY,Cotonou,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,BRA,Mauritania,Brazil,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2005,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,5,0,12,0,0,17,5,0,5,55,0,0,65,82
+2005,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129
+2005,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2005,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,576,576,0,0,0,0,0,3195,3195,3771
+2005,MRT,GAB,Mauritania,Gabon,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2005,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,GAB,Mauritania,Gabon,REF,Lambarené,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,5,0,0,0,0,5,0,0,0,12,0,0,12,17
+2005,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2005,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2005,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2005,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2005,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,6,5,35,0,0,51,6,10,8,43,0,0,67,118
+2005,MRT,MLI,Mauritania,Mali,REF,Kayes,R,U,819,622,534,571,90,0,2636,349,989,848,1217,126,0,3529,6165
+2005,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2005,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175
+2005,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,0,5,15,0,0,20,0,0,5,34,0,0,39,59
+2005,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,217,278,239,308,54,0,1096,145,185,159,207,36,0,732,1828
+2005,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,229,292,250,323,57,0,1151,153,194,167,217,38,0,769,1920
+2005,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,946,1212,1039,1341,240,0,4778,636,807,691,895,160,0,3189,7967
+2005,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,942,1220,1045,1355,239,0,4801,628,810,694,904,160,0,3196,7997
+2005,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2005,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2005,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2005,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,SYR,Mauritania,Syrian Arab Republic,ASY,Damascus,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MRT,TUR,Mauritania,Türkiye,ASY,Eskisehir,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,MRT,TUR,Mauritania,Türkiye,ASY,Hatay,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1470
+2005,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1483
+2006,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2006,MRT,AGO,Mauritania,Angola,REF,Luanda,U,U,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2006,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2006,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294
+2006,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,14,14,0,0,0,0,0,78,78,92
+2006,MRT,BFA,Mauritania,Burkina Faso,ASY,Ouagadougou,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2006,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,25,25,30
+2006,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,229
+2006,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2006,MRT,CYP,Mauritania,Cyprus,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,DNK,Mauritania,Denmark,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,629,629,0,0,0,0,0,3275,3275,3904
+2006,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2006,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2006,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,6,0,0,0,0,6,0,0,0,8,0,0,8,14
+2006,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2006,MRT,GRC,Mauritania,Greece,ASY,Athens,U,U,0,0,0,0,0,0,0,0,0,0,25,0,0,25,25
+2006,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2006,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,6,9,37,0,0,57,6,14,5,47,0,0,72,129
+2006,MRT,MLI,Mauritania,Mali,REF,Kayes,U,U,819,731,425,571,90,0,2636,349,623,1214,1217,126,0,3529,6165
+2006,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,140
+2006,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,5,0,17,0,0,22,0,0,5,32,0,0,37,59
+2006,MRT,SEN,Mauritania,Senegal,REF,Bakel,C,U,217,238,279,308,54,0,1096,145,212,132,199,36,0,724,1820
+2006,MRT,SEN,Mauritania,Senegal,REF,Dagana,C,U,228,169,371,314,57,0,1139,153,156,204,217,38,0,768,1907
+2006,MRT,SEN,Mauritania,Senegal,REF,Matam,C,U,946,1139,1112,1331,240,0,4768,636,756,732,890,160,0,3174,7942
+2006,MRT,SEN,Mauritania,Senegal,REF,Podor,C,U,940,1435,819,1345,239,0,4778,624,982,517,900,160,0,3183,7961
+2006,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2006,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2006,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2006,MRT,TUR,Mauritania,Türkiye,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2006,MRT,TUR,Mauritania,Türkiye,ASY,Istanbul,U,U,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2006,MRT,TUR,Mauritania,Türkiye,ASY,Konya,U,U,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2006,MRT,UKR,Mauritania,Ukraine,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1085
+2006,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3131
+2007,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2007,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2007,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2007,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,12,12,0,0,0,0,0,59,59,71
+2007,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2007,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,5,17,0,0,22,27
+2007,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,231
+2007,MRT,COG,Mauritania,Congo,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2007,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,681,681,0,0,0,0,0,3327,3327,4008
+2007,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2007,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2007,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,5,0,0,0,0,5,0,0,0,13,0,0,13,18
+2007,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2007,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2007,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2007,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2007,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2007,MRT,ISR,Mauritania,Israel,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2007,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,6,9,37,0,0,57,6,14,5,46,0,0,71,128
+2007,MRT,MLI,Mauritania,Mali,REF,Kayes,U,U,819,731,425,571,90,0,2636,349,623,1214,1217,126,0,3529,6165
+2007,MRT,MAR,Mauritania,Morocco,REF,Rabat,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2007,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93
+2007,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2007,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,7,0,17,0,0,24,0,0,5,29,0,0,34,58
+2007,MRT,SEN,Mauritania,Senegal,REF,Bakel,C,U,217,228,279,308,54,0,1086,145,212,132,199,36,0,724,1810
+2007,MRT,SEN,Mauritania,Senegal,REF,Dagana,C,U,228,169,371,314,57,0,1139,153,154,204,217,38,0,766,1905
+2007,MRT,SEN,Mauritania,Senegal,REF,Matam,C,U,935,1129,1112,1322,240,0,4738,633,750,732,885,160,0,3160,7898
+2007,MRT,SEN,Mauritania,Senegal,REF,Podor,C,U,940,1425,819,1325,239,0,4748,624,972,517,870,159,0,3142,7890
+2007,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2007,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2007,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,MRT,TUR,Mauritania,Türkiye,ASY,Hatay,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2007,MRT,TUR,Mauritania,Türkiye,ASY,Istanbul,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2007,MRT,TUR,Mauritania,Türkiye,ASY,Izmir,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2007,MRT,TUR,Mauritania,Türkiye,ASY,Konya,U,U,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2007,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,626
+2007,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2870
+2008,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2008,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2008,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2008,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,14,14,0,0,0,0,0,62,62,76
+2008,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2008,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,0,26,0,0,26,31
+2008,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,254
+2008,MRT,CMR,Mauritania,Cameroon,REF,Yaoundé,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,MRT,COG,Mauritania,Congo,ASY,Brazzaville/Point-Noire,U,U,0,0,0,0,0,0,0,0,0,0,29,5,0,34,34
+2008,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,749,749,0,0,0,0,0,3376,3376,4125
+2008,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2008,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2008,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,0,5,0,0,0,5,0,0,0,13,0,0,13,18
+2008,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2008,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2008,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2008,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2008,MRT,ISR,Mauritania,Israel,ASY,Tel Aviv,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44
+2008,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,802,878,451,1504,149,0,3784,780,813,368,1141,150,0,3252,7036
+2008,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,6,9,37,0,0,57,6,14,5,50,0,0,75,132
+2008,MRT,MLI,Mauritania,Mali,REF,Kayes,U,U,819,730,425,568,90,0,2632,349,623,1212,1215,126,0,3525,6157
+2008,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+2008,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2008,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,7,0,17,0,0,24,0,0,5,33,0,0,38,62
+2008,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,U,496,588,441,975,221,0,2721,424,572,293,869,203,0,2361,5082
+2008,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,U,379,471,681,1169,240,0,2940,302,480,473,1005,197,0,2457,5397
+2008,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies,R,U,38,52,45,161,26,0,322,26,161,45,52,39,0,323,645
+2008,MRT,SEN,Mauritania,Senegal,REF,Matam,R,U,1240,1648,1460,2397,462,0,7207,719,1155,895,2032,357,0,5158,12365
+2008,MRT,SEN,Mauritania,Senegal,REF,Podor,R,U,791,1053,890,1572,367,0,4673,710,1108,560,1421,331,0,4130,8803
+2008,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2008,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2008,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,5,16,0,0,21,21
+2008,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,MRT,TUR,Mauritania,Türkiye,ASY,Eskisehir,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2008,MRT,TUR,Mauritania,Türkiye,ASY,Izmir,U,U,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2008,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,373
+2008,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2428
+2009,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,U,0,0,0,0,0,0,0,0,0,0,0,0,74,74,74
+2009,MRT,AGO,Mauritania,Angola,ASY,Lunda Sul,U,U,0,0,0,0,0,0,0,0,0,0,0,0,35,35,35
+2009,MRT,AGO,Mauritania,Angola,REF,Luanda,U,U,0,0,0,0,0,5,5,0,0,0,0,0,48,48,53
+2009,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,U,0,0,0,0,0,0,0,0,0,0,0,0,11,11,11
+2009,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2009,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,MRT,BDI,Mauritania,Burundi,ASY,Bujumbura,U,U,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2009,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,17,17,0,0,0,0,0,99,99,116
+2009,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,MRT,CAN,Mauritania,Canada,ASY,Canada,U,U,0,0,0,12,0,0,12,0,0,0,32,0,0,32,44
+2009,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268
+2009,MRT,CMR,Mauritania,Cameroon,REF,Yaounde,U,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2009,MRT,COG,Mauritania,Congo,ASY,Brazzaville/Point Noire,U,U,0,0,0,0,0,0,0,0,0,0,31,0,0,31,31
+2009,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4393
+2009,MRT,GAB,Mauritania,Gabon,ASY,Franceville,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2009,MRT,GAB,Mauritania,Gabon,ASY,Libreville,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2009,MRT,GAB,Mauritania,Gabon,REF,Libreville,U,U,0,0,5,0,0,0,5,0,0,0,10,0,0,10,15
+2009,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2009,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,5,6,0,0,11,5,0,0,31,0,0,36,47
+2009,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,MRT,ISR,Mauritania,Israel,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75
+2009,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12012
+2009,MRT,MLI,Mauritania,Mali,ASY,Bamako,U,U,5,6,8,37,0,0,56,6,12,5,53,0,0,76,132
+2009,MRT,MLI,Mauritania,Mali,REF,Kayes,R,U,797,1400,686,2026,144,0,5053,864,1457,698,2192,218,0,5429,10482
+2009,MRT,MLT,Mauritania,Malta,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62
+2009,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44
+2009,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,7,0,18,0,0,25,0,0,5,34,0,0,39,64
+2009,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies,U,U,50,73,57,173,5,0,358,50,86,50,240,17,0,443,801
+2009,MRT,SEN,Mauritania,Senegal,REF,Ourossogui,R,U,1082,1046,1019,2769,274,0,6190,1175,815,1205,2365,281,0,5841,12031
+2009,MRT,SEN,Mauritania,Senegal,REF,Richard Toll,R,U,550,1024,725,1893,201,0,4393,650,739,594,1984,185,0,4152,8545
+2009,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2009,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2009,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2009,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,0,12,0,0,12,17
+2009,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,MRT,SYR,Mauritania,Syrian Arab Republic,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2009,MRT,TUR,Mauritania,Türkiye,ASY,Izmir,U,U,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2009,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,368
+2009,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2167
+2010,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,U,0,0,0,0,0,0,0,0,0,0,0,0,55,55,55
+2010,MRT,AGO,Mauritania,Angola,ASY,Lunda Sul,V,U,0,0,0,0,0,0,0,0,0,0,0,0,35,35,35
+2010,MRT,AGO,Mauritania,Angola,REF,Luanda,U,U,0,0,0,0,0,13,13,0,0,0,0,0,59,59,72
+2010,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,V,U,0,0,0,0,0,0,0,0,0,0,0,0,11,11,11
+2010,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2010,MRT,BDI,Mauritania,Burundi,REF,Bujumbura : Point,U,U,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2010,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,16,16,0,0,0,0,0,112,112,128
+2010,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2010,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,5,0,17,0,0,22,6,0,0,28,0,0,34,56
+2010,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284
+2010,MRT,CMR,Mauritania,Cameroon,ASY,Yaounde : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2010,MRT,COG,Mauritania,Congo,ASY,Brazzaville : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,U,0,0,0,0,0,0,0,0,0,0,35,0,0,35,35
+2010,MRT,COG,Mauritania,Congo,REF,Brazzaville : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MRT,DNK,Mauritania,Denmark,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,954,954,0,0,0,0,0,3588,3588,4542
+2010,MRT,GAB,Mauritania,Gabon,ASY,Franceville : Point,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2010,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,U,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2010,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,U,0,0,5,0,0,0,5,0,0,0,10,0,0,10,15
+2010,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2010,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,5,5,0,0,10,10
+2010,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,5,6,0,0,11,0,5,0,33,0,0,38,49
+2010,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190
+2010,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,ISR,Mauritania,Israel,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,10,10,10
+2010,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90
+2010,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2010,MRT,MRT,Mauritania,Mauritania,RET,Wilayas : Trarza / Brakna / Gorgol / Guidimakha / Assaba,R,U,173,189,84,313,24,0,783,169,157,68,189,19,0,602,1385
+2010,MRT,MLI,Mauritania,Mali,ASY,Bamako : Point,U,U,5,6,8,37,0,0,56,6,12,5,53,0,0,76,132
+2010,MRT,MLI,Mauritania,Mali,REF,Sikasso : Point,U,U,795,1400,686,2021,144,0,5046,864,1455,698,2187,218,0,5422,10468
+2010,MRT,MLT,Mauritania,Malta,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2010,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2010,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2010,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,U,0,5,0,19,0,0,24,0,0,5,38,0,0,43,67
+2010,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,U,47,71,52,168,5,0,343,50,81,49,237,16,0,433,776
+2010,MRT,SEN,Mauritania,Senegal,REF,Ourossogui : Point,R,U,932,1046,746,2460,255,0,5439,1025,811,968,2165,262,0,5231,10670
+2010,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,U,541,1024,721,1877,200,0,4363,640,739,587,1977,185,0,4128,8491
+2010,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,20,20,25
+2010,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2010,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2010,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2010,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,5,14,0,0,19,19
+2010,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2010,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2009
+2011,MRT,AGO,Mauritania,Angola,REF,Luanda : Provincia,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,226
+2011,MRT,AGO,Mauritania,Angola,REF,Lunda Sul : Provincia,R,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2011,MRT,AUS,Mauritania,Australia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,MRT,BDI,Mauritania,Burundi,REF,Bujumbura : Point,U,U,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2011,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,167
+2011,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,22,22,0,0,0,0,0,112,112,134
+2011,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,U,0,5,0,14,0,0,19,6,0,0,20,0,0,26,45
+2011,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,U,0,0,0,6,0,0,6,0,0,0,9,0,0,9,15
+2011,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,277
+2011,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,R,U,0,5,0,0,0,0,5,0,0,0,30,0,0,30,35
+2011,MRT,COG,Mauritania,Congo,REF,Brazzaville : Point,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2011,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,994,994,0,0,0,0,0,3740,3740,4734
+2011,MRT,GAB,Mauritania,Gabon,ASY,Franceville : Point,U,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2011,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,U,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2011,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,U,0,0,5,0,0,0,5,0,0,0,10,0,0,10,15
+2011,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2011,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,5,6,0,0,11,11
+2011,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,9,0,0,9,0,5,0,35,0,0,40,49
+2011,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109
+2011,MRT,MRT,Mauritania,Mauritania,RET,"Regions of Trarza, Brakna, Gorgol, Guidimakha and Assaba",R,U,131,209,101,272,23,0,736,173,176,73,188,21,0,631,1367
+2011,MRT,MLI,Mauritania,Mali,ASY,Bamako : Point,U,U,5,6,8,37,0,0,56,6,12,5,53,0,0,76,132
+2011,MRT,MLI,Mauritania,Mali,REF,Bamako : Point,U,U,0,12,7,23,0,0,42,9,9,10,27,0,0,55,97
+2011,MRT,MLI,Mauritania,Mali,REF,Kayes : Point,V,U,1272,1637,1029,1856,149,0,5943,1426,1734,1051,1997,194,0,6402,12345
+2011,MRT,MLT,Mauritania,Malta,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2011,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2011,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,U,0,5,0,23,0,0,28,0,0,5,44,0,0,49,77
+2011,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,U,48,77,61,181,5,0,372,48,87,55,253,14,0,457,829
+2011,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,U,6,17,16,30,0,0,69,10,25,20,56,5,0,116,185
+2011,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,U,2011,2423,1125,4101,405,0,10065,2055,2278,1060,3075,340,0,8808,18873
+2011,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,U,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2011,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2011,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,5,0,0,0,0,0,5,0,0,0,26,0,0,26,31
+2011,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Point,U,U,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2011,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2011,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1887
+2012,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2490
+2012,MRT,AGO,Mauritania,Angola,REF,Luanda : Provincia,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,226
+2012,MRT,AGO,Mauritania,Angola,REF,Lunda Sul : Provincia,R,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2012,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2012,MRT,BDI,Mauritania,Burundi,REF,Bujumbura : Province,U,I,0,0,0,0,0,0,0,0,0,8,0,0,0,8,8
+2012,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,146
+2012,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,26,26,0,0,0,0,0,130,130,156
+2012,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,8,0,0,8,5,0,0,10,0,0,15,23
+2012,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,8,0,0,8,0,0,0,9,0,0,9,17
+2012,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,282
+2012,MRT,CMR,Mauritania,Cameroon,ASY,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,32,0,0,32,32
+2012,MRT,COG,Mauritania,Congo,REF,Brazzaville : Capital,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2012,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1078,1078,0,0,0,0,0,3821,3821,4899
+2012,MRT,GAB,Mauritania,Gabon,ASY,Franceville : Point,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2012,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2012,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,5,0,0,0,5,0,0,0,10,0,0,10,15
+2012,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2012,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,5,15,0,0,20,20
+2012,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,U,I,0,5,0,6,0,0,11,0,5,0,33,0,0,38,49
+2012,MRT,IRL,Mauritania,Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2012,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,146
+2012,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,R,I,320,380,165,593,36,0,1494,289,381,150,381,41,0,1242,2736
+2012,MRT,MRT,Mauritania,Mauritania,RET,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3472
+2012,MRT,MKD,Mauritania,North Macedonia,ASY,Vizbegovo : Point,U,C,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,1272,1637,1029,1856,149,0,5943,1426,1734,1051,1997,194,0,6402,12345
+2012,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,V,I,0,11,8,17,0,0,36,9,9,10,22,5,0,55,91
+2012,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2012,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,5,5,0,0,0,0,0,7,7,12
+2012,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,5,0,23,0,0,28,0,0,5,41,0,0,46,74
+2012,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,48,77,61,181,5,0,372,48,87,55,247,14,0,451,823
+2012,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,56,5,0,116,185
+2012,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,1347,1627,755,2750,270,0,6749,1377,1527,724,2060,227,0,5915,12664
+2012,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2012,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2012,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2012,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,47,0,0,47,47
+2012,MRT,TUR,Mauritania,Türkiye,ASY,Mersin : Province,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2012,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2012,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1731
+2013,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2257
+2013,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,235
+2013,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2013,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98
+2013,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,18,18,0,0,0,0,0,109,109,127
+2013,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2013,MRT,BRA,Mauritania,Brazil,ASY,Rio Grande do Sul : Estado - State,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,U,R,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,9,0,0,9,0,0,5,5,0,0,10,19
+2013,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,8,0,0,0,0,8,0,0,0,12,0,0,12,20
+2013,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274
+2013,MRT,CMR,Mauritania,Cameroon,ASY,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,55,0,0,55,55
+2013,MRT,COG,Mauritania,Congo,REF,Brazzaville : Capital,U,R,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2013,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,770
+2013,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1155,1155,0,0,0,0,0,3946,3946,5101
+2013,MRT,GAB,Mauritania,Gabon,ASY,Franceville : Point,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2013,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2013,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,5,0,0,0,5,0,0,0,12,0,0,12,17
+2013,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2013,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,6,0,0,0,0,0,6,0,0,5,95,0,0,100,106
+2013,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,I,0,0,0,5,0,0,5,0,0,5,5,0,0,10,15
+2013,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142
+2013,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2013,MRT,HUN,Mauritania,Hungary,ASY,Békéscsaba,U,R,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,MRT,HUN,Mauritania,Hungary,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2013,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195
+2013,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,MKD,Mauritania,North Macedonia,ASY,Vizbegovo : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,11,8,17,0,0,36,9,9,10,22,5,0,55,91
+2013,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,1494,1640,1029,1856,149,0,6168,1663,1737,1051,1995,192,0,6638,12806
+2013,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2013,MRT,NOR,Mauritania,Norway,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,5,0,20,0,0,25,0,0,5,35,0,0,40,65
+2013,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,48,77,61,181,5,0,372,48,87,55,248,14,0,452,824
+2013,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,56,5,0,116,185
+2013,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,1347,1627,755,2750,270,0,6749,1377,1527,724,2060,227,0,5915,12664
+2013,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2013,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2013,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2013,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,41,0,0,41,41
+2013,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,TUR,Mauritania,Türkiye,ASY,Bolu : Province,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2013,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148
+2013,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1544
+2014,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5415
+2014,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,299
+2014,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84
+2014,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191
+2014,MRT,BRA,Mauritania,Brazil,ASY,Rio Grande do Sul : Estado - State,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2014,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2014,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2014,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256
+2014,MRT,CMR,Mauritania,Cameroon,ASY,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2014,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,55,0,0,55,55
+2014,MRT,COG,Mauritania,Congo,OOC,Pointe Noire : Point,U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2014,MRT,COG,Mauritania,Congo,REF,Brazzaville : Capital,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2014,MRT,FIN,Mauritania,Finland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,587
+2014,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1162,1162,0,0,0,0,0,3896,3896,5058
+2014,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2014,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,6,0,0,0,0,0,6,0,0,5,103,0,0,108,114
+2014,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2014,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2014,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2014,MRT,HUN,Mauritania,Hungary,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+2014,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,230
+2014,MRT,MKD,Mauritania,North Macedonia,ASY,Vizbegovo : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,11,8,17,0,0,36,9,9,10,23,5,0,56,92
+2014,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,1494,1640,1029,1856,149,0,6168,1663,1737,1051,1995,192,0,6638,12806
+2014,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2014,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,0,6,21,0,0,27,0,0,7,35,0,0,42,69
+2014,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,48,77,61,181,5,0,372,48,87,55,248,14,0,452,824
+2014,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,56,5,0,116,185
+2014,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,1347,1627,755,2748,270,0,6747,1377,1525,724,2060,227,0,5913,12660
+2014,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2014,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2014,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,5,0,0,5,0,0,0,14,0,0,14,19
+2014,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MRT,TUR,Mauritania,Türkiye,ASY,Mersin,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir,U,I,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+2014,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,528
+2014,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1327
+2015,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5403
+2015,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,306
+2015,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2015,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2015,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,50,50,0,0,0,0,0,161,161,211
+2015,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2015,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,5,0,0,5,0,8,0,14,0,0,22,27
+2015,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,248
+2015,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,59,0,0,59,59
+2015,MRT,COG,Mauritania,Congo,OOC,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2015,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,804
+2015,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1189,1189,0,0,0,0,0,3877,3877,5066
+2015,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2015,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,5,150,0,0,155,160
+2015,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2015,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2015,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2015,MRT,HRV,Mauritania,Croatia,REF,Zagreb,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,MRT,HUN,Mauritania,Hungary,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2015,MRT,HUN,Mauritania,Hungary,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,MRT,ISL,Mauritania,Iceland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54
+2015,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,282
+2015,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,9,10,0,0,19,5,5,6,14,5,0,35,54
+2015,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,1121,1712,1136,2457,169,0,6595,1170,1838,1088,2528,266,0,6890,13485
+2015,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2015,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,7,0,22,0,0,29,0,0,7,42,0,0,49,78
+2015,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,48,77,61,181,5,0,372,48,87,55,248,14,0,452,824
+2015,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,56,5,0,116,185
+2015,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,1346,1626,755,2743,270,0,6740,1376,1525,724,2056,227,0,5908,12648
+2015,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2015,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2015,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2015,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2015,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2015,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,5,0,5,5
+2015,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2015,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725
+2015,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1174
+2016,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5403
+2016,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,306
+2016,MRT,AUS,Mauritania,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2016,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63
+2016,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,46,46,0,0,0,0,0,160,160,206
+2016,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,6,6,0,0,0,0,0,6,6,12
+2016,MRT,CAN,Mauritania,Canada,ASY,Canada,V,I,0,0,0,7,0,0,7,0,0,0,22,0,0,22,29
+2016,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2016,MRT,CAN,Mauritania,Canada,REF,Canada,V,I,0,0,0,0,0,0,0,0,0,0,24,0,0,24,24
+2016,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2016,MRT,CMR,Mauritania,Cameroon,ASY,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,59,0,0,59,59
+2016,MRT,COG,Mauritania,Congo,OOC,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2016,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,542
+2016,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1219,1219,0,0,0,0,0,3964,3964,5183
+2016,MRT,GAB,Mauritania,Gabon,ASY,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2016,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,5,0,0,8,0,0,13,6,0,5,150,0,0,161,174
+2016,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,6,0,0,6,0,0,0,6,5,0,11,17
+2016,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2016,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2016,MRT,HRV,Mauritania,Croatia,REF,Zagreb,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,HUN,Mauritania,Hungary,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2016,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331
+2016,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2016,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,5,9,13,0,0,27,0,9,10,15,5,0,39,66
+2016,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,1261,1961,1252,2750,189,0,7413,1322,2098,1239,2847,313,0,7819,15232
+2016,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2016,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,7,0,24,0,0,31,0,7,5,49,0,0,61,92
+2016,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,47,77,61,181,5,0,371,48,86,55,247,14,0,450,821
+2016,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,55,5,0,115,184
+2016,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,1346,1626,755,2743,270,0,6740,1376,1525,724,2056,227,0,5908,12648
+2016,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,5,0,7,0,0,12,5,0,0,13,0,0,18,30
+2016,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2016,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2016,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2016,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2016,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,838
+2016,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,991
+2017,MRT,AGO,Mauritania,Angola,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,5403,5403,5403
+2017,MRT,AGO,Mauritania,Angola,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,306,306,306
+2017,MRT,ARG,Mauritania,Argentina,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,AUS,Mauritania,Australia,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2017,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135
+2017,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206
+2017,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137
+2017,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2017,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151
+2017,MRT,CMR,Mauritania,Cameroon,ASY,Douala : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,60,0,0,60,60
+2017,MRT,COG,Mauritania,Congo,OOC,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2017,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,526
+2017,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1258,1258,0,0,0,0,0,4062,4062,5320
+2017,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2017,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,7,0,0,6,0,0,13,0,0,6,101,0,0,107,120
+2017,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,11,0,0,11,5,0,0,12,5,0,22,33
+2017,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2017,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+2017,MRT,HRV,Mauritania,Croatia,REF,Zagreb,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,IRL,Mauritania,Ireland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48
+2017,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,342
+2017,MRT,LBN,Mauritania,Lebanon,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,5,5,11,0,0,21,0,8,9,12,5,0,34,55
+2017,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,989,1988,1314,2941,196,0,7428,1033,2115,1312,3046,330,0,7836,15264
+2017,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2017,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,SEN,Mauritania,Senegal,ASY,Dakar : Point,U,I,0,7,0,24,0,0,31,0,7,5,56,0,0,68,99
+2017,MRT,SEN,Mauritania,Senegal,REF,Dakar : Point,U,I,47,77,61,181,5,0,371,48,86,55,247,14,0,450,821
+2017,MRT,SEN,Mauritania,Senegal,REF,Dakar/Thies : Point,U,I,6,17,16,30,0,0,69,10,25,20,55,5,0,115,184
+2017,MRT,SEN,Mauritania,Senegal,REF,Richard Toll : Point,R,I,959,1662,955,2780,367,0,6723,1003,1604,878,2189,331,0,6005,12728
+2017,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,0,9,15,0,0,24,0,5,5,12,0,0,22,46
+2017,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2017,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2017,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2017,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2017,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2017,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,858
+2017,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,944
+2018,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2018,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2018,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2018,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2018,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2018,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2018,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2018,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2018,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2018,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2018,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,310
+2018,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2018,MRT,ARG,Mauritania,Argentina,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130
+2018,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206
+2018,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200
+2018,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,186
+2018,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,7,0,0,7,5,0,0,22,0,0,27,34
+2018,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,125
+2018,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,5,0,0,5,0,0,0,89,0,0,89,94
+2018,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,FIN,Mauritania,Finland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,959
+2018,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1320,1320,0,0,0,0,0,4099,4099,5419
+2018,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2018,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,5,0,0,6,0,0,11,5,0,0,71,0,0,76,87
+2018,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,11,0,0,11,6,0,0,17,0,0,23,34
+2018,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2018,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53
+2018,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2018,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2018,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,347
+2018,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,9,12,0,0,21,0,8,9,12,5,0,34,55
+2018,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,387,2068,1431,3294,247,0,7427,405,2170,1499,3380,383,0,7837,15264
+2018,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,MOZ,Mauritania,Mozambique,ASY,Maratane : Point,U,P,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,I,0,0,0,11,0,0,11,0,7,0,43,0,0,50,61
+2018,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,I,106,185,114,243,21,0,669,104,186,76,268,32,0,666,1335
+2018,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,I,46,114,90,273,32,0,555,49,114,76,232,24,0,495,1050
+2018,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,I,16,40,28,115,0,0,199,22,37,40,123,9,0,231,430
+2018,MRT,SEN,Mauritania,Senegal,REF,Matam,R,I,342,830,441,1233,173,0,3019,378,794,449,1006,165,0,2792,5811
+2018,MRT,SEN,Mauritania,Senegal,REF,Podor,R,I,285,642,466,1344,177,0,2914,303,628,405,1005,153,0,2494,5408
+2018,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,0,8,18,0,0,26,0,6,6,13,0,0,25,51
+2018,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,U,I,0,5,0,9,0,0,14,0,0,6,10,5,0,21,35
+2018,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95
+2018,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,9,0,0,0,0,9,0,0,0,0,0,0,0,9
+2018,MRT,TUR,Mauritania,Türkiye,REF,Nevsehir : Province,U,I,8,0,0,0,0,0,8,0,0,0,0,0,0,0,8
+2018,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,810
+2018,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,983
+2019,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2019,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2019,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2019,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2019,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2019,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2019,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2019,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2019,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2019,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2019,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2019,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2019,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2019,MRT,AUT,Mauritania,Austria,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+2019,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,271
+2019,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,252
+2019,MRT,BRA,Mauritania,Brazil,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2019,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,210
+2019,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,144
+2019,MRT,CMR,Mauritania,Cameroon,ASY,Douala,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,45,0,0,45,45
+2019,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,DNK,Mauritania,Denmark,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1307
+2019,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,1389,1389,0,0,0,0,0,4286,4286,5675
+2019,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2019,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,11,0,10,0,0,21,9,0,0,67,0,0,76,97
+2019,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,0,0,14,0,0,14,0,8,0,19,0,0,27,41
+2019,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,18,18,18
+2019,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2019,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2019,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,355
+2019,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2019,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,8,13,0,0,21,0,7,8,15,5,0,35,56
+2019,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,R,U,384,2070,1431,3294,245,0,7424,402,2172,1499,3381,382,0,7836,15260
+2019,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2019,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,NOR,Mauritania,Norway,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,PRT,Mauritania,Portugal,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,SEN,Mauritania,Senegal,ASY,Bakel,R,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2019,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,I,5,0,0,10,0,0,15,0,5,0,38,5,0,48,63
+2019,MRT,SEN,Mauritania,Senegal,REF,Bakel,R,I,70,191,128,256,24,0,669,78,189,84,281,35,0,667,1336
+2019,MRT,SEN,Mauritania,Senegal,REF,Dagana,R,I,29,114,99,275,40,0,557,33,112,85,242,26,0,498,1055
+2019,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,I,11,41,27,117,5,0,201,14,41,48,131,11,0,245,446
+2019,MRT,SEN,Mauritania,Senegal,REF,Kanel,R,I,165,567,345,779,112,0,1968,198,552,344,692,106,0,1892,3860
+2019,MRT,SEN,Mauritania,Senegal,REF,Matam,R,I,69,256,156,480,94,0,1055,83,234,158,345,81,0,901,1956
+2019,MRT,SEN,Mauritania,Senegal,REF,Podor,R,I,218,615,504,1375,201,0,2913,233,616,443,1044,163,0,2499,5412
+2019,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,0,0,8,18,0,0,26,0,5,7,13,0,0,25,51
+2019,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,U,I,0,0,0,13,0,0,13,0,0,6,10,5,0,21,34
+2019,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,5,5,0,0,0,0,0,115,115,120
+2019,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,MRT,SWE,Mauritania,Sweden,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2019,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,C,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2019,MRT,URY,Mauritania,Uruguay,ASY,Montevideo : Department,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,911
+2019,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,990
+2020,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2020,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2020,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2020,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2020,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2020,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2020,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2020,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2020,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2020,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2020,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2020,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2020,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2020,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,C,0,0,0,0,0,60,60,0,0,0,0,0,125,125,185
+2020,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,88,88,0,0,0,0,0,181,181,269
+2020,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244
+2020,MRT,BRA,Mauritania,Brazil,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2020,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,32,0,15,47,0,0,0,120,0,34,154,201
+2020,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134
+2020,MRT,CMR,Mauritania,Cameroon,ASY,Douala,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,45,0,0,45,45
+2020,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,550,550,0,0,0,0,0,1223,1223,1773
+2020,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5891
+2020,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2020,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7
+2020,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2020,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,10,0,9,0,0,19,7,0,0,56,0,0,63,82
+2020,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,6,0,17,0,0,23,8,6,0,16,5,0,35,58
+2020,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,14,14,14
+2020,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63
+2020,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2020,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,286
+2020,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,29,0,0,29,29
+2020,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,8,13,0,0,21,0,7,8,15,5,0,35,56
+2020,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,U,I,21,2155,2385,2796,263,0,7620,22,2260,2450,2866,423,0,8021,15641
+2020,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2020,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2020,MRT,MLT,Mauritania,Malta,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,NOR,Mauritania,Norway,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,MRT,PRT,Mauritania,Portugal,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,5,0,7,0,0,12,0,0,0,35,5,0,40,52
+2020,MRT,SEN,Mauritania,Senegal,ASY,Saint Louis,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,MRT,SEN,Mauritania,Senegal,ASY,Tambacounda,V,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2020,MRT,SEN,Mauritania,Senegal,ASY,Thies : Point,V,U,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2020,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,U,5,34,38,125,7,0,209,9,35,49,136,16,0,245,454
+2020,MRT,SEN,Mauritania,Senegal,REF,Matam,V,U,102,720,605,1349,235,0,3011,120,779,553,1119,207,0,2778,5789
+2020,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,U,93,699,634,1792,273,0,3491,105,706,576,1406,223,0,3016,6507
+2020,MRT,SEN,Mauritania,Senegal,REF,Tambacounda,V,U,32,178,147,277,33,0,667,26,201,111,281,45,0,664,1331
+2020,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,V,U,0,0,0,13,0,0,13,0,0,6,9,6,0,21,34
+2020,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,34,34,0,0,0,0,0,41,41,75
+2020,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2020,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2020,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2020,MRT,TUN,Mauritania,Tunisia,ASY,Tunis,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2020,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1077
+2020,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,956
+2021,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2021,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2021,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2021,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2021,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2021,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2021,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2021,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2021,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2021,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2021,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2021,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2021,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2021,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,C,0,0,0,0,0,85,85,0,0,0,0,0,115,115,200
+2021,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274
+2021,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,243
+2021,MRT,BRA,Mauritania,Brazil,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60
+2021,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2021,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,5,0,0,16,0,0,21,5,0,0,78,5,0,88,109
+2021,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,5,0,0,19,0,0,24,0,10,5,55,0,0,70,94
+2021,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131
+2021,MRT,CMR,Mauritania,Cameroon,ASY,Douala,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,40,0,0,40,40
+2021,MRT,COG,Mauritania,Congo,ASY,Tchiamba-Nzassi,R,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1123
+2021,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7860
+2021,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2021,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2021,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2021,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,6,0,9,0,0,15,7,0,0,52,0,0,59,74
+2021,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,8,0,18,0,0,26,7,8,0,19,5,0,39,65
+2021,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2021,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan : Departement,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2021,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2021,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273
+2021,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,71,0,0,71,71
+2021,MRT,MEX,Mauritania,Mexico,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2021,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,6,16,0,0,22,0,6,7,21,6,0,40,62
+2021,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,U,I,1001,1767,1287,3032,240,0,7327,1067,1760,1302,3055,392,0,7576,14903
+2021,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2021,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2021,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2021,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2021,MRT,NOR,Mauritania,Norway,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,MRT,PRT,Mauritania,Portugal,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2021,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,U,0,5,0,8,0,0,13,0,0,0,39,5,0,44,57
+2021,MRT,SEN,Mauritania,Senegal,ASY,Saint Louis,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2021,MRT,SEN,Mauritania,Senegal,ASY,Tambacounda,V,U,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2021,MRT,SEN,Mauritania,Senegal,ASY,Thies : Point,V,U,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2021,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,U,5,34,38,125,7,0,209,9,35,49,136,16,0,245,454
+2021,MRT,SEN,Mauritania,Senegal,REF,Matam,V,U,64,730,624,1403,235,0,3056,83,772,567,1175,214,0,2811,5867
+2021,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,U,93,699,634,1792,279,0,3497,105,706,576,1355,223,0,2965,6462
+2021,MRT,SEN,Mauritania,Senegal,REF,Tambacounda,V,U,32,178,147,277,33,0,667,26,201,111,281,45,0,664,1331
+2021,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,V,U,0,0,0,13,0,0,13,0,0,6,9,6,0,21,34
+2021,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,195
+2021,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2021,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2021,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2021,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1115
+2021,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916
+2022,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2022,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2022,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2022,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2022,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2022,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2022,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2022,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2022,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2022,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2022,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2022,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2022,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2022,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,105,105,0,0,0,0,0,160,160,265
+2022,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,95,95,0,0,0,0,0,149,149,244
+2022,MRT,BRA,Mauritania,Brazil,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203
+2022,MRT,BRA,Mauritania,Brazil,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+2022,MRT,BGR,Mauritania,Bulgaria,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2022,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,9,0,21,0,0,30,0,9,0,46,0,0,55,85
+2022,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2022,MRT,CAN,Mauritania,Canada,REF,Ontario,U,I,0,0,0,7,0,0,7,0,0,0,11,0,0,11,18
+2022,MRT,CAN,Mauritania,Canada,REF,Quebec,U,I,0,7,0,31,0,0,38,0,5,8,92,6,0,111,149
+2022,MRT,CMR,Mauritania,Cameroon,ASY,Douala,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,40,0,0,40,40
+2022,MRT,COG,Mauritania,Congo,ASY,Tchiamba-Nzassi,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,COG,Mauritania,Congo,REF,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,939
+2022,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,2475,2475,0,0,0,0,0,5823,5823,8298
+2022,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2022,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2022,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2022,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,5,5,0,11,0,0,21,7,0,0,60,0,0,67,88
+2022,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,8,0,10,0,0,18,6,6,0,9,5,0,26,44
+2022,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66
+2022,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2022,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Abidjan : Departement,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Abidjan : Departement,U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2022,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,9,9,9
+2022,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239
+2022,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2022,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,5,0,0,88,0,0,93,93
+2022,MRT,MEX,Mauritania,Mexico,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2022,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,5,11,0,0,16,0,9,0,18,6,0,33,49
+2022,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,U,I,746,1746,1413,3173,250,0,7328,760,1836,1362,3208,409,0,7575,14903
+2022,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2022,MRT,MOZ,Mauritania,Mozambique,ASY,Niassa : Provincia,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2022,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2022,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,I,13,35,56,184,11,0,299,28,39,60,190,16,0,333,632
+2022,MRT,SEN,Mauritania,Senegal,REF,Matam,V,I,280,679,592,1416,214,0,3181,323,679,514,961,202,0,2679,5860
+2022,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,181,342,398,1268,217,0,2406,152,346,303,839,162,0,1802,4208
+2022,MRT,SEN,Mauritania,Senegal,REF,Tambacounda,V,I,41,103,72,155,19,0,390,39,103,62,113,26,0,343,733
+2022,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,V,I,0,5,5,16,5,0,31,0,0,7,17,6,0,30,61
+2022,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,10,10,0,0,0,0,0,110,110,120
+2022,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,12,12,0,0,0,0,0,23,23,35
+2022,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2022,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2022,MRT,TUN,Mauritania,Tunisia,ASY,Tunis,U,I,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2022,MRT,URY,Mauritania,Uruguay,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,9,26,0,0,35,0,0,9,131,5,16,161,196
+2022,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,852
+2022,MRT,USA,Mauritania,United States of America,ASY,Illinois,V,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2022,MRT,USA,Mauritania,United States of America,ASY,New York,V,I,0,0,0,8,0,0,8,0,0,0,81,0,5,86,94
+2022,MRT,USA,Mauritania,United States of America,ASY,New York,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2022,MRT,USA,Mauritania,United States of America,ASY,Pennsylvania,V,I,0,0,0,0,0,0,0,0,0,0,8,0,5,13,13
+2022,MRT,USA,Mauritania,United States of America,ASY,Pennsylvania,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,USA,Mauritania,United States of America,ASY,Texas,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,USA,Mauritania,United States of America,ASY,Virginia,V,I,0,0,0,0,0,0,0,0,0,0,19,0,0,19,19
+2022,MRT,USA,Mauritania,United States of America,ASY,Virginia,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2022,MRT,USA,Mauritania,United States of America,REF,California,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2022,MRT,USA,Mauritania,United States of America,REF,California,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,7,0,0,7,0,0,0,18,0,5,23,30
+2022,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,722
+2022,MRT,USA,Mauritania,United States of America,REF,Illinois,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,USA,Mauritania,United States of America,REF,New York,V,I,0,0,0,5,0,0,5,0,0,0,20,0,0,20,25
+2022,MRT,USA,Mauritania,United States of America,REF,New York,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76
+2022,MRT,USA,Mauritania,United States of America,REF,Pennsylvania,V,I,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2022,MRT,USA,Mauritania,United States of America,REF,Texas,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2022,MRT,USA,Mauritania,United States of America,REF,Virginia,V,I,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2022,MRT,USA,Mauritania,United States of America,REF,Virginia,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2023,MRT,AGO,Mauritania,Angola,ASY,Bengo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2023,MRT,AGO,Mauritania,Angola,ASY,Bie,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2023,MRT,AGO,Mauritania,Angola,ASY,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2023,MRT,AGO,Mauritania,Angola,ASY,Huambo,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2023,MRT,AGO,Mauritania,Angola,ASY,Kwanza Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2023,MRT,AGO,Mauritania,Angola,ASY,Kwanza Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2023,MRT,AGO,Mauritania,Angola,ASY,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2023,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2023,MRT,AGO,Mauritania,Angola,ASY,Malanje,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2023,MRT,AGO,Mauritania,Angola,ASY,Moxico,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,MRT,AGO,Mauritania,Angola,ASY,Uige,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2023,MRT,AGO,Mauritania,Angola,ASY,Zaire,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2023,MRT,AGO,Mauritania,Angola,REF,Cunene,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2023,MRT,AGO,Mauritania,Angola,REF,Luanda,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2023,MRT,AGO,Mauritania,Angola,REF,Lunda Sul,U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2023,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,96,96,0,0,0,0,0,164,164,260
+2023,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,102,102,0,0,0,0,0,146,146,248
+2023,MRT,BRA,Mauritania,Brazil,ASY,Sao Paulo : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78
+2023,MRT,BRA,Mauritania,Brazil,REF,Sao Paulo : Estado - State,V,I,0,0,0,0,0,0,0,0,0,0,64,0,0,64,64
+2023,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,323
+2023,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,218
+2023,MRT,CMR,Mauritania,Cameroon,REF,Yaounde : Point,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,COG,Mauritania,Congo,ASY,Brazzaville : Capital,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,COG,Mauritania,Congo,ASY,Pointe Noire : Point,U,I,0,0,0,0,0,0,0,0,0,0,34,0,0,34,34
+2023,MRT,COG,Mauritania,Congo,REF,Brazzaville : Capital,U,I,0,5,0,0,0,0,5,0,0,0,5,0,0,5,10
+2023,MRT,FIN,Mauritania,Finland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2023,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,108,108,0,0,0,0,0,319,319,427
+2023,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,443
+2023,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,2674,2674,0,0,0,0,0,6047,6047,8721
+2023,MRT,GAB,Mauritania,Gabon,REF,Libreville : Point,U,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2023,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2023,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2023,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,0,7,0,11,0,0,18,9,0,0,49,0,0,58,76
+2023,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,5,5,19,0,0,29,5,5,5,26,5,0,46,75
+2023,MRT,GRC,Mauritania,Greece,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6
+2023,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,5,5,0,16,0,0,26,0,6,7,22,0,0,35,61
+2023,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2023,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Doropo,R,I,0,0,0,5,0,0,5,0,0,0,11,0,0,11,16
+2023,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Dispersed in the country / territory,R,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2023,MRT,IRL,Mauritania,Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,15,15,15
+2023,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,278
+2023,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,10,10,10
+2023,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,7,0,0,7,5,0,0,280,0,0,285,292
+2023,MRT,MEX,Mauritania,Mexico,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2023,MRT,MLI,Mauritania,Mali,REF,Bamako : District,U,I,0,0,5,11,0,0,16,0,0,8,19,6,0,33,49
+2023,MRT,MLI,Mauritania,Mali,REF,Kayes : Region,U,I,343,1739,1444,3504,301,0,7331,312,1866,1391,3549,467,0,7585,14916
+2023,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2023,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2023,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,5,0,0,0,0,5,0,0,0,10,0,0,10,15
+2023,MRT,SEN,Mauritania,Senegal,ASY,Dakar,U,I,8,0,0,0,0,0,8,0,0,0,14,0,0,14,22
+2023,MRT,SEN,Mauritania,Senegal,REF,Dakar,U,I,13,34,52,197,12,0,308,18,43,53,207,20,0,341,649
+2023,MRT,SEN,Mauritania,Senegal,REF,Matam,V,I,202,642,631,1476,233,0,3184,234,664,551,1019,215,0,2683,5867
+2023,MRT,SEN,Mauritania,Senegal,REF,Saint Louis,U,I,127,354,378,1322,228,0,2409,102,353,300,877,173,0,1805,4214
+2023,MRT,SEN,Mauritania,Senegal,REF,Tambacounda,V,I,32,98,75,162,22,0,389,27,100,68,119,29,0,343,732
+2023,MRT,SEN,Mauritania,Senegal,REF,Thies : Point,V,I,0,5,5,18,5,0,33,0,0,8,19,0,6,33,66
+2023,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,20,20,0,0,0,0,0,85,85,105
+2023,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,18,18,0,0,0,0,0,36,36,54
+2023,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2023,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2023,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,TUN,Mauritania,Tunisia,ASY,Tunis,U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2023,MRT,URY,Mauritania,Uruguay,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2023,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11194
+2023,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916
+2024,MRT,DZA,Mauritania,Algeria,ASY,Dispersed in the country / territory,U,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,AGO,Mauritania,Angola,ASY,Bengo [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2024,MRT,AGO,Mauritania,Angola,ASY,Bié [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2024,MRT,AGO,Mauritania,Angola,ASY,Cuanza Norte [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2024,MRT,AGO,Mauritania,Angola,ASY,Cuanza Sul [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2024,MRT,AGO,Mauritania,Angola,ASY,Cunene [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2024,MRT,AGO,Mauritania,Angola,ASY,Huambo [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2024,MRT,AGO,Mauritania,Angola,ASY,Luanda [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2024,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2024,MRT,AGO,Mauritania,Angola,ASY,Malanje [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2024,MRT,AGO,Mauritania,Angola,ASY,Moxico [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2024,MRT,AGO,Mauritania,Angola,ASY,Uíge [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2024,MRT,AGO,Mauritania,Angola,ASY,Zaire [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2024,MRT,AGO,Mauritania,Angola,REF,Cunene [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2024,MRT,AGO,Mauritania,Angola,REF,Luanda [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2024,MRT,AGO,Mauritania,Angola,REF,Lunda Sul [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2024,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2024,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,112,112,0,0,0,0,0,224,224,336
+2024,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,104,104,0,0,0,0,0,134,134,238
+2024,MRT,BRA,Mauritania,Brazil,ASY,Parana [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2024,MRT,BRA,Mauritania,Brazil,ASY,Sao Paulo [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187
+2024,MRT,BRA,Mauritania,Brazil,REF,Sao Paulo [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,66,0,0,66,66
+2024,MRT,CAN,Mauritania,Canada,ASY,Alberta [Admin 1],V,I,0,0,0,7,0,0,7,0,0,0,89,0,0,89,96
+2024,MRT,CAN,Mauritania,Canada,ASY,British Columbia [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,25,0,0,25,25
+2024,MRT,CAN,Mauritania,Canada,ASY,Manitoba [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,36,0,0,36,36
+2024,MRT,CAN,Mauritania,Canada,ASY,New Brunswick [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2024,MRT,CAN,Mauritania,Canada,ASY,Nova Scotia [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CAN,Mauritania,Canada,ASY,Ontario [Admin 1],V,I,0,0,0,6,0,0,6,0,0,5,12,0,0,17,23
+2024,MRT,CAN,Mauritania,Canada,ASY,Quebec [Admin 1],V,I,5,7,0,26,0,0,38,0,0,6,300,5,0,311,349
+2024,MRT,CAN,Mauritania,Canada,REF,Alberta [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,38,0,0,38,38
+2024,MRT,CAN,Mauritania,Canada,REF,Dispersed in the country / territory,V,I,0,0,0,5,0,0,5,0,5,0,10,0,0,15,20
+2024,MRT,CAN,Mauritania,Canada,REF,Manitoba [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CAN,Mauritania,Canada,REF,New Brunswick [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CAN,Mauritania,Canada,REF,Ontario [Admin 1],V,I,0,0,0,12,0,0,12,0,0,0,13,0,0,13,25
+2024,MRT,CAN,Mauritania,Canada,REF,Quebec [Admin 1],V,I,6,0,5,38,0,0,49,5,12,6,202,5,0,230,279
+2024,MRT,CAF,Mauritania,Central African Republic,ASY,Haute-Kotto [Admin 1],R,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,CMR,Mauritania,Cameroon,REF,Yaounde [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,COG,Mauritania,Congo,ASY,Brazzaville [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,COG,Mauritania,Congo,ASY,Point Noire [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,40,0,0,40,40
+2024,MRT,COG,Mauritania,Congo,OOC,Point Noire [Admin 1],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,COG,Mauritania,Congo,REF,Brazzaville [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,6,0,0,6,11
+2024,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,61,61,0,0,0,0,0,244,244,305
+2024,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,877
+2024,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,2844,2844,0,0,0,0,0,6205,6205,9049
+2024,MRT,GAB,Mauritania,Gabon,REF,Libreville [Admin 3: PRP],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2024,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,6,0,0,6,0,0,0,6,0,0,6,12
+2024,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,5,0,0,5,0,0,10,6,0,0,43,0,0,49,59
+2024,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,5,5,20,0,0,30,6,7,5,23,5,0,46,76
+2024,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,0,9,0,0,9,0,0,5,14,0,0,19,28
+2024,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2024,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Dispersed in the country / territory,R,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Dispersed in the country / territory,R,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,28,0,0,28,28
+2024,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,8,7,5,57,0,0,77,7,9,12,172,0,0,200,277
+2024,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2024,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,5,0,0,5,5,0,5,278,0,0,288,293
+2024,MRT,MEX,Mauritania,Mexico,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2024,MRT,MLI,Mauritania,Mali,REF,Bamako [Admin 1],U,I,0,0,5,10,0,0,15,0,0,6,17,5,0,28,43
+2024,MRT,MLI,Mauritania,Mali,REF,Kayes [Admin 1],R,I,89,1691,1523,3714,320,0,7337,63,1817,1470,3775,498,0,7623,14960
+2024,MRT,MLI,Mauritania,Mali,REF,Koulikouro [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2024,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,MAR,Mauritania,Morocco,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,19,0,0,19,0,0,7,60,0,0,67,86
+2024,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,5,10,0,0,15,15
+2024,MRT,NOR,Mauritania,Norway,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,PRT,Mauritania,Portugal,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2024,MRT,SEN,Mauritania,Senegal,ASY,Dakar [Admin 1],U,I,5,0,0,5,0,0,10,0,0,5,15,0,0,20,30
+2024,MRT,SEN,Mauritania,Senegal,ASY,Matam [Admin 1],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,SEN,Mauritania,Senegal,REF,Dakar [Admin 1],U,I,6,30,48,195,16,0,295,10,38,49,195,27,0,319,614
+2024,MRT,SEN,Mauritania,Senegal,REF,Matam [Admin 1],U,I,93,719,734,1828,311,0,3685,96,793,626,1346,268,0,3129,6814
+2024,MRT,SEN,Mauritania,Senegal,REF,Saint Louis [Admin 1],U,I,22,275,295,1182,253,0,2027,22,261,234,796,168,0,1481,3508
+2024,MRT,SEN,Mauritania,Senegal,REF,Tambacounda [Admin 1],U,I,5,47,67,151,21,0,291,0,50,57,115,27,0,249,540
+2024,MRT,SEN,Mauritania,Senegal,REF,Thies [Admin 1],U,I,0,8,0,18,5,0,31,0,8,0,16,8,0,32,63
+2024,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,V,U,14,20,6,515,0,0,555,18,17,20,730,0,0,785,1340
+2024,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,V,U,0,9,0,30,0,0,39,0,8,0,27,0,0,35,74
+2024,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2024,MRT,CHE,Mauritania,Switzerland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2024,MRT,TUN,Mauritania,Tunisia,ASY,Tozeur [Admin 1],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2024,MRT,TUN,Mauritania,Tunisia,REF,Tozeur [Admin 1],U,I,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6
+2024,MRT,URY,Mauritania,Uruguay,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2024,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18798
+2024,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,958
+2025,MRT,AGO,Mauritania,Angola,ASY,Bengo [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2025,MRT,AGO,Mauritania,Angola,ASY,Bié [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2025,MRT,AGO,Mauritania,Angola,ASY,Cuanza Norte [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2025,MRT,AGO,Mauritania,Angola,ASY,Cuanza Sul [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2025,MRT,AGO,Mauritania,Angola,ASY,Cunene [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2025,MRT,AGO,Mauritania,Angola,ASY,Huambo [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2025,MRT,AGO,Mauritania,Angola,ASY,Luanda [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4789
+2025,MRT,AGO,Mauritania,Angola,ASY,Lunda Norte [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2025,MRT,AGO,Mauritania,Angola,ASY,Malanje [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127
+2025,MRT,AGO,Mauritania,Angola,ASY,Moxico [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2025,MRT,AGO,Mauritania,Angola,ASY,Uíge [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91
+2025,MRT,AGO,Mauritania,Angola,ASY,Zaire [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2025,MRT,AGO,Mauritania,Angola,REF,Cunene [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2025,MRT,AGO,Mauritania,Angola,REF,Luanda [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,309
+2025,MRT,AGO,Mauritania,Angola,REF,Lunda Sul [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2025,MRT,AUT,Mauritania,Austria,REF,Dispersed in the country / territory,V,U,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,BEL,Mauritania,Belgium,ASY,Dispersed in the country / territory,V,U,18,12,8,82,0,0,120,21,12,7,216,9,0,265,385
+2025,MRT,BEL,Mauritania,Belgium,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,110,110,0,0,0,0,0,116,116,226
+2025,MRT,BRA,Mauritania,Brazil,ASY,Distrito Federal [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2025,MRT,BRA,Mauritania,Brazil,ASY,Minas Gerais [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2025,MRT,BRA,Mauritania,Brazil,ASY,Parana [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2025,MRT,BRA,Mauritania,Brazil,ASY,Rio Grande Do Sul [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2025,MRT,BRA,Mauritania,Brazil,ASY,Sao Paulo [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331
+2025,MRT,BRA,Mauritania,Brazil,REF,Sao Paulo [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,68,0,0,68,68
+2025,MRT,CAN,Mauritania,Canada,ASY,Alberta [Admin 1],V,I,0,0,0,11,0,0,11,0,0,0,135,0,0,135,146
+2025,MRT,CAN,Mauritania,Canada,ASY,British Columbia [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,CAN,Mauritania,Canada,ASY,Dispersed in the country / territory,V,I,0,0,0,5,0,0,5,0,0,0,148,0,0,148,153
+2025,MRT,CAN,Mauritania,Canada,ASY,Manitoba [Admin 1],V,I,0,0,0,5,0,0,5,0,0,0,39,0,0,39,44
+2025,MRT,CAN,Mauritania,Canada,ASY,New Brunswick [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,CAN,Mauritania,Canada,ASY,Ontario [Admin 1],V,I,0,0,0,12,0,0,12,0,0,5,22,0,0,27,39
+2025,MRT,CAN,Mauritania,Canada,ASY,Quebec [Admin 1],V,I,7,8,0,30,0,0,45,0,0,7,257,0,0,264,309
+2025,MRT,CAN,Mauritania,Canada,REF,Alberta [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,82,0,0,82,82
+2025,MRT,CAN,Mauritania,Canada,REF,Manitoba [Admin 1],V,I,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2025,MRT,CAN,Mauritania,Canada,REF,Ontario [Admin 1],V,I,0,0,0,10,0,0,10,0,0,0,16,0,0,16,26
+2025,MRT,CAN,Mauritania,Canada,REF,Quebec [Admin 1],V,I,6,0,5,40,0,0,51,5,11,5,278,6,0,305,356
+2025,MRT,CAF,Mauritania,Central African Republic,ASY,Sam-Ouandja [Admin 3: POC],R,I,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2025,MRT,CMR,Mauritania,Cameroon,ASY,Douala [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,CMR,Mauritania,Cameroon,REF,Yaounde [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,COG,Mauritania,Congo,ASY,Pointe Noire [Admin 2],R,I,0,0,0,0,0,0,0,0,0,0,40,5,0,45,45
+2025,MRT,COG,Mauritania,Congo,OOC,Pointe Noire [Admin 2],R,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,COG,Mauritania,Congo,REF,Moungali [Admin 3: PRP],R,I,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,MRT,COG,Mauritania,Congo,REF,Pointe Noire [Admin 2],R,I,0,0,0,0,0,0,0,0,0,0,0,5,0,5,5
+2025,MRT,FRA,Mauritania,France,ASY,Dispersed in the country / territory,V,U,72,34,17,296,0,0,419,52,30,22,832,0,0,936,1355
+2025,MRT,FRA,Mauritania,France,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,3068,3068,0,0,0,0,0,6454,6454,9522
+2025,MRT,GAB,Mauritania,Gabon,REF,Libreville [Admin 3: PRP],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,6,6,6
+2025,MRT,GBR,Mauritania,United Kingdom of Great Britain and Northern Ireland,REF,Dispersed in the country / territory,V,U,0,0,0,9,0,0,9,0,0,5,5,0,0,10,19
+2025,MRT,DEU,Mauritania,Germany,ASY,Dispersed in the country / territory,V,U,8,0,0,12,0,0,20,7,0,0,43,5,0,55,75
+2025,MRT,DEU,Mauritania,Germany,REF,Dispersed in the country / territory,V,U,0,5,5,21,0,0,31,5,8,5,35,0,0,53,84
+2025,MRT,GRC,Mauritania,Greece,REF,Dispersed in the country / territory,V,U,0,0,5,0,0,0,5,0,0,0,31,0,0,31,36
+2025,MRT,HRV,Mauritania,Croatia,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2025,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Dispersed in the country / territory,R,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,CIV,Mauritania,Côte d'Ivoire,ASY,Doropo [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2025,MRT,CIV,Mauritania,Côte d'Ivoire,REF,Dispersed in the country / territory,R,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,MRT,IRL,Mauritania,Ireland,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,MRT,ITA,Mauritania,Italy,ASY,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,0,19,0,0,19,24
+2025,MRT,ITA,Mauritania,Italy,REF,Dispersed in the country / territory,V,U,5,5,5,60,0,0,75,0,7,11,125,0,0,143,218
+2025,MRT,LUX,Mauritania,Luxembourg,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,MEX,Mauritania,Mexico,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,5,104,0,0,109,109
+2025,MRT,MEX,Mauritania,Mexico,REF,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,MLI,Mauritania,Mali,REF,Bamako [Admin 1],U,I,0,0,0,15,0,0,15,0,0,6,16,6,0,28,43
+2025,MRT,MLI,Mauritania,Mali,REF,Kayes [Admin 1],R,I,30,1429,1583,3950,355,0,7347,22,1540,1545,3998,542,0,7647,14994
+2025,MRT,MLI,Mauritania,Mali,REF,Koulikouro [Admin 1],U,I,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2025,MRT,MAR,Mauritania,Morocco,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,NLD,Mauritania,Netherlands (Kingdom of the),ASY,Dispersed in the country / territory,V,U,0,0,0,7,0,0,7,0,0,0,19,0,0,19,26
+2025,MRT,NLD,Mauritania,Netherlands (Kingdom of the),REF,Dispersed in the country / territory,V,U,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2025,MRT,PRT,Mauritania,Portugal,ASY,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,40,0,0,40,40
+2025,MRT,SEN,Mauritania,Senegal,ASY,Bakel [Admin 2],U,I,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2025,MRT,SEN,Mauritania,Senegal,ASY,Bakel [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,ASY,Dakar [Admin 3: POC],U,I,5,0,0,0,0,0,5,0,0,0,5,0,0,5,10
+2025,MRT,SEN,Mauritania,Senegal,ASY,Dispersed in the country / territory,U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,ASY,Guediawaye [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,ASY,Medina (within Admin 1: Dakar ) [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,ASY,Parcelles Assainies [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,ASY,Pikine (within Admin 1: Dakar ) [Admin 3: PRP],U,I,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2025,MRT,SEN,Mauritania,Senegal,ASY,Yoff [Admin 3: PRP],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Amady Ounare [Admin 3: POC],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Bakel [Admin 2],U,I,0,8,0,0,0,0,8,0,0,0,0,0,0,0,8
+2025,MRT,SEN,Mauritania,Senegal,OOC,Bakel [Admin 3: POC],U,I,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2025,MRT,SEN,Mauritania,Senegal,OOC,Dakar [Admin 2],U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Dakar [Admin 3: POC],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Dispersed in the country / territory,U,I,0,12,6,37,5,0,60,0,5,5,38,7,0,55,115
+2025,MRT,SEN,Mauritania,Senegal,OOC,Fanaye [Admin 3: POC],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Gouriki Koliabe [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6
+2025,MRT,SEN,Mauritania,Senegal,OOC,Guediawaye [Admin 3: POC],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Kadiogne [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Kanel [Admin 2],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Kanel [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Keur Massar [Admin 3: POC],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,MRT,SEN,Mauritania,Senegal,OOC,Matam [Admin 3: POC],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Ngano [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Orkadiere [Admin 3: POC],U,I,0,5,0,8,0,0,13,0,5,0,7,0,0,12,25
+2025,MRT,SEN,Mauritania,Senegal,OOC,Pikine (within Admin 1: Dakar ) [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,OOC,Podor [Admin 2],U,I,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2025,MRT,SEN,Mauritania,Senegal,OOC,Sinthiou Bamambe [Admin 3: PRP],U,I,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2025,MRT,SEN,Mauritania,Senegal,OOC,Thille-Boubacar [Admin 3: POC],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Amady Ounare [Admin 3: POC],U,I,0,6,6,28,5,0,45,5,5,7,26,5,0,48,93
+2025,MRT,SEN,Mauritania,Senegal,REF,Bakel [Admin 2],U,I,21,49,72,181,24,0,347,15,62,69,136,29,0,311,658
+2025,MRT,SEN,Mauritania,Senegal,REF,Bakel [Admin 3: POC],U,I,0,0,9,8,0,0,17,0,0,7,14,0,0,21,38
+2025,MRT,SEN,Mauritania,Senegal,REF,Bala (within Admin 1: Tambacounda ) [Admin 3: PRP],U,I,0,6,6,15,5,0,32,0,6,10,7,5,0,28,60
+2025,MRT,SEN,Mauritania,Senegal,REF,Balel [Admin 3: POC],U,I,0,5,0,0,0,0,5,0,0,8,0,0,0,8,13
+2025,MRT,SEN,Mauritania,Senegal,REF,Beli Karadji [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Bokeladji [Admin 3: POC],U,I,0,5,8,21,0,0,34,5,5,11,21,0,0,42,76
+2025,MRT,SEN,Mauritania,Senegal,REF,Bokhol [Admin 3: POC],U,I,0,7,11,27,5,0,50,0,5,10,17,5,0,37,87
+2025,MRT,SEN,Mauritania,Senegal,REF,Boki Diave [Admin 3: POC],U,I,7,15,25,77,15,0,139,13,24,19,35,9,0,100,239
+2025,MRT,SEN,Mauritania,Senegal,REF,Boki [Admin 3: POC],U,I,5,6,7,25,0,0,43,5,8,6,19,5,0,43,86
+2025,MRT,SEN,Mauritania,Senegal,REF,Bosseabe [Admin 3: POC],U,I,0,0,7,5,0,0,12,0,0,0,5,0,0,5,17
+2025,MRT,SEN,Mauritania,Senegal,REF,Cascas [Admin 3: POC],U,I,10,11,17,62,14,0,114,14,10,11,67,8,0,110,224
+2025,MRT,SEN,Mauritania,Senegal,REF,Dagana [Admin 2],U,I,0,8,8,33,5,0,54,0,0,11,22,5,0,38,92
+2025,MRT,SEN,Mauritania,Senegal,REF,Dagana [Admin 3: POC],U,I,5,20,19,96,16,0,156,5,16,19,64,16,0,120,276
+2025,MRT,SEN,Mauritania,Senegal,REF,Dakar [Admin 2],U,I,0,0,5,10,0,0,15,0,5,0,12,0,0,17,32
+2025,MRT,SEN,Mauritania,Senegal,REF,Dakar [Admin 3: POC],U,I,0,0,0,13,0,0,13,0,0,0,16,5,0,21,34
+2025,MRT,SEN,Mauritania,Senegal,REF,Dar Salam [Admin 3: PRP],U,I,0,0,0,9,0,0,9,0,5,0,0,0,0,5,14
+2025,MRT,SEN,Mauritania,Senegal,REF,Dara Halaibe [Admin 3: POC],U,I,0,10,14,28,12,0,64,0,6,5,22,5,0,38,102
+2025,MRT,SEN,Mauritania,Senegal,REF,Dendory [Admin 3: PRP],U,I,5,15,16,56,5,0,97,8,22,20,29,7,0,86,183
+2025,MRT,SEN,Mauritania,Senegal,REF,Dispersed in the country / territory,U,I,109,276,157,381,50,0,973,99,335,134,320,54,0,942,1915
+2025,MRT,SEN,Mauritania,Senegal,REF,Dodel [Admin 3: POC],U,I,9,26,33,79,18,0,165,12,20,15,52,8,0,107,272
+2025,MRT,SEN,Mauritania,Senegal,REF,Donaye Taredji [Admin 3: POC],U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2025,MRT,SEN,Mauritania,Senegal,REF,Dounguel [Admin 3: POC],U,I,0,0,6,6,0,0,12,0,0,0,7,5,0,12,24
+2025,MRT,SEN,Mauritania,Senegal,REF,Fanaye Dieri [Admin 3: PRP],U,I,0,0,8,19,5,0,32,0,5,6,12,0,0,23,55
+2025,MRT,SEN,Mauritania,Senegal,REF,Fanaye [Admin 3: POC],U,I,32,63,72,264,48,0,479,32,73,61,154,22,0,342,821
+2025,MRT,SEN,Mauritania,Senegal,REF,Gabou [Admin 3: PRP],U,I,5,11,5,19,0,0,40,0,9,5,11,0,0,25,65
+2025,MRT,SEN,Mauritania,Senegal,REF,Gamadji [Admin 3: POC],U,I,0,9,7,37,5,0,58,6,5,10,29,5,0,55,113
+2025,MRT,SEN,Mauritania,Senegal,REF,Garly [Admin 3: POC],U,I,5,10,16,48,13,0,92,7,13,11,32,6,0,69,161
+2025,MRT,SEN,Mauritania,Senegal,REF,Goudiry [Admin 3: PRP],U,I,0,6,0,0,0,0,6,0,0,0,0,0,0,0,6
+2025,MRT,SEN,Mauritania,Senegal,REF,Gouriki Koliabe [Admin 3: POC],U,I,9,53,37,101,13,0,213,10,35,41,72,8,0,166,379
+2025,MRT,SEN,Mauritania,Senegal,REF,Grand Yof [Admin 3: PRP],U,I,0,0,0,8,0,0,8,0,0,7,6,0,0,13,21
+2025,MRT,SEN,Mauritania,Senegal,REF,Guede [Admin 3: PRP],U,I,0,5,8,25,5,0,43,0,0,9,24,0,0,33,76
+2025,MRT,SEN,Mauritania,Senegal,REF,Guediawaye [Admin 2],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Guediawaye [Admin 3: POC],U,I,0,8,13,40,0,0,61,5,8,9,31,0,0,53,114
+2025,MRT,SEN,Mauritania,Senegal,REF,Gueule Tapee [Admin 3: POC],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Hann-Plage [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Kadiogne [Admin 3: POC],U,I,5,18,19,85,18,0,145,5,17,18,28,16,0,84,229
+2025,MRT,SEN,Mauritania,Senegal,REF,Kanel [Admin 2],U,I,17,47,57,163,16,0,300,19,55,57,103,25,0,259,559
+2025,MRT,SEN,Mauritania,Senegal,REF,Kanel [Admin 3: POC],U,I,10,41,23,84,26,0,184,8,50,21,78,21,0,178,362
+2025,MRT,SEN,Mauritania,Senegal,REF,Keur Massar [Admin 3: POC],U,I,0,8,5,47,7,0,67,0,5,12,35,7,0,59,126
+2025,MRT,SEN,Mauritania,Senegal,REF,Kidira [Admin 3: PRP],U,I,0,0,7,6,0,0,13,0,0,0,8,0,0,8,21
+2025,MRT,SEN,Mauritania,Senegal,REF,Lahel [Admin 3: POC],U,I,5,11,17,30,6,0,69,0,10,5,11,5,0,31,100
+2025,MRT,SEN,Mauritania,Senegal,REF,Madina Ndiatebe [Admin 3: PRP],U,I,0,0,0,7,0,0,7,0,0,0,8,0,0,8,15
+2025,MRT,SEN,Mauritania,Senegal,REF,Malika [Admin 3: PRP],U,I,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Matam [Admin 1],U,I,0,0,0,7,0,0,7,0,0,0,5,0,0,5,12
+2025,MRT,SEN,Mauritania,Senegal,REF,Matam [Admin 2],U,I,15,23,32,109,30,0,209,13,27,26,54,11,0,131,340
+2025,MRT,SEN,Mauritania,Senegal,REF,Matam [Admin 3: POC],U,I,0,0,7,16,5,0,28,0,7,5,10,5,0,27,55
+2025,MRT,SEN,Mauritania,Senegal,REF,Mbane [Admin 3: PRP],U,I,0,5,9,51,18,0,83,0,0,13,61,12,0,86,169
+2025,MRT,SEN,Mauritania,Senegal,REF,Mbour [Admin 3: POC],U,I,0,0,0,9,0,0,9,0,0,0,0,0,0,0,9
+2025,MRT,SEN,Mauritania,Senegal,REF,Medina (within Admin 1: Dakar ) [Admin 3: PRP],U,I,0,0,0,7,0,0,7,0,0,0,5,0,0,5,12
+2025,MRT,SEN,Mauritania,Senegal,REF,Mouderi [Admin 3: PRP],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Nabadji [Admin 3: PRP],U,I,9,27,37,82,17,0,172,14,43,54,63,17,0,191,363
+2025,MRT,SEN,Mauritania,Senegal,REF,Ndiayene [Admin 3: PRP],U,I,5,7,9,46,5,0,72,7,5,7,21,5,0,45,117
+2025,MRT,SEN,Mauritania,Senegal,REF,Ndioum (within Admin 1: Saint Louis ) [Admin 3: PRP],U,I,20,58,71,288,54,0,491,24,55,71,208,33,0,391,882
+2025,MRT,SEN,Mauritania,Senegal,REF,Ngano [Admin 3: POC],U,I,10,22,22,66,7,0,127,5,29,25,45,5,0,109,236
+2025,MRT,SEN,Mauritania,Senegal,REF,Ngaole [Admin 3: POC],U,I,0,13,16,44,9,0,82,5,12,11,33,5,0,66,148
+2025,MRT,SEN,Mauritania,Senegal,REF,Ogo [Admin 3: POC],U,I,14,59,98,230,44,0,445,28,67,77,159,34,0,365,810
+2025,MRT,SEN,Mauritania,Senegal,REF,Orkadiere [Admin 3: POC],U,I,28,112,216,512,70,0,938,29,123,170,483,61,0,866,1804
+2025,MRT,SEN,Mauritania,Senegal,REF,Ornolde [Admin 3: POC],U,I,0,18,21,45,8,0,92,6,22,19,27,5,0,79,171
+2025,MRT,SEN,Mauritania,Senegal,REF,Ouro Sidi [Admin 3: PRP],U,I,6,14,33,72,15,0,140,0,10,27,50,9,0,96,236
+2025,MRT,SEN,Mauritania,Senegal,REF,Ourossogui [Admin 3: POC],U,I,5,13,23,59,16,0,116,0,26,16,54,9,0,105,221
+2025,MRT,SEN,Mauritania,Senegal,REF,Parcelles Assainies [Admin 3: POC],U,I,0,0,0,16,0,0,16,0,0,5,10,0,0,15,31
+2025,MRT,SEN,Mauritania,Senegal,REF,Patte dOie [Admin 3: PRP],U,I,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Pikine (within Admin 1: Dakar ) [Admin 3: PRP],U,I,0,8,9,46,0,0,63,0,7,7,39,8,0,61,124
+2025,MRT,SEN,Mauritania,Senegal,REF,Pikine (within Admin 1: Saint Louis ) [Admin 3: POC],U,I,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Pikine [Admin 2],U,I,0,5,0,13,0,0,18,0,5,5,12,5,0,27,45
+2025,MRT,SEN,Mauritania,Senegal,REF,Podor [Admin 2],U,I,30,88,73,312,51,0,554,23,59,50,177,29,0,338,892
+2025,MRT,SEN,Mauritania,Senegal,REF,Podor [Admin 3: POC],U,I,0,10,13,67,15,0,105,0,14,14,55,18,0,101,206
+2025,MRT,SEN,Mauritania,Senegal,REF,Polel Aoulabe [Admin 3: POC],U,I,0,5,8,13,0,0,26,0,0,10,8,0,0,18,44
+2025,MRT,SEN,Mauritania,Senegal,REF,Polel Diaoube [Admin 3: POC],U,I,0,8,6,16,0,0,30,0,5,6,10,5,0,26,56
+2025,MRT,SEN,Mauritania,Senegal,REF,Richard-Toll [Admin 3: POC],U,I,5,20,16,94,17,0,152,5,17,18,71,5,0,116,268
+2025,MRT,SEN,Mauritania,Senegal,REF,Rong [Admin 3: PRP],U,I,0,0,7,6,0,0,13,0,5,0,8,0,0,13,26
+2025,MRT,SEN,Mauritania,Senegal,REF,Ross-Bethio [Admin 3: POC],U,I,0,0,0,7,0,0,7,0,0,0,9,0,0,9,16
+2025,MRT,SEN,Mauritania,Senegal,REF,Rufisque [Admin 2],U,I,0,0,0,8,0,0,8,0,0,0,8,0,0,8,16
+2025,MRT,SEN,Mauritania,Senegal,REF,Rufisque [Admin 3: PRP],U,I,0,0,0,13,0,0,13,0,5,0,5,5,0,15,28
+2025,MRT,SEN,Mauritania,Senegal,REF,S.I.C.A.P. Liberte V [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Saint Louis [Admin 1],U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Saint-Louis [Admin 3: POC],U,I,0,7,0,23,5,0,35,0,7,7,24,8,0,46,81
+2025,MRT,SEN,Mauritania,Senegal,REF,Salde [Admin 3: PRP],U,I,5,5,9,46,10,0,75,0,5,10,24,5,0,44,119
+2025,MRT,SEN,Mauritania,Senegal,REF,Samba Niame [Admin 3: POC],U,I,5,8,5,16,0,0,34,5,9,7,17,0,0,38,72
+2025,MRT,SEN,Mauritania,Senegal,REF,Sinhtiou Bamambe [Admin 3: POC],U,I,0,7,0,13,0,0,20,0,5,0,7,0,0,12,32
+2025,MRT,SEN,Mauritania,Senegal,REF,Sinthiou Bamambe [Admin 3: PRP],U,I,0,7,15,36,0,0,58,0,12,18,31,5,0,66,124
+2025,MRT,SEN,Mauritania,Senegal,REF,Tambacounda [Admin 1],U,I,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Tambacounda [Admin 2],U,I,0,0,0,0,0,0,0,0,0,0,0,5,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Thiaroye [Admin 3: POC],U,I,0,0,7,15,5,0,27,0,5,6,26,0,0,37,64
+2025,MRT,SEN,Mauritania,Senegal,REF,Thies [Admin 2],U,I,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2025,MRT,SEN,Mauritania,Senegal,REF,Thies [Admin 3: PRP],U,I,0,5,0,8,0,0,13,0,0,0,10,5,0,15,28
+2025,MRT,SEN,Mauritania,Senegal,REF,Thille-Boubacar [Admin 3: POC],U,I,10,68,73,298,50,0,499,11,66,68,196,33,0,374,873
+2025,MRT,SEN,Mauritania,Senegal,REF,Thiès [Admin 3: POC],U,I,0,0,0,6,0,0,6,0,0,0,8,0,0,8,14
+2025,MRT,SEN,Mauritania,Senegal,REF,Tivaouane Peul [Admin 3: PRP],U,I,0,0,5,5,0,0,10,0,6,0,0,0,0,6,16
+2025,MRT,SEN,Mauritania,Senegal,REF,Velingara (within Admin 1: Matam ) [Admin 3: PRP],U,I,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2025,MRT,SEN,Mauritania,Senegal,REF,Waounde [Admin 3: POC],U,I,0,0,8,6,0,0,14,0,0,8,10,0,0,18,32
+2025,MRT,SEN,Mauritania,Senegal,REF,Yeumbeul [Admin 3: PRP],U,I,0,0,0,8,0,0,8,0,0,0,5,0,0,5,13
+2025,MRT,ESP,Mauritania,Spain,ASY,Dispersed in the country / territory,U,I,40,13,7,525,0,0,585,22,22,27,1275,9,0,1355,1940
+2025,MRT,ESP,Mauritania,Spain,REF,Dispersed in the country / territory,U,I,5,5,6,34,0,0,50,5,6,8,48,0,0,67,117
+2025,MRT,SWE,Mauritania,Sweden,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2025,MRT,CHE,Mauritania,Switzerland,REF,Dispersed in the country / territory,V,U,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2025,MRT,TUN,Mauritania,Tunisia,REF,Tunis [Admin 1],U,I,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6
+2025,MRT,USA,Mauritania,United States of America,ASY,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17825
+2025,MRT,USA,Mauritania,United States of America,REF,Dispersed in the country / territory,V,I,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1049

@@ -1,0 +1,4 @@
+ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
+MRT,661764,Malaria prevalence according to RDT,1.1,1,MR,Mauritania,2020,MR2020DHS,ML_PMAL_C_RDT,125136010,I,1000,0,Total,Total,0,,1,1,MLPMALCRDT,,2019-21,DHS,10083,10040,0.7,1.5,
+MRT,661762,Number of children 6-59 months tested using RDT,10083,0,MR,Mauritania,2020,MR2020DHS,ML_PMAL_C_NMR,125136060,D,1000,0,Total,Total,0,,1,1,MLPMALCNMR,,2019-21,DHS,,10040,,,
+MRT,331714,Number of children 6-59 months tested using RDT (unweighted),10040,0,MR,Mauritania,2020,MR2020DHS,ML_PMAL_C_UNR,125136070,U,1000,0,Total,Total,0,,1,1,MLPMALCUNR,,2019-21,DHS,10083,,,,

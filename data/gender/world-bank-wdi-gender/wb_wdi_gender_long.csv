@@ -1,0 +1,41 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_GD_WBL_OVL_ENF,GD.WBL.OVL.ENF,WBL: Enforcement Perceptions Index (scale 0-100),Score,_T,_T,_T,A,2025,36.48,A,0
+WB_WDI_GD_WBL_OVL_LAW,GD.WBL.OVL.LAW,WBL: Legal Framework Index (scale 0-100),Score,_T,_T,_T,A,2025,33.5,A,0
+WB_WDI_GD_WBL_OVL_SFR,GD.WBL.OVL.SFR,WBL: Supportive Framework Index (scale 0-100),Score,_T,_T,_T,A,2025,31.45,A,0
+WB_WDI_SG_DMK_ALLD_FN_ZS,SG.DMK.ALLD.FN.ZS,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)",% of women ages 15-49,_T,_T,_T,A,2021,55.1,A,0
+WB_WDI_SG_DMK_SRCR_FN_ZS,SG.DMK.SRCR.FN.ZS,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care  (% of women age 15-49)",% of women ages 15-49,_T,_T,_T,A,2021,25.3,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,1997,1.265823,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,1998,3.797468,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,1999,3.797468,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2000,3.797468,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2003,3.703704,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2004,3.703704,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2006,17.894737,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2007,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2008,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2009,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2010,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2011,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2012,22.105263,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2014,25.170068,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2015,25.170068,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2016,25.170068,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2017,25.170068,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2018,20.261438,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2019,20.261438,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2020,20.261438,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2021,20.261438,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2022,20.261438,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2023,23.295455,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2024,23.295455,A,0
+WB_WDI_SG_GEN_PARL_ZS,SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),% of single or lower chamber seats,_T,_T,_T,A,2025,23.295455,A,0
+WB_WDI_SG_VAW_ARGU_ZS,SG.VAW.ARGU.ZS,Women who believe a husband is justified in beating his wife when she argues with him (%),% of women ages 15-49,_T,_T,_T,A,2021,16.2,A,0
+WB_WDI_SG_VAW_BURN_ZS,SG.VAW.BURN.ZS,Women who believe a husband is justified in beating his wife when she burns the food (%),% of women ages 15-49,_T,_T,_T,A,2021,7.0,A,0
+WB_WDI_SG_VAW_GOES_ZS,SG.VAW.GOES.ZS,Women who believe a husband is justified in beating his wife when she goes out without telling him (%),% of women ages 15-49,_T,_T,_T,A,2021,16.7,A,0
+WB_WDI_SG_VAW_NEGL_ZS,SG.VAW.NEGL.ZS,Women who believe a husband is justified in beating his wife when she neglects the children (%),% of women ages 15-49,_T,_T,_T,A,2021,16.3,A,0
+WB_WDI_SG_VAW_REAS_ZS,SG.VAW.REAS.ZS,Women who believe a husband is justified in beating his wife (any of five reasons) (%),% of women ages 15-49,_T,_T,_T,A,2021,27.1,A,0
+WB_WDI_SG_VAW_REFU_ZS,SG.VAW.REFU.ZS,Women who believe a husband is justified in beating his wife when she refuses sex with him (%),% of women ages 15-49,_T,_T,_T,A,2021,20.2,A,0
+WB_WDI_SP_M15_2024_FE_ZS,SP.M15.2024.FE.ZS,Women who were first married by age 15 (% of women ages 20-24),% of women ages 20-24,_T,Y20T24,_T,A,2001,20.8,A,0
+WB_WDI_SP_M15_2024_FE_ZS,SP.M15.2024.FE.ZS,Women who were first married by age 15 (% of women ages 20-24),% of women ages 20-24,_T,Y20T24,_T,A,2021,15.5,A,0
+WB_WDI_SP_M18_2024_FE_ZS,SP.M18.2024.FE.ZS,Women who were first married by age 18 (% of women ages 20-24),% of women ages 20-24,_T,Y20T24,_T,A,2001,37.2,A,0
+WB_WDI_SP_M18_2024_FE_ZS,SP.M18.2024.FE.ZS,Women who were first married by age 18 (% of women ages 20-24),% of women ages 20-24,_T,Y20T24,_T,A,2021,36.6,A,0

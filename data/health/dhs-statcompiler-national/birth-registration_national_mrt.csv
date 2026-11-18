@@ -1,0 +1,6 @@
+ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
+MRT,735956,Children who had a birth certificate,35.8,1,MR,Mauritania,2020,MR2020DHS,CP_BREG_C_CRT,220906010,I,1000,0,Total,Total,0,,1,1,CPBREGCCRT,,2019-21,DHS,11978,11933,,,
+MRT,735955,Children who did not have a birth certificate but were registered,9,1,MR,Mauritania,2020,MR2020DHS,CP_BREG_C_NCT,220906020,I,1000,0,Total,Total,0,,1,1,CPBREGCNCT,,2019-21,DHS,11978,11933,,,
+MRT,735957,Children registered,44.8,1,MR,Mauritania,2020,MR2020DHS,CP_BREG_C_REG,220906030,I,1000,0,Total,Total,0,,1,1,CPBREGCREG,,2019-21,DHS,11978,11933,,,
+MRT,741509,Number of children under 5,11978,0,MR,Mauritania,2020,MR2020DHS,CP_BREG_C_NUM,220906040,D,1000,0,Total,Total,0,,1,1,CPBREGCNUM,,2019-21,DHS,,11933,,,
+MRT,453264,Number of children under 5 (unweighted),11933,0,MR,Mauritania,2020,MR2020DHS,CP_BREG_C_UNW,220906050,U,1000,0,Total,Total,0,,1,1,CPBREGCUNW,,2019-21,DHS,11978,,,,

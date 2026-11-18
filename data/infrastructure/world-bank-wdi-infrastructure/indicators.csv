@@ -1,0 +1,5 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_WDI_IE_PPI_ICTI_CD,IE.PPI.ICTI.CD,Investment in ICT with private participation (current US$),USD current [USD_CUR],Annual,,World Bank (WB); Private Participation in Infrastructure Project Database,CC BY 4.0,2,2001,2012
+WB_WDI_IE_PPI_TRAN_CD,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),USD current [USD_CUR],Annual,,World Bank (WB); Private Participation in Infrastructure Project Database,CC BY 4.0,1,2019,2019
+WB_WDI_IE_PPN_ICTI_CD,IE.PPN.ICTI.CD,Public private partnerships investment in ICT (current US$),USD current,Annual,,World Bank (WB); Private Participation in Infrastructure Project Database,CC BY 4.0,1,2012,2012
+WB_WDI_IE_PPN_TRAN_CD,IE.PPN.TRAN.CD,Public private partnerships investment in transport (current US$),USD current [USD_CUR],Annual,,World Bank (WB); Private Participation in Infrastructure Project Database,CC BY 4.0,1,2019,2019

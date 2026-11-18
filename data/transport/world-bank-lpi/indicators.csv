@@ -1,0 +1,8 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+LPI_CTMS,LPI_CTMS,Logistics Performance Index (LPI): Customs and other border control component,Score,Biennial,,,CC BY 4.0,12,2007,2023
+LPI_INF,LPI_INF,Logistics Performance Index (LPI): Trade- and transport-related infrastructure component,Score,Biennial,,,CC BY 4.0,12,2007,2023
+LPI_IS,LPI_IS,Logistics Performance Index (LPI): International shipping component,Score,Biennial,,,CC BY 4.0,12,2007,2023
+LPI_LOG,LPI_LOG,Logistics Performance Index (LPI): Quality of logistics services component,Score,Biennial,,,CC BY 4.0,12,2007,2023
+LPI_OVR,LPI_OVR,Logistics Performance Index (LPI) Overall Score,Score,Biennial,,,CC BY 4.0,106,2007,2023
+LPI_TML,LPI_TML,Logistics Performance Index (LPI): Timeliness of shipments component,Score,Biennial,,,CC BY 4.0,12,2007,2023
+LPI_TRC,LPI_TRC,Logistics Performance Index (LPI): Tracking and tracing component,Score,Biennial,,,CC BY 4.0,12,2007,2023

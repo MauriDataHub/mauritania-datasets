@@ -1,0 +1,587 @@
+dataflow,label,rows
+DF_EAP_2EAP_SEX_AGE_NB,"Labour force by sex and age -- ILO modelled estimates, Nov. 2025",1026
+DF_EAP_2WAP_SEX_AGE_RT,"Labour force participation rate by sex and age -- ILO modelled estimates, Nov. 2025",1026
+DF_EAP_3EAP_SEX_AGE_EDU_NB,"Youth labour force by sex, age and education",282
+DF_EAP_3EAP_SEX_AGE_GEO_NB,"Youth labour force by sex, age and rural / urban areas",144
+DF_EAP_3EAP_SEX_AGE_STU_NB,"Youth labour force by sex, age and school attendance status",168
+DF_EAP_3WAP_SEX_AGE_EDU_RT,"Youth labour force participation rate by sex, age and education",279
+DF_EAP_3WAP_SEX_AGE_GEO_RT,"Youth labour force participation rate by sex, age and rural / urban areas",144
+DF_EAP_3WAP_SEX_AGE_STU_RT,"Youth labour force participation rate by sex, age and school attendance status",168
+DF_EAP_5EAP_SEX_AGE_NB,Labour force by sex and age -- 19th ICLS,12
+DF_EAP_5WAP_SEX_AGE_RT,Labour force participation rate by sex and age -- 19th ICLS,9
+DF_EAP_DWAP_SEX_AGE_CCT_RT,"Labour force participation rate by sex, age and citizenship",240
+DF_EAP_DWAP_SEX_AGE_EDU_RT,"Labour force participation rate by sex, age and education",5188
+DF_EAP_DWAP_SEX_AGE_GEO_RT,"Labour force participation rate by sex, age and rural / urban areas",1152
+DF_EAP_DWAP_SEX_AGE_MTS_RT,"Labour force participation rate by sex, age and marital status",2640
+DF_EAP_DWAP_SEX_AGE_RT,Labour force participation rate by sex and age,678
+DF_EAP_DWAP_SEX_EDU_CCT_RT,"Labour force participation rate by sex, education and citizenship",162
+DF_EAP_DWAP_SEX_EDU_GEO_RT,"Labour force participation rate by sex, education and rural / urban areas",795
+DF_EAP_DWAP_SEX_EDU_MTS_RT,"Labour force participation rate by sex, education and marital status",1723
+DF_EAP_DWAP_SEX_EDU_RT,Labour force participation rate by sex and education,387
+DF_EAP_DWAP_SEX_GEO_MTS_RT,"Labour force participation rate by sex, rural / urban area and marital status",576
+DF_EAP_DWAP_SEX_GEO_RT,Labour force participation rate by sex and rural / urban areas,72
+DF_EAP_DWAP_SEX_MTS_RT,Labour force participation rate by sex and marital status,192
+DF_EAP_TEAP_SEX_AGE_CCT_NB,"Labour force by sex, age and citizenship",240
+DF_EAP_TEAP_SEX_AGE_EDU_NB,"Labour force by sex, age and education",5194
+DF_EAP_TEAP_SEX_AGE_GEO_NB,"Labour force by sex, age and rural / urban areas",1152
+DF_EAP_TEAP_SEX_AGE_MTS_NB,"Labour force by sex, age and marital status",2640
+DF_EAP_TEAP_SEX_AGE_NB,Labour force by sex and age,678
+DF_EAP_TEAP_SEX_EDU_CCT_NB,"Labour force by sex, education and citizenship",162
+DF_EAP_TEAP_SEX_EDU_GEO_NB,"Labour force by sex, education and rural / urban areas",795
+DF_EAP_TEAP_SEX_EDU_MTS_NB,"Labour force by sex, education and marital status",1723
+DF_EAP_TEAP_SEX_EDU_NB,Labour force by sex and education,387
+DF_EAP_TEAP_SEX_GEO_MTS_NB,"Labour force by sex, rural / urban area and marital status",576
+DF_EAP_TEAP_SEX_GEO_NB,Labour force by sex and rural / urban areas,72
+DF_EAP_TEAP_SEX_MTS_NB,Labour force by sex and marital status,192
+DF_EES_3EES_SEX_AGE_JBC_NB,"Youth employees by sex, age and type of job contract",168
+DF_EES_PUBL_SEX_JBC_NB,Public sector employees by sex and type of job contract,21
+DF_EES_TEES_AGE_EC2_NB,Employees by age and economic activity - ISIC level 2,405
+DF_EES_TEES_SEX_AGE_ECO_NB,"Employees by sex, age and economic activity",2347
+DF_EES_TEES_SEX_AGE_EDU_NB,"Employees by sex, age and education",5131
+DF_EES_TEES_SEX_AGE_GEO_NB,"Employees by sex, age and rural / urban areas",1152
+DF_EES_TEES_SEX_AGE_INS_NB,"Employees by sex, age and public/private sector",432
+DF_EES_TEES_SEX_AGE_JBC_NB,"Employees by sex, age and type of job contract",1024
+DF_EES_TEES_SEX_AGE_MTS_NB,"Employees by sex, age and marital status",2574
+DF_EES_TEES_SEX_AGE_NB,Employees by sex and age,672
+DF_EES_TEES_SEX_EC2_NB,Employees by sex and economic activity - ISIC level 2,474
+DF_EES_TEES_SEX_ECO_EDU_NB,"Employees by sex, economic activity and education",3081
+DF_EES_TEES_SEX_ECO_EST_NB,"Employees by sex, economic activity and establishment size",846
+DF_EES_TEES_SEX_ECO_GEO_NB,"Employees by sex, economic activity and rural / urban areas",234
+DF_EES_TEES_SEX_ECO_INS_NB,"Employees by sex, economic activity and public/private sector",633
+DF_EES_TEES_SEX_ECO_MTS_NB,"Employees by sex, economic activity and marital status",612
+DF_EES_TEES_SEX_ECO_NB,Employees by sex and economic activity,213
+DF_EES_TEES_SEX_EDU_GEO_NB,"Employees by sex, education and rural / urban areas",780
+DF_EES_TEES_SEX_EDU_MTS_NB,"Employees by sex, education and marital status",1680
+DF_EES_TEES_SEX_EDU_NB,Employees by sex and education,384
+DF_EES_TEES_SEX_EST_GEO_NB,"Employees by sex, establishment size and rural / urban areas",234
+DF_EES_TEES_SEX_EST_MTS_NB,"Employees by sex, establishment size and marital status",615
+DF_EES_TEES_SEX_EST_NB,Employees by sex and establishment size,78
+DF_EES_TEES_SEX_GEO_MTS_NB,"Employees by sex, rural / urban areas and marital status",573
+DF_EES_TEES_SEX_GEO_NB,Employees by sex and rural / urban areas,72
+DF_EES_TEES_SEX_HOW_NB,Employees by sex and weekly hours actually worked,201
+DF_EES_TEES_SEX_IFL_EC2_NB,"Employees by sex, informal/formal job and economic activity - ISIC level 2",1245
+DF_EES_TEES_SEX_IFL_ECO_NB,"Employees by sex, informal/formal job and economic activity",630
+DF_EES_TEES_SEX_IFL_EDU_NB,"Employees by sex, informal/formal job and education",792
+DF_EES_TEES_SEX_IFL_GEO_NB,"Employees by sex, informal/formal job and rural / urban areas",216
+DF_EES_TEES_SEX_IFL_INS_NB,"Employees by sex, informal/formal job and public/private sector",81
+DF_EES_TEES_SEX_IFL_MTS_NB,"Employees by sex, informal/formal job and marital status",468
+DF_EES_TEES_SEX_IND_JBC_NB,Employees by ILO sector and sex and type of job contract,471
+DF_EES_TEES_SEX_INS_EDU_NB,"Employees by sex, public/private sector and education",432
+DF_EES_TEES_SEX_INS_GEO_NB,"Employees by sex, public/private sector and rural/urban areas",81
+DF_EES_TEES_SEX_INS_MTS_NB,"Employees by sex, public/private sector and marital status",216
+DF_EES_TEES_SEX_INS_NB,Employees by sex and public/private sector,27
+DF_EES_TEES_SEX_MJH_NB,Employees by sex and multiple-job holding,78
+DF_EES_TEES_SEX_MTS_NB,Employees by sex and marital status,192
+DF_EES_XPLV_SEX_RT,Share of employees with access to parental leave by sex,2
+DF_EES_XTMP_SEX_RT,Share of temporary employees by sex,12
+DF_EIP_2EET_SEX_NB,"NEET: Youth not in employment, education or training by sex -- ILO modelled estimates, Nov. 2025",69
+DF_EIP_2EET_SEX_RT,"NEET rate: Share of youth not in employment, education or training by sex -- ILO modelled estimates, Nov. 2025",69
+DF_EIP_2EIP_SEX_AGE_NB,"Persons outside the labour force by sex and age -- ILO modelled estimates, Nov. 2025",1026
+DF_EIP_2WAP_SEX_AGE_RT,"Inactivity rate by sex and age -- ILO modelled estimates, Nov. 2025",1026
+DF_EIP_3DIS_SEX_AGE_GEO_NB,"Youth discouraged jobseekers by sex, age and rural / urban areas",108
+DF_EIP_3EET_SEX_AGE_NB,"NEET: Youth not in employment, education or training by sex and age",48
+DF_EIP_3EET_SEX_AGE_RT,"NEET rate: Share of youth not in employment, education or training by sex and age",48
+DF_EIP_3EIP_SEX_AGE_EDU_NB,"Youth outside the labour force by sex, age and education",288
+DF_EIP_3EIP_SEX_AGE_GEO_NB,"Youth outside the labour force by sex, age and rural / urban areas",144
+DF_EIP_3EIP_SEX_AGE_STU_NB,"Youth outside the labour force by sex, age and school attendance status",168
+DF_EIP_3WAP_SEX_AGE_EDU_RT,"Youth inactivity rate by sex, age and education",286
+DF_EIP_3WAP_SEX_AGE_GEO_RT,"Youth inactivity rate by sex, age and rural / urban areas",144
+DF_EIP_3WAP_SEX_AGE_STU_RT,"Youth inactivity rate by sex, age and school attendance status",168
+DF_EIP_5EET_SEX_NB,"NEET: Youth not in employment, education or training by sex -- 19th ICLS",3
+DF_EIP_5EET_SEX_RT,"NEET rate: Share of youth not in employment, education or training by sex -- 19th ICLS",3
+DF_EIP_5EIP_SEX_AGE_NB,Persons outside the labour force by sex and age -- 19th ICLS,12
+DF_EIP_5PLF_SEX_AGE_NB,Potential labour force by sex and age -- 19th ICLS,12
+DF_EIP_5WAP_SEX_AGE_RT,Inactivity rate by sex and age -- 19th ICLS,9
+DF_EIP_DWAP_SEX_AGE_CCT_RT,"Inactivity rate by sex, age and citizenship",243
+DF_EIP_DWAP_SEX_AGE_EDU_RT,"Inactivity rate by sex, age and education",5062
+DF_EIP_DWAP_SEX_AGE_GEO_RT,"Inactivity rate by sex, age and rural / urban areas",1152
+DF_EIP_DWAP_SEX_AGE_MTS_RT,"Inactivity rate by sex, age and marital status",2643
+DF_EIP_DWAP_SEX_AGE_RT,Inactivity rate by sex and age,675
+DF_EIP_DWAP_SEX_EDU_CCT_RT,"Inactivity rate by sex, education and citizenship",156
+DF_EIP_DWAP_SEX_EDU_GEO_RT,"Inactivity rate by sex, education and rural / urban areas",789
+DF_EIP_DWAP_SEX_EDU_MTS_RT,"Inactivity rate by sex, education and marital status",1707
+DF_EIP_DWAP_SEX_EDU_RT,Inactivity rate by sex and education,381
+DF_EIP_DWAP_SEX_GEO_MTS_RT,"Inactivity rate by sex, rural / urban area and marital status",576
+DF_EIP_DWAP_SEX_GEO_RT,Inactivity rate by sex and rural / urban areas,72
+DF_EIP_DWAP_SEX_MTS_RT,Inactivity rate by sex and marital status,192
+DF_EIP_NEET_SEX_AGE_NB,"NEET: Youth not in employment, education or training by sex and age",27
+DF_EIP_NEET_SEX_AGE_RT,"NEET rate: Share of youth not in employment, education or training by sex and age",27
+DF_EIP_NEET_SEX_CCT_NB,"NEET: Youth not in employment, education or training by sex and citizenship",27
+DF_EIP_NEET_SEX_CCT_RT,"NEET rate: Share of youth not in employment, education or training by sex and citizenship",27
+DF_EIP_NEET_SEX_EDU_NB,"NEET: Youth not in employment, education or training by sex and education",72
+DF_EIP_NEET_SEX_EDU_RT,"NEET rate: Share of youth not in employment, education or training by sex and education",72
+DF_EIP_NEET_SEX_GEO_NB,"NEET: Youth not in employment, education or training by sex and rural / urban areas",36
+DF_EIP_NEET_SEX_GEO_RT,"NEET rate: Share of youth not in employment, education or training by sex and rural / urban areas",36
+DF_EIP_NEET_SEX_MTS_NB,"NEET: Youth not in employment, education or training by sex and marital status",96
+DF_EIP_NEET_SEX_MTS_RT,"NEET rate: Share of youth not in employment, education or training by sex and marital status",93
+DF_EIP_NEET_SEX_NB,"NEET: Youth not in employment, education or training by sex",24
+DF_EIP_NEET_SEX_RT,"NEET rate: Share of youth not in employment, education or training by sex",24
+DF_EIP_RCAR_SEX_AGE_RT,Share of persons outside the labour force due to care responsibilities by sex and age,45
+DF_EIP_RCAR_SEX_EDU_RT,Share of persons outside the labour force due to care responsibilities by sex and education,54
+DF_EIP_RCAR_SEX_GEO_RT,Share of persons outside the labour force due to care responsibilities by sex and rural / urban areas,27
+DF_EIP_RCAR_SEX_RT,Share of persons outside the labour force due to care responsibilities by sex,9
+DF_EIP_TEIP_SEX_AGE_CCT_NB,"Persons outside the labour force by sex, age and citizenship",243
+DF_EIP_TEIP_SEX_AGE_EDU_NB,"Persons outside the labour force by sex, age and education",5062
+DF_EIP_TEIP_SEX_AGE_GEO_NB,"Persons outside the labour force by sex, age and rural / urban areas",1152
+DF_EIP_TEIP_SEX_AGE_MTS_NB,"Persons outside the labour force by sex, age and marital status",2643
+DF_EIP_TEIP_SEX_AGE_NB,Persons outside the labour force by sex and age,675
+DF_EIP_TEIP_SEX_EDU_CCT_NB,"Persons outside the labour force by sex, education and citizenship",156
+DF_EIP_TEIP_SEX_EDU_GEO_NB,"Persons outside the labour force by sex, education and rural / urban areas",789
+DF_EIP_TEIP_SEX_EDU_MTS_NB,"Persons outside the labour force by sex, education and marital status",1707
+DF_EIP_TEIP_SEX_EDU_NB,Persons outside the labour force by sex and education,381
+DF_EIP_TEIP_SEX_GEO_MTS_NB,"Persons outside the labour force by sex, rural / urban area and marital status",576
+DF_EIP_TEIP_SEX_GEO_NB,Persons outside the labour force by sex and rural / urban areas,72
+DF_EIP_TEIP_SEX_MTS_NB,Persons outside the labour force by sex and marital status,192
+DF_EIP_WDIS_SEX_AGE_EDU_NB,"Discouraged jobseekers by sex, age and education",918
+DF_EIP_WDIS_SEX_AGE_GEO_NB,"Discouraged jobseekers by sex, age and rural / urban areas",546
+DF_EIP_WDIS_SEX_AGE_MTS_NB,"Discouraged jobseekers by sex, age and marital status",540
+DF_EIP_WDIS_SEX_AGE_NB,Discouraged jobseekers by sex and age,330
+DF_EIP_WDIS_SEX_EDU_GEO_NB,"Discouraged jobseekers by sex, education and rural / urban areas",354
+DF_EIP_WDIS_SEX_EDU_MTS_NB,"Discouraged jobseekers by sex, education and marital status",366
+DF_EIP_WDIS_SEX_EDU_NB,Discouraged jobseekers by sex and education,312
+DF_EIP_WDIS_SEX_GEO_MTS_NB,"Discouraged jobseekers by sex, rural / urban area and marital status",189
+DF_EIP_WDIS_SEX_GEO_NB,Discouraged jobseekers by sex and rural / urban areas,63
+DF_EIP_WDIS_SEX_MTS_NB,Discouraged jobseekers by sex and marital status,108
+DF_EIP_XJOB_SEX_NB,Potential labour force and willing non-jobseekers,21
+DF_EIP_XJOB_SEX_RT,Potential labour force and willing non-jobseekers rate,21
+DF_EIP_XPLF_SEX_AGE_EDU_NB,"Potential labour force by sex, age and education",960
+DF_EIP_XPLF_SEX_AGE_GEO_NB,"Potential labour force by sex, age and rural / urban areas",546
+DF_EIP_XPLF_SEX_AGE_MTS_NB,"Potential labour force by sex, age and marital status",540
+DF_EIP_XPLF_SEX_AGE_NB,Potential labour force by sex and age,330
+DF_EIP_XPLF_SEX_EDU_GEO_NB,"Potential labour force by sex, education and rural / urban areas",363
+DF_EIP_XPLF_SEX_EDU_MTS_NB,"Potential labour force by sex, education and marital status",372
+DF_EIP_XPLF_SEX_EDU_NB,Potential labour force by sex and education,318
+DF_EIP_XPLF_SEX_GEO_MTS_NB,"Potential labour force by sex, rural / urban area and marital status",189
+DF_EIP_XPLF_SEX_GEO_NB,Potential labour force by sex and rural / urban areas,63
+DF_EIP_XPLF_SEX_MTS_NB,Potential labour force by sex and marital status,108
+DF_EIP_XPLF_SEX_NB,Potential labour force by sex,21
+DF_EMP_2EMP_AGE_STE_NB,"Employment by age and status in employment -- ILO modelled estimates, Nov. 2025",840
+DF_EMP_2EMP_SEX_AGE_CLA_NB,"Employment by sex, age and economic class -- ILO modelled estimates, Nov. 2025",1794
+DF_EMP_2EMP_SEX_AGE_NB,"Employment by sex and age -- ILO modelled estimates, Nov. 2025",333
+DF_EMP_2EMP_SEX_ECO_NB,"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2025",2835
+DF_EMP_2EMP_SEX_OCU_NB,"Employment by sex and occupation -- ILO modelled estimates, Nov. 2025",945
+DF_EMP_2EMP_SEX_STE_NB,"Employment by sex and status in employment -- ILO modelled estimates, Nov. 2025",840
+DF_EMP_2FTE_SEX_JBF_NB,"Full-time equivalent employment by sex -- ILO modelled estimates, Nov. 2025",138
+DF_EMP_2TRU_SEX_AGE_NB,"Time-related underemployment by sex and age -- ILO modelled estimates, Nov. 2025",207
+DF_EMP_2TRU_SEX_AGE_RT,"Time-related underemployment rate by sex and age -- ILO modelled estimates, Nov. 2025",207
+DF_EMP_2WAP_SEX_AGE_RT,"Employment-to-population ratio by sex and age -- ILO modelled estimates, Nov. 2025",333
+DF_EMP_3EMP_SEX_AGE_ECO_NB,"Youth employment by sex, age and economic activity",792
+DF_EMP_3EMP_SEX_AGE_EDU_NB,"Youth employment by sex, age and education",276
+DF_EMP_3EMP_SEX_AGE_GEO_NB,"Youth employment by sex, age and rural / urban areas",144
+DF_EMP_3EMP_SEX_AGE_HOW_NB,"Youth employment by sex, age and weekly hours actually worked",390
+DF_EMP_3EMP_SEX_AGE_JBT_NB,"Youth employment by sex, age and working time arrangement",144
+DF_EMP_3EMP_SEX_AGE_STE_NB,"Youth employment by sex, age and status in employment",489
+DF_EMP_3EMP_SEX_AGE_STU_NB,"Youth employment by sex, age and school attendance status",168
+DF_EMP_3IFL_SEX_AGE_RT,Youth informal employment rate by sex and age,48
+DF_EMP_3TRU_SEX_AGE_GEO_NB,"Youth time-related underemployment by sex, age and rural / urban areas",36
+DF_EMP_3TRU_SEX_AGE_GEO_RT,"Youth time-related underemployment rate by sex, age and rural / urban areas",36
+DF_EMP_3WAP_SEX_AGE_EDU_RT,"Youth employment-to-population ratio by sex, age and education",274
+DF_EMP_3WAP_SEX_AGE_GEO_RT,"Youth employment-to-population ratio by sex, age and rural / urban areas",144
+DF_EMP_3WAP_SEX_AGE_STU_RT,"Youth employment-to-population ratio by sex, age and school attendance status",167
+DF_EMP_5EMP_SEX_AGE_NB,Employment by sex and age -- 19th ICLS,12
+DF_EMP_5EMP_SEX_ECO_NB,Employment by sex and economic activity -- 19th ICLS,36
+DF_EMP_5NIF_SEX_AGE_NB,Informal employment by sex and age -- 19th ICLS,12
+DF_EMP_5NIF_SEX_AGE_RT,Informal employment rate by sex and age -- 19th ICLS,9
+DF_EMP_5NIF_SEX_ECO_RT,Informal employment rate by sex and economic activity -- 19th ICLS,15
+DF_EMP_5PIF_SEX_AGE_NB,Employment outside the formal sector by sex and age -- 19th ICLS,12
+DF_EMP_5PIF_SEX_AGE_RT,Share of employment outside the formal sector by sex and age -- 19th ICLS,9
+DF_EMP_5WAP_SEX_AGE_RT,Employment-to-population ratio by sex and age -- 19th ICLS,9
+DF_EMP_DWAP_SEX_AGE_CCT_RT,"Employment-to-population ratio by sex, age and citizenship",240
+DF_EMP_DWAP_SEX_AGE_EDU_RT,"Employment-to-population ratio by sex, age and education",5178
+DF_EMP_DWAP_SEX_AGE_GEO_RT,"Employment-to-population ratio by sex, age and rural / urban areas",1152
+DF_EMP_DWAP_SEX_AGE_MTS_RT,"Employment-to-population ratio by sex, age and marital status",2640
+DF_EMP_DWAP_SEX_AGE_RT,Employment-to-population ratio by sex and age,675
+DF_EMP_DWAP_SEX_EDU_CCT_RT,"Employment-to-population ratio by sex, education and citizenship",162
+DF_EMP_DWAP_SEX_EDU_GEO_RT,"Employment-to-population ratio by sex, education and rural / urban areas",794
+DF_EMP_DWAP_SEX_EDU_MTS_RT,"Employment-to-population ratio by sex, education and marital status",1712
+DF_EMP_DWAP_SEX_EDU_RT,Employment-to-population ratio by sex and education,386
+DF_EMP_DWAP_SEX_GEO_MTS_RT,"Employment-to-population ratio by sex, rural / urban area and marital status",576
+DF_EMP_DWAP_SEX_GEO_RT,Employment-to-population ratio by sex and rural / urban areas,72
+DF_EMP_DWAP_SEX_MTS_RT,Employment-to-population ratio by sex and marital status,192
+DF_EMP_NIFL_AGE_EC2_NB,Informal employment by age and economic activity - ISIC level 2,429
+DF_EMP_NIFL_AGE_EC2_RT,Informal employment rate by age and economic activity - ISIC level 2,429
+DF_EMP_NIFL_SEX_AGE_ECO_NB,"Informal employment by sex, age and economic activity",2405
+DF_EMP_NIFL_SEX_AGE_ECO_RT,"Informal employment rate by sex, age and economic activity",2096
+DF_EMP_NIFL_SEX_AGE_EDU_NB,"Informal employment by sex, age and education",5052
+DF_EMP_NIFL_SEX_AGE_EDU_RT,"Informal employment rate by sex, age and education",4507
+DF_EMP_NIFL_SEX_AGE_GEO_NB,"Informal employment by sex, age and rural / urban areas",1152
+DF_EMP_NIFL_SEX_AGE_GEO_RT,"Informal employment rate by sex, age and rural / urban areas",1080
+DF_EMP_NIFL_SEX_AGE_INS_NB,"Informal employment by sex, age and public/private sector",432
+DF_EMP_NIFL_SEX_AGE_INS_RT,"Informal employment rate by sex, age and public/private sector",405
+DF_EMP_NIFL_SEX_AGE_JBT_NB,"Informal employment by sex, age and working time arrangement",1152
+DF_EMP_NIFL_SEX_AGE_JBT_RT,"Informal employment rate by sex, age and working time arrangement",1080
+DF_EMP_NIFL_SEX_AGE_MTS_NB,"Informal employment by sex, age and marital status",2640
+DF_EMP_NIFL_SEX_AGE_MTS_RT,"Informal employment rate by sex, age and marital status",2427
+DF_EMP_NIFL_SEX_AGE_NB,Informal employment by sex and age,672
+DF_EMP_NIFL_SEX_AGE_RT,Informal employment rate by sex and age,648
+DF_EMP_NIFL_SEX_EC2_NB,Informal employment by sex and economic activity - ISIC level 2,495
+DF_EMP_NIFL_SEX_EC2_RT,Informal employment rate by sex and economic activity - ISIC level 2,441
+DF_EMP_NIFL_SEX_ECO_EDU_NB,"Informal employment by sex, economic activity and education",3060
+DF_EMP_NIFL_SEX_ECO_EDU_RT,"Informal employment rate by sex, economic activity and education",2793
+DF_EMP_NIFL_SEX_ECO_EST_NB,"Informal employment by sex, economic activity and establishment size",849
+DF_EMP_NIFL_SEX_ECO_EST_RT,"Informal employment rate by sex, economic activity and establishment size",817
+DF_EMP_NIFL_SEX_ECO_GEO_NB,"Informal employment by sex, economic activity and rural / urban areas",234
+DF_EMP_NIFL_SEX_ECO_GEO_RT,"Informal employment rate by sex, economic activity and rural / urban areas",233
+DF_EMP_NIFL_SEX_ECO_INS_NB,"Informal employment by sex, economic activity and public/private sector",633
+DF_EMP_NIFL_SEX_ECO_INS_RT,"Informal employment rate by sex, economic activity and public/private sector",618
+DF_EMP_NIFL_SEX_ECO_MTS_NB,"Informal employment by sex, economic activity and marital status",618
+DF_EMP_NIFL_SEX_ECO_MTS_RT,"Informal employment rate by sex, economic activity and marital status",610
+DF_EMP_NIFL_SEX_ECO_NB,Informal employment by sex and economic activity,213
+DF_EMP_NIFL_SEX_ECO_RT,Informal employment rate by sex and economic activity,211
+DF_EMP_NIFL_SEX_EDU_GEO_NB,"Informal employment by sex, education and rural / urban areas",792
+DF_EMP_NIFL_SEX_EDU_GEO_RT,"Informal employment rate by sex, education and rural / urban areas",770
+DF_EMP_NIFL_SEX_EDU_MTS_NB,"Informal employment by sex, education and marital status",1692
+DF_EMP_NIFL_SEX_EDU_MTS_RT,"Informal employment rate by sex, education and marital status",1654
+DF_EMP_NIFL_SEX_EDU_NB,Informal employment by sex and education,381
+DF_EMP_NIFL_SEX_EDU_RT,Informal employment rate by sex and education,376
+DF_EMP_NIFL_SEX_EST_GEO_NB,"Informal employment by sex, establishment size and rural / urban areas",234
+DF_EMP_NIFL_SEX_EST_GEO_RT,"Informal employment rate by sex, establishment size and rural / urban areas",234
+DF_EMP_NIFL_SEX_EST_MTS_NB,"Informal employment by sex, establishment size and marital status",618
+DF_EMP_NIFL_SEX_EST_MTS_RT,"Informal employment rate by sex, establishment size and marital status",614
+DF_EMP_NIFL_SEX_EST_NB,Informal employment by sex and establishment size,78
+DF_EMP_NIFL_SEX_EST_RT,Informal employment rate by sex and establishment size,78
+DF_EMP_NIFL_SEX_GEO_MTS_NB,"Informal employment by sex, rural / urban areas and marital status",576
+DF_EMP_NIFL_SEX_GEO_MTS_RT,"Informal employment rate by sex, rural / urban areas and marital status",575
+DF_EMP_NIFL_SEX_GEO_NB,Informal employment by sex and rural / urban areas,72
+DF_EMP_NIFL_SEX_GEO_RT,Informal employment rate by sex and rural / urban areas,72
+DF_EMP_NIFL_SEX_HOW_NB,Informal employment by sex and weekly hours actually worked,210
+DF_EMP_NIFL_SEX_HOW_RT,Informal employment rate by sex and weekly hours actually worked,208
+DF_EMP_NIFL_SEX_IND_NB,Informal employment by ILO sector and sex,144
+DF_EMP_NIFL_SEX_IND_RT,Informal employment rate by ILO sector and sex,134
+DF_EMP_NIFL_SEX_INS_GEO_NB,"Informal employment by sex, public/private sector and rural/urban areas",81
+DF_EMP_NIFL_SEX_INS_GEO_RT,"Informal employment rate by sex, public/private sector and rural/urban areas",81
+DF_EMP_NIFL_SEX_INS_MTS_NB,"Informal employment by sex, public/private sector and marital status",216
+DF_EMP_NIFL_SEX_INS_MTS_RT,"Informal employment rate by sex, public/private sector and marital status",216
+DF_EMP_NIFL_SEX_INS_NB,Informal employment by sex and public/private sector,27
+DF_EMP_NIFL_SEX_INS_RT,Informal employment rate by sex and public/private sector,27
+DF_EMP_NIFL_SEX_MTS_NB,Informal employment by sex and marital status,192
+DF_EMP_NIFL_SEX_MTS_RT,Informal employment rate by sex and marital status,192
+DF_EMP_NIFL_SEX_NB,Informal employment by sex,24
+DF_EMP_NIFL_SEX_RT,Informal employment rate by sex,24
+DF_EMP_NIFL_SEX_STE_NB,Informal employment by sex and status in employment,171
+DF_EMP_NIFL_SEX_STE_RT,Informal employment rate by status in employment (by sex),171
+DF_EMP_PIFL_AGE_EC2_NB,Employment outside the formal sector by age and economic activity - ISIC level 2,389
+DF_EMP_PIFL_AGE_EC2_RT,Share of employment outside the formal sector by age and economic activity - ISIC level 2,389
+DF_EMP_PIFL_SEX_AGE_ECO_NB,"Employment outside the formal sector by sex, age and economic activity",2354
+DF_EMP_PIFL_SEX_AGE_ECO_RT,"Share of employment outside the formal sector by sex, age and economic activity",2046
+DF_EMP_PIFL_SEX_AGE_EDU_NB,"Employment outside the formal sector by sex, age and education",4949
+DF_EMP_PIFL_SEX_AGE_EDU_RT,"Share of employment outside the formal sector by sex, age and education",4407
+DF_EMP_PIFL_SEX_AGE_GEO_NB,"Employment outside the formal sector by sex, age and rural / urban areas",1152
+DF_EMP_PIFL_SEX_AGE_GEO_RT,"Share of employment outside the formal sector by sex, age and rural / urban areas",1080
+DF_EMP_PIFL_SEX_AGE_INS_NB,"Employment outside the formal sector by sex, age and public/private sector",336
+DF_EMP_PIFL_SEX_AGE_INS_RT,"Share of employment outside the formal sector by sex, age and public/private sector",308
+DF_EMP_PIFL_SEX_AGE_JBT_NB,"Employment outside the formal sector by sex, age and working time arrangement",1152
+DF_EMP_PIFL_SEX_AGE_JBT_RT,"Share of employment outside the formal sector by sex, age and working time arrangement",1080
+DF_EMP_PIFL_SEX_AGE_MTS_NB,"Employment outside the formal sector by sex, age and marital status",2640
+DF_EMP_PIFL_SEX_AGE_MTS_RT,"Share of employment outside the formal sector by sex, age and marital status",2426
+DF_EMP_PIFL_SEX_AGE_NB,Employment outside the formal sector by sex and age,672
+DF_EMP_PIFL_SEX_AGE_RT,Share of employment outside the formal sector by sex and age,648
+DF_EMP_PIFL_SEX_EC2_NB,Employment outside the formal sector by sex and economic activity - ISIC level 2,450
+DF_EMP_PIFL_SEX_EC2_RT,Share of employment outside the formal sector by sex and economic activity - ISIC level 2,384
+DF_EMP_PIFL_SEX_ECO_EDU_NB,"Employment outside the formal sector by sex, economic activity and education",2763
+DF_EMP_PIFL_SEX_ECO_EDU_RT,"Share of employment outside the formal sector by sex, economic activity and education",2479
+DF_EMP_PIFL_SEX_ECO_EST_NB,"Employment outside the formal sector by sex, economic activity and establishment size",825
+DF_EMP_PIFL_SEX_ECO_EST_RT,"Share of employment outside the formal sector by sex, economic activity and establishment size",774
+DF_EMP_PIFL_SEX_ECO_GEO_NB,"Employment outside the formal sector by sex, economic activity and rural / urban areas",234
+DF_EMP_PIFL_SEX_ECO_GEO_RT,"Share of employment outside the formal sector by sex, economic activity and rural / urban areas",231
+DF_EMP_PIFL_SEX_ECO_INS_NB,"Employment outside the formal sector by sex, economic activity and public/private sector",468
+DF_EMP_PIFL_SEX_ECO_INS_RT,"Share of employment outside the formal sector by sex, economic activity and public/private sector",449
+DF_EMP_PIFL_SEX_ECO_MTS_NB,"Employment outside the formal sector by sex, economic activity and marital status",612
+DF_EMP_PIFL_SEX_ECO_MTS_RT,"Share of employment outside the formal sector by sex, economic activity and marital status",605
+DF_EMP_PIFL_SEX_ECO_NB,Employment outside the formal sector by sex and economic activity,213
+DF_EMP_PIFL_SEX_ECO_RT,Share of employment outside the formal sector by sex and economic activity,207
+DF_EMP_PIFL_SEX_EDU_GEO_NB,"Employment outside the formal sector by sex, education and rural / urban areas",777
+DF_EMP_PIFL_SEX_EDU_GEO_RT,"Share of employment outside the formal sector by sex, education and rural / urban areas",756
+DF_EMP_PIFL_SEX_EDU_MTS_NB,"Employment outside the formal sector by sex, education and marital status",1662
+DF_EMP_PIFL_SEX_EDU_MTS_RT,"Share of employment outside the formal sector by sex, education and marital status",1617
+DF_EMP_PIFL_SEX_EDU_NB,Employment outside the formal sector by sex and education,378
+DF_EMP_PIFL_SEX_EDU_RT,Share of employment outside the formal sector by sex and education,373
+DF_EMP_PIFL_SEX_EST_GEO_NB,"Employment outside the formal sector by sex, establishment size and rural / urban areas",234
+DF_EMP_PIFL_SEX_EST_GEO_RT,"Share of employment outside the formal sector by sex, establishment size and rural / urban areas",234
+DF_EMP_PIFL_SEX_EST_MTS_NB,"Employment outside the formal sector by sex, establishment size and marital status",618
+DF_EMP_PIFL_SEX_EST_MTS_RT,"Share of employment outside the formal sector by sex, establishment size and marital status",612
+DF_EMP_PIFL_SEX_EST_NB,Employment outside the formal sector by sex and establishment size,78
+DF_EMP_PIFL_SEX_EST_RT,Share of employment outside the formal sector by sex and establishment size,78
+DF_EMP_PIFL_SEX_GEO_MTS_NB,"Employment outside the formal sector by sex, rural / urban areas and marital status",576
+DF_EMP_PIFL_SEX_GEO_MTS_RT,"Share of employment outside the formal sector by sex, rural / urban areas and marital status",575
+DF_EMP_PIFL_SEX_GEO_NB,Employment outside the formal sector by sex and rural / urban areas,72
+DF_EMP_PIFL_SEX_GEO_RT,Share of employment outside the formal sector by sex and rural / urban areas,72
+DF_EMP_PIFL_SEX_HOW_NB,Employment outside the formal sector by sex and weekly hours actually worked,210
+DF_EMP_PIFL_SEX_HOW_RT,Share of employment outside the formal sector by sex and weekly hours actually worked,208
+DF_EMP_PIFL_SEX_INS_GEO_NB,"Employment outside the formal sector by sex, public/private sector and rural/urban areas",69
+DF_EMP_PIFL_SEX_INS_GEO_RT,"Share of employment outside the formal sector by sex, public/private sector and rural/urban areas",66
+DF_EMP_PIFL_SEX_INS_MTS_NB,"Employment outside the formal sector by sex, public/private sector and marital status",174
+DF_EMP_PIFL_SEX_INS_MTS_RT,"Share of employment outside the formal sector by sex, public/private sector and marital status",168
+DF_EMP_PIFL_SEX_INS_NB,Employment outside the formal sector by sex and public/private sector,24
+DF_EMP_PIFL_SEX_INS_RT,Share of employment outside the formal sector by sex and public/private sector,23
+DF_EMP_PIFL_SEX_MTS_NB,Employment outside the formal sector by sex and marital status,192
+DF_EMP_PIFL_SEX_MTS_RT,Share of employment outside the formal sector by sex and marital status,192
+DF_EMP_PIFL_SEX_NB,Employment outside the formal sector by sex,24
+DF_EMP_PIFL_SEX_RT,Share of employment outside the formal sector by sex,24
+DF_EMP_PIFL_SEX_STE_NB,Employment outside the formal sector by sex and status in employment,171
+DF_EMP_PIFL_SEX_STE_RT,Share of employment outside the formal sector by status in employment (by sex),171
+DF_EMP_PTER_SEX_RT,Incidence of part-time employment by sex,12
+DF_EMP_PUBL_SEX_AGE_NB,Public sector employment by sex and age,81
+DF_EMP_PUBL_SEX_EC2_NB,Public sector employment by sex and economic activity - ISIC level 2,387
+DF_EMP_PUBL_SEX_ECO_NB,Public sector employment by sex and economic activity,210
+DF_EMP_PUBL_SEX_EDU_NB,Public sector employment by sex and education,54
+DF_EMP_PUBL_SEX_GEO_NB,Public sector employment by sex and rural / urban areas,27
+DF_EMP_PUBL_SEX_HOW_NB,Public sector employment by sex and weekly hours actually worked,72
+DF_EMP_PUBL_SEX_JBT_NB,Public sector employment by sex and working time arrangement,27
+DF_EMP_PUBL_SEX_MTS_NB,Public sector employment by sex and marital status,27
+DF_EMP_PUBL_SEX_STE_NB,Public sector employment by sex and status in employment,36
+DF_EMP_TEMP_AGE_EC2_NB,Employment by age and economic activity - ISIC level 2,437
+DF_EMP_TEMP_AGE_STE_NB,Employment by age and status in employment,656
+DF_EMP_TEMP_SEX_AGE_CCT_NB,"Employment by sex, age and citizenship",240
+DF_EMP_TEMP_SEX_AGE_ECO_NB,"Employment by sex, age and economic activity",2411
+DF_EMP_TEMP_SEX_AGE_EDU_NB,"Employment by sex, age and education",5184
+DF_EMP_TEMP_SEX_AGE_GEO_NB,"Employment by sex, age and rural / urban areas",1152
+DF_EMP_TEMP_SEX_AGE_INS_NB,"Employment by sex, age and public/private sector",432
+DF_EMP_TEMP_SEX_AGE_JBT_NB,"Employment by sex, age and working time arrangement",1152
+DF_EMP_TEMP_SEX_AGE_MTS_NB,"Employment by sex, age and marital status",2640
+DF_EMP_TEMP_SEX_AGE_NB,Employment by sex and age,676
+DF_EMP_TEMP_SEX_AGE_STE_NB,"Employment by sex, age and status in employment",2175
+DF_EMP_TEMP_SEX_EC2_NB,Employment by sex and economic activity - ISIC level 2,504
+DF_EMP_TEMP_SEX_ECO_CCT_NB,"Employment by sex, economic activity and citizenship",588
+DF_EMP_TEMP_SEX_ECO_EDU_NB,"Employment by sex, economic activity and education",3204
+DF_EMP_TEMP_SEX_ECO_EST_NB,"Employment by sex, economic activity and establishment size",849
+DF_EMP_TEMP_SEX_ECO_GEO_NB,"Employment by sex, economic activity and rural / urban areas",234
+DF_EMP_TEMP_SEX_ECO_INS_NB,"Employment by sex, economic activity and public/private sector",636
+DF_EMP_TEMP_SEX_ECO_MJH_NB,"Employment by sex, economic activity and multiple job holding",249
+DF_EMP_TEMP_SEX_ECO_MTS_NB,"Employment by sex, economic activity and marital status",618
+DF_EMP_TEMP_SEX_ECO_NB,Employment by sex and economic activity,217
+DF_EMP_TEMP_SEX_EDU_CCT_NB,"Employment by sex, education and citizenship",162
+DF_EMP_TEMP_SEX_EDU_EC2_NB,"Employment by sex, education and economic activity - ISIC level 2",2169
+DF_EMP_TEMP_SEX_EDU_GEO_NB,"Employment by sex, education and rural / urban areas",794
+DF_EMP_TEMP_SEX_EDU_MTS_NB,"Employment by sex, education and marital status",1712
+DF_EMP_TEMP_SEX_EDU_NB,Employment by sex and education,386
+DF_EMP_TEMP_SEX_EST_EC2_NB,"Employment by sex, establishment size and economic activity - ISIC level 2",1005
+DF_EMP_TEMP_SEX_EST_GEO_NB,"Employment by sex, establishment size and rural / urban areas",234
+DF_EMP_TEMP_SEX_EST_MTS_NB,"Employment by sex, establishment size and marital status",618
+DF_EMP_TEMP_SEX_EST_NB,Employment by sex and establishment size,78
+DF_EMP_TEMP_SEX_GEO_MTS_NB,"Employment by sex, rural / urban area and marital status",576
+DF_EMP_TEMP_SEX_GEO_NB,Employment by sex and rural / urban areas,72
+DF_EMP_TEMP_SEX_HOW_EDU_NB,"Employment by sex, weekly hours actually worked and education",2162
+DF_EMP_TEMP_SEX_HOW_GEO_NB,"Employment by sex, weekly hours actually worked and rural / urban areas",618
+DF_EMP_TEMP_SEX_HOW_MTS_NB,"Employment by sex, weekly hours actually worked and marital status",1116
+DF_EMP_TEMP_SEX_HOW_NB,Employment by sex and weekly hours actually worked,210
+DF_EMP_TEMP_SEX_IFL_EC2_NB,"Employment by sex, informal/formal job and economic activity - ISIC level 2",1353
+DF_EMP_TEMP_SEX_IFL_ECO_NB,"Employment by sex, informal/formal job and economic activity",633
+DF_EMP_TEMP_SEX_IFL_EDU_NB,"Employment by sex, informal/formal job and education",797
+DF_EMP_TEMP_SEX_IFL_GEO_NB,"Employment by sex, informal/formal job and rural / urban areas",216
+DF_EMP_TEMP_SEX_IFL_INS_NB,"Employment by sex, informal/formal job and public/private sector",81
+DF_EMP_TEMP_SEX_IFL_JBT_NB,"Employment by sex, informal/formal job and working time arrangement",108
+DF_EMP_TEMP_SEX_IFL_MTS_NB,"Employment by sex, informal/formal job and marital status",468
+DF_EMP_TEMP_SEX_IND_CCT_NB,Employment by ILO sector and sex and citizenship,393
+DF_EMP_TEMP_SEX_IND_EDU_NB,Employment by ILO sector and sex and education,765
+DF_EMP_TEMP_SEX_IND_EST_NB,"Employment by ILO sector, sex and establishment size",348
+DF_EMP_TEMP_SEX_IND_GEO_NB,Employment by ILO sector and sex and rural / urban areas,414
+DF_EMP_TEMP_SEX_IND_INS_NB,Employment by ILO sector and sex and institutional sector,423
+DF_EMP_TEMP_SEX_IND_NB,Employment by ILO sector and sex,144
+DF_EMP_TEMP_SEX_IND_STE_NB,Employment by ILO sector and sex and status in employment,531
+DF_EMP_TEMP_SEX_INS_EDU_NB,"Employment by sex, public/private sector and education",437
+DF_EMP_TEMP_SEX_INS_GEO_NB,"Employment by sex, public/private sector and rural/urban areas",81
+DF_EMP_TEMP_SEX_INS_MTS_NB,"Employment by sex, public/private sector and marital status",216
+DF_EMP_TEMP_SEX_INS_NB,Employment by sex and public/private sector,27
+DF_EMP_TEMP_SEX_MJH_EDU_NB,"Employment by sex, multiple job holding and education",826
+DF_EMP_TEMP_SEX_MJH_GEO_NB,"Employment by sex, multiple job holding and rural / urban areas",240
+DF_EMP_TEMP_SEX_MJH_MTS_NB,"Employment by sex, multiple job holding and marital status",432
+DF_EMP_TEMP_SEX_MJH_NB,Employment by sex and multiple-job holding,84
+DF_EMP_TEMP_SEX_MTS_NB,Employment by sex and marital status,192
+DF_EMP_TEMP_SEX_STE_CCT_NB,"Employment by sex, status in employment and citizenship",270
+DF_EMP_TEMP_SEX_STE_EC2_NB,"Employment by sex, status in employment and economic activity - ISIC level 2",1563
+DF_EMP_TEMP_SEX_STE_ECO_NB,"Employment by sex, status in employment and economic activity",1960
+DF_EMP_TEMP_SEX_STE_EDU_NB,"Employment by sex, status in employment and education",1887
+DF_EMP_TEMP_SEX_STE_EST_NB,"Employment by sex, status in employment and establishment size",801
+DF_EMP_TEMP_SEX_STE_GEO_NB,"Employment by sex, status in employment and rural / urban areas",369
+DF_EMP_TEMP_SEX_STE_INS_NB,"Employment by sex, status in employment and public/private sector",273
+DF_EMP_TEMP_SEX_STE_MJH_NB,"Employment by sex, status in employment and multiple job holding",399
+DF_EMP_TEMP_SEX_STE_MTS_NB,"Employment by sex, status in employment and marital status",1128
+DF_EMP_TEMP_SEX_STE_NB,Employment by sex and status in employment,243
+DF_EMP_XTRU_SEX_AGE_EDU_NB,"Time-related underemployment by sex, age and education",138
+DF_EMP_XTRU_SEX_AGE_EDU_RT,"Time-related underemployment rate by sex, age and education",121
+DF_EMP_XTRU_SEX_AGE_GEO_NB,"Time-related underemployment by sex, age and rural / urban areas",81
+DF_EMP_XTRU_SEX_AGE_GEO_RT,"Time-related underemployment rate by sex, age and rural / urban areas",72
+DF_EMP_XTRU_SEX_AGE_MTS_NB,"Time-related underemployment by sex, age and marital status",81
+DF_EMP_XTRU_SEX_AGE_MTS_RT,"Time-related underemployment rate by sex, age and marital status",71
+DF_EMP_XTRU_SEX_AGE_NB,Time-related underemployment by sex and age,48
+DF_EMP_XTRU_SEX_AGE_RT,Time-related underemployment rate by sex and age,45
+DF_EMP_XTRU_SEX_EDU_GEO_NB,"Time-related underemployment by sex, education and rural / urban areas",54
+DF_EMP_XTRU_SEX_EDU_GEO_RT,"Time-related underemployment rate by sex, education and rural / urban areas",54
+DF_EMP_XTRU_SEX_EDU_MTS_NB,"Time-related underemployment by sex, education and marital status",54
+DF_EMP_XTRU_SEX_EDU_MTS_RT,"Time-related underemployment rate by sex, education and marital status",54
+DF_EMP_XTRU_SEX_EDU_NB,Time-related underemployment by sex and education,45
+DF_EMP_XTRU_SEX_EDU_RT,Time-related underemployment rate by sex and education,42
+DF_EMP_XTRU_SEX_GEO_MTS_NB,"Time-related underemployment by sex, rural / urban area and marital status",27
+DF_EMP_XTRU_SEX_GEO_MTS_RT,"Time-related underemployment rate by sex, rural / urban area and marital status",27
+DF_EMP_XTRU_SEX_GEO_NB,Time-related underemployment by sex and rural / urban areas,9
+DF_EMP_XTRU_SEX_GEO_RT,Time-related underemployment rate by sex and rural / urban areas,9
+DF_EMP_XTRU_SEX_MTS_NB,Time-related underemployment by sex and marital status,24
+DF_EMP_XTRU_SEX_MTS_RT,Time-related underemployment rate by sex and marital status,24
+DF_EMP_XTRU_SEX_NB,Time-related underemployment by sex,3
+DF_EMP_XTRU_SEX_RT,Time-related underemployment rate by sex,3
+DF_GED_PEPR_SEX_HHT_CHL_RT,"Employment-to-population ratio for persons ages 25 to 54 by sex, household type and presence of children",120
+DF_GED_PEPR_SEX_HHT_GEO_RT,"Employment-to-population ratio for persons ages 25 to 54 by sex, household type and rural / urban areas",54
+DF_GED_PLFP_SEX_HHT_CHL_RT,"Labour force participation rate for persons ages 25 to 54 by sex, household type and presence of children",120
+DF_GED_PLFP_SEX_HHT_GEO_RT,"Labour force participation rate for persons ages 25 to 54 by sex, household type and rural / urban areas",54
+DF_GED_PLFP_SEX_HHT_RT,Labour force participation rate for persons ages 25 to 54 by sex and household type,18
+DF_GED_TWAP_HHT_NB,Population ages 25 to 54 by household type,6
+DF_GED_XLU1_SEX_HHT_CHL_RT,"Unemployment rate for persons ages 25 to 54 by sex, household type and presence of children",116
+DF_GED_XLU1_SEX_HHT_GEO_RT,"Unemployment rate for persons ages 25 to 54 by sex, household type and rural / urban areas",49
+DF_GED_XLU2_SEX_HHT_CHL_RT,"LU2: Combined rate of time-related underemployment and unemployment for persons ages 25 to 54 by sex, household type and presence of children",120
+DF_GED_XLU2_SEX_HHT_GEO_RT,"LU2: Combined rate of time-related underemployment and unemployment for persons ages 25 to 54 by sex, household type and rural / urban areas",53
+DF_GED_XLU3_SEX_HHT_CHL_RT,"LU3: Combined rate of unemployment and potential labour force for persons ages 25 to 54 by sex, household type and presence of children",120
+DF_GED_XLU3_SEX_HHT_GEO_RT,"LU3: Combined rate of unemployment and potential labour force for persons ages 25 to 54 by sex, household type and rural / urban areas",54
+DF_GED_XLU4_SEX_HHT_CHL_RT,"LU4: Composite rate of labour underutilization for persons ages 25 to 54 by sex, household type and presence of children",120
+DF_GED_XLU4_SEX_HHT_GEO_RT,"LU4: Composite rate of labour underutilization for persons ages 25 to 54 by sex, household type and rural / urban areas",54
+DF_HOW_2EMP_SEX_NB,"Average weekly hours actually worked per employed person by sex -- ILO modelled estimates, Nov. 2025",69
+DF_HOW_2TDP_SEX_RT,"Ratio of total weekly hours worked to population aged 15-64 by sex -- ILO modelled estimates, Nov. 2025",69
+DF_HOW_2TOT_SEX_NB,"Total weekly hours worked of employed persons by sex -- ILO modelled estimates, Nov. 2025 (thousands)",69
+DF_HOW_PUBE_SEX_NB,Average weekly hours actually worked per employee in the public sector,9
+DF_HOW_PUBL_SEX_NB,Average weekly hours actually worked per person in the public sector,9
+DF_HOW_TEMP_AGE_EC2_NB,Average weekly hours actually worked per employed person by age and economic activity - ISIC level 2,436
+DF_HOW_TEMP_SEX_AGE_ECO_NB,"Average weekly hours actually worked per employed person by sex, age and economic activity",2113
+DF_HOW_TEMP_SEX_AGE_INS_NB,"Average weekly hours actually worked per employed person by sex, age and public/private sector",405
+DF_HOW_TEMP_SEX_AGE_JBT_NB,"Average weekly hours actually worked per employed person by sex, age and working time arrangement",1080
+DF_HOW_TEMP_SEX_AGE_NB,Average weekly hours actually worked per employed person by sex and age,360
+DF_HOW_TEMP_SEX_EC2_NB,Average weekly hours actually worked per employed person by sex and economic activity - ISIC level 2,452
+DF_HOW_TEMP_SEX_ECO_EDU_NB,"Average weekly hours actually worked per employed person by sex, economic activity and education",2940
+DF_HOW_TEMP_SEX_ECO_EST_NB,"Average weekly hours actually worked per employed person by sex, economic activity and establishment size",823
+DF_HOW_TEMP_SEX_ECO_GEO_NB,"Average weekly hours actually worked per employed person by sex, economic activity and rural / urban areas",233
+DF_HOW_TEMP_SEX_ECO_INS_NB,"Average weekly hours actually worked per employed person by sex, economic activity and public/private sector",622
+DF_HOW_TEMP_SEX_ECO_MTS_NB,"Average weekly hours actually worked per employed person by sex, economic activity and marital status",611
+DF_HOW_TEMP_SEX_ECO_NB,Average weekly hours actually worked per employed person by sex and economic activity,211
+DF_HOW_TEMP_SEX_EST_GEO_NB,"Average weekly hours actually worked per employed person by sex, establishment size and rural / urban areas",234
+DF_HOW_TEMP_SEX_EST_MTS_NB,"Average weekly hours actually worked per employed person by sex, establishment size and marital status",614
+DF_HOW_TEMP_SEX_EST_NB,Average weekly hours actually worked per employed person by sex and establishment size,78
+DF_HOW_TEMP_SEX_IND_NB,Average weekly hours actually worked per employed person by ILO sector and sex,136
+DF_HOW_TEMP_SEX_INS_GEO_NB,"Average weekly hours actually worked per employed person by sex, public/private sector and rural/urban areas",81
+DF_HOW_TEMP_SEX_INS_MTS_NB,"Average weekly hours actually worked per employed person by sex, public/private sector and marital status",216
+DF_HOW_TEMP_SEX_INS_NB,Average weekly hours actually worked per employed person by sex and public/private sector,27
+DF_HOW_TEMP_SEX_NB,Average weekly hours actually worked per employed person by sex,24
+DF_HOW_UEES_SEX_NB,Average weekly hours usually worked per employee by sex,6
+DF_HOW_UEMP_SEX_NB,Average weekly hours usually worked per employed person by sex,6
+DF_HOW_XEES_AGE_EC2_NB,Average weekly hours actually worked per employee by age and economic activity - ISIC level 2,403
+DF_HOW_XEES_SEX_AGE_ECO_NB,"Average weekly hours actually worked per employee by sex, age and economic activity",2035
+DF_HOW_XEES_SEX_AGE_INS_NB,"Average weekly hours actually worked per employee by sex, age and public/private sector",405
+DF_HOW_XEES_SEX_AGE_JBC_NB,"Average weekly hours actually worked per employee by sex, age and type of job contract",1144
+DF_HOW_XEES_SEX_AGE_NB,Average weekly hours actually worked per employee by sex and age,358
+DF_HOW_XEES_SEX_CCT_NB,Average weekly hours actually worked per employee by sex and citizenship,27
+DF_HOW_XEES_SEX_EC2_NB,Average weekly hours actually worked per employee by sex and economic activity - ISIC level 2,404
+DF_HOW_XEES_SEX_ECO_EDU_NB,"Average weekly hours actually worked per employee by sex, economic activity and education",2789
+DF_HOW_XEES_SEX_ECO_EST_NB,"Average weekly hours actually worked per employee by sex, economic activity and establishment size",804
+DF_HOW_XEES_SEX_ECO_GEO_NB,"Average weekly hours actually worked per employee by sex, economic activity and rural / urban areas",231
+DF_HOW_XEES_SEX_ECO_INS_NB,"Average weekly hours actually worked per employee by sex, economic activity and public/private sector",614
+DF_HOW_XEES_SEX_ECO_MTS_NB,"Average weekly hours actually worked per employee by sex, economic activity and marital status",602
+DF_HOW_XEES_SEX_ECO_NB,Average weekly hours actually worked per employee by sex and economic activity,210
+DF_HOW_XEES_SEX_EDU_NB,Average weekly hours actually worked per employee by sex and education,380
+DF_HOW_XEES_SEX_EST_GEO_NB,"Average weekly hours actually worked per employee by sex, establishment size and rural / urban areas",234
+DF_HOW_XEES_SEX_EST_MTS_NB,"Average weekly hours actually worked per employee by sex, establishment size and marital status",609
+DF_HOW_XEES_SEX_EST_NB,Average weekly hours actually worked per employee by sex and establishment size,78
+DF_HOW_XEES_SEX_GEO_NB,Average weekly hours actually worked per employee by sex and rural / urban areas,72
+DF_HOW_XEES_SEX_INS_GEO_NB,"Average weekly hours actually worked per employee by sex, public/private sector and rural/urban areas",81
+DF_HOW_XEES_SEX_INS_MTS_NB,"Average weekly hours actually worked per employee by sex, public/private sector and marital status",216
+DF_HOW_XEES_SEX_INS_NB,Average weekly hours actually worked per employee by sex and public/private sector,27
+DF_HOW_XEES_SEX_MTS_NB,Average weekly hours actually worked per employee by sex and marital status,132
+DF_HOW_XEES_SEX_NB,Average weekly hours actually worked per employee by sex,24
+DF_LAP_2GDP_NOC_RT,"Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2025",23
+DF_LAP_2LID_QTL_RT,"Labour income distribution by decile -- ILO modelled estimates, Sept. 2025",220
+DF_LUU_2LU2_SEX_AGE_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex and age -- ILO modelled estimates, Nov. 2025",207
+DF_LUU_2LU2_SEX_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex -- ILO modelled estimates, Nov. 2025",69
+DF_LUU_5LU3_SEX_AGE_RT,LU3: Combined rate of unemployment and potential labour force by sex and age -- 19th ICLS,9
+DF_LUU_XLU2_SEX_AGE_EDU_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, age and education",138
+DF_LUU_XLU2_SEX_AGE_GEO_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, age and rural / urban areas",72
+DF_LUU_XLU2_SEX_AGE_MTS_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, age and marital status",72
+DF_LUU_XLU2_SEX_AGE_RT,LU2: Combined rate of time-related underemployment and unemployment by sex and age,45
+DF_LUU_XLU2_SEX_EDU_GEO_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, education and rural / urban areas",54
+DF_LUU_XLU2_SEX_EDU_MTS_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, education and marital status",54
+DF_LUU_XLU2_SEX_EDU_RT,LU2: Combined rate of time-related underemployment and unemployment by sex and education,48
+DF_LUU_XLU2_SEX_GEO_MTS_RT,"LU2: Combined rate of time-related underemployment and unemployment by sex, rural / urban area and marital status",27
+DF_LUU_XLU2_SEX_GEO_RT,LU2: Combined rate of time-related underemployment and unemployment by sex and rural / urban areas,9
+DF_LUU_XLU2_SEX_MTS_RT,LU2: Combined rate of time-related underemployment and unemployment by sex and marital status,24
+DF_LUU_XLU2_SEX_RT,LU2: Combined rate of time-related underemployment and unemployment by sex,3
+DF_LUU_XLU3_SEX_AGE_EDU_RT,"LU3: Combined rate of unemployment and potential labour force by sex, age and education",896
+DF_LUU_XLU3_SEX_AGE_GEO_RT,"LU3: Combined rate of unemployment and potential labour force by sex, age and rural / urban areas",486
+DF_LUU_XLU3_SEX_AGE_MTS_RT,"LU3: Combined rate of unemployment and potential labour force by sex, age and marital status",485
+DF_LUU_XLU3_SEX_AGE_RT,LU3: Combined rate of unemployment and potential labour force by sex and age,311
+DF_LUU_XLU3_SEX_EDU_GEO_RT,"LU3: Combined rate of unemployment and potential labour force by sex, education and rural / urban areas",362
+DF_LUU_XLU3_SEX_EDU_MTS_RT,"LU3: Combined rate of unemployment and potential labour force by sex, education and marital status",376
+DF_LUU_XLU3_SEX_EDU_RT,LU3: Combined rate of unemployment and potential labour force by sex and education,323
+DF_LUU_XLU3_SEX_GEO_MTS_RT,"LU3: Combined rate of unemployment and potential labour force by sex, rural / urban area and marital status",189
+DF_LUU_XLU3_SEX_GEO_RT,LU3: Combined rate of unemployment and potential labour force by sex and rural / urban areas,63
+DF_LUU_XLU3_SEX_MTS_RT,LU3: Combined rate of unemployment and potential labour force by sex and marital status,108
+DF_LUU_XLU3_SEX_RT,LU3: Combined rate of unemployment and potential labour force by sex,21
+DF_LUU_XLU4_SEX_AGE_EDU_RT,"LU4: Composite rate of labour underutilization by sex, age and education",138
+DF_LUU_XLU4_SEX_AGE_GEO_RT,"LU4: Composite rate of labour underutilization by sex, age and rural / urban areas",72
+DF_LUU_XLU4_SEX_AGE_MTS_RT,"LU4: Composite rate of labour underutilization by sex, age and marital status",72
+DF_LUU_XLU4_SEX_AGE_RT,LU4: Composite rate of labour underutilization by sex and age,45
+DF_LUU_XLU4_SEX_EDU_GEO_RT,"LU4: Composite rate of labour underutilization by sex, education and rural / urban areas",54
+DF_LUU_XLU4_SEX_EDU_MTS_RT,"LU4: Composite rate of labour underutilization by sex, education and marital status",54
+DF_LUU_XLU4_SEX_EDU_RT,LU4: Composite rate of labour underutilization by sex and education,50
+DF_LUU_XLU4_SEX_GEO_MTS_RT,"LU4: Composite rate of labour underutilization by sex, rural / urban area and marital status",27
+DF_LUU_XLU4_SEX_GEO_RT,LU4: Composite rate of labour underutilization by sex and rural / urban areas,9
+DF_LUU_XLU4_SEX_MTS_RT,LU4: Composite rate of labour underutilization by sex and marital status,24
+DF_LUU_XLU4_SEX_NB,LU4: Composite measure of labour underutilization by sex,3
+DF_LUU_XLU4_SEX_RT,LU4: Composite rate of labour underutilization by sex,3
+DF_LUU_XLUX_SEX_NB,Jobs gap,21
+DF_LUU_XLUX_SEX_RT,Jobs gap rate,21
+DF_SDG_0111_SEX_AGE_RT,SDG indicator 1.1.1: Working poverty rate by sex and age,218
+DF_SDG_0131_SEX_SOC_RT,SDG indicator 1.3.1: Proportion of population covered by social protection floors/systems by sex and function,79
+DF_SDG_0821_NOC_RT,"SDG indicator 8.2.1: Annual growth rate of output per worker, GDP constant 2015 US dollars",28
+DF_SDG_0831_SEX_ECO_RT,SDG indicator 8.3.1: Proportion of informal employment in total employment by sex and economic activity,78
+DF_SDG_0852_SEX_AGE_RT,SDG indicator 8.5.2: Unemployment rate by sex and age,36
+DF_SDG_0861_SEX_RT,"SDG indicator 8.6.1: Proportion of youth aged 15 to 24 years not in education, employment or training by sex",12
+DF_SDG_0882_NOC_RT,"SDG indicator 8.8.2: Level of national compliance with labour rights, freedom of association and collective bargaining",10
+DF_SDG_08B1_NOC_NB,SDG indicator 8.b.1: Existence of a developed and operationalized national strategy for youth employment,2
+DF_SDG_0922_NOC_RT,SDG indicator 9.2.2: Manufacturing employment as a proportion of total employment,2
+DF_SDG_1041_NOC_RT,SDG indicator 10.4.1: Labour income share as a percent of GDP,23
+DF_SDG_A871_SEX_AGE_RT,SDG indicator 8.7.1: Proportion of children engaged in economic activity by sex and age,24
+DF_SDG_B821_NOC_RT,"SDG indicator 8.2.1: Annual growth rate of output per worker, GDP constant 2021 international dollars at PPP",28
+DF_SDG_B831_SEX_ECO_RT,SDG indicator 8.3.1: Proportion of informal employment in total employment by sex and economic activity -- 19th ICLS,35
+DF_SDG_B852_SEX_AGE_RT,SDG indicator 8.5.2: Unemployment rate by sex and age -- 19th ICLS,9
+DF_SDG_B871_SEX_AGE_RT,SDG indicator 8.7.1: Proportion of children engaged in economic activity and household chores by sex and age,12
+DF_SDG_B922_NOC_RT,SDG indicator 9.2.2: Manufacturing employment as a proportion of total employment -- 19th ICLS,1
+DF_UNE_2EAP_SEX_AGE_RT,"Unemployment rate by sex and age -- ILO modelled estimates, Nov. 2025",333
+DF_UNE_2UNE_SEX_AGE_NB,"Unemployment by sex and age -- ILO modelled estimates, Nov. 2025",333
+DF_UNE_3EAP_SEX_AGE_EDU_RT,"Youth unemployment rate by sex, age and education",263
+DF_UNE_3EAP_SEX_AGE_GEO_RT,"Youth unemployment rate by sex, age and rural / urban areas",144
+DF_UNE_3EAP_SEX_AGE_STU_RT,"Youth unemployment rate by sex, age and school attendance status",149
+DF_UNE_3UNE_SEX_AGE_CAT_NB,"Youth unemployment by sex, age and categories of unemployed persons",78
+DF_UNE_3UNE_SEX_AGE_DUR_NB,"Youth unemployment by sex, age and duration",54
+DF_UNE_3UNE_SEX_AGE_EDU_NB,"Youth unemployment by sex, age and education",270
+DF_UNE_3UNE_SEX_AGE_GEO_NB,"Youth unemployment by sex, age and rural / urban areas",144
+DF_UNE_3UNE_SEX_AGE_STU_NB,"Youth unemployment by sex, age and school attendance status",150
+DF_UNE_3WAP_SEX_AGE_EDU_RT,"Youth unemployment-to-population ratio by sex, age and education",263
+DF_UNE_3WAP_SEX_AGE_GEO_RT,"Youth unemployment-to-population ratio by sex, age and rural / urban areas",144
+DF_UNE_3WAP_SEX_AGE_STU_RT,"Youth unemployment-to-population ratio by sex, age and school attendance status",149
+DF_UNE_5EAP_SEX_AGE_RT,Unemployment rate by sex and age -- 19th ICLS,9
+DF_UNE_5EAP_SEX_EDU_RT,Unemployment rate by sex and education -- 19th ICLS,50
+DF_UNE_5UNE_SEX_AGE_NB,Unemployment by sex and age -- 19th ICLS,12
+DF_UNE_DEAP_SEX_AGE_CCT_RT,"Unemployment rate by sex, age and citizenship",216
+DF_UNE_DEAP_SEX_AGE_EDU_RT,"Unemployment rate by sex, age and education",4226
+DF_UNE_DEAP_SEX_AGE_GEO_RT,"Unemployment rate by sex, age and rural / urban areas",1083
+DF_UNE_DEAP_SEX_AGE_MTS_RT,"Unemployment rate by sex, age and marital status",2427
+DF_UNE_DEAP_SEX_AGE_RT,Unemployment rate by sex and age,664
+DF_UNE_DEAP_SEX_EDU_CCT_RT,"Unemployment rate by sex, education and citizenship",144
+DF_UNE_DEAP_SEX_EDU_GEO_RT,"Unemployment rate by sex, education and rural / urban areas",735
+DF_UNE_DEAP_SEX_EDU_MTS_RT,"Unemployment rate by sex, education and marital status",1605
+DF_UNE_DEAP_SEX_EDU_RT,Unemployment rate by sex and education,366
+DF_UNE_DEAP_SEX_GEO_MTS_RT,"Unemployment rate by sex, rural / urban area and marital status",570
+DF_UNE_DEAP_SEX_GEO_RT,Unemployment rate by sex and rural / urban areas,72
+DF_UNE_DEAP_SEX_MTS_RT,Unemployment rate by sex and marital status,192
+DF_UNE_TUNE_SEX_AGE_CCT_NB,"Unemployment by sex, age and citizenship",216
+DF_UNE_TUNE_SEX_AGE_DUR_NB,"Unemployment by sex, age and duration",1995
+DF_UNE_TUNE_SEX_AGE_EDU_NB,"Unemployment by sex, age and education",4226
+DF_UNE_TUNE_SEX_AGE_GEO_NB,"Unemployment by sex, age and rural / urban areas",1083
+DF_UNE_TUNE_SEX_AGE_MTS_NB,"Unemployment by sex, age and marital status",2427
+DF_UNE_TUNE_SEX_AGE_NB,Unemployment by sex and age,664
+DF_UNE_TUNE_SEX_CAT_NB,Unemployment by sex and categories of unemployed persons,69
+DF_UNE_TUNE_SEX_DUR_GEO_NB,"Unemployment by sex, duration and rural / urban areas",45
+DF_UNE_TUNE_SEX_DUR_MTS_NB,"Unemployment by sex, duration and marital status",45
+DF_UNE_TUNE_SEX_EDU_CCT_NB,"Unemployment by sex, education and citizenship",144
+DF_UNE_TUNE_SEX_EDU_GEO_NB,"Unemployment by sex, education and rural / urban areas",735
+DF_UNE_TUNE_SEX_EDU_MTS_NB,"Unemployment by sex, education and marital status",1605
+DF_UNE_TUNE_SEX_EDU_NB,Unemployment by sex and education,366
+DF_UNE_TUNE_SEX_GEO_MTS_NB,"Unemployment by sex, rural / urban area and marital status",570
+DF_UNE_TUNE_SEX_GEO_NB,Unemployment by sex and rural / urban areas,72
+DF_UNE_TUNE_SEX_MTS_NB,Unemployment by sex and marital status,192

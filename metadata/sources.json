@@ -1,0 +1,1015 @@
+{
+  "generated": "2026-11-14",
+  "sources": [
+    {
+      "source_id": "acled",
+      "name": "ACLED",
+      "type": "ngo",
+      "website": "https://acleddata.com",
+      "terms_url": "https://acleddata.com/eula",
+      "license_summary": "EULA: licence 'to develop, publish, and distribute materials incorporating the Licensed Content for non-commercial purposes' ... materials must be 'transformative, such that they cannot be reverse engineered'; 'The Licensee is not permitted to reproduce, republish, redistribute...'; public-sector bodies need a public-sector licence.",
+      "redistribution": "restricted",
+      "notes": "Account required; raw data redistribution not allowed.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "ansade",
+      "name": "Agence Nationale de la Statistique et de l'Analyse Démographique et Économique (ANSADE)",
+      "type": "national_government",
+      "website": "https://ansade.mr",
+      "terms_url": null,
+      "license_summary": "ANSADE site footer: '© 2026 Agence Nationale de la Statistique et de l'Analyse Démographique et Économique. Tous droits réservés.' No open licence found.",
+      "redistribution": "link_only",
+      "notes": "React SPA; content served by a public WordPress JSON API at https://admin.ansade.mr/wp-json/ansade/v1 (e.g. /publications/ returns all 569 publications with direct file URLs; categories: Prix 180, Monographies régionales 105, Conjonctures 82, RGPH 53, Commerce extérieur 46, IPI 39, Comptes nationaux 32, Emploi 15, Annuaires 13, Élevage 12, Pauvreté 8, Santé 7...). Mostly PDF; a few XLSX. Stats portals listed by ANSADE: mauritania.opendataforafrica.org, portail.ansade.mr, ArcGIS RGPH-5 viewer (https://experience.arcgis.com/experience/2ded1160faac4295861634a47ff18d03/page), documentation.ansade.info, anadrim.ansade.mr.",
+      "verified": true,
+      "datasets_in_catalogue": 40
+    },
+    {
+      "source_id": "ansade-anadrim",
+      "name": "ANADRIM – ANSADE NADA microdata catalogue",
+      "type": "national_government",
+      "website": "http://anadrim.ansade.mr/index.php/catalog",
+      "terms_url": "http://anadrim.ansade.mr/index.php/politique-dacces",
+      "license_summary": "Politique d'accès: 'Toute utilisation des données produites ou gérées par l'ANSADE doit faire l'objet d'une demande d'autorisation adressée à la direction générale de l'ANSADE.' ... 'Les micro-données sont accessibles uniquement aux services et organismes relevant du Système National de la Statistique...' ... 'Les données ne doivent être ni copiées, ni transmises à d'autres personnes ou organisations, directement ou indirectement, sans l'accord écrit préalable de l'ANSADE.'",
+      "redistribution": "restricted",
+      "notes": "NADA API works: http://anadrim.ansade.mr/index.php/api/catalog/search?ps=200 lists 22 studies (RGPH 1977/1988/2000/2013/2023, EPCV 1990-2019, EDSM 2001 & 2019-21, MICS 2007/2011/2015, ENESI 2012/2017, RGE 2024, SDI education 2022/2024). Access type 'licensed' (or data_na). Metadata only for us.",
+      "verified": true,
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "ansade-portail",
+      "name": "Portail des statistiques officielles (ANSADE)",
+      "type": "national_government",
+      "website": "https://portail.ansade.mr/",
+      "terms_url": null,
+      "license_summary": "ANSADE site footer: '© 2026 Agence Nationale de la Statistique et de l'Analyse Démographique et Économique. Tous droits réservés.' No open licence found.",
+      "redistribution": "link_only",
+      "notes": "React app backed by https://api.portail.ansade.mr. Public endpoints: /api/themes/, /api/categories/, /api/tableaux/ (137 published tables across 20 themes, with source agency per table) and /api/tableaux/{id}/structure/ (table values as JSON). File export endpoints (/api/export/...) return 401 (auth required) - not attempted further.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "are",
+      "name": "Autorité de Régulation (ARE)",
+      "type": "national_government",
+      "website": "https://www.are.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "Joomla site. Telecom 'Observatoire' only offers 3 dashboards dated 31 Dec 2013 (/pdfs/telec_obser_*.pdf). Water/electricity/post observatory pages are empty. Annual activity reports 2000-2024 available as PDFs. No terms of use found.",
+      "verified": true,
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "bcm",
+      "name": "Banque Centrale de Mauritanie (BCM)",
+      "type": "national_government",
+      "website": "https://www.bcm.mr",
+      "terms_url": "https://bcm.mr/page/mentions-legales/1174",
+      "license_summary": "Mentions légales: 'Le droit d'auteur sur le présent site-web et tous les documents qui y sont contenus appartient à la Banque Centrale de Mauritanie. Ce site Web ne peut être reproduit, en totalité ou en partie, sans le consentement préalable exprès écrit de la Banque Centrale de Mauritanie.'",
+      "redistribution": "restricted",
+      "notes": "React SPA; Drupal JSON:API backend at https://bo.bcm.mr (legal text read via https://bo.bcm.mr/fr/jsonapi/node/page?filter[drupal_internal__nid]=1174). Pages 'Statistiques monétaires' (nid 881) and 'Bulletin statistique trimestrielle' (nid 883) currently say 'Contenu en cours de finalisation'. Exchange-rate XLSX files and a rates JSON endpoint are available.",
+      "verified": true,
+      "datasets_in_catalogue": 4
+    },
+    {
+      "source_id": "ceni",
+      "name": "Commission Électorale Nationale Indépendante (CENI)",
+      "type": "national_government",
+      "website": "https://ceni.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "Canva-built site (Arabic + /fr). No downloadable results tables found on-site; reports are linked as Google Drive files; candidate/results app at https://myceni.com (Angular app, data not inspected). No terms of use found.",
+      "verified": true,
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "cnitie",
+      "name": "Comité National ITIE Mauritanie",
+      "type": "national_government",
+      "website": "http://www.cnitie.gov.mr/",
+      "terms_url": null,
+      "license_summary": "CNITIE open data policy (2017): defines open data as data whose 'caractéristiques techniques et juridiques permettent la libre utilisation, réutilisation et redistribution par quiconque' - but names no specific licence.",
+      "redistribution": "unknown",
+      "notes": "Local EITI site listed by EITI API; http returned 503, https failed. itie-mauritanie.mr does not resolve. Policy PDF fetched from eiti.org: https://eiti.org/sites/default/files/attachments/2017.07_-_politique_du_cnitie_mauritanien_en_matiere_de_donnees_ouvertes1.pdf",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "copernicus-dse",
+      "name": "Copernicus Data Space Ecosystem",
+      "type": "international_org",
+      "website": "https://dataspace.copernicus.eu",
+      "terms_url": "https://dataspace.copernicus.eu/terms-and-conditions",
+      "license_summary": "Sentinel data: Legal Notice (https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice): 'users shall have a free, full and open access to Copernicus Sentinel Data' incl. '(a) reproduction; (b) distribution; (c) communication to the public; (d) adaptation, modification...'. Other portal content: non-commercial only, no redistribution.",
+      "redistribution": "allowed",
+      "notes": "Registration needed for downloads; attribution 'Contains modified Copernicus Sentinel data [year]'.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "data-gov-mr",
+      "name": "National open-data portal (data.gov.mr)",
+      "type": "national_government",
+      "website": null,
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "data.gov.mr and opendata.gov.mr do not resolve. The Ministry of Digital Transformation's data strategy (https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf, seen in search) lists 'Priorité 2.2 - Conception et implémentation du portail des données ouvertes de la Mauritanie' - i.e. planned, not live as far as we could tell.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "dataverse-nl",
+      "name": "DataverseNL",
+      "type": "academic",
+      "website": "https://dataverse.nl",
+      "terms_url": null,
+      "license_summary": "Per-dataset licence.",
+      "redistribution": "allowed",
+      "notes": "Harvested into Harvard Dataverse search.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "dgb-mr",
+      "name": "Direction Générale du Budget (DGB)",
+      "type": "national_government",
+      "website": "https://budget.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "Document library of finance laws (LFI 2014-2026, LFR, PLF), decrees, circulars, budget annexes; files served via /kc/documents/files/<id>/<id>/ links.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "dhs",
+      "name": "The DHS Program",
+      "type": "international_org",
+      "website": "https://dhsprogram.com",
+      "terms_url": "https://dhsprogram.com/data/Terms-of-Use.cfm",
+      "license_summary": "'The DHS Program is authorized to distribute datasets for legitimate academic research.' Users 'Agree that the datasets will not be shared with other researchers without the written consent of The DHS Program.'",
+      "redistribution": "restricted",
+      "notes": "Registration + project approval required for microdata. STATcompiler/DHS API indicators are separate (not checked here).",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "dryad",
+      "name": "Dryad",
+      "type": "academic",
+      "website": "https://datadryad.org",
+      "terms_url": null,
+      "license_summary": "CC0 1.0 for all Dryad datasets",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "eiti",
+      "name": "EITI International Secretariat",
+      "type": "international_org",
+      "website": "https://eiti.org/countries/mauritania",
+      "terms_url": "https://eiti.org/open-data",
+      "license_summary": "Content Use Policy (site footer): 'Unless otherwise noted, you may republish our content for free. Please give credit to our source (for web, with direct link, for print with EITI International Secretariat, eiti.org).' EITI Open Data Policy recommends countries 'Release data under an open license, preferably Creative Commons Attribution 4.0'.",
+      "redistribution": "allowed",
+      "notes": "Summary data via API https://eiti.org/api/v2.0/summary_data (paginated, JSON) and per-country https://eiti.org/api/v2.0/implementing_country/MR (Mauritania summary data 2005-2022; each record has a 'report_file' XLSX link). Mauritania's 2019 decree on systematic disclosure (https://api.eiti.org/sites/default/files/attachments/en_decree-systematic-disclosure-mauritania_final.pdf) requires bodies to 'Publish their data using a free, open licence.'",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "elevage-mr",
+      "name": "Ministère du Développement Animal (Élevage)",
+      "type": "national_government",
+      "website": "https://elevage.gov.mr",
+      "terms_url": null,
+      "license_summary": "Footer: 'Copyright 2021 - All Right Reserved'",
+      "redistribution": "link_only",
+      "notes": "Has a page of livestock-statistics guides/manuals; main livestock census (RGE 2024) is published by ANSADE.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "fao-fishstat",
+      "name": "FAO FishStat (Fisheries and Aquaculture statistics)",
+      "type": "international_org",
+      "website": "https://www.fao.org/fishery/en/fishstat",
+      "terms_url": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+      "license_summary": "CC BY 4.0 (FAO statistical database terms of use)",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "faostat",
+      "name": "FAOSTAT (FAO)",
+      "type": "international_org",
+      "website": "https://www.fao.org/faostat/",
+      "terms_url": "https://www.fao.org/contact-us/terms/db-terms-of-use/en/",
+      "license_summary": "CC BY 4.0 (FAO statistical database terms of use)",
+      "datasets_in_catalogue": 21
+    },
+    {
+      "source_id": "geoboundaries",
+      "name": "geoBoundaries (William & Mary geoLab)",
+      "type": "academic",
+      "website": "https://www.geoboundaries.org",
+      "terms_url": null,
+      "license_summary": "Licence per boundary layer (CC BY 3.0 IGO, CC BY-SA 3.0)",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "harvard-dataverse",
+      "name": "Harvard Dataverse",
+      "type": "academic",
+      "website": "https://dataverse.harvard.edu",
+      "terms_url": null,
+      "license_summary": "Per-dataset licence.",
+      "redistribution": "allowed",
+      "notes": "Search API: https://dataverse.harvard.edu/api/search?q=title:Mauritania&type=dataset",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "hdx",
+      "name": "Humanitarian Data Exchange (HDX, OCHA)",
+      "type": "international_org",
+      "website": "https://data.humdata.org",
+      "terms_url": "https://data.humdata.org/faqs/licenses",
+      "license_summary": "Licence set per dataset by each contributing organisation",
+      "datasets_in_catalogue": 81
+    },
+    {
+      "source_id": "hydraulique",
+      "name": "Ministère de l'Hydraulique et de l'Assainissement",
+      "type": "national_government",
+      "website": "https://hydraulique.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Unreachable (HTTPS reset). snde.mr also unreachable (http 404 / https fail).",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "ilostat",
+      "name": "ILOSTAT (International Labour Organization)",
+      "type": "international_org",
+      "website": "https://ilostat.ilo.org",
+      "terms_url": "https://www.ilo.org/node/9321",
+      "license_summary": "CC BY 4.0 for databases/datasets published from 3 May 2023",
+      "datasets_in_catalogue": 3
+    },
+    {
+      "source_id": "imf",
+      "name": "IMF data (WEO, DataMapper)",
+      "type": "international_org",
+      "website": "https://www.imf.org/en/Data",
+      "terms_url": "https://www.imf.org/en/About/copyright-and-terms",
+      "license_summary": "Special Terms for Statistical Data: 'Users may download, extract, copy, create derivative works, publish, distribute, and use Data' ... 'Distributed or reproduced Data must appear accurately with attribution to the IMF as the source'. 'For any potential commercial reuse of IMF Data, email copyright@imf.org to request permission.'",
+      "redistribution": "allowed",
+      "notes": "Read via WebFetch (curl got 403). Also: 'The IMF prohibits bulk download of information by automated technology without explicit permission' and forbids use for LLM training. Not a CC licence.",
+      "verified": true,
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "imrop",
+      "name": "Institut Mauritanien de Recherches Océanographiques et des Pêches (IMROP)",
+      "type": "national_government",
+      "website": "https://www.imrop.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "WordPress site; publications under /document/ and /type_document/rapports/. No terms of use or licence statement found on the site.",
+      "verified": true,
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "irena",
+      "name": "IRENA (IRENASTAT)",
+      "type": "international_org",
+      "website": "https://www.irena.org/Data",
+      "terms_url": "https://www.irena.org/terms-and-conditions",
+      "license_summary": "Per search results: IRENASTAT page shows '© 2011-2025 IRENA ... All Rights Reserved'; T&Cs: 'No other use shall be made of IRENA's Content without IRENA's advanced written permission.'",
+      "redistribution": "restricted",
+      "notes": "irena.org returned 403; terms from search snippets (one snippet from mirror prod-cd.irena.org).",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "itu-datahub",
+      "name": "ITU DataHub",
+      "type": "international_org",
+      "website": "https://datahub.itu.int",
+      "terms_url": "https://datahub.itu.int/about",
+      "license_summary": "Per search result of the DataHub 'Disclaimer and Terms of Use': you may copy, redistribute and adapt the data for non-commercial purposes if properly cited ('International Telecommunication Union, ITU DataHub').",
+      "redistribution": "allowed",
+      "notes": "datahub.itu.int returned 403 to curl/WebFetch. Non-commercial only; third-party indicators follow owners' terms. World Bank catalogue lists it as CC BY 4.0 (inconsistent).",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "masa-agriculture",
+      "name": "Ministère de l'Agriculture et de la Souveraineté Alimentaire",
+      "type": "national_government",
+      "website": "https://agriculture.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Unreachable (HTTPS reset). Agricultural tables (source MASA/DPCSE) are on portail.ansade.mr.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "mef-economie",
+      "name": "Ministère des Affaires Économiques (economie.gov.mr)",
+      "type": "national_government",
+      "website": "https://www.economie.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Unreachable: HTTPS connections reset ('unexpected eof') from our network and via WebFetch ('socket hang up').",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "men-education",
+      "name": "Ministère de l'Éducation nationale",
+      "type": "national_government",
+      "website": "https://education.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Unreachable (HTTPS reset; WebFetch 'socket hang up'). ANSADE publishes 'Séries de données d'Éducation 1995-2024' and the portal has 6 education tables.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "mep-energie",
+      "name": "Ministère de l'Énergie et du Pétrole (petrole.gov.mr)",
+      "type": "national_government",
+      "website": "https://www.petrole.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Presents a self-signed TLS certificate; not fetched (did not disable verification). eiti.org links to legal texts hosted there (e.g. https://www.petrole.gov.mr/IMG/pdf/code-hcs_modifs_loi-2015-016_1_.pdf).",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "mf-mr",
+      "name": "Ministère des Finances (Mauritanie)",
+      "type": "national_government",
+      "website": "https://www.finances.gov.mr/fr",
+      "terms_url": null,
+      "license_summary": "Footer: 'Copyright ©' / 'حقوق محفوظة' (all rights reserved). No open licence found.",
+      "redistribution": "link_only",
+      "notes": "Drupal site; pages /fr/tofe (monthly TOFE PDFs), /fr/Lois (LFI/LFR/PLF), /fr/Rapports (ROFE, debt bulletin, economic report), /fr/budget-citoyen. Footer links to a 'Boost Mauritanie' site (http://boost.budget.ms) - not fetched.",
+      "verified": true,
+      "datasets_in_catalogue": 6
+    },
+    {
+      "source_id": "mpem-peches",
+      "name": "Ministère des Pêches et de l'Économie Maritime",
+      "type": "national_government",
+      "website": "https://www.peches.gov.mr",
+      "terms_url": null,
+      "license_summary": "Footer: 'Copyright 2015 MPIMP - جميع الحقوق محفوظة' (all rights reserved).",
+      "redistribution": "link_only",
+      "notes": "SPIP site (Arabic). 'Statistiques' section only has old PDFs (licence lists 2015-2016, factory list 2019).",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "ms-sante",
+      "name": "Ministère de la Santé / DHIS2",
+      "type": "national_government",
+      "website": "https://dhis2.sante.gov.mr/dhis/",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "restricted",
+      "notes": "sante.gov.mr unreachable. DHIS2 instance at https://dhis2.sante.gov.mr redirects to a login page (not bypassed). GHDx lists Health Statistical Yearbooks 2004-2016 (metadata only).",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "nasa-earthdata",
+      "name": "NASA Earthdata (ESDIS)",
+      "type": "international_org",
+      "website": "https://www.earthdata.nasa.gov",
+      "terms_url": "https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-guidance",
+      "license_summary": "'Unless the content is marked with a use restriction or license, data provided from a NASA-led mission are licensed as Creative Commons Zero (CC0).'",
+      "redistribution": "allowed",
+      "notes": "Earthdata Login needed for many downloads; non-NASA data follow sponsor licences.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "nasa-power",
+      "name": "NASA POWER (Prediction Of Worldwide Energy Resources)",
+      "type": "international_org",
+      "website": "https://power.larc.nasa.gov",
+      "terms_url": "https://power.larc.nasa.gov/docs/referencing/",
+      "license_summary": "Open NASA data; attribution requested",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "onispa",
+      "name": "Office National d'Inspection Sanitaire des Produits de la Pêche et de l'Aquaculture (ONISPA)",
+      "type": "national_government",
+      "website": "https://www.onispa.mr",
+      "terms_url": null,
+      "license_summary": "Footer: '©ONISPA. Tous droits réservés.'",
+      "redistribution": "link_only",
+      "notes": "Activity reports, action plan, EU audit documents.",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "onser",
+      "name": "Office National des Services d'Eau en Milieu Rural (ONSER)",
+      "type": "national_government",
+      "website": "https://onser.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Arabic site reachable; no statistics/data links found on the homepage.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "ont-tourisme",
+      "name": "Office National du Tourisme",
+      "type": "national_government",
+      "website": null,
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "No reachable site found (ont.mr / tourisme.gov.mr do not connect). No tourism dataset identified.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "opendataforafrica-mrt",
+      "name": "Mauritania Data Portal (Knoema / Open Data for Africa)",
+      "type": "other",
+      "website": "https://mauritania.opendataforafrica.org/",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Listed by ANSADE as 'Portail National des Statistiques'. Returned HTTP 403 Cloudflare 'Just a moment... Enable JavaScript and cookies' challenge - not bypassed. knoema.com/legal/TermsOfUse returned HTTP 530 (origin down). Terms could not be verified.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "ourairports",
+      "name": "OurAirports",
+      "type": "other",
+      "website": "https://ourairports.com/data/",
+      "terms_url": "https://ourairports.com/data/",
+      "license_summary": "Public domain",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "owid",
+      "name": "Our World in Data",
+      "type": "academic",
+      "website": "https://ourworldindata.org",
+      "terms_url": "https://ourworldindata.org/faqs",
+      "license_summary": "CC BY 4.0 for OWID-produced data; third-party data under original terms",
+      "datasets_in_catalogue": 2
+    },
+    {
+      "source_id": "pan-nouadhibou",
+      "name": "Port Autonome de Nouadhibou (PAN)",
+      "type": "national_government",
+      "website": "https://www.pan.mr/fr",
+      "terms_url": null,
+      "license_summary": "'© 2025 Port Autonome de Nouadhibou (PAN). Tous droits réservés.'",
+      "redistribution": "link_only",
+      "notes": "Note: pan.mr is Nouadhibou, not Nouakchott. No traffic statistics found on homepage.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "pank",
+      "name": "Port Autonome de Nouakchott (Port de l'Amitié)",
+      "type": "national_government",
+      "website": null,
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "portdenouakchott.mr (cited by a MarineLink listing) did not resolve/connect. No official site found.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "snim",
+      "name": "Société Nationale Industrielle et Minière (SNIM)",
+      "type": "other",
+      "website": "https://snim.com/en/pub-v",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "State mining company; annual reports, CSR reports, auditors' reports (2020-2024).",
+      "verified": true,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "somelec",
+      "name": "Société Mauritanienne d'Électricité (SOMELEC)",
+      "type": "other",
+      "website": "https://somelec.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "link_only",
+      "notes": "Site reachable; no statistics/data section found (news, tenders, tariffs, 'Documentations'). Legal notice at https://somelec.mr/node/3376 (not read). www.somelec.mr has certificate mismatch.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "transports",
+      "name": "Ministère des Transports",
+      "type": "national_government",
+      "website": "https://transports.gov.mr",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "unknown",
+      "notes": "Unreachable (HTTPS reset).",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "un-comtrade",
+      "name": "UN Comtrade",
+      "type": "international_org",
+      "website": "https://comtradeplus.un.org",
+      "terms_url": "https://comtrade.un.org/licenseagreement.html",
+      "license_summary": "Per search results (licence page is JS-rendered): copying, automated downloading, redistribution, publication or commercial use is restricted; re-dissemination of untransformed data requires a premium subscription; 'substantially transformed' data may be shared.",
+      "redistribution": "restricted",
+      "notes": "License page fetched but content not rendered without JS; terms summarised from search snippets.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "un-sdg",
+      "name": "UN SDG Global Database (UNSD)",
+      "type": "international_org",
+      "website": "https://unstats.un.org/sdgs/dataportal",
+      "terms_url": "https://www.un.org/en/about-us/terms-of-use",
+      "license_summary": "No database-specific licence found. UN.org terms: permission to download/copy 'for the User's personal, non-commercial use, without any right to resell or redistribute them or to compile or create derivative works'. UNdata (data.un.org) terms by contrast: 'may be copied freely, duplicated and further distributed provided that UNdata is cited'.",
+      "redistribution": "unknown",
+      "notes": "unstats.un.org/sdgs/dataportal is a JS app; no terms text retrievable. UNdata terms verified at https://data.un.org/Host.aspx?Content=UNdataUse. Individual SDG series come from custodian agencies with their own terms.",
+      "verified": false,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "un-wpp",
+      "name": "UN World Population Prospects (UN DESA Population Division)",
+      "type": "international_org",
+      "website": "https://population.un.org/wpp/",
+      "terms_url": null,
+      "license_summary": "CC BY 3.0 IGO",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "undata",
+      "name": "UNdata",
+      "type": "international_org",
+      "website": "https://data.un.org",
+      "terms_url": "https://data.un.org/Host.aspx?Content=UNdataUse",
+      "license_summary": "'All data and metadata provided on UNdata's website are available free of charge and may be copied freely, duplicated and further distributed provided that UNdata is cited as the reference.'",
+      "redistribution": "allowed",
+      "notes": "Included for comparison with SDG database terms.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "unicef-data",
+      "name": "UNICEF Data Warehouse (data.unicef.org)",
+      "type": "international_org",
+      "website": "https://data.unicef.org/dv_index/",
+      "terms_url": null,
+      "license_summary": "Per UNICEF Data for Action posts (search results, page not fetchable): indicators 'are now explicitly licensed under' Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO).",
+      "redistribution": "allowed",
+      "notes": "data.unicef.org returns 403 to curl and WebFetch; licence taken from search-result snippets of https://data.unicef.org/data-for-action/unicef-indicators-on-the-state-of-children-and-women-now-100-percent-open-data-compliant/ - verify manually.",
+      "verified": false,
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "unicef-mics",
+      "name": "UNICEF MICS microdata",
+      "type": "international_org",
+      "website": "https://mics.unicef.org",
+      "terms_url": null,
+      "license_summary": null,
+      "redistribution": "restricted",
+      "notes": "mics.unicef.org returns 403 to curl/WebFetch. Per IPUMS (search results) users must register on the UNICEF MICS website (free) and authorization is controlled by UNICEF. Exact redistribution wording not verified.",
+      "verified": false,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "wb-microdata",
+      "name": "World Bank Microdata Library",
+      "type": "international_org",
+      "website": "https://microdata.worldbank.org",
+      "terms_url": "https://microdata.worldbank.org/index.php/terms-of-use",
+      "license_summary": "Open Access category: 'You are free to copy, distribute, adapt, display or include the data in other products for commercial and noncommercial purposes at no cost'. Other categories (direct, public use, licensed, external, data enclave) have narrower conditions.",
+      "redistribution": "unknown",
+      "notes": "Access type varies per study. Catalog API: https://microdata.worldbank.org/index.php/api/catalog/search?country[]=MRT&ps=200 (82 entries). No Mauritania EPCV study is in the WB Microdata Library (searches 'EPCV', 'Mauritanie', 'Conditions de Vie Mauritanie' return none); EPCV microdata are only in ANSADE's ANADRIM catalogue (licensed).",
+      "verified": true,
+      "datasets_in_catalogue": 4
+    },
+    {
+      "source_id": "who-gho",
+      "name": "WHO Global Health Observatory",
+      "type": "international_org",
+      "website": "https://www.who.int/data/gho",
+      "terms_url": "https://data.who.int/about/data/terms-and-conditions",
+      "license_summary": "data.who.int: 'Unless specifically indicated otherwise, these Datasets are provided to you under a Creative Commons Attribution 4.0 International License (CC BY 4.0), with the additional terms below.' Older WHO page (https://www.who.int/about/policies/publishing/data-policy/terms-and-conditions) grants use 'for public health purposes' and forbids alteration/commercial promotion.",
+      "redistribution": "allowed",
+      "notes": "Two WHO terms pages coexist; the newer data.who.int CC BY 4.0 terms appear to govern WHO datasets. Some secondary catalogues still cite CC BY-NC-SA 3.0 IGO for GHO. Attribution: WHO + data-providing country.",
+      "verified": true,
+      "datasets_in_catalogue": 0
+    },
+    {
+      "source_id": "world-bank-data360",
+      "name": "World Bank Data360",
+      "type": "international_org",
+      "website": "https://data360.worldbank.org",
+      "terms_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+      "license_summary": "CC BY 4.0 for most World Bank series; licence stated per series in Data360 metadata",
+      "datasets_in_catalogue": 34
+    },
+    {
+      "source_id": "worldpop",
+      "name": "WorldPop (University of Southampton)",
+      "type": "academic",
+      "website": "https://www.worldpop.org",
+      "terms_url": null,
+      "license_summary": "CC BY 4.0 (WorldPop 2000–2020 releases)",
+      "datasets_in_catalogue": 1
+    },
+    {
+      "source_id": "zenodo",
+      "name": "Zenodo (CERN)",
+      "type": "academic",
+      "website": "https://zenodo.org",
+      "terms_url": null,
+      "license_summary": "Per-record licence (shown in record metadata).",
+      "redistribution": "allowed",
+      "notes": "Search API: https://zenodo.org/api/records?q=title:Mauritania&type=dataset (max 25 per page unauthenticated).",
+      "verified": true,
+      "datasets_in_catalogue": 9
+    }
+  ],
+  "publishers": [
+    {
+      "publisher": "AI for Good at Meta",
+      "datasets": 2
+    },
+    {
+      "publisher": "ANADRIM – ANSADE NADA microdata catalogue",
+      "datasets": 2
+    },
+    {
+      "publisher": "Acción Contra el hambre - GIS4tech",
+      "datasets": 1
+    },
+    {
+      "publisher": "Action Against Hunger ACF - Regional Office for West and Central Africa ROWCA",
+      "datasets": 1
+    },
+    {
+      "publisher": "African Development Bank Group (inactive)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Agence Nationale de la Statistique et de l'Analyse Démographique et Économique (ANSADE)",
+      "datasets": 40
+    },
+    {
+      "publisher": "Allington, Lucy; Cannone, Carla; Pappis, Ioannis; Cervantes Barron, Karla; Usher, Will; Pye, Steve; Howells, Mark; Taliotis, Constantinos; Sundin, Caroline; Sridharan, Vignesh; Ramos, Eunice; Brinkerink, Maarten; Deane, Paul; Gritsevskyi, Andrii; Moura, Gustavo; Rouget, Arnaud; Wogan, David; Barcelona, Edito; Rogner, Holger",
+      "datasets": 1
+    },
+    {
+      "publisher": "Armed Conflict Location & Event Data Project (ACLED)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Autorité de Régulation (ARE)",
+      "datasets": 2
+    },
+    {
+      "publisher": "Banque Centrale de Mauritanie (BCM)",
+      "datasets": 4
+    },
+    {
+      "publisher": "Central Emergency Response Fund",
+      "datasets": 1
+    },
+    {
+      "publisher": "Centre for Research on the Epidemiology of Disasters",
+      "datasets": 1
+    },
+    {
+      "publisher": "Climate TRACE",
+      "datasets": 1
+    },
+    {
+      "publisher": "Commission Électorale Nationale Indépendante (CENI)",
+      "datasets": 2
+    },
+    {
+      "publisher": "Copernicus",
+      "datasets": 1
+    },
+    {
+      "publisher": "Data for Children Collaborative",
+      "datasets": 1
+    },
+    {
+      "publisher": "Direction Générale du Budget (DGB)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Dryad depositors",
+      "datasets": 1
+    },
+    {
+      "publisher": "Encyclopedia of Life",
+      "datasets": 1
+    },
+    {
+      "publisher": "European Commission / ESA — Copernicus",
+      "datasets": 1
+    },
+    {
+      "publisher": "Extractive Industries Transparency Initiative (EITI) International Secretariat",
+      "datasets": 1
+    },
+    {
+      "publisher": "FEWS NET",
+      "datasets": 3
+    },
+    {
+      "publisher": "Famine Early Warning Systems Network (FEWS NET)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Food Security and Nutrition Working Group, West and Central Africa",
+      "datasets": 1
+    },
+    {
+      "publisher": "Food and Agriculture Organization of the United Nations (FAO)",
+      "datasets": 22
+    },
+    {
+      "publisher": "GLIDE Initiative",
+      "datasets": 1
+    },
+    {
+      "publisher": "GRID3",
+      "datasets": 1
+    },
+    {
+      "publisher": "Global Earthquake Model Foundation",
+      "datasets": 1
+    },
+    {
+      "publisher": "Green Climate Fund",
+      "datasets": 1
+    },
+    {
+      "publisher": "Gregoire Touron-Gardic",
+      "datasets": 1
+    },
+    {
+      "publisher": "HDX",
+      "datasets": 1
+    },
+    {
+      "publisher": "Harvard Dataverse",
+      "datasets": 1
+    },
+    {
+      "publisher": "HeiGIT (Heidelberg Institute for Geoinformation Technology)",
+      "datasets": 4
+    },
+    {
+      "publisher": "Humanitarian OpenStreetMap Team (HOT)",
+      "datasets": 12
+    },
+    {
+      "publisher": "Institut Mauritanien de Recherches Océanographiques et des Pêches (IMROP)",
+      "datasets": 2
+    },
+    {
+      "publisher": "Integrated Food Security Phase Classification (IPC)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Internal Displacement Monitoring Centre (IDMC)",
+      "datasets": 2
+    },
+    {
+      "publisher": "International Aid Transparency Initiative",
+      "datasets": 1
+    },
+    {
+      "publisher": "International Federation of Red Cross and Red Crescent Societies (IFRC)",
+      "datasets": 1
+    },
+    {
+      "publisher": "International Labour Organization (ILO) — ILOSTAT",
+      "datasets": 3
+    },
+    {
+      "publisher": "International Monetary Fund (IMF)",
+      "datasets": 2
+    },
+    {
+      "publisher": "International Organization for Migration (IOM)",
+      "datasets": 1
+    },
+    {
+      "publisher": "International Telecommunication Union (ITU)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Kontur",
+      "datasets": 2
+    },
+    {
+      "publisher": "Krisztian, Lina; Haas, Julia; Metz, Markus; Neteler, Markus",
+      "datasets": 1
+    },
+    {
+      "publisher": "Lemrabott, Sidi Yahya Cheikhna; van Leeuwen, Anieke; Leurs, Guido; El-Hacen, El-Hacen Mohamed; Piersma, Theunis; Sall, Amadou Abdarahmane; Sidina, Ebaye; Yarba, Lemhaba; Olff, Han",
+      "datasets": 1
+    },
+    {
+      "publisher": "Ministère des Finances (Mauritanie)",
+      "datasets": 6
+    },
+    {
+      "publisher": "Ministère des Pêches et de l'Économie Maritime",
+      "datasets": 1
+    },
+    {
+      "publisher": "NASA ESDIS",
+      "datasets": 1
+    },
+    {
+      "publisher": "NASA Langley Research Center — POWER Project",
+      "datasets": 1
+    },
+    {
+      "publisher": "OCHA Field Information Services Section (FISS)",
+      "datasets": 1
+    },
+    {
+      "publisher": "OCHA Financial Tracking System (FTS)",
+      "datasets": 1
+    },
+    {
+      "publisher": "OCHA West and Central Africa (ROWCA)",
+      "datasets": 9
+    },
+    {
+      "publisher": "Office National d'Inspection Sanitaire des Produits de la Pêche et de l'Aquaculture (ONISPA)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Olanrewaju, Abdus-Samad; Mabayoje, Modinat; Adebayo, Semirah; Shittu, Abdul Jaleel Kehinde",
+      "datasets": 1
+    },
+    {
+      "publisher": "Open Healthsite Consulting",
+      "datasets": 1
+    },
+    {
+      "publisher": "Our World in Data",
+      "datasets": 2
+    },
+    {
+      "publisher": "OurAirports",
+      "datasets": 1
+    },
+    {
+      "publisher": "Oxford Poverty & Human Development Initiative",
+      "datasets": 1
+    },
+    {
+      "publisher": "Oystein Hermansen",
+      "datasets": 1
+    },
+    {
+      "publisher": "Plazas-Niño, Fernando",
+      "datasets": 1
+    },
+    {
+      "publisher": "PortWatch",
+      "datasets": 1
+    },
+    {
+      "publisher": "Portail des statistiques officielles (ANSADE)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Société Nationale Industrielle et Minière (SNIM)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Tan, Naomi; Ambunda, Robert; Medimorec, Nikola; Cortez, Angel; Krapp, Agustina; Maxwell, Erin",
+      "datasets": 1
+    },
+    {
+      "publisher": "The DHS Program",
+      "datasets": 2
+    },
+    {
+      "publisher": "The UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)",
+      "datasets": 1
+    },
+    {
+      "publisher": "Transparency International",
+      "datasets": 1
+    },
+    {
+      "publisher": "UNDP Human Development Reports Office (HDRO)",
+      "datasets": 1
+    },
+    {
+      "publisher": "UNESCO",
+      "datasets": 1
+    },
+    {
+      "publisher": "UNFPA",
+      "datasets": 1
+    },
+    {
+      "publisher": "UNHCR - The UN Refugee Agency",
+      "datasets": 2
+    },
+    {
+      "publisher": "UNICEF",
+      "datasets": 1
+    },
+    {
+      "publisher": "United Nations Human Settlements Programmes, Data and Analytics Section",
+      "datasets": 1
+    },
+    {
+      "publisher": "United Nations Office for Disaster Risk Reduction (UNDRR)",
+      "datasets": 1
+    },
+    {
+      "publisher": "United Nations Statistics Division (UNSD)",
+      "datasets": 1
+    },
+    {
+      "publisher": "United Nations, Department of Economic and Social Affairs, Population Division",
+      "datasets": 1
+    },
+    {
+      "publisher": "Violence & Impacts Early-Warning System",
+      "datasets": 1
+    },
+    {
+      "publisher": "WFP - World Food Programme",
+      "datasets": 4
+    },
+    {
+      "publisher": "World Bank",
+      "datasets": 33
+    },
+    {
+      "publisher": "World Bank Group",
+      "datasets": 1
+    },
+    {
+      "publisher": "World Bank Microdata Library",
+      "datasets": 4
+    },
+    {
+      "publisher": "World Health Organization",
+      "datasets": 2
+    },
+    {
+      "publisher": "WorldPop",
+      "datasets": 3
+    },
+    {
+      "publisher": "WorldPop, University of Southampton",
+      "datasets": 1
+    },
+    {
+      "publisher": "Zenodo depositor (Ragnvald Larsen)",
+      "datasets": 1
+    },
+    {
+      "publisher": "geoBoundaries (William & Mary geoLab)",
+      "datasets": 1
+    }
+  ]
+}

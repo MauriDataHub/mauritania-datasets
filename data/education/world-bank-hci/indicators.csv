@@ -1,0 +1,10 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_HCI_ASR,ASR,Adult Survival Rate,Unitless,Annual,"Adult Survival Rate (%), ages 15-60",World Bank (WB); Human Capital Index,CC BY 4.0,9,2010,2020
+WB_HCI_EYRS,EYRS,Expected Years of School,Years,Annual,Expected Years of School,World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020
+WB_HCI_HCI,HCI,Human Capital Index (scale 0-1),Score 0-1,Annual,Human Capital Index (HCI) (scale 0-1),World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020
+WB_HCI_HCI_LOWER,HCI.LOWER,"Human Capital Index, Lower Bound (scale 0-1)",Score 0-1,Annual,"Human Capital Index, Lower Bound (scale 0-1)",World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020
+WB_HCI_HCI_UPPER,HCI.UPPER,"Human Capital Index, Upper Bound (scale 0-1)",Score 0-1,Annual,"Human Capital Index, Upper Bound (scale 0-1)",World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020
+WB_HCI_LAYS,LAYS,Learning-Adjusted Years of School,Years,Annual,Learning-Adjusted Years of School,World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020
+WB_HCI_NOSTU,NOSTU,Fraction of Children Under 5 Not Stunted,Unitless,Annual,Fraction of Children Under 5 Not Stunted (%),World Bank (WB); Human Capital Index,CC BY 4.0,9,2010,2020
+WB_HCI_PSURV,PSURV,Probability of Survival to Age 5,Unitless,Annual,Probability of Survival to Age 5 (%),World Bank (WB); Human Capital Index,CC BY 4.0,9,2010,2020
+WB_HCI_TEST,TEST,Harmonized Test Scores,Score,Annual,Average Harmonized Test Scores,World Bank (WB); Human Capital Index,CC BY 4.0,6,2018,2020

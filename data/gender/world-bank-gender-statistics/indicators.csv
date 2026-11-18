@@ -1,0 +1,210 @@
+indicator_id,indicator_code,indicator_name,unit,periodicity,definition,original_source,licence,observations,first_period,last_period
+WB_GS_FIN1_T_A,FIN1.T.A,Financial institution account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN11_1,FIN11.1,"Can use account at a bank or financial institution without help if opened (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11A,FIN11A,No account because financial institutions are too far away (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11A_S,FIN11A.S,"No account because financial institutions are too far away (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11B,FIN11B,No account because financial services are too expensive (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11B_S,FIN11B.S,"No account because financial services are too expensive (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11C,FIN11C,No account because of a lack of necessary documentation (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11C_S,FIN11C.S,"No account because of a lack of necessary documentation (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11D,FIN11D,No account because of a lack of trust in financial institutions (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11D_S,FIN11D.S,"No account because of a lack of trust in financial institutions (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11E,FIN11E,No account because of religious reasons (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11E_S,FIN11E.S,"No account because of religious reasons (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11F,FIN11F,No account because of insufficient funds (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11F_S,FIN11F.S,"No account because of insufficient funds (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11G,FIN11G,No account because someone in the family has one (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN11G_S,FIN11G.S,"No account because someone in the family has one (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1A,FIN13.1A,Reason for not having a mobile money account: mobile money agents are too far away (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1A_S,FIN13.1A.S,"Reason for not having a mobile money account: mobile money agents are too far away (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1B,FIN13.1B,Reason for not having a mobile money account: available mobile money products are too expensive (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1B_S,FIN13.1B.S,"Reason for not having a mobile money account: available mobile money products are too expensive (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1C,FIN13.1C,Reason for not having a mobile money account: don't have the necessary documentation (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1C_S,FIN13.1C.S,"Reason for not having a mobile money account: don't have the necessary documentation (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1D,FIN13.1D,Reason for not having a mobile money account: don't have enough money to use a mobile money account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1D_S,FIN13.1D.S,"Reason for not having a mobile money account: don't have enough money to use a mobile money account (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1E,FIN13.1E,Reason for not having a mobile money account: use an agent or someone else to make payments (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1E_S,FIN13.1E.S,"Reason for not having a mobile money account: use an agent or someone else to make payments (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1F,FIN13.1F,Reason for not having a mobile money account: do not have their own mobile phone (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13_1F_S,FIN13.1F.S,"Reason for not having a mobile money account: do not have their own mobile phone (% without an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13A,FIN13A,Use a mobile money account two or more times a month (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13A_S,FIN13A.S,"Use a mobile money account two or more times a month (% with a mobile money account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13D,FIN13D,"Can use a mobile money account without help from anyone, including a mobile money agent (% age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN13D_S,FIN13D.S,"Can use a mobile money account without help from anyone, including a mobile money agent (% with a mobile money account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,1,2022,2022
+WB_GS_FIN14_1_D,FIN14.1.D,Made a digital in-store merchant payment: using a mobile phone (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN14A_A,FIN14A.A,Used a mobile phone or the internet to pay bills in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2017,2022
+WB_GS_FIN14A1_D,FIN14A1.D,Used a mobile phone or the internet to send money (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN14B_A,FIN14B.A,Used a mobile phone or the internet to buy something online in the past year(% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2017,2022
+WB_GS_FIN15_T_A,FIN15.T.A,"Saved to start, operate, or expand a farm or business (% age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2014,2017
+WB_GS_FIN16_T_A,FIN16.T.A,Saved for old age (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN17A_17A1_D,FIN17A.17A1.D,Saved at a financial institution or using a mobile money account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN17A_T_A,FIN17A.T.A,Saved at a financial institution (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN17A1_D,FIN17A1.D,Saved money using a mobile money account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN17B_T_A,FIN17B.T.A,Saved using a savings club or a person outside the family (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN17C_14_A,FIN17C.14.A,Saved for education or school fees (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2014,2014
+WB_GS_FIN18_T_D,FIN18.T.D,Saved any money in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN2_T_A,FIN2.T.A,Debit card ownership (% age 15+),Percent,Annual,,World Bank (WB); Global Findex Database,CC BY 4.0,12,2011,2022
+WB_GS_FIN20B_T_A,FIN20B.T.A,Borrowed for health or medical purposes (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN21_T_A,FIN21.T.A,"Borrowed to start, operate, or expand a farm or business (% age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2014,2017
+WB_GS_FIN21B_T_14_A,FIN21B.T.14.A,Borrowed from a store by buying on credit (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2011,2014
+WB_GS_FIN22A_14_A,FIN22A.14.A,Borrowed for education or school fees (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2014,2014
+WB_GS_FIN22A_C_MM_D,FIN22A.C.MM.D,Borrowed any money from a formal financial institution or using a mobile money account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN22A_T_A,FIN22A.T.A,Borrowed from a financial institution (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN22B_T_A,FIN22B.T.A,Borrowed from family or friends (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN22C_A,FIN22C.A,Borrowed from a savings club (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2017,2022
+WB_GS_FIN23_T_D,FIN23.T.D,Borrowed any money in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN24A_T_A,FIN24A.T.A,Coming up with emergency funds in 30 days: possible (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,15,2022,2022
+WB_GS_FIN24B,FIN24B,Coming up with emergency funds in 7 days: possible (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,15,2022,2022
+WB_GS_FIN24B_T_A,FIN24B.T.A,Coming up with emergency funds in 30 days: not possible (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2022,2022
+WB_GS_FIN26_28_T_A,FIN26.28.T.A,Sent or received domestic remittances in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN26_T_A,FIN26.T.A,Received domestic remittances in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN28_T_A,FIN28.T.A,Sent domestic remittances in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN30_T_A,FIN30.T.A,Paid utility bills in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN33_14_A,FIN33.14.A,Paid school fees in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2014,2014
+WB_GS_FIN37_38_T_D,FIN37.38.T.D,Received government transfer or pension (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2017,2022
+WB_GS_FIN37_T_A,FIN37.T.A,Received government transfers in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN38_A,FIN38.A,Received a public sector pension in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,6,2017,2022
+WB_GS_FIN42_T_D,FIN42.T.D,"Received payments for the sale of agricultural products, livestock, or crops (% age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FIN44A,FIN44A,Worried about not having enough money for old age (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2022,2022
+WB_GS_FIN44B,FIN44B,Worried about not being able to pay for medical costs in case of a serious illness or accident (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,8,2022,2022
+WB_GS_FIN44C,FIN44C,Worried about not having enough money for monthly expenses or bills (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2022,2022
+WB_GS_FIN44D,FIN44D,Worried about not being able to pay school fees or fees for education (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2022,2022
+WB_GS_FIN45_1,FIN45.1,Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19 (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2022,2022
+WB_GS_FIN45_M,FIN45.M,Most worrying financial issue (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2022,2022
+WB_GS_FIN5_D_S,FIN5.D.S,"Used a mobile phone or the internet to access an account (% with an account, age 15+)",Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,3,2017,2017
+WB_GS_FIN7_T_A,FIN7.T.A,Credit card ownership (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,12,2011,2022
+WB_GS_FIN9N_10N_T_D,FIN9N.10N.T.D,Has an inactive account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_FING2P_T_D,FING2P.T.D,Received government payments in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_G20_T,G20.T,Made or received digital payments in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_G20_T_MADE,G20.T.MADE,Made digital payments in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_G20_T_RECEIVE,G20.T.RECEIVE,Received digital payments in the past year (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_HD_HCI_AMRT,HD.HCI.AMRT,Survival Rate from Age 15-60,Ratio,Annual,,"UN Population Division (UN DESA/PD); World Population Prospects: 2019 Revision, supplemented with data provided by World Bank Staff",CC BY 4.0,12,2010,2020
+WB_GS_HD_HCI_EYRS,HD.HCI.EYRS,Expected Years of School,Count,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,9,2017,2020
+WB_GS_HD_HCI_HLOS,HD.HCI.HLOS,Harmonized Test Scores,Count,Annual,,World Bank (WB),CC BY 4.0,9,2017,2020
+WB_GS_HD_HCI_LAYS,HD.HCI.LAYS,Learning-Adjusted Years of School,Count,Annual,,World Bank (WB); Calculation based on methodology in Filmer et al. (2018),CC BY 4.0,9,2017,2020
+WB_GS_HD_HCI_MORT,HD.HCI.MORT,Probability of Survival to Age 5,Ratio,Annual,,United Nations Inter-agency Group for Child Mortality Estimation (UN IGME); Supplemented with data provided by World Bank staff,CC BY 4.0,12,2010,2020
+WB_GS_HD_HCI_STNT,HD.HCI.STNT,Fraction of Children Under 5 Not Stunted,Ratio,Annual,,"UNICEF, WHO, World Bank; Joint Malnutrition Estimates (JME)",CC BY 4.0,10,2010,2020
+WB_GS_IC_REG_COST_PC_ZS,IC.REG.COST.PC.ZS,Cost of business start-up procedures (% of GNI per capita),Percent,Annual,,World Bank (WB); Doing Business project,CC BY 4.0,51,2003,2019
+WB_GS_IC_REG_DURS,IC.REG.DURS,Time required to start a business (days),Count,Annual,,World Bank (WB); Doing Business project,CC BY 4.0,51,2003,2019
+WB_GS_IC_REG_PROC,IC.REG.PROC,Start-up procedures to register a business (number),Count,Annual,,World Bank (WB); Doing Business project,CC BY 4.0,51,2003,2019
+WB_GS_IC_WEF_LLCO,IC.WEF.LLCO,Number of business owners,Count,Annual,,World Bank (WB); Entrepreneurship Survey and database,CC BY 4.0,8,2015,2018
+WB_GS_IC_WEF_LLCO_ZS,IC.WEF.LLCO.ZS,Share of business owners (% of total business owners),Percent,Annual,,World Bank (WB); Entrepreneurship Survey and database,CC BY 4.0,8,2015,2018
+WB_GS_IC_WEF_SOLO,IC.WEF.SOLO,Number of sole proprietors,Count,Annual,,World Bank (WB); Entrepreneurship Survey and database,CC BY 4.0,8,2015,2018
+WB_GS_IC_WEF_SOLO_ZS,IC.WEF.SOLO.ZS,Share of sole proprietors (% of sole proprietors),Percent,Annual,,World Bank (WB); Entrepreneurship Survey and database,CC BY 4.0,8,2015,2018
+WB_GS_MOBILEACCOUNT_T_D,MOBILEACCOUNT.T.D,Mobile money account (% age 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,9,2014,2022
+WB_GS_SE_ADT,SE.ADT,Literacy rate (%),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,25,2000,2021
+WB_GS_SE_CUAT_ZS,SE.CUAT.ZS,"Educational attainment by level of education, cumulative (% population 25+)",Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,42,1988,2015
+WB_GS_SE_ENR,SE.ENR,"School enrollment, gender parity index",Ratio,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,145,1971,2020
+WB_GS_SE_LPV_PRIM_BMP,SE.LPV.PRIM.BMP,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,Percent,Annual,,"UN Educational, Scientific and Cultural Organization (UNESCO); Data for the Sustainable Development Goals",CC BY 4.0,1,2004,2004
+WB_GS_SE_PRM_CMPL_ZS,SE.PRM.CMPL.ZS,"Primary completion rate, based on completers (%)",Percent,Annual,,World Bank (WB); Gender Statistics,CC BY 4.0,24,2002,2018
+WB_GS_SE_SCH_LIFE,SE.SCH.LIFE,Expected years of schooling,Count,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,92,1986,2020
+WB_GS_SE_SEC_ENRL_MA_VO_ZS,SE.SEC.ENRL.MA.VO.ZS,"Students in secondary education enrolled in vocational programmes, male (%)",Percent,Annual,,UNESCO Institute for Statistics,CC BY 4.0,27,1981,2018
+WB_GS_SE_SEC_ENRL_VO_ZS,SE.SEC.ENRL.VO.ZS,Vocational and technical enrolment (% of total secondary enrolment),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,58,1972,2020
+WB_GS_SE_TER_CMPL_ZS,SE.TER.CMPL.ZS,"Gross graduation ratio, tertiary (%)",Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,12,2015,2019
+WB_GS_SE_TER_GRAD_FE_ZS,SE.TER.GRAD.FE.ZS,"Share of graduates by field, female (%)",Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,23,2015,2017
+WB_GS_SE_XPD_GD_ZS,SE.XPD.GD.ZS,Government expenditure on education (% of GDP),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,37,1997,2022
+WB_GS_SG_ABS_PENB,SG.ABS.PENB,There are periods of absence due to child care accounted for in pension benefits (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_AGE_FUPN_EQ,SG.AGE.FUPN.EQ,The age at which men and women can retire with full pension benefits is the same (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_AGE_MRET_EQ,SG.AGE.MRET.EQ,The mandatory retirement age for men and women is the same (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_AGE_PAPN_EQ,SG.AGE.PAPN.EQ,The age at which men and women can retire with partial pension benefits is the same (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_AGE_RTRE,SG.AGE.RTRE,Mandatory retirement age,Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,2,2023,2023
+WB_GS_SG_AGE_RTRE_BEN,SG.AGE.RTRE.BEN,Retirement age by type of benefits,Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,2,2023,2023
+WB_GS_SG_APL_PSPT_EQ,SG.APL.PSPT.EQ,A woman can apply for a passport in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_BUS_REGT_EQ,SG.BUS.REGT.EQ,A woman can register a business in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_CNT_SIGN_EQ,SG.CNT.SIGN.EQ,A woman can sign a contract in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_COK_CHCO_ZS,SG.COK.CHCO.ZS,Main cooking fuel: charcoal (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_DUNG_ZS,SG.COK.DUNG.ZS,Main cooking fuel: dung (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_ELEC_ZS,SG.COK.ELEC.ZS,Main cooking fuel: electricity (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_HOUS_ZS,SG.COK.HOUS.ZS,Location of cooking: inside the house (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_LPGN_ZS,SG.COK.LPGN.ZS,Main cooking fuel: LPG/natural gas/biogas (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_OTHR_ZS,SG.COK.OTHR.ZS,Location of cooking: other places (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_OUTD_ZS,SG.COK.OUTD.ZS,Location of cooking: outdoors (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_SBLD_ZS,SG.COK.SBLD.ZS,Location of cooking: separate building (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_STRW_ZS,SG.COK.STRW.ZS,Main cooking fuel: straw/shrubs/grass (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_COK_WOOD_ZS,SG.COK.WOOD.ZS,Main cooking fuel: wood (% of households),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,1,2021,2021
+WB_GS_SG_CTR_TRVL_EQ,SG.CTR.TRVL.EQ,A woman can travel outside the country in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_DMK,SG.DMK,"Women participating in decisions related to health care, purchases, visiting family, and cooking (%)",Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,20,2021,2021
+WB_GS_SG_DML_PRGW,SG.DML.PRGW,Dismissal of pregnant workers is prohibited (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_DNG_WORK_DN_EQ,SG.DNG.WORK.DN.EQ,A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_GEN_MNST_ZS,SG.GEN.MNST.ZS,Proportion of women in ministerial level positions (%),Percent,Annual,,Inter-Parliamentary Union; Women in Politics,CC BY 4.0,11,2005,2022
+WB_GS_SG_GET_JOBS_EQ,SG.GET.JOBS.EQ,A woman can get a job in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_H2O_PRMS_HH_ZS,SG.H2O.PRMS.HH.ZS,Households with water on the premises (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,2,2001,2021
+WB_GS_SG_H2O_TL30_HH_ZS,SG.H2O.TL30.HH.ZS,Households with water less than 30 minutes away round trip (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,2,2001,2021
+WB_GS_SG_H2O_TM30_HH_ZS,SG.H2O.TM30.HH.ZS,Households with water 30 minutes or longer away round trip (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,2,2001,2021
+WB_GS_SG_HLD_HEAD_EQ,SG.HLD.HEAD.EQ,A woman can be head of household in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_HME_TRVL_EQ,SG.HME.TRVL.EQ,A woman can travel outside her home in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_IHT_ASST_EQ,SG.IHT.ASST.EQ,Female and male surviving spouses have equal rights to inherit assets (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_IHT_ASST_PT_EQ,SG.IHT.ASST.PT.EQ,Sons and daughters have equal rights to inherit assets from their parents (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_IND_WORK_EQ,SG.IND.WORK.EQ,A woman can work in an industrial job in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_ASST_AR,SG.LAW.ASST.AR,The law grants spouses equal administrative authority over assets during marriage (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_CRDD_GR,SG.LAW.CRDD.GR,The law prohibits discrimination in access to credit based on gender (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_EQRM_WK,SG.LAW.EQRM.WK,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX,SG.LAW.INDX,Women Business and the Law Index Score (scale 1-100),Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_AS,SG.LAW.INDX.AS,"Women, Business and the Law: Assets Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_EN,SG.LAW.INDX.EN,"Women, Business and the Law: Entrepreneurship Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_MO,SG.LAW.INDX.MO,"Women, Business and the Law: Mobility Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_MR,SG.LAW.INDX.MR,"Women, Business and the Law: Marriage Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_PE,SG.LAW.INDX.PE,"Women, Business and the Law: Pension Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_PR,SG.LAW.INDX.PR,"Women, Business and the Law: Parenthood Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_PY,SG.LAW.INDX.PY,"Women, Business and the Law: Pay Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_INDX_WP,SG.LAW.INDX.WP,"Women, Business and the Law: Workplace Indicator Score (scale 1-100)",Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_NMCN,SG.LAW.NMCN,The law provides for the valuation of nonmonetary contributions (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_NODC_HR,SG.LAW.NODC.HR,Law prohibits discrimination in employment based on gender (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LAW_OBHB_MR_NO,SG.LAW.OBHB.MR.NO,There is no legal provision that requires a married woman to obey her husband (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LEG_DVAW,SG.LEG.DVAW,There is legislation specifically addressing domestic violence (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LEG_SXHR_EM,SG.LEG.SXHR.EM,There is legislation on sexual harassment in employment (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_LOC_LIVE_EQ,SG.LOC.LIVE.EQ,A woman can choose where to live in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_NGT_WORK_EQ,SG.NGT.WORK.EQ,A woman can work at night in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_OBT_DVRC_EQ,SG.OBT.DVRC.EQ,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_OPN_BANK_EQ,SG.OPN.BANK.EQ,A woman can open a bank account in the same way as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_OWN_HS,SG.OWN.HS,Ownership of a house (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,48,2021,2021
+WB_GS_SG_OWN_LD,SG.OWN.LD,Ownership of land (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,48,2021,2021
+WB_GS_SG_OWN_PRRT_IM,SG.OWN.PRRT.IM,Men and married women have equal ownership rights to immovable property (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_PEN_SXHR_EM,SG.PEN.SXHR.EM,Criminal penalties or civil remedies exist for sexual harassment in employment (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_POP_MIGR_FE_ZS,SG.POP.MIGR.FE.ZS,"Migrants, female (% of international migrant stock)",Percent,Annual,,UN Population Division (UN DESA/PD); Trends in International Migrant Stock: 2020 Revision,CC BY 4.0,7,1990,2019
+WB_GS_SG_REG_NLID_ZS,SG.REG.NLID.ZS,People with a national identity card or equivalent foundational identity document (% ages 15+),Percent,Annual,,World Bank (WB); Global Findex ( Global Financial Inclusion database),CC BY 4.0,2,2017,2017
+WB_GS_SG_REM_RIGT_EQ,SG.REM.RIGT.EQ,A woman has the same rights to remarry as a man (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SG_RSX,SG.RSX,Women who believe a wife is justified refusing sex with her husband (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,6,2021,2021
+WB_GS_SG_SXL_SX15_ZS,SG.SXL.SX15.ZS,Proportion who initiated sexual intercourse by or before age 15,Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,4,2001,2001
+WB_GS_SG_VAW_ZS,SG.VAW.ZS,Women who believe a husband is justified in beating his wife (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,36,2021,2021
+WB_GS_SH_DTH_ZS,SH.DTH.ZS,Cause of death (%),Percent,Annual,,"World Health Organization (WHO); Global Health Estimates 2020: Deaths by Cause, Age, Sex, by Country and by Region, 2000p–2019",CC BY 4.0,180,2000,2019
+WB_GS_SH_FPL,SH.FPL,Demand for family planning satisfied (% of married women with demand for family planning),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,4,2001,2021
+WB_GS_SH_FPL_KN_ZS,SH.FPL.KN.ZS,Knowledge of contraception methods (%),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,8,2001,2001
+WB_GS_SH_FPL_ZS,SH.FPL.ZS,Fertility Planning Status (% of births),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,3,2001,2001
+WB_GS_SH_HIV_1524_ZS,SH.HIV.1524.ZS,Prevalence of HIV (% ages 15-24),Percent,Annual,,Joint United Nations Programme on HIV/AIDS (UNAIDS); UNAIDS Estimates,CC BY 4.0,64,1990,2021
+WB_GS_SH_HIV_KNOW,SH.HIV.KNOW,Comprehensive correct knowledge of HIV/AIDS (2 prevent ways and reject 3 misconceptions),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,9,2007,2015
+WB_GS_SH_LEVE,SH.LEVE,Length of paid leave (calendar days),Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,162,1970,2023
+WB_GS_SH_MMR_LEVE_AL,SH.MMR.LEVE.AL,Paid leave of at least 14 weeks available to mothers (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SH_MMR_LEVE_GT,SH.MMR.LEVE.GT,The government administers 100% of maternity leave benefits (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SH_PAR_LEVE,SH.PAR.LEVE,Length of parental leave (calendar days),Count,Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,108,1970,2023
+WB_GS_SH_PAR_LEVE_AL,SH.PAR.LEVE.AL,There is paid parental leave (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SH_PTR_LEVE_AL,SH.PTR.LEVE.AL,Paid leave is available to fathers (1=yes; 0=no),"Boolean, 1 or 0 value",Annual,,"World Bank (WB); Women, Business and the Law",CC BY 4.0,54,1970,2023
+WB_GS_SH_STA_FGMO_NO_ZS,SH.STA.FGMO.NO.ZS,Belief that female genital mutilation should not be continued (% who have heard about FGM),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,4,2001,2021
+WB_GS_SH_STA_FGMO_RE_ZS,SH.STA.FGMO.RE.ZS,Belief that religion requires female genital mutilation (% who have heard about FGM),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,4,2001,2021
+WB_GS_SH_STA_OB18_ZS,SH.STA.OB18.ZS,Prevalence of obesity (% of population ages 18+),Percent,Annual,,World Health Organization (WHO); Global Health Observatory Data Repository,CC BY 4.0,84,1975,2016
+WB_GS_SL_EMP_SP_ZS,SL.EMP.SP.ZS,Employment to population ratio (%),Percent,Annual,,International Labour Organization (ILO); Labour Force Statistics database (LFS),CC BY 4.0,219,1988,2023
+WB_GS_SL_EMP_UNDR_ZS,SL.EMP.UNDR.ZS,Time-related underemployment (% of employment),Percent,Annual,,International Labour Organization (ILO); Labour Force Statistics database (LFS),CC BY 4.0,2,2017,2017
+WB_GS_SL_EMPL_ZS,SL.EMPL.ZS,Employment by sector (%),Percent,Annual,,International Labour Organization (ILO); ILO Modelled Estimates Database,CC BY 4.0,288,1991,2022
+WB_GS_SL_ISV_IFRM_ZS,SL.ISV.IFRM.ZS,Informal employment (% of total non-agricultural employment),Percent,Annual,,World Bank (WB); Gender Statistics,CC BY 4.0,2,2017,2017
+WB_GS_SL_TLF_ZS,SL.TLF.ZS,Labor force by level of education (%),Percent,Annual,,International Labour Organization (ILO); ILOSTAT Database,CC BY 4.0,27,2012,2019
+WB_GS_SL_UEM_1524_FM_ZS,SL.UEM.1524.FM.ZS,Ratio of female to male youth unemployment rate (% ages 15-24),Percent,Annual,,World Bank (WB); World Development Indicators database,CC BY 4.0,36,1991,2023
+WB_GS_SL_UEM_ELV_ZS,SL.UEM.ELV.ZS,Unemployment by level of education (%),Percent,Annual,,World Bank (WB); Gender Statistics,CC BY 4.0,27,2012,2019
+WB_GS_SL_UEM_ZS,SL.UEM.ZS,Unemployment (%),Percent,Annual,,International Labour Organization (ILO); ILOSTAT,CC BY 4.0,220,1977,2023
+WB_GS_SP_2024_FE_ZS,SP.2024.FE.ZS,Women who were first married by age 15 or 18 (% of women ages 20-24),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,6,2001,2021
+WB_GS_SP_DYN_LE60_IN,SP.DYN.LE60.IN,Life expectancy at age 60 (years),Count,Annual,,UN Population Division (UN DESA/PD); World Population Prospects (2022 Revision),CC BY 4.0,124,1960,2021
+WB_GS_SP_DYN_ZS,SP.DYN.ZS,Contraceptive prevalence (% of women ages 15-49),Percent,Annual,,Demographic and Health Surveys (DHS) Program; Demographic and Health Surveys (DHS),CC BY 4.0,16,1981,2021
+WB_GS_SP_POP,SP.POP,Population (number),Count,Annual,,UN Population Division (UN DESA/PD); World Population Prospects (2019 Revision),CC BY 4.0,2898,1960,2022
+WB_GS_SP_POP_INT,SP.POP.INT,"Age population, interpolated",Count,Annual,,UN Population Division (UN DESA/PD); World Population Prospects (2024 Revision),CC BY 4.0,756,1960,2022
+WB_GS_SP_POP_ZS,SP.POP.ZS,Population (age group as % of total population),Percent,Annual,,UN Population Division (UN DESA/PD); World Urbanization Prospects: 2019 Revision,CC BY 4.0,189,1960,2022
+WB_GS_UIS_FEP_2_V,UIS.FEP.2.V,"Students in lower secondary vocational education, female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,4,2003,2006
+WB_GS_UIS_FEP_3_V,UIS.FEP.3.V,"Students in upper secondary vocational education, female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,16,1998,2018
+WB_GS_UIS_FEP_4_V,UIS.FEP.4.V,"Students in post-secondary non-tertiary vocational education,  female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,1,2001,2001
+WB_GS_UIS_FGP_5T8_F400,UIS.FGP.5T8.F400,"Share of graduates in Business, Administration and Law programmes, female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,2,2016,2017
+WB_GS_UIS_FGP_5T8_F600,UIS.FGP.5T8.F600,"Share of graduates in Information and Communication Technologies programmes, female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,2,2016,2017
+WB_GS_UIS_FGP_5T8_FNON500600700,UIS.FGP.5T8.FNON500600700,"Share of graduates in other fields than Science, Technology, Engineering and Mathematics programmes, female (%)",Percent,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,2,2016,2017
+WB_GS_UIS_GTVP_2_V,UIS.GTVP.2.V,Share of all students in lower secondary education enrolled in vocational programmes (%),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,43,2003,2019
+WB_GS_UIS_GTVP_3_V,UIS.GTVP.3.V,Share of all students in upper secondary education enrolled in vocational programmes (%),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,49,1998,2019
+WB_GS_UIS_GTVP_4_V,UIS.GTVP.4.V,Share of all students in post-secondary non-tertiary education enrolled in vocational programmes (%),Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,12,2001,2005
+WB_GS_UIS_LP_AG15T24,UIS.LP.AG15T24,"Youth illiterate population, 15-24 years (number)",Count,Annual,,UNESCO Institute for Statistics (UIS); UIS,CC BY 4.0,9,2000,2017
+WB_GS_UIS_LPP_AG15T24,UIS.LPP.AG15T24,"Youth illiterate population, 15-24 years, female (%)",Percent,Annual,,UNESCO Institute for Statistics; UIS,CC BY 4.0,3,2000,2017
+WB_GS_UIS_ROFST_3_CP,UIS.ROFST.3.CP,Rate of out-of-school youth of upper secondary school age (%),Percent,Annual,,UNESCO Institute for Statistics,CC BY 4.0,26,2001,2019

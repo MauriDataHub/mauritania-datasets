@@ -1,0 +1,26 @@
+indicator_id,indicator_code,indicator_name,unit,sex,age,urbanisation,freq,time_period,value,obs_status,unit_mult
+WB_WDI_AG_LND_EL5M_RU_K2,AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,RUR,A,1990,11214.102841,A,0
+WB_WDI_AG_LND_EL5M_RU_K2,AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,RUR,A,2000,11212.337364,A,0
+WB_WDI_AG_LND_EL5M_RU_K2,AG.LND.EL5M.RU.K2,Rural land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,RUR,A,2015,11205.910639,A,0
+WB_WDI_AG_LND_EL5M_RU_ZS,AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,RUR,A,1990,1.072175,A,0
+WB_WDI_AG_LND_EL5M_RU_ZS,AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,RUR,A,2000,1.072006,A,0
+WB_WDI_AG_LND_EL5M_RU_ZS,AG.LND.EL5M.RU.ZS,Rural land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,RUR,A,2015,1.071391,A,0
+WB_WDI_AG_LND_EL5M_UR_K2,AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,URB,A,1990,106.944849,A,0
+WB_WDI_AG_LND_EL5M_UR_K2,AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,URB,A,2000,108.710326,A,0
+WB_WDI_AG_LND_EL5M_UR_K2,AG.LND.EL5M.UR.K2,Urban land area where elevation is below 5 meters (sq. km),square kilometers,_T,_T,URB,A,2015,115.137051,A,0
+WB_WDI_AG_LND_EL5M_UR_ZS,AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,URB,A,1990,0.010225,A,0
+WB_WDI_AG_LND_EL5M_UR_ZS,AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,URB,A,2000,0.010394,A,0
+WB_WDI_AG_LND_EL5M_UR_ZS,AG.LND.EL5M.UR.ZS,Urban land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,URB,A,2015,0.011008,A,0
+WB_WDI_AG_LND_EL5M_ZS,AG.LND.EL5M.ZS,Land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,_T,A,1990,1.0824,A,0
+WB_WDI_AG_LND_EL5M_ZS,AG.LND.EL5M.ZS,Land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,_T,A,2000,1.0824,A,0
+WB_WDI_AG_LND_EL5M_ZS,AG.LND.EL5M.ZS,Land area where elevation is below 5 meters (% of total land area),% (share) of land area,_T,_T,_T,A,2015,1.0824,A,0
+WB_WDI_EN_CLC_MDAT_ZS,EN.CLC.MDAT.ZS,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)","% (share) of population, average 1990-2009",_T,_T,_T,A,2009,3.081974,A,0
+WB_WDI_EN_POP_EL5M_RU_ZS,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,RUR,A,1990,3.064326,A,0
+WB_WDI_EN_POP_EL5M_RU_ZS,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,RUR,A,2000,2.368855,A,0
+WB_WDI_EN_POP_EL5M_RU_ZS,EN.POP.EL5M.RU.ZS,Rural population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,RUR,A,2015,1.464978,A,0
+WB_WDI_EN_POP_EL5M_UR_ZS,EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,URB,A,1990,15.810213,A,0
+WB_WDI_EN_POP_EL5M_UR_ZS,EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,URB,A,2000,16.868846,A,0
+WB_WDI_EN_POP_EL5M_UR_ZS,EN.POP.EL5M.UR.ZS,Urban population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,URB,A,2015,19.539795,A,0
+WB_WDI_EN_POP_EL5M_ZS,EN.POP.EL5M.ZS,Population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,_T,A,1990,18.874539,A,0
+WB_WDI_EN_POP_EL5M_ZS,EN.POP.EL5M.ZS,Population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,_T,A,2000,19.237701,A,0
+WB_WDI_EN_POP_EL5M_ZS,EN.POP.EL5M.ZS,Population living in areas where elevation is below 5 meters (% of total population),% (share) of population,_T,_T,_T,A,2015,21.004773,A,0
